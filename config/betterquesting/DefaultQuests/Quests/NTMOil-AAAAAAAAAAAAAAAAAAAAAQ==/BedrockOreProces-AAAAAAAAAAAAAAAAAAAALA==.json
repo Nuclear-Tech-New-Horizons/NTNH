@@ -1,0 +1,84 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 82
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Bedrock Ore deposits are an infinite source of resourses which can be obtained by using a Large Mining Drill and a Bedrock Ore Processor.\n\nThe Large Mining Drill is used to excavate Raw Bedrock Ores from their deposits. The Drill requires a drillbit to work.\n\nThe Bedrock Ore Processor takes Raw Bedrock Ore obtained from the Large Mining Drill and breaks it down into smaller pieces, each with different products that can be obtained from them. Ore Slop, which is created when the machine is operating, can be processed into many useful products, especially when it is sent through an Electroylysis Machine.\n\nThe Bedrock Ore Desity Scanner shows information on the composition of Bedrock Ore deposits.\n\nBedrock Ore Processing can be both an energy and resourse expensive operation so it is recommended that it is explored after having good infrastructure.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "hbm:tile.machine_ore_slopper"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Bedrock Ore Processing",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 44,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "amazingtrophies:trophy",
+          "tag:10": {
+            "trophyID:8": "excavator"
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.machine_excavator"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.machine_ore_slopper"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.ore_density_scanner"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "Setting this to true will recreate this entire file on next start",
+  "reload": false,
+  "orePrefixes": [
+    "ingot",
+    "gem",
+    "dust",
+    "nugget",
+    "block",
+    "glass",
+    "ore",
+    "log"
+  ]
+}

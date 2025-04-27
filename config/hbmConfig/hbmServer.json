@@ -1,0 +1,10 @@
+{
+  "info": "This file can be edited ingame using the /ntmserver command.",
+  "DAMAGE_COMPATIBILITY_MODE": false,
+  "MINE_AP_DAMAGE": 10.0,
+  "MINE_HE_DAMAGE": 35.0,
+  "MINE_NAVAL_DAMAGE": 60.0,
+  "MINE_NUKE_DAMAGE": 100.0,
+  "MINE_SHRAP_DAMAGE": 7.5,
+  "TAINT_TRAILS": false
+}

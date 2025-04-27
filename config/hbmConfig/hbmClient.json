@@ -1,0 +1,21 @@
+{
+  "info": "This file can be edited ingame using the /ntmclient command.",
+  "DODD_RBMK_DIAGNOSTIC": true,
+  "GEIGER_OFFSET_HORIZONTAL": 0,
+  "GEIGER_OFFSET_VERTICAL": 0,
+  "GUN_ANIMATION_SPEED": 1.0,
+  "GUN_ANIMS_LEGACY": false,
+  "GUN_MODEL_FOV": false,
+  "GUN_VISUAL_RECOIL": true,
+  "INFO_OFFSET_HORIZONTAL": 0,
+  "INFO_OFFSET_VERTICAL": 0,
+  "INFO_POSITION": 0,
+  "ITEM_TOOLTIP_SHOW_CUSTOM_NUKE": true,
+  "ITEM_TOOLTIP_SHOW_OREDICT": true,
+  "MAIN_MENU_WACKY_SPLASHES": true,
+  "NEI_HIDE_SECRETS": true,
+  "NUKE_HUD_FLASH": true,
+  "NUKE_HUD_SHAKE": true,
+  "RENDER_CABLE_HANG": true,
+  "RENDER_REEDS": false
+}

@@ -1,0 +1,16 @@
+filename = 'archaicfix-0.7.5.jar'
+name = 'ArchaicFix'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd7ac0eb961d7cf3358b1d3a1a9661e21a0a0f6ed'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6353284
+project-id = 677782

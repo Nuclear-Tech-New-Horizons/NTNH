@@ -1,0 +1,11 @@
+{
+  "id": "rbmk",
+  "condition": {
+    "type": "achievement",
+    "id": "rbmk"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.rbmk_console"
+  }
+}

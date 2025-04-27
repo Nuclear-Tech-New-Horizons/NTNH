@@ -1,0 +1,16 @@
+filename = 'Waystones_Jawsawn_Fork-mc1.7.10-1.0.0.jar'
+name = 'Waystones Jawsawn Fork'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '40c430370164f6973962740c24797ebc8874ccd1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3043421
+project-id = 404877

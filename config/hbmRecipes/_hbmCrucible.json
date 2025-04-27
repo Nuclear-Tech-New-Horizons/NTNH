@@ -1,0 +1,250 @@
+{
+  "comment": "ID must be unique, but not sequential. Order in which the recipes are defined determines the order in which they are displayed in-game. Frequency is the amount of ticks between operations, must be at least 1. The names are unlocalized by default, but if they can't be found in the lang files the names will be displayed as-is. The icon is what's being displayed when holding shift on the template.",
+  "recipes": [
+    {
+      "id": 0,
+      "name": "crucible.steel",
+      "frequency": 2,
+      "icon": ["hbm:item.ingot_steel"],
+      "input": [
+        ["Iron",16],
+        ["Carbon",8]
+      ],
+      "output": [
+        ["Steel",16]
+      ]
+    },
+    {
+      "id": 7,
+      "name": "crucible.hematite",
+      "frequency": 6,
+      "icon": ["hbm:tile.stone_resource",1,2],
+      "input": [
+        ["Hematite",144],
+        ["Flux",16]
+      ],
+      "output": [
+        ["Iron",72],
+        ["Slag",24]
+      ]
+    },
+    {
+      "id": 8,
+      "name": "crucible.malachite",
+      "frequency": 6,
+      "icon": ["hbm:tile.stone_resource",1,3],
+      "input": [
+        ["Malachite",144],
+        ["Flux",16]
+      ],
+      "output": [
+        ["Copper",72],
+        ["Slag",24]
+      ]
+    },
+    {
+      "id": 1,
+      "name": "crucible.redcopper",
+      "frequency": 2,
+      "icon": ["hbm:item.ingot_red_copper"],
+      "input": [
+        ["Copper",8],
+        ["Redstone",8]
+      ],
+      "output": [
+        ["Mingrade",16]
+      ]
+    },
+    {
+      "id": 2,
+      "name": "crucible.aa",
+      "frequency": 2,
+      "icon": ["hbm:item.ingot_advanced_alloy"],
+      "input": [
+        ["Steel",8],
+        ["Mingrade",8]
+      ],
+      "output": [
+        ["AdvancedAlloy",16]
+      ]
+    },
+    {
+      "id": 3,
+      "name": "crucible.hss",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_dura_steel"],
+      "input": [
+        ["Steel",40],
+        ["Tungsten",24],
+        ["Cobalt",8]
+      ],
+      "output": [
+        ["DuraSteel",72]
+      ]
+    },
+    {
+      "id": 14,
+      "name": "crucible.hsss",
+      "frequency": 12,
+      "icon": ["hbm:item.ingot_dura_steel"],
+      "input": [
+        ["StainlessSteel",40],
+        ["Tungsten",24],
+        ["Cobalt",8]
+      ],
+      "output": [
+        ["DuraSteel",144]
+      ]
+    },
+    {
+      "id": 4,
+      "name": "crucible.ferro",
+      "frequency": 3,
+      "icon": ["hbm:item.ingot_ferrouranium"],
+      "input": [
+        ["Steel",16],
+        ["Uranium238",8]
+      ],
+      "output": [
+        ["Ferrouranium",24]
+      ]
+    },
+    {
+      "id": 5,
+      "name": "crucible.tcalloy",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_tcalloy"],
+      "input": [
+        ["Steel",64],
+        ["Technetium99",8]
+      ],
+      "output": [
+        ["TcAlloy",72]
+      ]
+    },
+    {
+      "id": 12,
+      "name": "crucible.conglomerate",
+      "frequency": 6,
+      "icon": ["hbm:tile.stone_resource",1,6],
+      "input": [
+        ["conglomerate",144],
+        ["Technetium99",0]
+      ],
+      "output": [
+        ["Iron",56],
+        ["Nickel",16]
+      ]
+    },
+    {
+      "id": 13,
+      "name": "crucible.cdalloy",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_cdalloy"],
+      "input": [
+        ["Steel",64],
+        ["Cadmium",8]
+      ],
+      "output": [
+        ["CdAlloy",72]
+      ]
+    },
+    {
+      "id": 16,
+      "name": "crucible.bbronze",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_bismuth_bronze"],
+      "input": [
+        ["Copper",64],
+        ["Bismuth",8],
+        ["Flux",24]
+      ],
+      "output": [
+        ["BismuthBronze",72],
+        ["Slag",24]
+      ]
+    },
+    {
+      "id": 15,
+      "name": "crucible.abronze",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_arsenic_bronze"],
+      "input": [
+        ["Copper",64],
+        ["Arsenic",8],
+        ["Flux",24]
+      ],
+      "output": [
+        ["ArsenicBronze",72],
+        ["Slag",24]
+      ]
+    },
+    {
+      "id": 17,
+      "name": "crucible.cmb",
+      "frequency": 3,
+      "icon": ["hbm:item.ingot_combine_steel"],
+      "input": [
+        ["MagnetizedTungsten",48],
+        ["WatzMud",24]
+      ],
+      "output": [
+        ["CMBSteel",72]
+      ]
+    },
+    {
+      "id": 18,
+      "name": "crucible.magtung",
+      "frequency": 3,
+      "icon": ["hbm:item.ingot_magnetized_tungsten"],
+      "input": [
+        ["Tungsten",72],
+        ["Schrabidium",8]
+      ],
+      "output": [
+        ["MagnetizedTungsten",72]
+      ]
+    },
+    {
+      "id": 19,
+      "name": "crucible.bscco",
+      "frequency": 3,
+      "icon": ["hbm:item.ingot_bscco"],
+      "input": [
+        ["Bismuth",16],
+        ["Strontium",16],
+        ["Calcium",16],
+        ["Copper",24]
+      ],
+      "output": [
+        ["BSCCO",72]
+      ]
+    },
+    {
+      "id": 20,
+      "name": "crucible.arse",
+      "frequency": 9,
+      "icon": ["hbm:item.ingot_gaas"],
+      "input": [
+        ["Gallium",48],
+        ["Arsenic",24]
+      ],
+      "output": [
+        ["GalliumArsenide",72]
+      ]
+    },
+    {
+      "id": 21,
+      "name": "crucible.stainless",
+      "frequency": 2,
+      "icon": ["hbm:item.ingot_stainless"],
+      "input": [
+        ["Steel",8],
+        ["Nickel",8]
+      ],
+      "output": [
+        ["StainlessSteel",16]
+      ]
+    }
+  ]
+}

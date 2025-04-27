@@ -1,0 +1,11 @@
+{
+  "id": "excavator",
+  "condition": {
+    "type": "achievement",
+    "id": "excavator"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_excavator"
+  }
+}

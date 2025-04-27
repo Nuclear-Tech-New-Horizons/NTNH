@@ -1,0 +1,69 @@
+{
+  "General": {
+    "enableHotbarSort": true,
+    "enableAutoRefill": false,
+    "refillDmgThreshold": 1,
+    "enableDropoff": true,
+    "dropoffRender": true,
+    "dropoffChatMessage": true,
+    "dropoffQuotaInMS": 1,
+    "dropoffPacketThrottleInMS": 500,
+    "dropoffTargetNames": "*Chest*, *Barrel*, *Drawer*, *Crate*",
+    "dropoffButtonShow": true,
+    "dropoffButtonX": 160,
+    "dropoffButtonY": 5,
+    "enableHotbarSwap": true,
+    "sortSound": "minecraft:gui.button.press",
+    "buttonColor": "#ffffffff"
+  },
+  "ItemSortRules": [
+    {
+      "name": "mod",
+      "inverted": false
+    },
+    {
+      "name": "material",
+      "inverted": false
+    },
+    {
+      "name": "ore_prefix",
+      "inverted": false
+    },
+    {
+      "name": "id",
+      "inverted": false
+    },
+    {
+      "name": "meta",
+      "inverted": false
+    },
+    {
+      "name": "nbt_has",
+      "inverted": false
+    },
+    {
+      "name": "nbt_rules",
+      "inverted": false
+    }
+  ],
+  "NbtSortRules": [
+    {
+      "name": "enchantment",
+      "inverted": false
+    },
+    {
+      "name": "enchantment_book",
+      "inverted": false
+    },
+    {
+      "name": "potion",
+      "inverted": false
+    }
+  ],
+  "UsageTicker": {
+    "enableModule": true,
+    "enableMainHand": true,
+    "enableOffHand": true,
+    "enableArmor": true
+  }
+}

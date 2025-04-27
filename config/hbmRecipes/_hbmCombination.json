@@ -1,0 +1,1313 @@
+{
+  "recipes": [
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,29],
+      "output": ["hbm:item.bedrock_ore",1,285],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3613],
+      "output": ["hbm:item.bedrock_ore",1,3869],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4637],
+      "output": ["hbm:item.bedrock_ore",1,4893],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5661],
+      "output": ["hbm:item.bedrock_ore",1,5917],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,805],
+      "output": ["hbm:item.bedrock_ore",1,1061],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,772],
+      "output": ["hbm:item.bedrock_ore",1,1028],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3596],
+      "output": ["hbm:item.bedrock_ore",1,3852],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,45],
+      "output": ["hbm:item.bedrock_ore",1,301],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,12],
+      "output": ["hbm:item.bedrock_ore",1,268],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3629],
+      "output": ["hbm:item.bedrock_ore",1,3885],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","minecraft:clay"],
+      "output": ["minecraft:brick_block"]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4653],
+      "output": ["hbm:item.bedrock_ore",1,4909],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5677],
+      "output": ["hbm:item.bedrock_ore",1,5933],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.oil_tar",1,2],
+      "output": ["hbm:item.coke"]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4620],
+      "output": ["hbm:item.bedrock_ore",1,4876],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5644],
+      "output": ["hbm:item.bedrock_ore",1,5900],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,788],
+      "output": ["hbm:item.bedrock_ore",1,1044],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3612],
+      "output": ["hbm:item.bedrock_ore",1,3868],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,28],
+      "output": ["hbm:item.bedrock_ore",1,284],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4636],
+      "output": ["hbm:item.bedrock_ore",1,4892],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5660],
+      "output": ["hbm:item.bedrock_ore",1,5916],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,804],
+      "output": ["hbm:item.bedrock_ore",1,1060],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,771],
+      "output": ["hbm:item.bedrock_ore",1,1027],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4619],
+      "output": ["hbm:item.bedrock_ore",1,4875],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5643],
+      "output": ["hbm:item.bedrock_ore",1,5899],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3628],
+      "output": ["hbm:item.bedrock_ore",1,3884],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,44],
+      "output": ["hbm:item.bedrock_ore",1,300],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.oil_tar",1,1],
+      "output": ["hbm:item.coke",1,2]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,11],
+      "output": ["hbm:item.bedrock_ore",1,267],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3595],
+      "output": ["hbm:item.bedrock_ore",1,3851],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4652],
+      "output": ["hbm:item.bedrock_ore",1,4908],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5676],
+      "output": ["hbm:item.bedrock_ore",1,5932],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,787],
+      "output": ["hbm:item.bedrock_ore",1,1043],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,791],
+      "output": ["hbm:item.bedrock_ore",1,1047],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4639],
+      "output": ["hbm:item.bedrock_ore",1,4895],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5663],
+      "output": ["hbm:item.bedrock_ore",1,5919],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","logWood"],
+      "output": ["minecraft:coal",1,1],
+      "fluid": ["WOODOIL",250]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,31],
+      "output": ["hbm:item.bedrock_ore",1,287],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3615],
+      "output": ["hbm:item.bedrock_ore",1,3871],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","gemSodalite"],
+      "output": ["hbm:item.powder_sodium"],
+      "fluid": ["CHLORINE",100]
+    },
+    {
+      "input": ["item","hbm:item.oil_tar"],
+      "output": ["hbm:item.coke",1,2]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,807],
+      "output": ["hbm:item.bedrock_ore",1,1063],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,774],
+      "output": ["hbm:item.bedrock_ore",1,1030],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4655],
+      "output": ["hbm:item.bedrock_ore",1,4911],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5679],
+      "output": ["hbm:item.bedrock_ore",1,5935],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4622],
+      "output": ["hbm:item.bedrock_ore",1,4878],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5646],
+      "output": ["hbm:item.bedrock_ore",1,5902],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3598],
+      "output": ["hbm:item.bedrock_ore",1,3854],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,47],
+      "output": ["hbm:item.bedrock_ore",1,303],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,14],
+      "output": ["hbm:item.bedrock_ore",1,270],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3631],
+      "output": ["hbm:item.bedrock_ore",1,3887],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,790],
+      "output": ["hbm:item.bedrock_ore",1,1046],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,773],
+      "output": ["hbm:item.bedrock_ore",1,1029],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4638],
+      "output": ["hbm:item.bedrock_ore",1,4894],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5662],
+      "output": ["hbm:item.bedrock_ore",1,5918],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3614],
+      "output": ["hbm:item.bedrock_ore",1,3870],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,30],
+      "output": ["hbm:item.bedrock_ore",1,286],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,13],
+      "output": ["hbm:item.bedrock_ore",1,269],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3597],
+      "output": ["hbm:item.bedrock_ore",1,3853],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4621],
+      "output": ["hbm:item.bedrock_ore",1,4877],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5645],
+      "output": ["hbm:item.bedrock_ore",1,5901],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","gemLignite"],
+      "output": ["hbm:item.coke",1,1],
+      "fluid": ["COALCREOSOTE",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,806],
+      "output": ["hbm:item.bedrock_ore",1,1062],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,789],
+      "output": ["hbm:item.bedrock_ore",1,1045],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4654],
+      "output": ["hbm:item.bedrock_ore",1,4910],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5678],
+      "output": ["hbm:item.bedrock_ore",1,5934],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3630],
+      "output": ["hbm:item.bedrock_ore",1,3886],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,46],
+      "output": ["hbm:item.bedrock_ore",1,302],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,25],
+      "output": ["hbm:item.bedrock_ore",1,281],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3609],
+      "output": ["hbm:item.bedrock_ore",1,3865],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4633],
+      "output": ["hbm:item.bedrock_ore",1,4889],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5657],
+      "output": ["hbm:item.bedrock_ore",1,5913],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustCoal"],
+      "output": ["hbm:item.coke"],
+      "fluid": ["COALCREOSOTE",100]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,801],
+      "output": ["hbm:item.bedrock_ore",1,1057],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,768],
+      "output": ["hbm:item.bedrock_ore",1,1024],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3592],
+      "output": ["hbm:item.bedrock_ore",1,3848],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,41],
+      "output": ["hbm:item.bedrock_ore",1,297],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,8],
+      "output": ["hbm:item.bedrock_ore",1,264],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3625],
+      "output": ["hbm:item.bedrock_ore",1,3881],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4649],
+      "output": ["hbm:item.bedrock_ore",1,4905],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5673],
+      "output": ["hbm:item.bedrock_ore",1,5929],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4616],
+      "output": ["hbm:item.bedrock_ore",1,4872],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5640],
+      "output": ["hbm:item.bedrock_ore",1,5896],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","gemCoal"],
+      "output": ["hbm:item.coke"],
+      "fluid": ["COALCREOSOTE",100]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,784],
+      "output": ["hbm:item.bedrock_ore",1,1040],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3608],
+      "output": ["hbm:item.bedrock_ore",1,3864],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,24],
+      "output": ["hbm:item.bedrock_ore",1,280],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustChlorocalcite"],
+      "output": ["hbm:item.powder_calcium"],
+      "fluid": ["CHLORINE",250]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4632],
+      "output": ["hbm:item.bedrock_ore",1,4888],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5656],
+      "output": ["hbm:item.bedrock_ore",1,5912],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,800],
+      "output": ["hbm:item.bedrock_ore",1,1056],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4615],
+      "output": ["hbm:item.bedrock_ore",1,4871],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5639],
+      "output": ["hbm:item.bedrock_ore",1,5895],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3624],
+      "output": ["hbm:item.bedrock_ore",1,3880],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,40],
+      "output": ["hbm:item.bedrock_ore",1,296],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,7],
+      "output": ["hbm:item.bedrock_ore",1,263],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3591],
+      "output": ["hbm:item.bedrock_ore",1,3847],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4648],
+      "output": ["hbm:item.bedrock_ore",1,4904],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5672],
+      "output": ["hbm:item.bedrock_ore",1,5928],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,783],
+      "output": ["hbm:item.bedrock_ore",1,1039],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4635],
+      "output": ["hbm:item.bedrock_ore",1,4891],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5659],
+      "output": ["hbm:item.bedrock_ore",1,5915],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,27],
+      "output": ["hbm:item.bedrock_ore",1,283],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3611],
+      "output": ["hbm:item.bedrock_ore",1,3867],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,803],
+      "output": ["hbm:item.bedrock_ore",1,1059],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,770],
+      "output": ["hbm:item.bedrock_ore",1,1026],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4651],
+      "output": ["hbm:item.bedrock_ore",1,4907],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5675],
+      "output": ["hbm:item.bedrock_ore",1,5931],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4618],
+      "output": ["hbm:item.bedrock_ore",1,4874],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5642],
+      "output": ["hbm:item.bedrock_ore",1,5898],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3594],
+      "output": ["hbm:item.bedrock_ore",1,3850],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,43],
+      "output": ["hbm:item.bedrock_ore",1,299],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,10],
+      "output": ["hbm:item.bedrock_ore",1,266],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3627],
+      "output": ["hbm:item.bedrock_ore",1,3883],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,786],
+      "output": ["hbm:item.bedrock_ore",1,1042],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4634],
+      "output": ["hbm:item.bedrock_ore",1,4890],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5658],
+      "output": ["hbm:item.bedrock_ore",1,5914],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3610],
+      "output": ["hbm:item.bedrock_ore",1,3866],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,26],
+      "output": ["hbm:item.bedrock_ore",1,282],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustLimestone"],
+      "output": ["hbm:item.powder_calcium"],
+      "fluid": ["CARBONDIOXIDE",50]
+    },
+    {
+      "input": ["dict","dustMolysite"],
+      "output": ["minecraft:iron_ingot"],
+      "fluid": ["CHLORINE",250]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,802],
+      "output": ["hbm:item.bedrock_ore",1,1058],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,769],
+      "output": ["hbm:item.bedrock_ore",1,1025],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","treeSapling"],
+      "output": ["hbm:item.powder_ash"],
+      "fluid": ["WOODOIL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4650],
+      "output": ["hbm:item.bedrock_ore",1,4906],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5674],
+      "output": ["hbm:item.bedrock_ore",1,5930],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3626],
+      "output": ["hbm:item.bedrock_ore",1,3882],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,42],
+      "output": ["hbm:item.bedrock_ore",1,298],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","crystalCinnabar"],
+      "output": ["hbm:item.sulfur"],
+      "fluid": ["MERCURY",100]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,9],
+      "output": ["hbm:item.bedrock_ore",1,265],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3593],
+      "output": ["hbm:item.bedrock_ore",1,3849],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustLignite"],
+      "output": ["hbm:item.coke",1,1],
+      "fluid": ["COALCREOSOTE",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4617],
+      "output": ["hbm:item.bedrock_ore",1,4873],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5641],
+      "output": ["hbm:item.bedrock_ore",1,5897],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,785],
+      "output": ["hbm:item.bedrock_ore",1,1041],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,797],
+      "output": ["hbm:item.bedrock_ore",1,1053],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3588],
+      "output": ["hbm:item.bedrock_ore",1,3844],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,37],
+      "output": ["hbm:item.bedrock_ore",1,293],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4],
+      "output": ["hbm:item.bedrock_ore",1,260],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3621],
+      "output": ["hbm:item.bedrock_ore",1,3877],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4645],
+      "output": ["hbm:item.bedrock_ore",1,4901],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5669],
+      "output": ["hbm:item.bedrock_ore",1,5925],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4612],
+      "output": ["hbm:item.bedrock_ore",1,4868],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5636],
+      "output": ["hbm:item.bedrock_ore",1,5892],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,813],
+      "output": ["hbm:item.bedrock_ore",1,1069],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,780],
+      "output": ["hbm:item.bedrock_ore",1,1036],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3604],
+      "output": ["hbm:item.bedrock_ore",1,3860],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,20],
+      "output": ["hbm:item.bedrock_ore",1,276],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4628],
+      "output": ["hbm:item.bedrock_ore",1,4884],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5652],
+      "output": ["hbm:item.bedrock_ore",1,5908],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,796],
+      "output": ["hbm:item.bedrock_ore",1,1052],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4611],
+      "output": ["hbm:item.bedrock_ore",1,4867],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5635],
+      "output": ["hbm:item.bedrock_ore",1,5891],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3620],
+      "output": ["hbm:item.bedrock_ore",1,3876],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,36],
+      "output": ["hbm:item.bedrock_ore",1,292],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3],
+      "output": ["hbm:item.bedrock_ore",1,259],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3587],
+      "output": ["hbm:item.bedrock_ore",1,3843],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4644],
+      "output": ["hbm:item.bedrock_ore",1,4900],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5668],
+      "output": ["hbm:item.bedrock_ore",1,5924],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.briquette",1,2],
+      "output": ["minecraft:coal",1,1],
+      "fluid": ["WOODOIL",500]
+    },
+    {
+      "input": ["item","minecraft:glowstone_dust"],
+      "output": ["hbm:item.sulfur"],
+      "fluid": ["CHLORINE",100]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,812],
+      "output": ["hbm:item.bedrock_ore",1,1068],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,779],
+      "output": ["hbm:item.bedrock_ore",1,1035],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4627],
+      "output": ["hbm:item.bedrock_ore",1,4883],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5651],
+      "output": ["hbm:item.bedrock_ore",1,5907],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.chunk_ore",1,2],
+      "output": ["hbm:item.powder_aluminium"],
+      "fluid": ["LYE",150]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,19],
+      "output": ["hbm:item.bedrock_ore",1,275],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3603],
+      "output": ["hbm:item.bedrock_ore",1,3859],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.briquette",1,1],
+      "output": ["hbm:item.coke",1,1],
+      "fluid": ["COALCREOSOTE",100]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4631],
+      "output": ["hbm:item.bedrock_ore",1,4887],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5655],
+      "output": ["hbm:item.bedrock_ore",1,5911],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,23],
+      "output": ["hbm:item.bedrock_ore",1,279],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3607],
+      "output": ["hbm:item.bedrock_ore",1,3863],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,799],
+      "output": ["hbm:item.bedrock_ore",1,1055],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4647],
+      "output": ["hbm:item.bedrock_ore",1,4903],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5671],
+      "output": ["hbm:item.bedrock_ore",1,5927],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4614],
+      "output": ["hbm:item.bedrock_ore",1,4870],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5638],
+      "output": ["hbm:item.bedrock_ore",1,5894],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3590],
+      "output": ["hbm:item.bedrock_ore",1,3846],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,39],
+      "output": ["hbm:item.bedrock_ore",1,295],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,6],
+      "output": ["hbm:item.bedrock_ore",1,262],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3623],
+      "output": ["hbm:item.bedrock_ore",1,3879],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,815],
+      "output": ["hbm:item.bedrock_ore",1,1071],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,782],
+      "output": ["hbm:item.bedrock_ore",1,1038],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.briquette"],
+      "output": ["hbm:item.coke"],
+      "fluid": ["COALCREOSOTE",150]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4630],
+      "output": ["hbm:item.bedrock_ore",1,4886],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5654],
+      "output": ["hbm:item.bedrock_ore",1,5910],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3606],
+      "output": ["hbm:item.bedrock_ore",1,3862],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,22],
+      "output": ["hbm:item.bedrock_ore",1,278],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5],
+      "output": ["hbm:item.bedrock_ore",1,261],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3589],
+      "output": ["hbm:item.bedrock_ore",1,3845],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4613],
+      "output": ["hbm:item.bedrock_ore",1,4869],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5637],
+      "output": ["hbm:item.bedrock_ore",1,5893],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,798],
+      "output": ["hbm:item.bedrock_ore",1,1054],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,781],
+      "output": ["hbm:item.bedrock_ore",1,1037],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4646],
+      "output": ["hbm:item.bedrock_ore",1,4902],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5670],
+      "output": ["hbm:item.bedrock_ore",1,5926],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3622],
+      "output": ["hbm:item.bedrock_ore",1,3878],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,38],
+      "output": ["hbm:item.bedrock_ore",1,294],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,21],
+      "output": ["hbm:item.bedrock_ore",1,277],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3605],
+      "output": ["hbm:item.bedrock_ore",1,3861],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4629],
+      "output": ["hbm:item.bedrock_ore",1,4885],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5653],
+      "output": ["hbm:item.bedrock_ore",1,5909],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,814],
+      "output": ["hbm:item.bedrock_ore",1,1070],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,793],
+      "output": ["hbm:item.bedrock_ore",1,1049],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3584],
+      "output": ["hbm:item.bedrock_ore",1,3840],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,33],
+      "output": ["hbm:item.bedrock_ore",1,289],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore"],
+      "output": ["hbm:item.bedrock_ore",1,256],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3617],
+      "output": ["hbm:item.bedrock_ore",1,3873],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4641],
+      "output": ["hbm:item.bedrock_ore",1,4897],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5665],
+      "output": ["hbm:item.bedrock_ore",1,5921],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4608],
+      "output": ["hbm:item.bedrock_ore",1,4864],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5632],
+      "output": ["hbm:item.bedrock_ore",1,5888],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,809],
+      "output": ["hbm:item.bedrock_ore",1,1065],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,776],
+      "output": ["hbm:item.bedrock_ore",1,1032],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3600],
+      "output": ["hbm:item.bedrock_ore",1,3856],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,16],
+      "output": ["hbm:item.bedrock_ore",1,272],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4624],
+      "output": ["hbm:item.bedrock_ore",1,4880],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5648],
+      "output": ["hbm:item.bedrock_ore",1,5904],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,792],
+      "output": ["hbm:item.bedrock_ore",1,1048],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3616],
+      "output": ["hbm:item.bedrock_ore",1,3872],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,32],
+      "output": ["hbm:item.bedrock_ore",1,288],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4640],
+      "output": ["hbm:item.bedrock_ore",1,4896],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5664],
+      "output": ["hbm:item.bedrock_ore",1,5920],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","minecraft:reeds"],
+      "output": ["minecraft:sugar",2],
+      "fluid": ["ETHANOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,808],
+      "output": ["hbm:item.bedrock_ore",1,1064],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,775],
+      "output": ["hbm:item.bedrock_ore",1,1031],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4623],
+      "output": ["hbm:item.bedrock_ore",1,4879],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5647],
+      "output": ["hbm:item.bedrock_ore",1,5903],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,15],
+      "output": ["hbm:item.bedrock_ore",1,271],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3599],
+      "output": ["hbm:item.bedrock_ore",1,3855],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,795],
+      "output": ["hbm:item.bedrock_ore",1,1051],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4643],
+      "output": ["hbm:item.bedrock_ore",1,4899],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5667],
+      "output": ["hbm:item.bedrock_ore",1,5923],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4610],
+      "output": ["hbm:item.bedrock_ore",1,4866],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5634],
+      "output": ["hbm:item.bedrock_ore",1,5890],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3586],
+      "output": ["hbm:item.bedrock_ore",1,3842],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,35],
+      "output": ["hbm:item.bedrock_ore",1,291],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,2],
+      "output": ["hbm:item.bedrock_ore",1,258],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3619],
+      "output": ["hbm:item.bedrock_ore",1,3875],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,811],
+      "output": ["hbm:item.bedrock_ore",1,1067],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,778],
+      "output": ["hbm:item.bedrock_ore",1,1034],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustSodium"],
+      "fluid": ["SODIUM",100]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4626],
+      "output": ["hbm:item.bedrock_ore",1,4882],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5650],
+      "output": ["hbm:item.bedrock_ore",1,5906],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3602],
+      "output": ["hbm:item.bedrock_ore",1,3858],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,18],
+      "output": ["hbm:item.bedrock_ore",1,274],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,794],
+      "output": ["hbm:item.bedrock_ore",1,1050],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4642],
+      "output": ["hbm:item.bedrock_ore",1,4898],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5666],
+      "output": ["hbm:item.bedrock_ore",1,5922],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3618],
+      "output": ["hbm:item.bedrock_ore",1,3874],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,34],
+      "output": ["hbm:item.bedrock_ore",1,290],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,1],
+      "output": ["hbm:item.bedrock_ore",1,257],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3585],
+      "output": ["hbm:item.bedrock_ore",1,3841],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4609],
+      "output": ["hbm:item.bedrock_ore",1,4865],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5633],
+      "output": ["hbm:item.bedrock_ore",1,5889],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.oil_tar",1,3],
+      "output": ["hbm:item.coke"]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,810],
+      "output": ["hbm:item.bedrock_ore",1,1066],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,777],
+      "output": ["hbm:item.bedrock_ore",1,1033],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,17],
+      "output": ["hbm:item.bedrock_ore",1,273],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,3601],
+      "output": ["hbm:item.bedrock_ore",1,3857],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,4625],
+      "output": ["hbm:item.bedrock_ore",1,4881],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:item.bedrock_ore",1,5649],
+      "output": ["hbm:item.bedrock_ore",1,5905],
+      "fluid": ["VITRIOL",50]
+    }
+  ]
+}

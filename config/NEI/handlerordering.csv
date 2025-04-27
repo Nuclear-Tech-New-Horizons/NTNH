@@ -1,0 +1,6 @@
+# Each line in this file should either be a comment (starts with '#') or an ordering.
+# Ordering lines are <handler ID>,<ordering number>.
+# Handlers will be sorted in order of number ascending, so smaller numbers first.
+# Any handlers that are missing from this file will be assigned to 0.
+# Negative numbers are fine.
+# If you delete this file, it will be regenerated with all registered handler IDs.

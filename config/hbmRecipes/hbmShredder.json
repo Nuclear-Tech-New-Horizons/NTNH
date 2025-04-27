@@ -1,0 +1,1897 @@
+{
+  "comment": "Ingot/block/ore -> dust recipes are generated in post and can therefore not be changed with the config. Non-auto recipes do not use ore dict.",
+  "recipes": [
+    {
+      "input": ["hbm:item.crystal_fluorite"],
+      "output": ["hbm:item.fluorite",8]
+    },
+    {
+      "input": ["minecraft:wheat"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,4]
+    },
+    {
+      "input": ["minecraft:ender_pearl"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,46]
+    },
+    {
+      "input": ["appliedenergistics2:tile.BlockSkyStone"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,45]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,1],
+      "output": ["hbm:item.scrap_plastic",1,9]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["minecraft:apple"],
+      "output": ["minecraft:sugar"]
+    },
+    {
+      "input": ["hbm:tile.steel_grate"],
+      "output": ["hbm:item.powder_steel_tiny",3]
+    },
+    {
+      "input": ["minecraft:log2",1,32767],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["minecraft:clay"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["minecraft:anvil"],
+      "output": ["hbm:item.powder_iron",31]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["hbm:item.crystal_phosphorus"],
+      "output": ["hbm:item.powder_fire",8]
+    },
+    {
+      "input": ["hbm:tile.meteor_polished"],
+      "output": ["hbm:item.powder_meteorite"]
+    },
+    {
+      "input": ["minecraft:dirt"],
+      "output": ["hbm:item.dust"]
+    },
+    {
+      "input": ["etfuturum:sapling",1,1],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:tile.sellafield"],
+      "output": ["hbm:item.scrap_nuclear"]
+    },
+    {
+      "input": ["hbm:item.crystal_nickel"],
+      "output": ["hbm:item.powder_nickel",3]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,2],
+      "output": ["hbm:item.scrap_plastic",1,3]
+    },
+    {
+      "input": ["hbm:tile.eve_rock"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rim_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.crystal_niter"],
+      "output": ["hbm:item.niter",8]
+    },
+    {
+      "input": ["hbm:tile.stone_cracked"],
+      "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["hbm:item.bean_roast"],
+      "output": ["hbm:item.powder_coffee"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:tile.sand_dirty"],
+      "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:item.coil_copper"],
+      "output": ["hbm:item.powder_red_copper"]
+    },
+    {
+      "input": ["hbm:item.dust"],
+      "output": ["hbm:item.dust"]
+    },
+    {
+      "input": ["hbm:item.crystal_schraranium"],
+      "output": ["hbm:item.nugget_schrabidium",3]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:item.scrap"],
+      "output": ["hbm:item.dust"]
+    },
+    {
+      "input": ["hbm:tile.reinforced_light"],
+      "output": ["minecraft:glowstone_dust",4]
+    },
+    {
+      "input": ["hbm:tile.brick_concrete_mossy"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:item.crystal_titanium"],
+      "output": ["hbm:item.powder_titanium",3]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,3],
+      "output": ["hbm:item.scrap_plastic",1,4]
+    },
+    {
+      "input": ["hbm:item.debris_element"],
+      "output": ["hbm:item.scrap_nuclear",4]
+    },
+    {
+      "input": ["minecraft:skull",1,3],
+      "output": ["hbm:item.biomass",4]
+    },
+    {
+      "input": ["hbm:tile.dres_rock"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:tile.ore_gas_empty"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:tile.block_schrabidate"],
+      "output": ["hbm:item.powder_schrabidate",9]
+    },
+    {
+      "input": ["etfuturum:log_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:quartz_block"],
+      "output": ["hbm:item.powder_quartz",4]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["etfuturum:log_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:tile.crate_tungsten"],
+      "output": ["hbm:item.powder_tungsten",36]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["minecraft:skull",1,4],
+      "output": ["hbm:item.biomass",4]
+    },
+    {
+      "input": ["hbm:item.crystal_trixite"],
+      "output": ["hbm:item.powder_plutonium",6]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,4],
+      "output": ["hbm:item.scrap_plastic",1,5]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["etfuturum:log_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["hbm:item.crystal_iron"],
+      "output": ["hbm:item.powder_iron",3]
+    },
+    {
+      "input": ["hbm:item.ore_separated"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:item.fragment_actinium"],
+      "output": ["hbm:item.powder_actinium_tiny"]
+    },
+    {
+      "input": ["minecraft:quartz_block",1,2],
+      "output": ["hbm:item.powder_quartz",4]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_quad"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:tile.minmus_smooth"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["etfuturum:log_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:quartz_stairs"],
+      "output": ["hbm:item.powder_quartz",3]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:item.debris_graphite"],
+      "output": ["hbm:item.powder_coal"]
+    },
+    {
+      "input": ["minecraft:quartz_block",1,1],
+      "output": ["hbm:item.powder_quartz",4]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:item.coil_advanced_torus"],
+      "output": ["hbm:item.powder_advanced_alloy",2]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:tile.moho_regolith"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:item.crystal_aluminium"],
+      "output": ["hbm:item.powder_aluminium",3]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,15],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_framed"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.crystal_redstone"],
+      "output": ["minecraft:redstone",8]
+    },
+    {
+      "input": ["hbm:item.fragment_niobium"],
+      "output": ["hbm:item.powder_niobium_tiny"]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_framed_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:tile.bobblehead"],
+      "output": ["hbm:item.scrap_plastic"]
+    },
+    {
+      "input": ["hbm:item.fragment_boron"],
+      "output": ["hbm:item.powder_boron_tiny"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,14],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.crystal_gold"],
+      "output": ["hbm:item.powder_gold",3]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["hbm:item.crystal_lead"],
+      "output": ["hbm:item.powder_lead",3]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["minecraft:quartz_ore"],
+      "output": ["hbm:item.powder_quartz",2]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_quad_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:tile.ore_tektite_osmiridium"],
+      "output": ["hbm:item.powder_tektite"]
+    },
+    {
+      "input": ["hbm:item.crystal_coal"],
+      "output": ["hbm:item.powder_coal",3]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,13],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["etfuturum:bark"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.moho_stone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,25],
+      "output": ["hbm:item.scrap_plastic",1,9]
+    },
+    {
+      "input": ["minecraft:glowstone"],
+      "output": ["minecraft:glowstone_dust",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["hbm:item.ingot_schrabidate"],
+      "output": ["hbm:item.powder_schrabidate"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,12],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rim_green_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["etfuturum:bark",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.laythe_coral_block"],
+      "output": ["hbm:item.powder_calcium",4]
+    },
+    {
+      "input": ["hbm:tile.crate_iron"],
+      "output": ["hbm:item.powder_iron",8]
+    },
+    {
+      "input": ["hbm:tile.sand_dirty_red"],
+      "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,26],
+      "output": ["hbm:item.scrap_plastic",1,22]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:item.ingot_schraranium"],
+      "output": ["hbm:item.nugget_schrabidium",2]
+    },
+    {
+      "input": ["hbm:tile.steel_scaffold",1,32767],
+      "output": ["hbm:item.powder_steel_tiny",7]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,11],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["etfuturum:bark2",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:bark",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.ore_glowstone",1,32767],
+      "output": ["minecraft:glowstone_dust",4]
+    },
+    {
+      "input": ["hbm:tile.brick_concrete_cracked"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.coil_tungsten"],
+      "output": ["hbm:item.powder_tungsten"]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,27],
+      "output": ["hbm:item.scrap_plastic"]
+    },
+    {
+      "input": ["hbm:item.fragment_meteorite"],
+      "output": ["hbm:item.powder_meteorite_tiny"]
+    },
+    {
+      "input": ["hbm:item.fragment_cobalt"],
+      "output": ["hbm:item.powder_cobalt_tiny"]
+    },
+    {
+      "input": ["minecraft:wool",1,15],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["hbm:tile.ore_fire"],
+      "output": ["hbm:item.powder_fire",6]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["etfuturum:cherry_log",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:tile.concrete"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,10],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["etfuturum:bark2"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:bark",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:brick_stairs"],
+      "output": ["minecraft:clay_ball",3]
+    },
+    {
+      "input": ["hbm:tile.duna_rock"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["etfuturum:wood2_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.dirt_dead"],
+      "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_framed_green_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["etfuturum:cherry_log",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.sellafield",1,5],
+      "output": ["hbm:item.scrap_nuclear",15]
+    },
+    {
+      "input": ["hbm:item.crystal_lapis"],
+      "output": ["hbm:item.powder_lapis",8]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,9],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:tile.meteor_brick_chiseled"],
+      "output": ["hbm:item.powder_meteorite"]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["etfuturum:bark2",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["hbm:tile.ore_fire",1,32767],
+      "output": ["hbm:item.powder_fire",6]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,21],
+      "output": ["hbm:item.scrap_plastic"]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:tile.sellafield",1,4],
+      "output": ["hbm:item.scrap_nuclear",7]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["etfuturum:cherry_log",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.brick_obsidian"],
+      "output": ["hbm:tile.gravel_obsidian"]
+    },
+    {
+      "input": ["etfuturum:wood2_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["minecraft:planks",1,32767],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["hbm:tile.steel_poles"],
+      "output": ["hbm:item.powder_steel_tiny",3]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,8],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["etfuturum:bark2",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,22],
+      "output": ["hbm:item.scrap_plastic"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_quad_green"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:tile.sellafield",1,3],
+      "output": ["hbm:item.scrap_nuclear",5]
+    },
+    {
+      "input": ["etfuturum:cherry_log"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["etfuturum:wood2_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_quad_red"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:tile.eve_silt"],
+      "output": ["hbm:item.dust",2]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,7],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_framed_marked"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.bedrock_ore",1,32767],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,23],
+      "output": ["hbm:item.scrap_plastic"]
+    },
+    {
+      "input": ["hbm:tile.block_slag"],
+      "output": ["hbm:item.powder_cement",4]
+    },
+    {
+      "input": ["hbm:tile.sellafield",1,2],
+      "output": ["hbm:item.scrap_nuclear",3]
+    },
+    {
+      "input": ["hbm:tile.ore_rare",1,32767],
+      "output": ["hbm:item.powder_desh_mix"]
+    },
+    {
+      "input": ["etfuturum:wood2_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:carrot"],
+      "output": ["minecraft:sugar"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["hbm:item.crystal_tungsten"],
+      "output": ["hbm:item.powder_tungsten",3]
+    },
+    {
+      "input": ["minecraft:sand"],
+      "output": ["hbm:item.dust",2]
+    },
+    {
+      "input": ["hbm:item.crystal_starmetal"],
+      "output": ["hbm:item.powder_dura_steel",6]
+    },
+    {
+      "input": ["hbm:item.powder_lapis"],
+      "output": ["hbm:item.powder_cobalt_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["minecraft:sandstone_stairs"],
+      "output": ["minecraft:sand",6]
+    },
+    {
+      "input": ["hbm:tile.ore_oil_empty"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["minecraft:stone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,6],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.debris_metal"],
+      "output": ["hbm:item.powder_steel_tiny",3]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,5],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["minecraft:sand",1,32767],
+      "output": ["hbm:item.dust",2]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,24],
+      "output": ["hbm:item.scrap_plastic",1,11]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["hbm:tile.sellafield",1,1],
+      "output": ["hbm:item.scrap_nuclear",2]
+    },
+    {
+      "input": ["minecraft:cobblestone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rim"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:item.coil_gold_torus"],
+      "output": ["hbm:item.powder_gold",2]
+    },
+    {
+      "input": ["hbm:item.dust_tiny"],
+      "output": ["hbm:item.dust_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["minecraft:stone_slab",1,7],
+      "output": ["hbm:item.powder_quartz",2]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,17],
+      "output": ["hbm:item.scrap_plastic",1,20]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,4],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:fermented_spider_eye"],
+      "output": ["hbm:item.powder_poison",3]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["minecraft:wool",1,9],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["minecraft:flower_pot"],
+      "output": ["minecraft:clay_ball",3]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["etfuturum:log2_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_quad_green_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.crystal_schrabidium"],
+      "output": ["hbm:item.powder_schrabidium",3]
+    },
+    {
+      "input": ["hbm:item.fragment_neodymium"],
+      "output": ["hbm:item.powder_neodymium_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["etfuturum:log2_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,3],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:tile.brick_light"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,18],
+      "output": ["hbm:item.scrap_plastic",1,1]
+    },
+    {
+      "input": ["hbm:tile.laythe_silt"],
+      "output": ["hbm:item.dust",2]
+    },
+    {
+      "input": ["minecraft:wool",1,10],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:tile.sellafield_slaked"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["etfuturum:blackstone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rim_red"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_seared"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["etfuturum:wood_stripped",1,1],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.minmus_stone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["minecraft:enchanted_book"],
+      "output": ["hbm:item.powder_magic"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_green_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.coil_advanced_alloy"],
+      "output": ["hbm:item.powder_advanced_alloy"]
+    },
+    {
+      "input": ["hbm:tile.duna_sands"],
+      "output": ["hbm:item.dust",2]
+    },
+    {
+      "input": ["hbm:tile.stone_resource",1,4],
+      "output": ["hbm:item.powder_limestone",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["etfuturum:log2_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,19],
+      "output": ["hbm:item.scrap_plastic",1,12]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,2],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:wool",1,7],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["hbm:tile.steel_wall"],
+      "output": ["hbm:item.powder_steel_tiny",13]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:item.crystal_cobalt"],
+      "output": ["hbm:item.powder_cobalt",3]
+    },
+    {
+      "input": ["etfuturum:wood_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["minecraft:log",1,32767],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,1],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:wool",1,8],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,20],
+      "output": ["hbm:item.scrap_plastic"]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:item.debris_shrapnel"],
+      "output": ["hbm:item.powder_steel_tiny",5]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:item.fragment_lanthanium"],
+      "output": ["hbm:item.powder_lanthanium_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["etfuturum:wood_stripped",1,3],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.coil_copper_torus"],
+      "output": ["hbm:item.powder_red_copper",2]
+    },
+    {
+      "input": ["minecraft:stonebrick"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,13],
+      "output": ["hbm:item.scrap_plastic",1,17]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.crystal_sulfur"],
+      "output": ["hbm:item.sulfur",8]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:tile.minmus_regolith"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["minecraft:wool",1,13],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:tile.dungeon_chain"],
+      "output": ["hbm:item.powder_steel_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["etfuturum:wood_stripped",1,2],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.crystal_rare"],
+      "output": ["hbm:item.powder_desh_mix",2]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,14],
+      "output": ["hbm:item.scrap_plastic",1,18]
+    },
+    {
+      "input": ["minecraft:wool",1,14],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:tile.moon_turf"],
+      "output": ["hbm:item.dust",2]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_red"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,15],
+      "output": ["hbm:item.ore_enriched",1,15]
+    },
+    {
+      "input": ["hbm:tile.stone_gneiss"],
+      "output": ["hbm:item.powder_lithium_tiny"]
+    },
+    {
+      "input": ["minecraft:packed_ice"],
+      "output": ["hbm:item.powder_ice"]
+    },
+    {
+      "input": ["hbm:tile.ike_regolith"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,2],
+      "output": ["hbm:item.ore_enriched",1,2]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,15],
+      "output": ["hbm:item.scrap_plastic",1,19]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_framed_red"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rusted"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["minecraft:wool",1,11],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:tile.brick_concrete"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,14],
+      "output": ["hbm:item.ore_enriched",1,14]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rim_marked"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.coil_magnetized_tungsten"],
+      "output": ["hbm:item.powder_magnetized_tungsten"]
+    },
+    {
+      "input": ["hbm:tile.ike_stone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,3],
+      "output": ["hbm:item.ore_enriched",1,3]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:tile.stone_resource",1,7],
+      "output": ["hbm:item.powder_calcium",6]
+    },
+    {
+      "input": ["hbm:tile.machine_fluidtank"],
+      "output": ["hbm:item.powder_steel",16]
+    },
+    {
+      "input": ["hbm:item.ore_bedrock",1,1],
+      "output": ["hbm:item.ore_enriched",1,1]
+    },
+    {
+      "input": ["hbm:item.ore_purified",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,16],
+      "output": ["hbm:item.scrap_plastic",1,16]
+    },
+    {
+      "input": ["hbm:item.debris_exchanger"],
+      "output": ["hbm:item.powder_steel",3]
+    },
+    {
+      "input": ["hbm:item.ore_nitrated",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["minecraft:wool",1,12],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:item.chunk_ore"],
+      "output": ["hbm:item.powder_desh_mix"]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,13],
+      "output": ["hbm:item.ore_enriched",1,13]
+    },
+    {
+      "input": ["hbm:item.ore_cleaned",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_quad_marked"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,9],
+      "output": ["hbm:item.scrap_plastic",1,11]
+    },
+    {
+      "input": ["hbm:item.crystal_diamond"],
+      "output": ["hbm:item.powder_diamond",3]
+    },
+    {
+      "input": ["hbm:item.crystal_uranium"],
+      "output": ["hbm:item.powder_uranium",3]
+    },
+    {
+      "input": ["minecraft:wool"],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:tile.pink_planks"],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["hbm:item.coil_gold"],
+      "output": ["hbm:item.powder_gold"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["hbm:item.crystal_thorium"],
+      "output": ["hbm:item.powder_thorium",3]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:item.crystal_cleaned"],
+      "output": ["hbm:item.mineral_dust",4]
+    },
+    {
+      "input": ["hbm:tile.stone_porous"],
+      "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,10],
+      "output": ["hbm:item.scrap_plastic",1,10]
+    },
+    {
+      "input": ["minecraft:wool",1,1],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:tile.brick_concrete_broken"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["hbm:item.crystal_niobium"],
+      "output": ["hbm:item.powder_niobium",3]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["minecraft:diamond_ore"],
+      "output": ["hbm:tile.gravel_diamond",2]
+    },
+    {
+      "input": ["hbm:tile.dirt_oily"],
+      "output": ["hbm:item.scrap_oil"]
+    },
+    {
+      "input": ["minecraft:brick_block"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,11],
+      "output": ["hbm:item.scrap_plastic",1,14]
+    },
+    {
+      "input": ["hbm:item.crystal_lithium"],
+      "output": ["hbm:item.powder_lithium",3]
+    },
+    {
+      "input": ["hbm:item.crystal_copper"],
+      "output": ["hbm:item.powder_copper",3]
+    },
+    {
+      "input": ["hbm:tile.meteor_pillar"],
+      "output": ["hbm:item.powder_meteorite"]
+    },
+    {
+      "input": ["hbm:tile.steel_corner"],
+      "output": ["hbm:item.powder_steel_tiny",26]
+    },
+    {
+      "input": ["hbm:tile.crate_steel"],
+      "output": ["hbm:item.powder_steel",8]
+    },
+    {
+      "input": ["hbm:tile.meteor_brick_cracked"],
+      "output": ["hbm:item.powder_meteorite"]
+    },
+    {
+      "input": ["hbm:item.ore_centrifuged",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["minecraft:hardened_clay"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:tile.concrete_smooth"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["minecraft:poisonous_potato"],
+      "output": ["hbm:item.powder_poison"]
+    },
+    {
+      "input": ["minecraft:gravel"],
+      "output": ["minecraft:sand"]
+    },
+    {
+      "input": ["hbm:tile.ore_aluminium"],
+      "output": ["hbm:item.chunk_ore",2,2]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,12],
+      "output": ["hbm:item.scrap_plastic",1,13]
+    },
+    {
+      "input": ["minecraft:tnt"],
+      "output": ["minecraft:gunpowder",5]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["minecraft:skull",1,1],
+      "output": ["hbm:item.biomass",4]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,5],
+      "output": ["hbm:item.scrap_plastic",1,6]
+    },
+    {
+      "input": ["minecraft:obsidian"],
+      "output": ["hbm:tile.gravel_obsidian"]
+    },
+    {
+      "input": ["hbm:tile.block_meteor"],
+      "output": ["hbm:item.powder_meteorite",10]
+    },
+    {
+      "input": ["minecraft:sandstone"],
+      "output": ["minecraft:sand",4]
+    },
+    {
+      "input": ["minecraft:wool",1,5],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:tile.steel_beam"],
+      "output": ["hbm:item.powder_steel_tiny",3]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,16],
+      "output": ["hbm:item.ore_enriched",1,16]
+    },
+    {
+      "input": ["hbm:item.pipes_steel"],
+      "output": ["hbm:item.powder_steel",27]
+    },
+    {
+      "input": ["minecraft:quartz"],
+      "output": ["hbm:item.powder_quartz"]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,8],
+      "output": ["hbm:item.ore_enriched",1,8]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,4],
+      "output": ["hbm:item.ore_enriched",1,4]
+    },
+    {
+      "input": ["hbm:item.fragment_cerium"],
+      "output": ["hbm:item.powder_cerium_tiny"]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,10],
+      "output": ["hbm:item.ore_enriched",1,10]
+    },
+    {
+      "input": ["hbm:tile.ore_sellafield_diamond"],
+      "output": ["hbm:tile.gravel_diamond",2]
+    },
+    {
+      "input": ["minecraft:skull",1,2],
+      "output": ["hbm:item.biomass",4]
+    },
+    {
+      "input": ["hbm:tile.ore_mineral",1,32767],
+      "output": ["hbm:item.mineral_dust"]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,6],
+      "output": ["hbm:item.scrap_plastic",1,7]
+    },
+    {
+      "input": ["hbm:tile.steel_roof"],
+      "output": ["hbm:item.powder_steel_tiny",13]
+    },
+    {
+      "input": ["hbm:item.ore_purified"],
+      "output": ["hbm:item.ore_enriched"]
+    },
+    {
+      "input": ["hbm:tile.pink_log"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_green"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:tile.meteor_brick_mossy"],
+      "output": ["hbm:item.powder_meteorite"]
+    },
+    {
+      "input": ["minecraft:reeds"],
+      "output": ["minecraft:sugar",3]
+    },
+    {
+      "input": ["minecraft:wool",1,6],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,17],
+      "output": ["hbm:item.ore_enriched",1,17]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,9],
+      "output": ["hbm:item.ore_enriched",1,9]
+    },
+    {
+      "input": ["hbm:tile.machine_well"],
+      "output": ["hbm:item.powder_steel",32]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_framed_green"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:item.debris_concrete"],
+      "output": ["hbm:item.scrap_nuclear",2]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,7],
+      "output": ["hbm:item.scrap_plastic",1,8]
+    },
+    {
+      "input": ["hbm:tile.ore_quartz"],
+      "output": ["hbm:item.powder_quartz",2]
+    },
+    {
+      "input": ["minecraft:wool",1,2],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,12],
+      "output": ["hbm:item.ore_enriched",1,12]
+    },
+    {
+      "input": ["minecraft:wool",1,3],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.ore_nitrocrystalline",1,18],
+      "output": ["hbm:item.ore_enriched",1,18]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["etfuturum:wood_planks",1,3],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_rim_green"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["minecraft:sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,6],
+      "output": ["hbm:item.ore_enriched",1,6]
+    },
+    {
+      "input": ["hbm:item.crystal_plutonium"],
+      "output": ["hbm:item.powder_plutonium",3]
+    },
+    {
+      "input": ["minecraft:brick"],
+      "output": ["minecraft:clay_ball"]
+    },
+    {
+      "input": ["hbm:item.coal_infernal"],
+      "output": ["hbm:item.powder_coal",2]
+    },
+    {
+      "input": ["hbm:tile.deco_pipe_marked"],
+      "output": ["hbm:item.powder_steel"]
+    },
+    {
+      "input": ["hbm:tile.bobblehead",1,8],
+      "output": ["hbm:item.scrap_plastic",1,15]
+    },
+    {
+      "input": ["hbm:tile.moon_rock"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["hbm:tile.meteor_brick"],
+      "output": ["hbm:item.powder_meteorite"]
+    },
+    {
+      "input": ["hbm:tile.boxcar"],
+      "output": ["hbm:item.powder_steel",32]
+    },
+    {
+      "input": ["minecraft:wool",1,4],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:item.can_empty"],
+      "output": ["hbm:item.powder_aluminium",2]
+    },
+    {
+      "input": ["hbm:item.ore_separated",1,5],
+      "output": ["hbm:item.ore_enriched",1,5]
+    },
+    {
+      "input": ["hbm:item.crystal_beryllium"],
+      "output": ["hbm:item.powder_beryllium",3]
+    },
+    {
+      "input": ["etfuturum:wood_planks",1,4],
+      "output": ["hbm:item.powder_sawdust"]
+    },
+    {
+      "input": ["hbm:item.ore_deepcleaned",1,7],
+      "output": ["hbm:item.ore_enriched",1,7]
+    },
+    {
+      "input": ["etfuturum:log2_stripped"],
+      "output": ["hbm:item.powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:item.ore_seared",1,11],
+      "output": ["hbm:item.ore_enriched",1,11]
+    },
+    {
+      "input": ["minecraft:skull"],
+      "output": ["hbm:item.biomass",4]
+    }
+  ]
+}

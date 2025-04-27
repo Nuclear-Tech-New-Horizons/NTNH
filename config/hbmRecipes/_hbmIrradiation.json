@@ -1,0 +1,108 @@
+{
+  "recipes": [
+    {
+      "input": ["item","minecraft:red_mushroom"],
+      "solidOutput": ["hbm:tile.mush"]
+    },
+    {
+      "input": ["dict","ingotCobalt"],
+      "solidOutput": ["hbm:item.ingot_co60"]
+    },
+    {
+      "input": ["dict","nuggetBismuth"],
+      "solidOutput": ["hbm:item.nugget_polonium"]
+    },
+    {
+      "input": ["dict","ingotPVC"],
+      "solidOutput": ["hbm:item.ingot_c4"],
+      "fluidOutput": ["COLLOID",250]
+    },
+    {
+      "input": ["item","hbm:item.oil_tar",1,4],
+      "fluidOutput": ["RADIOSOLVENT",100]
+    },
+    {
+      "input": ["item","minecraft:mushroom_stew"],
+      "solidOutput": ["hbm:item.glowing_stew"]
+    },
+    {
+      "input": ["item","hbm:item.oil_tar",1,2],
+      "fluidOutput": ["COALOIL",100]
+    },
+    {
+      "input": ["item","minecraft:brown_mushroom"],
+      "solidOutput": ["hbm:tile.mush"]
+    },
+    {
+      "input": ["dict","blockLithium"],
+      "fluidOutput": ["TRITIUM",10000]
+    },
+    {
+      "input": ["dict","ingotGold"],
+      "solidOutput": ["hbm:item.ingot_au198"]
+    },
+    {
+      "input": ["dict","blockCoal"],
+      "solidOutput": ["hbm:item.oil_tar",9,2],
+      "fluidOutput": ["SYNGAS",500]
+    },
+    {
+      "input": ["dict","dustCoal"],
+      "solidOutput": ["hbm:item.oil_tar",1,2],
+      "fluidOutput": ["SYNGAS",50]
+    },
+    {
+      "input": ["dict","ingotBismuth"],
+      "solidOutput": ["hbm:item.ingot_polonium"]
+    },
+    {
+      "input": ["dict","dustTinyLithium"],
+      "fluidOutput": ["TRITIUM",100]
+    },
+    {
+      "input": ["dict","billetThorium232"],
+      "solidOutput": ["hbm:item.billet_thorium_fuel"]
+    },
+    {
+      "input": ["dict","dustLithium"],
+      "fluidOutput": ["TRITIUM",1000]
+    },
+    {
+      "input": ["dict","ingotLithium"],
+      "fluidOutput": ["TRITIUM",1000]
+    },
+    {
+      "input": ["dict","nuggetCobalt"],
+      "solidOutput": ["hbm:item.nugget_co60"]
+    },
+    {
+      "input": ["dict","gemCoal"],
+      "solidOutput": ["hbm:item.oil_tar",1,2],
+      "fluidOutput": ["SYNGAS",50]
+    },
+    {
+      "input": ["dict","dustGold"],
+      "solidOutput": ["hbm:item.powder_au198"]
+    },
+    {
+      "input": ["dict","ingotThorium232"],
+      "solidOutput": ["hbm:item.ingot_thorium_fuel"]
+    },
+    {
+      "input": ["dict","dustBismuth"],
+      "solidOutput": ["hbm:item.powder_polonium"]
+    },
+    {
+      "input": ["dict","nuggetGold"],
+      "solidOutput": ["hbm:item.nugget_au198"]
+    },
+    {
+      "input": ["dict","dustCobalt"],
+      "solidOutput": ["hbm:item.powder_co60"]
+    },
+    {
+      "input": ["dict","nuggetThorium232"],
+      "solidOutput": ["hbm:item.nugget_thorium_fuel"]
+    }
+  ]
+}

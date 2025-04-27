@@ -1,0 +1,245 @@
+{
+  "info": [
+    "Unlike other JSON configs, this one does not use a variable amount of options (like recipes), rather all config options are fixed.",
+    "This means that there is no distinction between template and used config, you can simply edit this file and it will use the new values.",
+    "If you wish to reset one or multiple values to default, simply delete them, the file is re-created every time the game starts (but changed values persist!)",
+    "How this works in detail:",
+    "- Machines have default values on init",
+    "- The config system will try to read the config file. It will replace the default values where applicable, and keep them when an option is missing.",
+    "- The config system will then use the full set of values - configured or default if missing - and re-create the config file to include any missing entries.",
+    "This final step also means that any custom non-config values added to the JSON, while not causing errors, will be deleted when the config is re-created.",
+    "It also means that should an update add more values to an existing machines, those will be retroactively added to the config using the default value."
+  ],
+  "centrifuge": {
+    "I:powerCap": 100000,
+    "I:timeToProcess": 200,
+    "I:consumption": 200
+  },
+  "HEToRFConverter": {
+    "L:HE_Used": 5,
+    "L:RF_Created": 1,
+    "D:inputDecay2": 0.0
+  },
+  "RFToHEConverter": {
+    "L:RF_Used2": 2,
+    "L:HE_Created2": 5,
+    "D:inputDecay2": 0.0
+  },
+  "dieselgen": {
+    "L:powerCap": 50000,
+    "I:fuelCap": 16000,
+    "INFO": "Fuel grades in order: LOW MEDIUM HIGH AERO GAS",
+    "D[:efficiency": [0.0,0.5,0.75,0.1,0.0]
+  },
+  "radar": {
+    "L:powerCap": 100000,
+    "L:consumption": 500,
+    "I:radarRange": 1000,
+    "I:radarBuffer": 30,
+    "I:radarAltitude": 55,
+    "B:generateChunks": false
+  },
+  "radar_large": {
+    "I:radarLargeRange": 3000
+  },
+  "forcefield": {
+    "L:powerCap": 1000000,
+    "I:baseConsumption": 1000,
+    "I:radiusConsumption": 500,
+    "I:shieldConsumption": 250,
+    "I:baseRadius": 16,
+    "I:radiusUpgrade": 16,
+    "I:shieldUpgrade": 50,
+    "D:cooldownModifier": 1.0,
+    "D:healthRegenModifier": 1.0
+  },
+  "rotaryfurnace": {
+    "M:burnModule": {
+      "D:timeLog": 1.0,
+      "D:timeWood": 1.0,
+      "D:timeCoal": 1.0,
+      "D:timeLignite": 1.0,
+      "D:timeCoke": 1.25,
+      "D:timeSolid": 1.5,
+      "D:timeRocket": 1.5,
+      "D:timeBalefire": 1.5,
+      "D:heatLog": 1.0,
+      "D:heatWood": 1.0,
+      "D:heatCoal": 1.0,
+      "D:heatLignite": 1.0,
+      "D:heatCoke": 1.0,
+      "D:heatSolid": 1.5,
+      "D:heatRocket": 3.0,
+      "D:heatBalefie": 10.0
+    }
+  },
+  "firebox": {
+    "I:baseHeat": 100,
+    "D:burnTimeMult": 1.0,
+    "I:heatCap": 100000,
+    "M:burnModule": {
+      "D:timeLog": 1.0,
+      "D:timeWood": 1.0,
+      "D:timeCoal": 1.25,
+      "D:timeLignite": 1.25,
+      "D:timeCoke": 1.25,
+      "D:timeSolid": 1.5,
+      "D:timeRocket": 1.5,
+      "D:timeBalefire": 0.5,
+      "D:heatLog": 1.0,
+      "D:heatWood": 1.0,
+      "D:heatCoal": 2.0,
+      "D:heatLignite": 2.0,
+      "D:heatCoke": 2.0,
+      "D:heatSolid": 3.0,
+      "D:heatRocket": 5.0,
+      "D:heatBalefie": 15.0
+    }
+  },
+  "heatingoven": {
+    "I:baseHeat": 500,
+    "D:burnTimeMult": 0.125,
+    "D:heatPullEff": 0.5,
+    "I:heatCap": 500000,
+    "M:burnModule": {
+      "D:timeLog": 1.0,
+      "D:timeWood": 1.0,
+      "D:timeCoal": 1.25,
+      "D:timeLignite": 1.25,
+      "D:timeCoke": 1.25,
+      "D:timeSolid": 1.5,
+      "D:timeRocket": 1.5,
+      "D:timeBalefire": 0.5,
+      "D:heatLog": 1.0,
+      "D:heatWood": 1.0,
+      "D:heatCoal": 2.0,
+      "D:heatLignite": 2.0,
+      "D:heatCoke": 2.0,
+      "D:heatSolid": 3.0,
+      "D:heatRocket": 5.0,
+      "D:heatBalefie": 15.0
+    }
+  },
+  "ashpit": {
+    "I:thresholdWood": 2000,
+    "I:thresholdCoal": 2000,
+    "I:thresholdMisc": 2000,
+    "I:thresholdFly": 2000,
+    "I:thresholdSoot": 8000
+  },
+  "stirling": {
+    "D:diffusion": 0.1,
+    "D:efficiency": 0.5,
+    "I:maxHeatNormal": 300,
+    "I:maxHeatSteel": 1500,
+    "I:overspeedLimit": 300
+  },
+  "crucible": {
+    "I:recipeCapacity": 10368,
+    "I:wasteCapacity": 10368,
+    "I:processHeat": 20000,
+    "D:diffusion": 0.25,
+    "I:heatCap": 100000
+  },
+  "boiler": {
+    "I:maxHeat": 3200000,
+    "D:diffusion": 0.1,
+    "B:canExplode": true
+  },
+  "boilerIndustrial": {
+    "I:maxHeat": 12800000,
+    "D:diffusion": 0.1
+  },
+  "waterpump": {
+    "I:groundHeight": 70,
+    "I:groundDepth": 4,
+    "I:steamSpeed": 1000,
+    "I:electricSpeed": 10000
+  },
+  "waterpump": {
+    "I:groundHeight": 70,
+    "I:groundDepth": 4,
+    "I:steamSpeed": 1000,
+    "I:electricSpeed": 10000
+  },
+  "condenser": {
+    "I:inputTankSize": 100,
+    "I:outputTankSize": 100
+  },
+  "condenserTowerSmall": {
+    "I:inputTankSize": 1000,
+    "I:outputTankSize": 1000
+  },
+  "condenserTowerLarge": {
+    "I:inputTankSize": 10000,
+    "I:outputTankSize": 10000
+  },
+  "condenserPowered": {
+    "L:maxPower": 10000000,
+    "I:inputTankSize": 1000000,
+    "I:outputTankSize": 1000000,
+    "I:powerConsumption": 10
+  },
+  "radiator": {
+    "I:inputTankSize": 500,
+    "I:outputTankSize": 500
+  },
+  "steamengine": {
+    "I:steamCap": 2000,
+    "I:ldsCap": 20,
+    "D:efficiency": 0.85
+  },
+  "steamturbine": {
+    "L:maxPower": 1000000,
+    "I:inputTankSize": 64000,
+    "I:outputTankSize": 128000,
+    "I:maxSteamPerTick": 6000,
+    "D:efficiency": 0.85
+  },
+  "steamturbineIndustrial": {
+    "L:maxPower": 100000000,
+    "INFO": "industrial steam turbine consumes 20% of availible steam per tick",
+    "I:inputTankSize": 512000,
+    "I:outputTankSize": 10240000,
+    "D:efficiency": 1.0
+  },
+  "steamturbineLeviathan": {
+    "L:maxPower": 100000000000,
+    "INFO": "leviathan steam turbine consumes all availible steam per tick",
+    "I:inputTankSize": 1000000000,
+    "I:outputTankSize": 1000000000,
+    "D:efficiency": 0.85
+  },
+  "derrick": {
+    "I:powerCap": 100000,
+    "I:consumption": 100,
+    "I:delay": 50,
+    "I:oilPerDeposit": 500,
+    "I:gasPerDepositMin": 100,
+    "I:gasPerDepositMax": 500,
+    "D:drainChance": 0.05
+  },
+  "pumpjack": {
+    "I:powerCap": 250000,
+    "I:consumption": 200,
+    "I:delay": 25,
+    "I:oilPerDeposit": 750,
+    "I:gasPerDepositMin": 50,
+    "I:gasPerDepositMax": 250,
+    "D:drainChance": 0.025
+  },
+  "frackingtower": {
+    "I:powerCap": 5000000,
+    "I:consumption": 5000,
+    "I:solutionRequired": 10,
+    "I:delay": 20,
+    "I:oilPerDeposit": 1000,
+    "I:gasPerDepositMin": 100,
+    "I:gasPerDepositMax": 500,
+    "D:drainChance": 0.02,
+    "I:oilPerBedrockDeposit": 100,
+    "I:gasPerBedrockDepositMin": 10,
+    "I:gasPerBedrockDepositMax": 50,
+    "I:destructionRange": 75
+  }
+}

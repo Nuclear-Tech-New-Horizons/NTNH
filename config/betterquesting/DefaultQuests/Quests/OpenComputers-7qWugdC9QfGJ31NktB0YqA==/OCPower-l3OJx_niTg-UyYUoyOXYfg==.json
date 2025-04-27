@@ -1,0 +1,72 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1809908221839128987,
+      "questIDLow:4": -6525338611614709347,
+      "type:1": 1
+    },
+    "1:10": {
+      "questIDHigh:4": 2720273598898784049,
+      "questIDLow:4": -8747775295999091665
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The Cable serves as a way of connecting computers and machines that are far apart. If you have a compact build where all components touch each other (directly or indirectly, most blocks also behave the same way as cables) you will usually not need cables.\n\nThe Power Converter serves as the fastest way to convert energy from other mods\u0027 power systems to OpenComputers\u0027 internal energy. Place an HE to RF converter next to it to obtain OC energy.\n\nThe Capacitor Stores energy to be used by the network, acting as an energy buffer when needed. It is very useful for tasks that demand a lot of energy, such as assembling or charging devices such as robots and drones.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "OpenComputers:capacitor"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "OC Power",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -7533526259676852721,
+  "questIDLow:4": -7725497275561682818,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:cable"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:powerConverter"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:capacitor"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

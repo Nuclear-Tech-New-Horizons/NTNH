@@ -1,0 +1,103 @@
+shapeless=
+    ae2:CableCovered ae2:CableCovered ae2:CableCovered ae2:CableCovered
+    -> ae2:CableDenseCovered.Fluix
+
+shapeless=
+    ae2:CableDenseCovered mc:water_bucket
+    -> ae2:CableDenseCovered.Fluix
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeWhite ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.White
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeBlack ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Black
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeRed ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Red
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeGreen ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Green
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeBrown ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Brown
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeBlue ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Blue
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyePurple ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Purple
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeCyan ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Cyan
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeLightGray ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.LightGray
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeGray ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Gray
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyePink ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Pink
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeLime ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Lime
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeYellow ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Yellow
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeLightBlue ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.LightBlue
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeMagenta ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Magenta
+
+shaped=
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered,
+    ae2:CableDenseCovered oredictionary:dyeOrange ae2:CableDenseCovered,
+    ae2:CableDenseCovered ae2:CableDenseCovered ae2:CableDenseCovered
+    -> 8 ae2:CableDenseCovered.Orange

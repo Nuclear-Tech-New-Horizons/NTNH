@@ -1,0 +1,1209 @@
+{
+  "comment": "Input array describes slots from left to right, top to bottom. Make sure the input array is exactly 9 elements long, empty slots are represented by null.",
+  "recipes": [
+    {
+      "output": ["hbm:item.ammo_standard",16,4],
+      "input": [
+        null,
+        ["dict","ingotLead",2],
+        null,
+        null,
+        ["item","minecraft:gunpowder"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,5],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,6],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,7],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,8],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,9],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,10],
+      "input": [
+        null,
+        ["dict","ingotLead",2],
+        null,
+        null,
+        ["item","minecraft:gunpowder"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,11],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,12],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,13],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,14],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,15],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",24,16],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",24,17],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",24,18],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",24,19],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,20],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,21],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,22],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,23],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,85],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,86],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,87],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,88],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",8,89],
+      "input": [
+        null,
+        ["dict","ingotUranium238"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",16,24],
+      "input": [
+        null,
+        ["dict","ingotLead",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",16,25],
+      "input": [
+        null,
+        ["dict","ingotSteel",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",16,26],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",16,27],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",4],
+        null,
+        null,
+        ["item","hbm:item.casing",2,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,28],
+      "input": [
+        null,
+        ["dict","ingotLead",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,29],
+      "input": [
+        null,
+        ["dict","ingotSteel",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,30],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,31],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",4],
+        null,
+        null,
+        ["item","hbm:item.casing",2,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,32],
+      "input": [
+        null,
+        ["dict","ingotUranium238",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",4],
+        null,
+        null,
+        ["item","hbm:item.casing",2,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,82],
+      "input": [
+        ["dict","ingotAnyHighexplosive"],
+        ["dict","ingotFerrouranium"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",4],
+        null,
+        null,
+        ["item","hbm:item.casing",2,2],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,33],
+      "input": [
+        null,
+        ["dict","ingotLead",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,34],
+      "input": [
+        null,
+        ["dict","ingotSteel",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,35],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","ingotCopper",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,36],
+      "input": [
+        null,
+        ["dict","ingotWeaponSteel",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",6],
+        null,
+        null,
+        ["item","hbm:item.casing",1,3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,37],
+      "input": [
+        null,
+        ["dict","ingotUranium238",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless",6],
+        null,
+        null,
+        ["item","hbm:item.casing",1,3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",12,83],
+      "input": [
+        ["dict","ingotAnyHighexplosive"],
+        ["dict","ingotFerrouranium"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",6],
+        null,
+        null,
+        ["item","hbm:item.casing",1,3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,41],
+      "input": [
+        null,
+        ["dict","nuggetLead",6],
+        null,
+        null,
+        ["item","minecraft:gunpowder"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,4],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,42],
+      "input": [
+        null,
+        ["dict","nuggetLead",8],
+        null,
+        null,
+        ["item","minecraft:gunpowder"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,4],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,43],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["item","minecraft:gunpowder"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,4],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,44],
+      "input": [
+        null,
+        ["dict","nuggetLead",6],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,5],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,45],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,5],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,46],
+      "input": [
+        null,
+        ["dict","boltLead",12],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,5],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,47],
+      "input": [
+        null,
+        ["dict","nuggetLead",8],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,48],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",6,49],
+      "input": [
+        null,
+        ["dict","ingotWhitePhosphorus"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,78],
+      "input": [
+        null,
+        ["dict","nuggetLead",8],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,79],
+      "input": [
+        ["dict","ingotAnyPlastic"],
+        ["dict","nuggetLead",8],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,80],
+      "input": [
+        null,
+        ["dict","ingotUranium238"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,81],
+      "input": [
+        null,
+        ["dict","ingotLead"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,84],
+      "input": [
+        ["dict","ingotAnyHighexplosive"],
+        ["dict","ingotFerrouranium"],
+        null,
+        null,
+        ["dict","dustAnySmokeless",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,6],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,50],
+      "input": [
+        null,
+        ["dict","dustRedPhosphorus"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,53],
+      "input": [
+        null,
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,54],
+      "input": [
+        ["dict","plateCopper"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,55],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive",2],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,56],
+      "input": [
+        ["dict","container1000diesel"],
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,57],
+      "input": [
+        ["dict","ingotWhitePhosphorus"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,58],
+      "input": [
+        null,
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,58],
+      "input": [
+        null,
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,59],
+      "input": [
+        ["dict","plateCopper"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,59],
+      "input": [
+        ["dict","plateCopper"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,60],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,60],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive",2],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,61],
+      "input": [
+        ["dict","container1000diesel"],
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,61],
+      "input": [
+        ["dict","container1000diesel"],
+        ["item","hbm:item.ball_dynamite"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,62],
+      "input": [
+        ["dict","ingotWhitePhosphorus"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["dict","dustAnySmokeless",3],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",2,62],
+      "input": [
+        ["dict","ingotWhitePhosphorus"],
+        ["dict","ingotAnyHighexplosive"],
+        null,
+        null,
+        ["item","hbm:item.casing",1,1],
+        null,
+        null,
+        ["item","hbm:item.rocket_fuel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,63],
+      "input": [
+        null,
+        ["dict","plateSteel"],
+        null,
+        null,
+        ["dict","container1000diesel"],
+        null,
+        null,
+        ["dict","plateSteel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,65],
+      "input": [
+        null,
+        ["dict","plateSteel"],
+        null,
+        null,
+        ["item","hbm:item.canister_napalm"],
+        null,
+        null,
+        ["dict","plateSteel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,64],
+      "input": [
+        null,
+        ["dict","plateSteel"],
+        null,
+        null,
+        ["dict","container1000gas"],
+        null,
+        null,
+        ["dict","plateSteel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,66],
+      "input": [
+        null,
+        ["dict","plateSteel"],
+        null,
+        null,
+        ["dict","container1000balefire"],
+        null,
+        null,
+        ["dict","plateSteel"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,67],
+      "input": [
+        null,
+        ["dict","ingotAnyPlastic"],
+        null,
+        null,
+        ["dict","billetSilicon",4],
+        null,
+        null,
+        ["dict","ingotAnyPlastic"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,68],
+      "input": [
+        null,
+        ["dict","ingotAnyPlastic"],
+        null,
+        null,
+        ["dict","billetSilicon",6],
+        null,
+        null,
+        ["dict","ingotAnyPlastic"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,69],
+      "input": [
+        null,
+        ["dict","ingotAnyPlastic"],
+        null,
+        null,
+        ["dict","billetSilicon",4],
+        null,
+        null,
+        ["dict","ingotAnyPlastic"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",16,70],
+      "input": [
+        null,
+        ["dict","plateLead"],
+        null,
+        null,
+        ["dict","ingotUranium238"],
+        null,
+        null,
+        ["dict","plateLead"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,71],
+      "input": [
+        null,
+        null,
+        null,
+        null,
+        ["dict","ingotTungsten"],
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,72],
+      "input": [
+        null,
+        null,
+        null,
+        null,
+        ["dict","ingotFerrouranium"],
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,73],
+      "input": [
+        null,
+        ["dict","nuggetPlutonium239"],
+        null,
+        null,
+        ["item","hbm:item.assembly_nuke"],
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,74],
+      "input": [
+        null,
+        ["dict","nuggetPlutonium239",2],
+        null,
+        null,
+        ["item","hbm:item.assembly_nuke"],
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,75],
+      "input": [
+        null,
+        ["dict","nuggetPlutonium239",4],
+        null,
+        null,
+        ["item","hbm:item.assembly_nuke"],
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,76],
+      "input": [
+        null,
+        ["dict","nuggetPlutonium239",2],
+        null,
+        null,
+        ["item","hbm:item.ball_tatb",2],
+        null,
+        null,
+        ["dict","plateSteel",4],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",1,77],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive",8],
+        null,
+        null,
+        ["item","hbm:item.casing",2,3],
+        null,
+        null,
+        ["dict","plateSteel",4],
+        null
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+The files  contain the code for each machine. The code needs to be copy pasted into their individual machine recipe configs located at the HBMrecipes folder.
+
+1) Delete the HBMrecipes folder as to reset everything, that way all the new stuff gets generated.
+
+2) Launch the game to generate the folder again, and then close the game.
+
+3) Remove the _ from the beginning of each file as to have them save the changes.
+
+4) Insert the code from the Custom Recipes folder into the individual files. Make sure to have the correct syntax. Always save after the code has been inserted!
+
+5) Launch the game and hopefully it should work.

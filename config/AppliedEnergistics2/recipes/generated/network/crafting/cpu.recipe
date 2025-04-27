@@ -1,0 +1,111 @@
+shaped=
+    oredictionary:ingotIron ae2:ItemMaterial.CalcProcessor oredictionary:ingotIron,
+    cable ae2:ItemMaterial.LogicProcessor cable,
+    oredictionary:ingotIron ae2:ItemMaterial.CalcProcessor oredictionary:ingotIron
+    -> ae2:BlockCraftingUnit:0
+
+# co processor
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.EngProcessor
+    -> ae2:BlockCraftingUnit:1
+
+shapeless=
+    ae2:BlockCraftingUnit:1
+    ae2:BlockCraftingUnit:1
+    ae2:BlockCraftingUnit:1
+    ae2:BlockCraftingUnit:1
+    -> ae2:BlockCraftingUnit:2
+
+shapeless=
+    ae2:BlockCraftingUnit:2
+    ae2:BlockCraftingUnit:2
+    ae2:BlockCraftingUnit:2
+    ae2:BlockCraftingUnit:2
+    -> ae2:BlockCraftingUnit:3
+
+shapeless=
+    ae2:BlockCraftingUnit:3
+    ae2:BlockCraftingUnit:3
+    ae2:BlockCraftingUnit:3
+    ae2:BlockCraftingUnit:3
+    -> ae2:BlockAdvancedCraftingUnit:0
+
+shapeless=
+    ae2:BlockAdvancedCraftingUnit:0
+    ae2:BlockAdvancedCraftingUnit:0
+    ae2:BlockAdvancedCraftingUnit:0
+    ae2:BlockAdvancedCraftingUnit:0
+    -> ae2:BlockAdvancedCraftingUnit:1
+
+shapeless=
+    ae2:BlockAdvancedCraftingUnit:1
+    ae2:BlockAdvancedCraftingUnit:1
+    ae2:BlockAdvancedCraftingUnit:1
+    ae2:BlockAdvancedCraftingUnit:1
+    -> ae2:BlockAdvancedCraftingUnit:2
+
+shapeless=
+    ae2:BlockAdvancedCraftingUnit:2
+    ae2:BlockAdvancedCraftingUnit:2
+    ae2:BlockAdvancedCraftingUnit:2
+    ae2:BlockAdvancedCraftingUnit:2
+    -> ae2:BlockAdvancedCraftingUnit:3
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemPart.StorageMonitor
+    -> ae2:BlockCraftingMonitor
+
+# various storage sizes
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell1kPart
+    -> ae2:BlockCraftingStorage:0
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell4kPart
+    -> ae2:BlockCraftingStorage:1
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell16kPart
+    -> ae2:BlockCraftingStorage:2
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell64kPart
+    -> ae2:BlockCraftingStorage:3
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell256kPart
+    -> ae2:BlockAdvancedCraftingStorage:0
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell1024kPart
+    -> ae2:BlockAdvancedCraftingStorage:1
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell4096kPart
+    -> ae2:BlockAdvancedCraftingStorage:2
+
+shapeless=
+    ae2:BlockCraftingUnit:0
+    ae2:ItemMaterial.Cell16384kPart
+    -> ae2:BlockAdvancedCraftingStorage:3
+
+shapeless=
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:BlockCraftingUnit:0
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:ItemExtremeStorageCell.Singularity
+    ae2:ItemExtremeStorageCell.Singularity
+    -> ae2:BlockSingularityCraftingStorage:0

@@ -1,0 +1,11 @@
+{
+  "id": "crucible",
+  "condition": {
+    "type": "achievement",
+    "id": "crucible"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_crucible"
+  }
+}

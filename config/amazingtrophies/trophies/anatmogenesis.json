@@ -1,0 +1,11 @@
+{
+  "id": "anatmogenesis",
+  "condition": {
+    "type": "achievement",
+    "id": "zirnox"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.dyson_converter_anatmogenesis"
+  }
+}

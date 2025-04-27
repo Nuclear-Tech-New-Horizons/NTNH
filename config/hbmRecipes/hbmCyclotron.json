@@ -1,0 +1,275 @@
+{
+  "comment": "The particle item, while being an input, has to be defined as an item stack without ore dictionary support.",
+  "recipes": [
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["item","hbm:item.nugget_mercury"],
+      "output": ["hbm:item.powder_polonium"],
+      "antimatter": 10
+    },
+     {
+      "particle": ["hbm:item.pellet_charged"],
+      "input": ["item","GraviGun:GraviGun",1,0],
+      "output": ["GraviGun:GraviGun",1,1],
+      "antimatter": 100
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustBoron"],
+      "output": ["hbm:item.powder_coal"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["item","hbm:item.powder_cerium"],
+      "output": ["hbm:item.powder_neodymium"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["item","hbm:item.powder_strontium"],
+      "output": ["hbm:item.powder_zirconium"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustBeryllium"],
+      "output": ["hbm:item.powder_boron"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["item","hbm:item.powder_caesium"],
+      "output": ["hbm:item.powder_lanthanium"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:tile.block_euphemium"],
+      "input": ["item","hbm:tile.bf_log"],
+      "output": ["hbm:tile.eu_log"],
+      "antimatter": 0
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["dict","dustSulfur"],
+      "output": ["hbm:item.powder_titanium"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["item","hbm:item.powder_strontium"],
+      "output": ["hbm:item.powder_niobium"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["dict","dustTitanium"],
+      "output": ["hbm:item.powder_iron"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["dict","dustLead"],
+      "output": ["hbm:item.powder_ra226"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["dict","dustTitanium"],
+      "output": ["hbm:item.powder_strontium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["dict","dustCoal"],
+      "output": ["hbm:item.powder_bromine"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["dict","dustGold"],
+      "output": ["hbm:item.powder_uranium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["dict","dustCobalt"],
+      "output": ["hbm:item.powder_copper"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["item","hbm:item.powder_caesium"],
+      "output": ["hbm:item.powder_actinium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_plutonium"],
+      "input": ["item","hbm:item.powder_tennessine"],
+      "output": ["hbm:item.powder_australium"],
+      "antimatter": 100
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustUranium"],
+      "output": ["hbm:item.powder_neptunium"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustLithium"],
+      "output": ["hbm:item.powder_beryllium"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustLanthanium"],
+      "output": ["hbm:item.powder_cerium"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["dict","dustIron"],
+      "output": ["hbm:item.powder_niobium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_plutonium"],
+      "input": ["dict","dustPhosphorus"],
+      "output": ["hbm:item.powder_tennessine"],
+      "antimatter": 100
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustPolonium"],
+      "output": ["hbm:item.powder_astatine"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["dict","dustBeryllium"],
+      "output": ["hbm:item.powder_quartz"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["dict","dustTitanium"],
+      "output": ["hbm:item.powder_cobalt"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustGold"],
+      "output": ["hbm:item.nugget_mercury"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustIron"],
+      "output": ["hbm:item.powder_cobalt"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_plutonium"],
+      "input": ["item","hbm:item.cell_antimatter"],
+      "output": ["hbm:item.cell_anti_schrabidium"],
+      "antimatter": 0
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustActinium"],
+      "output": ["hbm:item.powder_thorium"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustNeptunium237"],
+      "output": ["hbm:item.powder_plutonium"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["dict","dustBoron"],
+      "output": ["hbm:item.powder_aluminium"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["dict","dustNetherQuartz"],
+      "output": ["hbm:item.sulfur"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["item","hbm:item.powder_iodine"],
+      "output": ["hbm:item.powder_polonium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_plutonium"],
+      "input": ["item","hbm:item.pellet_charged"],
+      "output": ["hbm:item.nugget_schrabidium"],
+      "antimatter": 1000
+    },
+    {
+      "particle": ["hbm:item.part_plutonium"],
+      "input": ["dict","dustPlutonium"],
+      "output": ["hbm:item.powder_tennessine"],
+      "antimatter": 100
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustNetherQuartz"],
+      "output": ["hbm:item.powder_fire"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["dict","dustThorium"],
+      "output": ["hbm:item.powder_uranium"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["item","hbm:item.powder_strontium"],
+      "output": ["hbm:item.powder_neodymium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["item","hbm:item.powder_astatine"],
+      "output": ["hbm:item.powder_actinium"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["item","hbm:item.powder_niobium"],
+      "output": ["hbm:item.powder_caesium"],
+      "antimatter": 15
+    },
+    {
+      "particle": ["hbm:item.part_carbon"],
+      "input": ["item","hbm:item.powder_neodymium"],
+      "output": ["hbm:item.powder_gold"],
+      "antimatter": 10
+    },
+    {
+      "particle": ["hbm:item.part_lithium"],
+      "input": ["dict","dustPhosphorus"],
+      "output": ["hbm:item.sulfur"],
+      "antimatter": 50
+    },
+    {
+      "particle": ["hbm:item.part_beryllium"],
+      "input": ["dict","dustLithium"],
+      "output": ["hbm:item.powder_boron"],
+      "antimatter": 25
+    },
+    {
+      "particle": ["hbm:item.part_copper"],
+      "input": ["item","hbm:item.powder_bromine"],
+      "output": ["hbm:item.powder_iodine"],
+      "antimatter": 15
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+    {
+      "particle": ["hbm:item.pellet_charged"],
+      "input": ["item","GraviGun:GraviGun",1,0],
+      "output": ["GraviGun:GraviGun",1,1],
+      "antimatter": 100
+    },

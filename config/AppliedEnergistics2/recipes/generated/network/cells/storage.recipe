@@ -1,0 +1,92 @@
+shapeless=
+    ae2:ItemMaterial.Cell1kPart ae2:ItemMaterial.EmptyStorageCell -> ae2:ItemBasicStorageCell.1k
+
+shapeless=
+    ae2:ItemMaterial.Cell4kPart ae2:ItemMaterial.EmptyStorageCell -> ae2:ItemBasicStorageCell.4k
+
+shapeless=
+    ae2:ItemMaterial.Cell16kPart ae2:ItemMaterial.EmptyStorageCell -> ae2:ItemBasicStorageCell.16k
+
+shapeless=
+    ae2:ItemMaterial.Cell64kPart ae2:ItemMaterial.EmptyStorageCell -> ae2:ItemBasicStorageCell.64k
+
+shapeless=
+    ae2:ItemMaterial.Cell256kPart ae2:ItemMaterial.EmptyAdvancedStorageCell -> ae2:ItemAdvancedStorageCell.256k
+
+shapeless=
+    ae2:ItemMaterial.Cell1024kPart ae2:ItemMaterial.EmptyAdvancedStorageCell -> ae2:ItemAdvancedStorageCell.1024k
+
+shapeless=
+    ae2:ItemMaterial.Cell4096kPart ae2:ItemMaterial.EmptyAdvancedStorageCell -> ae2:ItemAdvancedStorageCell.4096k
+
+shapeless=
+    ae2:ItemMaterial.Cell16384kPart ae2:ItemMaterial.EmptyAdvancedStorageCell -> ae2:ItemAdvancedStorageCell.16384k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustRedstone ae2:BlockQuartzGlass,
+    oredictionary:dustRedstone ae2:ItemMaterial.Cell1kPart oredictionary:dustRedstone,
+    oredictionary:ingotIron oredictionary:ingotIron oredictionary:ingotIron
+    -> ae2:ItemBasicStorageCell.1k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustRedstone ae2:BlockQuartzGlass,
+    oredictionary:dustRedstone ae2:ItemMaterial.Cell4kPart oredictionary:dustRedstone,
+    oredictionary:ingotIron oredictionary:ingotIron oredictionary:ingotIron
+    -> ae2:ItemBasicStorageCell.4k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustRedstone ae2:BlockQuartzGlass,
+    oredictionary:dustRedstone ae2:ItemMaterial.Cell16kPart oredictionary:dustRedstone,
+    oredictionary:ingotIron oredictionary:ingotIron oredictionary:ingotIron
+    -> ae2:ItemBasicStorageCell.16k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustRedstone ae2:BlockQuartzGlass,
+    oredictionary:dustRedstone ae2:ItemMaterial.Cell64kPart oredictionary:dustRedstone,
+    oredictionary:ingotIron oredictionary:ingotIron oredictionary:ingotIron
+    -> ae2:ItemBasicStorageCell.64k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustFluix ae2:BlockQuartzGlass,
+    oredictionary:dustFluix ae2:ItemMaterial.Cell256kPart oredictionary:dustFluix,
+    oredictionary:gemDiamond oredictionary:gemDiamond oredictionary:gemDiamond
+    -> ae2:ItemAdvancedStorageCell.256k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustFluix ae2:BlockQuartzGlass,
+    oredictionary:dustFluix ae2:ItemMaterial.Cell1024kPart oredictionary:dustFluix,
+    oredictionary:gemDiamond oredictionary:gemDiamond oredictionary:gemDiamond
+    -> ae2:ItemAdvancedStorageCell.1024k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustFluix ae2:BlockQuartzGlass,
+    oredictionary:dustFluix ae2:ItemMaterial.Cell4096kPart oredictionary:dustFluix,
+    oredictionary:gemDiamond oredictionary:gemDiamond oredictionary:gemDiamond
+    -> ae2:ItemAdvancedStorageCell.4096k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustFluix ae2:BlockQuartzGlass,
+    oredictionary:dustFluix ae2:ItemMaterial.Cell16384kPart oredictionary:dustFluix,
+    oredictionary:gemDiamond oredictionary:gemDiamond oredictionary:gemDiamond
+    -> ae2:ItemAdvancedStorageCell.16384k
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustRedstone ae2:BlockQuartzGlass,
+    oredictionary:dustRedstone mc:ender_pearl oredictionary:dustRedstone,
+    oredictionary:ingotIron oredictionary:ingotIron oredictionary:ingotIron
+    -> ae2:ItemVoidStorageCell
+
+shapeless=
+    ae2:ItemMaterial.Cell4kPart ae2:BlockChest ae2:ItemMaterial.LogicProcessor -> ae2:ItemExtremeStorageCell.Container
+
+shaped=
+    ae2:BlockQuantumRing ae2:ItemMaterial.Cell16384kPart ae2:BlockQuantumRing,
+    ae2:ItemMaterial.Cell16384kPart ae2:BlockDenseEnergyCell ae2:ItemMaterial.Cell16384kPart,
+    ae2:BlockQuantumRing ae2:ItemMaterial.Cell16384kPart ae2:BlockQuantumRing
+    -> ae2:ItemExtremeStorageCell.Quantum
+
+shaped=
+    ae2:ItemExtremeStorageCell.Quantum ae2:ItemExtremeStorageCell.Quantum ae2:ItemExtremeStorageCell.Quantum,
+    ae2:ItemExtremeStorageCell.Quantum ae2:BlockCondenser ae2:ItemExtremeStorageCell.Quantum,
+    ae2:ItemExtremeStorageCell.Quantum ae2:ItemExtremeStorageCell.Quantum ae2:ItemExtremeStorageCell.Quantum
+    -> ae2:ItemExtremeStorageCell.Singularity

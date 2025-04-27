@@ -1,0 +1,115 @@
+{
+  "recipes": [
+    {
+      "inputs": [
+        ["dict","ingotIron"],
+        ["dict","gemCoal"]
+      ],
+      "output": ["Steel",72],
+      "duration": 100,
+      "steam": 100
+    },
+    {
+      "inputs": [
+        ["dict","ingotIron"],
+        ["dict","gemAnyCoke"]
+      ],
+      "output": ["Steel",72],
+      "duration": 100,
+      "steam": 100
+    },
+    {
+      "inputs": [
+        ["dict","bedrockorefragmentIron",9],
+        ["dict","gemCoal"]
+      ],
+      "output": ["Steel",144],
+      "duration": 200,
+      "steam": 25
+    },
+    {
+      "inputs": [
+        ["dict","bedrockorefragmentIron",9],
+        ["dict","gemAnyCoke"]
+      ],
+      "output": ["Steel",216],
+      "duration": 200,
+      "steam": 25
+    },
+    {
+      "inputs": [
+        ["dict","bedrockorefragmentIron",9],
+        ["dict","gemAnyCoke"],
+        ["item","hbm:item.powder_flux"]
+      ],
+      "output": ["Steel",288],
+      "duration": 400,
+      "steam": 25
+    },
+    {
+      "inputs": [
+        ["item","hbm:item.powder_desh_ready"]
+      ],
+      "fluid": ["LIGHTOIL",100],
+      "output": ["Desh",72],
+      "duration": 100,
+      "steam": 200
+    },
+    {
+      "inputs": [
+        ["dict","ingotCopper",3],
+        ["dict","ingotZinc"]
+      ],
+      "output": ["GunMetal",288],
+      "duration": 200,
+      "steam": 100
+    },
+    {
+      "inputs": [
+        ["dict","ingotSteel"],
+        ["item","hbm:item.powder_flux",2]
+      ],
+      "fluid": ["GAS_COKER",100],
+      "output": ["WeaponSteel",72],
+      "duration": 200,
+      "steam": 400
+    },
+    {
+      "inputs": [
+        ["dict","dustDuraSteel",4],
+        ["dict","dustCopper"]
+      ],
+      "fluid": ["REFORMGAS",250],
+      "output": ["Saturnite",144],
+      "duration": 200,
+      "steam": 400
+    },
+    {
+      "inputs": [
+        ["dict","dustDuraSteel",4],
+        ["dict","dustCopper"],
+        ["dict","dustBorax"]
+      ],
+      "fluid": ["REFORMGAS",250],
+      "output": ["Saturnite",288],
+      "duration": 200,
+      "steam": 300
+    },
+    {
+      "inputs": [],
+      "fluid": ["SODIUM_ALUMINATE",150],
+      "output": ["Aluminum",144],
+      "duration": 100,
+      "steam": 400
+    },
+    {
+      "inputs": [
+        ["item","hbm:item.powder_flux",2]
+      ],
+      "fluid": ["SODIUM_ALUMINATE",150],
+      "output": ["Aluminum",216],
+      "duration": 40,
+      "steam": 200
+    }
+  ]
+}

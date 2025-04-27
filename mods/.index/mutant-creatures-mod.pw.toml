@@ -1,0 +1,16 @@
+filename = 'MutantCreatures-1.7.10-1.4.9.jar'
+name = 'Mutant Creatures Mod'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '481bef1ded7a49f24bd9b9b65f84afe1a14394b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2250071
+project-id = 59203

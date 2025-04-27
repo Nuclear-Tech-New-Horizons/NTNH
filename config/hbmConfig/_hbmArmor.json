@@ -1,0 +1,246 @@
+{
+  "comment": "Template file, remove the underscore ('_') from the name to enable the config.",
+  "itemStats": [
+    ["hbm:item.jackt",
+      {
+        "category": [
+          ["PROJ",5.0,0.5]
+        ]}],
+    ["hbm:item.jackt2",
+      {
+        "category": [
+          ["PROJ",5.0,0.5]
+        ]}]
+  ],
+  "setStats": [
+    ["hbm:item.titanium_helmet","hbm:item.titanium_plate","hbm:item.titanium_legs","hbm:item.titanium_boots",
+      {}],
+    ["hbm:item.cmb_helmet","hbm:item.cmb_plate","hbm:item.cmb_legs","hbm:item.cmb_boots",
+      {
+        "category": [
+          ["PROJ",5.0,0.5]
+        ],
+        "other": [5.0,0.25]}],
+    ["hbm:item.ajro_helmet","hbm:item.ajro_plate","hbm:item.ajro_legs","hbm:item.ajro_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",0.5,0.3499999940395355],
+          ["PROJ",4.0,0.15000000596046448],
+          ["EXPL",7.5,0.25]
+        ],
+        "other": [0.0,0.15000000596046448]}],
+    ["hbm:item.hazmat_helmet","hbm:item.hazmat_plate","hbm:item.hazmat_legs","hbm:item.hazmat_boots",
+      {}],
+    ["hbm:item.envsuit_helmet","hbm:item.envsuit_plate","hbm:item.envsuit_legs","hbm:item.envsuit_boots",
+      {
+        "exact": [
+          ["fall",5.0,0.75],
+          ["drown",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",2.0,0.75]
+        ],
+        "other": [0.0,0.10000000149011612]}],
+    ["hbm:item.starmetal_helmet","hbm:item.starmetal_plate","hbm:item.starmetal_legs","hbm:item.starmetal_boots",
+      {
+        "category": [
+          ["PROJ",3.0,0.25]
+        ],
+        "other": [1.0,0.10000000149011612]}],
+    ["hbm:item.schrabidium_helmet","hbm:item.schrabidium_plate","hbm:item.schrabidium_legs","hbm:item.schrabidium_boots",
+      {
+        "category": [
+          ["PROJ",10.0,0.6499999761581421]
+        ],
+        "other": [5.0,0.5]}],
+    ["hbm:item.steel_helmet","hbm:item.steel_plate","hbm:item.steel_legs","hbm:item.steel_boots",
+      {}],
+    ["hbm:item.asbestos_helmet","hbm:item.asbestos_plate","hbm:item.asbestos_legs","hbm:item.asbestos_boots",
+      {
+        "category": [
+          ["FIRE",10.0,0.8999999761581421]
+        ]}],
+    ["hbm:item.bismuth_helmet","hbm:item.bismuth_plate","hbm:item.bismuth_legs","hbm:item.bismuth_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",5.0,0.5],
+          ["PROJ",2.0,0.15000000596046448],
+          ["EXPL",5.0,0.25]
+        ],
+        "other": [2.0,0.25]}],
+    ["hbm:item.dnt_helmet","hbm:item.dnt_plate","hbm:item.dnt_legs","hbm:item.dnt_boots",
+      {}],
+    ["hbm:item.bj_helmet","hbm:item.bj_plate","hbm:item.bj_legs","hbm:item.bj_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",2.5,0.5],
+          ["PROJ",5.0,0.5],
+          ["EXPL",10.0,0.25]
+        ],
+        "other": [2.0,0.15000000596046448]}],
+    ["hbm:item.fau_helmet","hbm:item.fau_plate","hbm:item.fau_legs","hbm:item.fau_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0],
+          ["LASER",25.0,0.949999988079071]
+        ],
+        "category": [
+          ["FIRE",0.0,1.0],
+          ["EXPL",50.0,0.949999988079071]
+        ],
+        "other": [100.0,0.9900000095367432]}],
+    ["hbm:item.zirconium_legs","hbm:item.zirconium_legs","hbm:item.zirconium_legs","hbm:item.zirconium_legs",
+      {
+        "other": [0.0,1.0]}],
+    ["hbm:item.euphemium_helmet","hbm:item.euphemium_plate","hbm:item.euphemium_legs","hbm:item.euphemium_boots",
+      {
+        "other": [1000000.0,1.0]}],
+    ["hbm:item.hev_helmet","hbm:item.hev_plate","hbm:item.hev_legs","hbm:item.hev_boots",
+      {
+        "exact": [
+          ["fall",10.0,0.0],
+          ["onFire",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",0.5,0.5],
+          ["PROJ",2.0,0.25],
+          ["EXPL",5.0,0.25]
+        ],
+        "other": [2.0,0.25]}],
+    ["hbm:item.hazmat_helmet_red","hbm:item.hazmat_plate_red","hbm:item.hazmat_legs_red","hbm:item.hazmat_boots_red",
+      {}],
+    ["hbm:item.hazmat_helmet_grey","hbm:item.hazmat_plate_grey","hbm:item.hazmat_legs_grey","hbm:item.hazmat_boots_grey",
+      {}],
+    ["hbm:item.t45_helmet","hbm:item.t45_plate","hbm:item.t45_legs","hbm:item.t45_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",0.5,0.3499999940395355],
+          ["PROJ",2.0,0.15000000596046448],
+          ["EXPL",5.0,0.25]
+        ],
+        "other": [0.0,0.10000000149011612]}],
+    ["hbm:item.cobalt_helmet","hbm:item.cobalt_plate","hbm:item.cobalt_legs","hbm:item.cobalt_boots",
+      {
+        "category": [
+          ["PROJ",2.0,0.10000000149011612]
+        ]}],
+    ["hbm:item.liquidator_helmet","hbm:item.liquidator_plate","hbm:item.liquidator_legs","hbm:item.liquidator_boots",
+      {}],
+    ["hbm:item.ajr_helmet","hbm:item.ajr_plate","hbm:item.ajr_legs","hbm:item.ajr_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",0.5,0.3499999940395355],
+          ["PROJ",4.0,0.15000000596046448],
+          ["EXPL",7.5,0.25]
+        ],
+        "other": [0.0,0.15000000596046448]}],
+    ["hbm:item.rpa_helmet","hbm:item.rpa_plate","hbm:item.rpa_legs","hbm:item.rpa_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",10.0,0.8999999761581421],
+          ["PROJ",25.0,0.6499999761581421],
+          ["EN",25.0,0.75],
+          ["EXPL",15.0,0.25]
+        ],
+        "other": [15.0,0.30000001192092896]}],
+    ["hbm:item.security_helmet","hbm:item.security_plate","hbm:item.security_legs","hbm:item.security_boots",
+      {
+        "category": [
+          ["PROJ",5.0,0.5],
+          ["EXPL",2.0,0.25]
+        ]}],
+    ["hbm:item.trenchmaster_helmet","hbm:item.trenchmaster_plate","hbm:item.trenchmaster_legs","hbm:item.trenchmaster_boots",
+      {
+        "exact": [
+          ["fall",10.0,0.5],
+          ["LASER",15.0,0.8999999761581421]
+        ],
+        "category": [
+          ["FIRE",5.0,0.5],
+          ["PROJ",5.0,0.5],
+          ["EXPL",5.0,0.25]
+        ],
+        "other": [5.0,0.25]}],
+    ["hbm:item.robes_helmet","hbm:item.robes_plate","hbm:item.robes_legs","hbm:item.robes_boots",
+      {}],
+    ["hbm:item.alloy_helmet","hbm:item.alloy_plate","hbm:item.alloy_legs","hbm:item.alloy_boots",
+      {
+        "category": [
+          ["PROJ",2.0,0.10000000149011612]
+        ]}],
+    ["hbm:item.taurun_helmet","hbm:item.taurun_plate","hbm:item.taurun_legs","hbm:item.taurun_boots",
+      {
+        "exact": [
+          ["fall",4.0,0.5]
+        ],
+        "category": [
+          ["FIRE",0.0,0.25],
+          ["PROJ",2.0,0.15000000596046448],
+          ["EXPL",0.0,0.25]
+        ],
+        "other": [2.0,0.10000000149011612]}],
+    ["hbm:item.bj_helmet","hbm:item.bj_plate_jetpack","hbm:item.bj_legs","hbm:item.bj_boots",
+      {
+        "exact": [
+          ["fall",0.0,1.0]
+        ],
+        "category": [
+          ["FIRE",2.5,0.5],
+          ["PROJ",5.0,0.5],
+          ["EXPL",10.0,0.25]
+        ],
+        "other": [2.0,0.15000000596046448]}],
+    ["hbm:item.hazmat_paa_helmet","hbm:item.hazmat_paa_plate","hbm:item.hazmat_paa_legs","hbm:item.hazmat_paa_boots",
+      {}],
+    ["hbm:item.dns_helmet","hbm:item.dns_plate","hbm:item.dns_legs","hbm:item.dns_boots",
+      {
+        "category": [
+          ["FIRE",0.0,1.0],
+          ["EXPL",100.0,0.9900000095367432]
+        ],
+        "other": [100.0,1.0]}],
+    ["hbm:item.dieselsuit_helmet","hbm:item.dieselsuit_plate","hbm:item.dieselsuit_legs","hbm:item.dieselsuit_boots",
+      {
+        "category": [
+          ["FIRE",0.5,0.5],
+          ["PROJ",1.0,0.15000000596046448],
+          ["EXPL",2.0,0.15000000596046448]
+        ],
+        "other": [0.0,0.10000000149011612]}],
+    ["hbm:item.steamsuit_helmet","hbm:item.steamsuit_plate","hbm:item.steamsuit_legs","hbm:item.steamsuit_boots",
+      {
+        "exact": [
+          ["fall",5.0,0.25]
+        ],
+        "category": [
+          ["FIRE",0.5,0.25],
+          ["PROJ",2.0,0.15000000596046448]
+        ],
+        "other": [0.0,0.10000000149011612]}]
+  ],
+  "entityStats": [
+    ["net.minecraft.entity.monster.EntityCreeper",
+      {
+        "category": [
+          ["EXPL",2.0,0.25]
+        ]}]
+  ]
+}

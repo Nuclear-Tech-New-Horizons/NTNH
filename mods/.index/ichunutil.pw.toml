@@ -1,0 +1,16 @@
+filename = 'iChunUtil-4.2.3.jar'
+name = 'iChunUtil'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b46c0d444f0d61e3c3e98626e49ec834993c8417'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2338148
+project-id = 229060

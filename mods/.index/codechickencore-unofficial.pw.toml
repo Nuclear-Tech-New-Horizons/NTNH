@@ -1,0 +1,16 @@
+filename = 'CodeChickenCore-1.4.1.jar'
+name = 'CodeChickenCore Unofficial 1.7.10'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1d247172e0abe2879bbf9a30acb187dfc0292852'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6070102
+project-id = 746279

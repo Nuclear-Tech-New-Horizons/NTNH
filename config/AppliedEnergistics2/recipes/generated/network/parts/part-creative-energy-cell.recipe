@@ -1,0 +1,3 @@
+shapeless=
+    ae2:ItemPart.CableAnchor ae2:BlockCreativeEnergyCell
+    -> 1 ae2:ItemPart.PartCreativeEnergy

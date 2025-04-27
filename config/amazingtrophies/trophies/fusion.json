@@ -1,0 +1,11 @@
+{
+  "id": "fusion",
+  "condition": {
+    "type": "achievement",
+    "id": "fusion"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.iter"
+  }
+}

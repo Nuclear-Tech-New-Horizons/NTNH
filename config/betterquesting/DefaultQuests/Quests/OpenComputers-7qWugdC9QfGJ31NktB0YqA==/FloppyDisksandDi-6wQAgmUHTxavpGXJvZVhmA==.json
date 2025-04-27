@@ -1,0 +1,83 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1809908221839128987,
+      "questIDLow:4": -6525338611614709347,
+      "type:1": 1
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The Disk Drive can be used to read Floppy Disks using a computer connected to the Disk Drive. \n\nThis is useful to get started, since the lower tier Computer Cases do not have a built-in floppy slot, and you\u0027ll need an operating system to boot up the computer. An OpenOS disk can be crafted using an empty floppy disk and a manual.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 4,
+        "OreDict:8": "",
+        "id:8": "OpenComputers:item"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Floppy Disks and Disk Drive",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -1512083014848917738,
+  "questIDLow:4": -5790391303748099688,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:item",
+          "tag:10": {
+            "display:10": {
+              "Name:8": "OpenOS (Operating System)"
+            },
+            "oc:color:3": 2,
+            "oc:data:10": {
+              "oc:fs.label:8": "openos"
+            },
+            "oc:lootFactory:8": "OpenComputers:openos"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:diskDrive"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}

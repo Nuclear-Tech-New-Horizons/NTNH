@@ -1,0 +1,16 @@
+filename = 'DMod-1.7.10-1.0.3.5.jar'
+name = 'D-Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '799fc45c730a35103772bc20b989f1a51671c9f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4523625
+project-id = 513764

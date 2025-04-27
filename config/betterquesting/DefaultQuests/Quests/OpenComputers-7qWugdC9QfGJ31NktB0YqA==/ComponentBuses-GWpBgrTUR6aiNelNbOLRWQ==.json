@@ -1,0 +1,93 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 5492112994879153,
+      "questIDLow:4": -7537379118163002550
+    },
+    "1:10": {
+      "questIDHigh:4": -1809908221839128987,
+      "questIDLow:4": -6525338611614709347
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "A Component Bus is a server-specific upgrade that allows the server to communicate with more components at the same time, without shutting down. \n\nLike with CPUs, higher tier buses provide higher component limits. Higher tier servers are also capable of taking more component buses, allowing for communication with many more components.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 70,
+        "OreDict:8": "",
+        "id:8": "OpenComputers:item"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Component Buses",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 1831348228114892710,
+  "questIDLow:4": -6758239147051003559,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 70,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:item"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 71,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:item"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 72,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:item"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 125
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The ME Export Bus is an item which is used to Export items from the ME Network into a machine or other input inventory. \n\nThe ME Import Bus is an item which is used to import items directly into the ME Network from a machine or other output inventory.\n\nThe ME Storage Bus, when attached to an block/tile entity with an inventory (generally a storage unit,such as chests or Mass Storage Units) and then further on to an ME Network, will allow you to expand your ME Network to include that inventory\u0027s contents, making it accessible directly from the ME Terminal.\n\nIt is recommended that Interfaces are used over Export/Import buses for performance reasons.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 260,
+        "OreDict:8": "",
+        "id:8": "appliedenergistics2:item.ItemMultiPart"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "ME Buses",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 130,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 260,
+          "OreDict:8": "",
+          "id:8": "appliedenergistics2:item.ItemMultiPart"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 240,
+          "OreDict:8": "",
+          "id:8": "appliedenergistics2:item.ItemMultiPart"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 220,
+          "OreDict:8": "",
+          "id:8": "appliedenergistics2:item.ItemMultiPart"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 7606679157914027127,
+      "questIDLow:4": -7540605868707353005
+    },
+    "1:10": {
+      "questIDHigh:4": -8230734542605238237,
+      "questIDLow:4": -9014159122841897299
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Pneumatic Pipes are an instant form of item transportation which can cover large distances.\n\nThe pipes must have compressed pressurised air, which can be created from taking compressed air from an Atmospheric Compressor and compressing it in a Compressor.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "hbm:tile.pneumatic_tube"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Pneumatic Pipes",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3660426827474845303,
+  "questIDLow:4": -5152376500978451888,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.pneumatic_tube"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

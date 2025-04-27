@@ -1,0 +1,11 @@
+{
+  "id": "robot",
+  "condition": {
+    "type": "achievement",
+    "id": "zirnox"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "OpenComputers:robot"
+  }
+}

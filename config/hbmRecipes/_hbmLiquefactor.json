@@ -1,0 +1,149 @@
+{
+  "comment": "As with most handlers, stacksizes for the inputs are ignored and default to 1.",
+  "recipes": [
+    {
+      "input": ["dict","dustCoal"],
+      "output": ["COALOIL",100]
+    },
+    {
+      "input": ["item","minecraft:packed_ice"],
+      "output": ["WATER",2000]
+    },
+    {
+      "input": ["item","minecraft:ice"],
+      "output": ["WATER",1000]
+    },
+    {
+      "input": ["item","minecraft:obsidian"],
+      "output": ["LAVA",500]
+    },
+    {
+      "input": ["dict","logWood"],
+      "output": ["MUG",100]
+    },
+    {
+      "input": ["item","minecraft:fish",1,32767],
+      "output": ["FISHOIL",100]
+    },
+    {
+      "input": ["item","minecraft:tallgrass",1,1],
+      "output": ["SEEDSLURRY",100]
+    },
+    {
+      "input": ["item","hbm:tile.ore_oil_sand"],
+      "output": ["BITUMEN",100]
+    },
+    {
+      "input": ["dict","coaltar"],
+      "output": ["BITUMEN",50]
+    },
+    {
+      "input": ["item","minecraft:netherrack"],
+      "output": ["LAVA",250]
+    },
+    {
+      "input": ["dict","dustSodium"],
+      "output": ["SODIUM",100]
+    },
+    {
+      "input": ["item","minecraft:wheat_seeds"],
+      "output": ["SEEDSLURRY",50]
+    },
+    {
+      "input": ["item","hbm:tile.plant_flower",1,4],
+      "output": ["ETHANOL",50]
+    },
+    {
+      "input": ["dict","dustLead"],
+      "output": ["LEAD",100]
+    },
+    {
+      "input": ["item","minecraft:sugar"],
+      "output": ["ETHANOL",100]
+    },
+    {
+      "input": ["item","hbm:item.flesh"],
+      "output": ["BLOOD",100]
+    },
+    {
+      "input": ["dict","gemCoal"],
+      "output": ["COALOIL",100]
+    },
+    {
+      "input": ["item","hbm:item.glyphid_gland_empty"],
+      "output": ["BIOGAS",2000]
+    },
+    {
+      "input": ["item","minecraft:double_plant"],
+      "output": ["SUNFLOWEROIL",100]
+    },
+    {
+      "input": ["item","hbm:tile.dry_ice"],
+      "output": ["CARBONDIOXIDE",1000]
+    },
+    {
+      "input": ["item","hbm:item.biomass"],
+      "output": ["BIOGAS",125]
+    },
+    {
+      "input": ["dict","ingotLead"],
+      "output": ["LEAD",100]
+    },
+    {
+      "input": ["dict","cracktar"],
+      "output": ["BITUMEN",100]
+    },
+    {
+      "input": ["item","minecraft:ender_pearl"],
+      "output": ["ENDERJUICE",100]
+    },
+    {
+      "input": ["item","minecraft:stone"],
+      "output": ["LAVA",250]
+    },
+    {
+      "input": ["item","minecraft:tallgrass",1,2],
+      "output": ["SEEDSLURRY",100]
+    },
+    {
+      "input": ["item","hbm:item.ingot_osmiridium"],
+      "output": ["ETHANOL",24000]
+    },
+    {
+      "input": ["item","minecraft:snowball"],
+      "output": ["WATER",125]
+    },
+    {
+      "input": ["item","minecraft:vine"],
+      "output": ["SEEDSLURRY",100]
+    },
+    {
+      "input": ["dict","gemLignite"],
+      "output": ["COALOIL",50]
+    },
+    {
+      "input": ["dict","dustLignite"],
+      "output": ["COALOIL",50]
+    },
+    {
+      "input": ["dict","oiltar"],
+      "output": ["BITUMEN",75]
+    },
+    {
+      "input": ["item","hbm:item.pellet_charged"],
+      "output": ["HELIUM4",4000]
+    },
+    {
+      "input": ["item","hbm:tile.plant_flower",1,3],
+      "output": ["ETHANOL",150]
+    },
+    {
+      "input": ["item","minecraft:snow"],
+      "output": ["WATER",500]
+    },
+    {
+      "input": ["item","minecraft:cobblestone"],
+      "output": ["LAVA",250]
+    }
+  ]
+}

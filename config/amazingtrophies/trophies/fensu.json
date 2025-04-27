@@ -1,0 +1,11 @@
+{
+  "id": "fensu",
+  "condition": {
+    "type": "achievement",
+    "id": "fensu"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_fensu"
+  }
+}

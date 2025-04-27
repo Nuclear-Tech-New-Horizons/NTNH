@@ -1,0 +1,16 @@
+filename = 'AnimationAPI-1.7.10-1.2.4.jar'
+name = 'AnimationAPI'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bc1698fbce79e6769d6c5f395fe692de3ce642b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2221721
+project-id = 77191

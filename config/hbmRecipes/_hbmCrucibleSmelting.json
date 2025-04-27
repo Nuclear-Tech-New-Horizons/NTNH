@@ -1,0 +1,217 @@
+{
+  "comment": "Defines a set of items that can be smelted. Smelting generated from the ore dictionary (prefix + material) is auto-generated and cannot be changed. This config only changes fixed items (like recycling for certain metallic objects) and ores (with variable byproducts). Amounts used are in quanta (1 quantum is 1/72 of an ingot or 1/8 of a nugget). Material names are the ore dict suffixes, case-sensitive.",
+  "recipes": [
+    {
+      "input": ["item","hbm:item.powder_ash"],
+      "output": [["Carbon",8]]
+    },
+    {
+      "input": ["item","hbm:item.powder_ash",1,2],
+      "output": [["Carbon",8]]
+    },
+    {
+      "input": ["item","hbm:item.stamp_steel_flat"],
+      "output": [["Steel",216]]
+    },
+    {
+      "input": ["item","hbm:item.casing",1,3],
+      "output": [["WeaponSteel",36]]
+    },
+    {
+      "input": ["item","minecraft:obsidian"],
+      "output": [["Obsidian",648]]
+    },
+    {
+      "input": ["item","hbm:tile.stone_resource",1,4],
+      "output": [["Flux",720]]
+    },
+    {
+      "input": ["item","hbm:item.powder_flux"],
+      "output": [["Flux",72]]
+    },
+    {
+      "input": ["item","minecraft:minecart"],
+      "output": [["Iron",360]]
+    },
+    {
+      "input": ["item","hbm:item.pipes_steel"],
+      "output": [["Steel",1944]]
+    },
+    {
+      "input": ["item","hbm:item.casing"],
+      "output": [["GunMetal",18]]
+    },
+    {
+      "input": ["item","hbm:item.blades_steel"],
+      "output": [["Steel",288]]
+    },
+    {
+      "input": ["item","hbm:item.stamp_obsidian_flat"],
+      "output": [["Obsidian",216]]
+    },
+    {
+      "input": ["item","minecraft:rail"],
+      "output": [["Iron",27]]
+    },
+    {
+      "input": ["item","minecraft:golden_rail"],
+      "output": [["Gold",72],["Redstone",12]]
+    },
+    {
+      "input": ["item","hbm:item.powder_ash",1,1],
+      "output": [["Carbon",16]]
+    },
+    {
+      "input": ["item","hbm:item.blade_titanium"],
+      "output": [["Titanium",144]]
+    },
+    {
+      "input": ["item","minecraft:coal",1,1],
+      "output": [["Carbon",24]]
+    },
+    {
+      "input": ["item","hbm:item.ring_starmetal"],
+      "output": [["Starmetal",288]]
+    },
+    {
+      "input": ["item","hbm:item.blades_advanced_alloy"],
+      "output": [["AdvancedAlloy",288]]
+    },
+    {
+      "input": ["item","hbm:item.casing",1,2],
+      "output": [["WeaponSteel",18]]
+    },
+    {
+      "input": ["item","hbm:tile.stone_resource",1,7],
+      "output": [["Flux",864]]
+    },
+    {
+      "input": ["item","hbm:item.blades_titanium"],
+      "output": [["Titanium",288]]
+    },
+    {
+      "input": ["item","minecraft:detector_rail"],
+      "output": [["Iron",72],["Redstone",12]]
+    },
+    {
+      "input": ["item","hbm:item.casing",1,1],
+      "output": [["GunMetal",36]]
+    },
+    {
+      "input": ["item","hbm:item.stamp_iron_flat"],
+      "output": [["Iron",216]]
+    },
+    {
+      "input": ["item","hbm:item.blade_tungsten"],
+      "output": [["Tungsten",144]]
+    },
+    {
+      "input": ["item","hbm:item.chunk_ore",1,2],
+      "output": [["Aluminum",72],["Sodium",72]]
+    },
+    {
+      "input": ["item","hbm:item.stamp_stone_flat"],
+      "output": [["Stone",216]]
+    },
+    {
+      "input": ["item","hbm:item.stamp_titanium_flat"],
+      "output": [["Titanium",216]]
+    },
+    {
+      "input": ["dict","oreMalachite"],
+      "output": [["Malachite",432]]
+    },
+    {
+      "input": ["dict","oreAluminum"],
+      "output": [["Aluminum",144],["Sodium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreconglomerate"],
+      "output": [["conglomerate",288]]
+    },
+    {
+      "input": ["dict","oreIron"],
+      "output": [["Iron",144],["Titanium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreNetherThorium232"],
+      "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreNetherTh232"],
+      "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreTh232"],
+      "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreHematite"],
+      "output": [["Hematite",72]]
+    },
+    {
+      "input": ["dict","oreThorium232"],
+      "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreBeryllium"],
+      "output": [["Beryllium",144],["Stone",162]]
+    },
+    {
+      "input": ["dict","stone"],
+      "output": [["Stone",648]]
+    },
+    {
+      "input": ["dict","oreGold"],
+      "output": [["Gold",144],["Lead",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreLead"],
+      "output": [["Lead",144],["Gold",8],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreCoal"],
+      "output": [["Carbon",216],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreCobalt"],
+      "output": [["Cobalt",72],["Stone",162]]
+    },
+    {
+      "input": ["dict","cobblestone"],
+      "output": [["Stone",648]]
+    },
+    {
+      "input": ["dict","oreThorium"],
+      "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreRedstone"],
+      "output": [["Redstone",288],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreTungsten"],
+      "output": [["Tungsten",144],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreCopper"],
+      "output": [["Copper",144],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreUranium"],
+      "output": [["Uranium",144],["Lead",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreNetherThorium"],
+      "output": [["Thorium232",144],["Uranium",24],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreNickel"],
+      "output": [["Nickel",144],["Stone",162]]
+    },
+    {
+      "input": ["dict","oreTitanium"],
+      "output": [["Titanium",144],["Iron",24],["Stone",162]]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustRedstone ae2:BlockQuartzGlass,
+    oredictionary:dustRedstone _ oredictionary:dustRedstone,
+    oredictionary:ingotIron oredictionary:ingotIron oredictionary:ingotIron
+    -> ae2:ItemMaterial.EmptyStorageCell
+
+shaped=
+    ae2:BlockQuartzGlass oredictionary:dustFluix ae2:BlockQuartzGlass,
+    oredictionary:dustFluix _ oredictionary:dustFluix,
+    oredictionary:gemDiamond oredictionary:gemDiamond oredictionary:gemDiamond
+    -> ae2:ItemMaterial.EmptyAdvancedStorageCell

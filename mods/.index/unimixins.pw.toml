@@ -1,0 +1,16 @@
+filename = '+unimixins-all-1.7.10-0.1.20.jar'
+name = 'UniMixins'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '15b7d0aafa7a3b88cfa9d5ce68e6a3bf2117255e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6255669
+project-id = 826970

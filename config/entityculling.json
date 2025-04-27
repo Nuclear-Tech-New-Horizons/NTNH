@@ -1,0 +1,12 @@
+{
+  "configVersion": 4,
+  "renderNametagsThroughWalls": true,
+  "blockEntityWhitelist": [
+    "tile.beacon"
+  ],
+  "tracingDistance": 128,
+  "debugMode": false,
+  "sleepDelay": 10,
+  "hitboxLimit": 50,
+  "skipMarkerArmorStands": true
+}

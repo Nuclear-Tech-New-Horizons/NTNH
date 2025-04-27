@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1809908221839128987,
+      "questIDLow:4": -6525338611614709347
+    },
+    "1:10": {
+      "questIDHigh:4": -1206229632949400496,
+      "questIDLow:4": -8132060648773646286
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The Internet Card grants computers access to the internet. It provides ways to perform simple HTTP requests, as well as to open plain TCP client sockets that can be read and written to.\n\nInstalling an Internet Card in a computer will also attach a custom file system that contains a few internet related applications, such as one for downloading and uploading snippets from/to pastebin as well as a \"wget\" clone that allows downloading data from arbitrary HTTP URLs.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 44,
+        "OreDict:8": "",
+        "id:8": "OpenComputers:item"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Internet Card",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3049837447604715338,
+  "questIDLow:4": -8276284789645043977,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 44,
+          "OreDict:8": "",
+          "id:8": "OpenComputers:item"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "arc_furnace",
+  "condition": {
+    "type": "achievement",
+    "id": "arc_furnace"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_arc_furnace"
+  }
+}

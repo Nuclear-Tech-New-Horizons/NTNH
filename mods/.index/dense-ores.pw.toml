@@ -1,0 +1,16 @@
+filename = 'denseores-1.6.2.jar'
+name = 'Dense Ores'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '40f3925a6df561b83efc349acdbcf730ba49800e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2234692
+project-id = 224942

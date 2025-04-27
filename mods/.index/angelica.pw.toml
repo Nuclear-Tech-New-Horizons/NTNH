@@ -1,0 +1,16 @@
+filename = 'angelica-1.0.0-beta40.jar'
+name = 'Angelica'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfb511f6bdb66e814041532028d7aa89ad3a62b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6325511
+project-id = 988067

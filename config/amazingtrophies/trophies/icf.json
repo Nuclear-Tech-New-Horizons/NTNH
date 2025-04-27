@@ -1,0 +1,11 @@
+{
+  "id": "icf",
+  "condition": {
+    "type": "achievement",
+    "id": "icf"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.icf"
+  }
+}

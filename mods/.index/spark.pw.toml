@@ -1,0 +1,16 @@
+filename = 'spark-1.10.19-forge1710.jar'
+name = 'spark'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10', '1.7.8', '1.7.9' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'b0a0242d5ae13a035b9f57c394c146a500881cd6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4271867
+project-id = 361579

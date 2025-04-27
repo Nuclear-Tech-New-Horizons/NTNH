@@ -1,0 +1,11 @@
+{
+  "id": "acidizer",
+  "condition": {
+    "type": "achievement",
+    "id": "acidizer"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_crystallizer"
+  }
+}

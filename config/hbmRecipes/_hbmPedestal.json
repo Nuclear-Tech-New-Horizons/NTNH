@@ -1,0 +1,199 @@
+{
+  "recipes": [
+    {
+      "output": ["hbm:item.gun_light_revolver_dani"],
+      "input": [
+        null,
+        ["dict","plateLead"],
+        null,
+        ["dict","plateGold"],
+        ["item","hbm:item.gun_light_revolver"],
+        ["dict","plateGold"],
+        null,
+        ["dict","plateLead"],
+        null
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_maresleg_broken"],
+      "input": [
+        ["item","hbm:tile.barbed_wire"],
+        ["dict","plateWeaponSteel"],
+        ["item","hbm:tile.barbed_wire"],
+        ["dict","plateWeaponSteel"],
+        ["item","hbm:item.gun_maresleg"],
+        ["dict","plateWeaponSteel"],
+        ["item","hbm:tile.barbed_wire"],
+        ["dict","plateWeaponSteel"],
+        ["item","hbm:tile.barbed_wire"]
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_heavy_revolver_lilmac"],
+      "input": [
+        null,
+        ["item","hbm:item.weapon_mod_special",1,1],
+        null,
+        ["item","hbm:item.powder_magic"],
+        ["item","hbm:item.gun_heavy_revolver"],
+        ["dict","plateWeaponSteel"],
+        null,
+        ["dict","gripBone"],
+        ["item","minecraft:apple",3]
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_heavy_revolver_protege"],
+      "input": [
+        ["item","hbm:tile.dungeon_chain",16],
+        ["dict","gemCinnabar"],
+        ["item","hbm:tile.dungeon_chain",16],
+        ["item","hbm:item.scrap_nuclear"],
+        ["item","hbm:item.gun_heavy_revolver"],
+        ["item","hbm:item.scrap_nuclear"],
+        ["item","hbm:tile.dungeon_chain",16],
+        ["dict","gemCinnabar"],
+        ["item","hbm:tile.dungeon_chain",16]
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_flamer_daybreaker"],
+      "input": [
+        ["dict","plateTripleGold"],
+        ["item","hbm:item.canned_conserve",1,5],
+        ["dict","plateTripleGold"],
+        ["dict","ingotWhitePhosphorus"],
+        ["item","hbm:item.gun_flamer"],
+        ["dict","ingotWhitePhosphorus"],
+        ["dict","plateTripleGold"],
+        ["item","hbm:item.stick_dynamite"],
+        ["dict","plateTripleGold"]
+      ],
+      "extra": "SUN"
+    },
+    {
+      "output": ["hbm:item.gun_autoshotgun_sexy"],
+      "input": [
+        ["item","hbm:item.bolt_spike",16],
+        ["dict","ingotStarmetal",4],
+        ["item","hbm:item.bolt_spike",16],
+        ["item","hbm:item.card_qos"],
+        ["item","hbm:item.gun_autoshotgun"],
+        ["item","hbm:item.card_aos"],
+        ["item","hbm:item.bolt_spike",16],
+        ["dict","ingotStarmetal",4],
+        ["item","hbm:item.bolt_spike",16]
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_minigun_lacunae"],
+      "input": [
+        null,
+        ["item","hbm:item.powder_magic",4],
+        null,
+        ["item","hbm:item.item_secret",4,2],
+        ["item","hbm:item.gun_minigun"],
+        ["item","hbm:item.item_secret",4,2],
+        null,
+        ["item","hbm:item.powder_magic",4],
+        null
+      ],
+      "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.gun_folly"],
+      "input": [
+        ["item","hbm:item.item_secret",4,2],
+        ["item","hbm:item.item_secret",2,1],
+        ["item","hbm:item.item_secret",4,2],
+        ["dict","ingotBSCCO",16],
+        ["dict","blockStarmetal",64],
+        ["dict","ingotBSCCO",16],
+        ["item","hbm:item.item_secret",4,2],
+        ["item","hbm:item.item_secret",2,1],
+        ["item","hbm:item.item_secret",4,2]
+      ],
+      "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.gun_aberrator"],
+      "input": [
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        ["dict","gunMechanismSaturnite",4],
+        ["item","hbm:item.item_secret",1,3],
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        null
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.gun_aberrator_eott"],
+      "input": [
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["dict","gunMechanismSaturnite",16],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3],
+        ["item","hbm:item.item_secret",1,3]
+      ],
+      "extra": "NONE"
+    },
+    {
+      "output": ["hbm:item.ammo_secret"],
+      "input": [
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["item","hbm:tile.moon_turf"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"]
+      ],
+      "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.ammo_secret",1,1],
+      "input": [
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["item","hbm:item.ammo_standard",4,75],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"],
+        ["item","hbm:item.powder_magic"],
+        ["dict","ingotStarmetal"]
+      ],
+      "extra": "FULL_MOON"
+    },
+    {
+      "output": ["hbm:item.ammo_secret",5,5],
+      "input": [
+        null,
+        null,
+        null,
+        null,
+        ["item","hbm:item.item_secret",1,3],
+        null,
+        null,
+        null,
+        null
+      ],
+      "extra": "NONE"
+    }
+  ]
+}

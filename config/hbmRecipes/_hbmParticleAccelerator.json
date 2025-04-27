@@ -1,0 +1,106 @@
+{
+  "recipes": [
+    {
+      "momentum": 300,
+      "inputs": [
+        ["item","hbm:item.particle_hydrogen"],
+        ["item","hbm:item.particle_copper"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_amat"]
+      ]
+    },
+    {
+      "momentum": 400,
+      "inputs": [
+        ["item","hbm:item.particle_amat"],
+        ["item","hbm:item.particle_amat"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_aschrab"]
+      ]
+    },
+    {
+      "momentum": 10000,
+      "inputs": [
+        ["item","hbm:item.particle_aschrab"],
+        ["item","hbm:item.particle_aschrab"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_dark"]
+      ]
+    },
+    {
+      "momentum": 2500,
+      "inputs": [
+        ["item","hbm:item.particle_hydrogen"],
+        ["item","hbm:item.particle_amat"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_muon"]
+      ]
+    },
+    {
+      "momentum": 6500,
+      "inputs": [
+        ["item","hbm:item.particle_hydrogen"],
+        ["item","hbm:item.particle_lead"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_higgs"]
+      ]
+    },
+    {
+      "momentum": 5000,
+      "inputs": [
+        ["item","hbm:item.particle_muon"],
+        ["item","hbm:item.particle_higgs"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_tachyon"]
+      ]
+    },
+    {
+      "momentum": 12500,
+      "inputs": [
+        ["item","hbm:item.particle_muon"],
+        ["item","hbm:item.particle_dark"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_strange"]
+      ]
+    },
+    {
+      "momentum": 12500,
+      "inputs": [
+        ["item","hbm:item.particle_strange"],
+        ["item","hbm:item.powder_magic"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_sparkticle"],
+        ["hbm:item.dust"]
+      ]
+    },
+    {
+      "momentum": 70000,
+      "inputs": [
+        ["item","hbm:item.particle_sparkticle"],
+        ["item","hbm:item.particle_higgs"]
+      ],
+      "outputs": [
+        ["hbm:item.particle_digamma"]
+      ]
+    },
+    {
+      "momentum": 100,
+      "inputs": [
+        ["item","minecraft:chicken"],
+        ["item","minecraft:chicken"]
+      ],
+      "outputs": [
+        ["hbm:item.nugget"],
+        ["hbm:item.nugget"]
+      ]
+    }
+  ]
+}

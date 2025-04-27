@@ -1,0 +1,14 @@
+{
+  "CUSTOM_DEMO": {
+    "name": "Custom Fluid Demo",
+    "id": 1000,
+    "color": 16711680,
+    "tint": 16711680,
+    "p": 1,
+    "f": 2,
+    "r": 0,
+    "symbol": "OXIDIZER",
+    "texture": "custom_water",
+    "temperature": 20
+  }
+}

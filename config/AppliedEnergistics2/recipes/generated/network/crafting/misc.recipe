@@ -1,0 +1,5 @@
+shaped=
+    ae2:ItemMaterial.LogicProcessor ae2:ItemMaterial.EngProcessor ae2:ItemMaterial.LogicProcessor,
+    ae2:ItemMaterial.EngProcessor ae2:BlockCraftingUnit:0 ae2:ItemMaterial.EngProcessor,
+    ae2:ItemMaterial.LogicProcessor ae2:ItemMaterial.EngProcessor ae2:ItemMaterial.LogicProcessor
+    -> ae2:BlockPatternOptimizationMatrix

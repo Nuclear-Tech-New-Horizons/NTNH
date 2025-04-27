@@ -1,0 +1,11 @@
+{
+  "id": "chemplant",
+  "condition": {
+    "type": "achievement",
+    "id": "chemplant"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_chemplant"
+  }
+}

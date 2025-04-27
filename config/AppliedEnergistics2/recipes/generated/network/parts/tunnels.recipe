@@ -1,0 +1,13 @@
+shaped=
+    _ oredictionary:ingotIron _,
+    oredictionary:ingotIron ae2:ItemMaterial.EngProcessor oredictionary:ingotIron,
+    fluixCrystal fluixCrystal fluixCrystal
+    -> ae2:ItemPart.P2PTunnelME
+
+shapeless=
+    ae2:ItemPart.P2PTunnelME ae2:ItemPart.Interface
+    -> ae2:ItemPart.P2PTunnelInterface
+
+shapeless=
+    ae2:ItemPart.P2PTunnelME ae2:BlockInterface
+    -> ae2:ItemPart.P2PTunnelInterface

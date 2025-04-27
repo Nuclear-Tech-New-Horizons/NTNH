@@ -1,0 +1,11 @@
+{
+  "id": "pyrooven",
+  "condition": {
+    "type": "achievement",
+    "id": "pyrooven"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_pyrooven"
+  }
+}

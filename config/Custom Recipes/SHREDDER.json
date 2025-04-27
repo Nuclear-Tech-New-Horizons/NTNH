@@ -1,0 +1,12 @@
+    {
+      "input": ["minecraft:wheat"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,4]
+    },
+    {
+      "input": ["minecraft:ender_pearl"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,46]
+    },
+    {
+      "input": ["appliedenergistics2:tile.BlockSkyStone"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,45]
+    },

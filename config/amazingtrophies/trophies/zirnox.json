@@ -1,0 +1,11 @@
+{
+  "id": "zirnox",
+  "condition": {
+    "type": "achievement",
+    "id": "zirnox"
+  },
+  "model": {
+    "type": "item",
+    "registryName": "hbm:tile.machine_zirnox"
+  }
+}

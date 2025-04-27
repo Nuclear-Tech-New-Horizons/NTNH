@@ -1,0 +1,159 @@
+{
+  "recipes": [
+    {
+      "input": ["item","hbm:item.rod_quad"],
+      "flux": 600,
+      "output": ["hbm:item.rod_quad",1,1]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,4],
+      "flux": 500,
+      "output": ["hbm:item.rod",1,5]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,2],
+      "flux": 300,
+      "output": ["hbm:item.rod_quad",1,3]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,6],
+      "flux": 300,
+      "output": ["hbm:item.rod",1,7]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,8],
+      "flux": 300,
+      "output": ["hbm:item.rod",1,11]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,7],
+      "flux": 400,
+      "output": ["hbm:item.rod_dual",1,9]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,14],
+      "flux": 200,
+      "output": ["hbm:item.rod",1,11]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,14],
+      "flux": 600,
+      "output": ["hbm:item.rod_quad",1,11]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,8],
+      "flux": 900,
+      "output": ["hbm:item.rod_quad",1,11]
+    },
+    {
+      "input": ["item","hbm:item.rod"],
+      "flux": 200,
+      "output": ["hbm:item.rod",1,1]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,4],
+      "flux": 1500,
+      "output": ["hbm:item.rod_quad",1,5]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,2],
+      "flux": 100,
+      "output": ["hbm:item.rod",1,3]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,6],
+      "flux": 900,
+      "output": ["hbm:item.rod_quad",1,7]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,14],
+      "flux": 400,
+      "output": ["hbm:item.rod_dual",1,11]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,4],
+      "flux": 1000,
+      "output": ["hbm:item.rod_dual",1,5]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,2],
+      "flux": 200,
+      "output": ["hbm:item.rod_dual",1,3]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,7],
+      "flux": 200,
+      "output": ["hbm:item.rod",1,9]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,8],
+      "flux": 600,
+      "output": ["hbm:item.rod_dual",1,11]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,9],
+      "flux": 1000,
+      "output": ["hbm:item.rod",1,10]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,6],
+      "flux": 600,
+      "output": ["hbm:item.rod_dual",1,7]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,11],
+      "flux": 200,
+      "output": ["hbm:item.rod",1,12]
+    },
+    {
+      "input": ["item","hbm:item.rod",1,15],
+      "flux": 300,
+      "output": ["hbm:item.rod",1,16]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual"],
+      "flux": 400,
+      "output": ["hbm:item.rod_dual",1,1]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,15],
+      "flux": 900,
+      "output": ["hbm:item.rod_quad",1,16]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,9],
+      "flux": 3000,
+      "output": ["hbm:item.rod_quad",1,10]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,11],
+      "flux": 400,
+      "output": ["hbm:item.rod_dual",1,12]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,9],
+      "flux": 2000,
+      "output": ["hbm:item.rod_dual",1,10]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,11],
+      "flux": 600,
+      "output": ["hbm:item.rod_quad",1,12]
+    },
+    {
+      "input": ["item","hbm:item.meteorite_sword_etched"],
+      "flux": 1000,
+      "output": ["hbm:item.meteorite_sword_bred"]
+    },
+    {
+      "input": ["item","hbm:item.rod_dual",1,15],
+      "flux": 600,
+      "output": ["hbm:item.rod_dual",1,16]
+    },
+    {
+      "input": ["item","hbm:item.rod_quad",1,7],
+      "flux": 600,
+      "output": ["hbm:item.rod_quad",1,9]
+    }
+  ]
+}
