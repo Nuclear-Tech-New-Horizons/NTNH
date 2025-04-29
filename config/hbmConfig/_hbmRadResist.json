@@ -2,203 +2,135 @@
   "comment": "Template file, remove the underscore ('_') from the name to enable the config.",
   "entries": [
     {
-      "item": "hbm:item.cobalt_plate",
-      "resistance": 0.05
-    },
-    {
-      "item": "hbm:item.hev_boots",
-      "resistance": 0.22999999999999998
-    },
-    {
-      "item": "hbm:item.t45_boots",
-      "resistance": 0.1
-    },
-    {
-      "item": "hbm:item.fau_boots",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.bj_plate",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.hazmat_helmet_grey",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.steel_helmet",
-      "resistance": 0.009
-    },
-    {
-      "item": "hbm:item.security_legs",
-      "resistance": 0.24749999999999997
-    },
-    {
-      "item": "hbm:item.steamsuit_legs",
-      "resistance": 0.39
-    },
-    {
-      "item": "hbm:item.hazmat_plate_grey",
-      "resistance": 0.8
-    },
-    {
-      "item": "hbm:item.fau_plate",
-      "resistance": 1.6
-    },
-    {
-      "item": "hbm:item.hazmat_boots_grey",
-      "resistance": 0.2
-    },
-    {
-      "item": "hbm:item.envsuit_legs",
-      "resistance": 0.3
-    },
-    {
-      "item": "hbm:item.titanium_plate",
-      "resistance": 0.018
-    },
-    {
-      "item": "minecraft:iron_helmet",
-      "resistance": 0.0045
-    },
-    {
-      "item": "hbm:item.hazmat_plate",
+      "item": "hbm:item.liquidator_boots",
       "resistance": 0.24
-    },
-    {
-      "item": "hbm:item.cobalt_boots",
-      "resistance": 0.0125
-    },
-    {
-      "item": "minecraft:golden_chestplate",
-      "resistance": 0.009
-    },
-    {
-      "item": "hbm:item.schrabidium_plate",
-      "resistance": 1.2000000000000002
-    },
-    {
-      "item": "hbm:item.t45_plate",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.paa_boots",
-      "resistance": 0.17
-    },
-    {
-      "item": "hbm:item.ajro_legs",
-      "resistance": 0.39
-    },
-    {
-      "item": "hbm:item.ajr_helmet",
-      "resistance": 0.26
-    },
-    {
-      "item": "hbm:item.envsuit_plate",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.rpa_legs",
-      "resistance": 0.6
-    },
-    {
-      "item": "hbm:item.trenchmaster_plate",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.rpa_helmet",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.envsuit_helmet",
-      "resistance": 0.2
-    },
-    {
-      "item": "hbm:item.steel_legs",
-      "resistance": 0.0135
-    },
-    {
-      "item": "hbm:item.trenchmaster_boots",
-      "resistance": 0.1
-    },
-    {
-      "item": "hbm:item.bj_boots",
-      "resistance": 0.1
-    },
-    {
-      "item": "hbm:item.hazmat_legs",
-      "resistance": 0.18
-    },
-    {
-      "item": "hbm:item.ajro_helmet",
-      "resistance": 0.26
     },
     {
       "item": "hbm:item.hev_helmet",
       "resistance": 0.45999999999999996
     },
     {
-      "item": "etfuturum:netherite_leggings",
-      "resistance": 0.3
+      "item": "hbm:item.gas_mask_m65",
+      "resistance": 0.095
     },
     {
-      "item": "hbm:item.ajr_plate",
-      "resistance": 0.52
+      "item": "minecraft:golden_boots",
+      "resistance": 0.00225
     },
     {
-      "item": "hbm:item.envsuit_boots",
-      "resistance": 0.1
+      "item": "hbm:item.rpa_legs",
+      "resistance": 0.6
     },
     {
-      "item": "hbm:item.cmb_plate",
-      "resistance": 0.52
+      "item": "hbm:item.fau_helmet",
+      "resistance": 0.8
     },
     {
-      "item": "hbm:item.dns_boots",
-      "resistance": 0.5
+      "item": "hbm:item.fau_legs",
+      "resistance": 1.2
     },
     {
-      "item": "hbm:item.schrabidium_boots",
-      "resistance": 0.30000000000000004
+      "item": "hbm:item.cobalt_legs",
+      "resistance": 0.0375
+    },
+    {
+      "item": "hbm:item.steel_boots",
+      "resistance": 0.0045
+    },
+    {
+      "item": "hbm:item.steamsuit_boots",
+      "resistance": 0.13
+    },
+    {
+      "item": "hbm:item.paa_plate",
+      "resistance": 0.68
+    },
+    {
+      "item": "hbm:item.titanium_legs",
+      "resistance": 0.0135
     },
     {
       "item": "hbm:item.ajro_plate",
       "resistance": 0.52
     },
     {
-      "item": "hbm:item.alloy_boots",
-      "resistance": 0.007000000000000001
+      "item": "hbm:item.envsuit_plate",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.trenchmaster_helmet",
+      "resistance": 0.2
+    },
+    {
+      "item": "hbm:item.euphemium_helmet",
+      "resistance": 2.0
+    },
+    {
+      "item": "hbm:item.hazmat_helmet_grey",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.dns_boots",
+      "resistance": 0.5
+    },
+    {
+      "item": "hbm:item.steel_plate",
+      "resistance": 0.018
+    },
+    {
+      "item": "hbm:item.hazmat_boots",
+      "resistance": 0.06
+    },
+    {
+      "item": "hbm:item.starmetal_legs",
+      "resistance": 0.3
     },
     {
       "item": "hbm:item.alloy_plate",
       "resistance": 0.028000000000000004
     },
     {
-      "item": "hbm:item.euphemium_boots",
-      "resistance": 1.0
-    },
-    {
-      "item": "hbm:item.paa_legs",
-      "resistance": 0.51
-    },
-    {
-      "item": "hbm:item.liquidator_legs",
-      "resistance": 0.72
-    },
-    {
-      "item": "hbm:item.bj_helmet",
+      "item": "hbm:item.hazmat_helmet_red",
       "resistance": 0.2
     },
     {
-      "item": "minecraft:iron_chestplate",
+      "item": "hbm:item.steel_helmet",
       "resistance": 0.009
     },
     {
-      "item": "hbm:item.hazmat_paa_plate",
-      "resistance": 0.68
+      "item": "hbm:item.hazmat_boots_grey",
+      "resistance": 0.2
     },
     {
-      "item": "hbm:item.hazmat_legs_red",
+      "item": "hbm:item.steamsuit_helmet",
+      "resistance": 0.26
+    },
+    {
+      "item": "minecraft:iron_boots",
+      "resistance": 0.00225
+    },
+    {
+      "item": "hbm:item.hazmat_plate",
+      "resistance": 0.24
+    },
+    {
+      "item": "hbm:item.ajr_boots",
+      "resistance": 0.13
+    },
+    {
+      "item": "hbm:item.ajro_boots",
+      "resistance": 0.13
+    },
+    {
+      "item": "hbm:item.security_boots",
+      "resistance": 0.0825
+    },
+    {
+      "item": "hbm:item.alloy_legs",
+      "resistance": 0.021
+    },
+    {
+      "item": "hbm:item.trenchmaster_legs",
       "resistance": 0.3
     },
     {
@@ -206,195 +138,135 @@
       "resistance": 0.48
     },
     {
-      "item": "hbm:item.dns_helmet",
-      "resistance": 1.0
-    },
-    {
-      "item": "minecraft:iron_boots",
-      "resistance": 0.00225
-    },
-    {
-      "item": "hbm:item.t45_legs",
-      "resistance": 0.3
-    },
-    {
-      "item": "hbm:item.alloy_legs",
-      "resistance": 0.021
-    },
-    {
-      "item": "minecraft:golden_helmet",
-      "resistance": 0.0045
-    },
-    {
-      "item": "hbm:item.starmetal_helmet",
-      "resistance": 0.2
-    },
-    {
-      "item": "etfuturum:netherite_helmet",
-      "resistance": 0.2
-    },
-    {
-      "item": "hbm:item.starmetal_plate",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.paa_plate",
-      "resistance": 0.68
-    },
-    {
-      "item": "hbm:item.security_boots",
-      "resistance": 0.0825
-    },
-    {
-      "item": "hbm:item.starmetal_boots",
-      "resistance": 0.1
-    },
-    {
-      "item": "hbm:item.cmb_boots",
-      "resistance": 0.13
-    },
-    {
-      "item": "hbm:item.jackt2",
-      "resistance": 0.1
-    },
-    {
-      "item": "hbm:item.fau_legs",
-      "resistance": 1.2
-    },
-    {
-      "item": "hbm:item.liquidator_plate",
-      "resistance": 0.96
-    },
-    {
-      "item": "hbm:item.cmb_helmet",
-      "resistance": 0.26
-    },
-    {
-      "item": "hbm:item.alloy_helmet",
-      "resistance": 0.014000000000000002
-    },
-    {
-      "item": "hbm:item.dns_legs",
-      "resistance": 1.5
-    },
-    {
-      "item": "hbm:item.hazmat_paa_legs",
-      "resistance": 0.51
-    },
-    {
-      "item": "hbm:item.hev_plate",
-      "resistance": 0.9199999999999999
-    },
-    {
-      "item": "hbm:item.trenchmaster_legs",
-      "resistance": 0.3
-    },
-    {
-      "item": "etfuturum:netherite_chestplate",
-      "resistance": 0.4
-    },
-    {
-      "item": "hbm:item.steel_plate",
-      "resistance": 0.018
-    },
-    {
-      "item": "hbm:item.ajr_legs",
-      "resistance": 0.39
-    },
-    {
-      "item": "hbm:item.steamsuit_boots",
-      "resistance": 0.13
-    },
-    {
-      "item": "hbm:item.fau_helmet",
-      "resistance": 0.8
-    },
-    {
-      "item": "hbm:item.titanium_legs",
-      "resistance": 0.0135
-    },
-    {
       "item": "hbm:item.hazmat_helmet",
       "resistance": 0.12
     },
     {
-      "item": "hbm:item.hazmat_paa_helmet",
-      "resistance": 0.34
-    },
-    {
-      "item": "hbm:item.security_helmet",
-      "resistance": 0.165
-    },
-    {
-      "item": "hbm:item.dns_plate",
-      "resistance": 2.0
-    },
-    {
-      "item": "hbm:item.euphemium_helmet",
-      "resistance": 2.0
-    },
-    {
-      "item": "hbm:item.euphemium_plate",
-      "resistance": 4.0
-    },
-    {
-      "item": "hbm:item.t45_helmet",
-      "resistance": 0.2
-    },
-    {
-      "item": "minecraft:iron_leggings",
-      "resistance": 0.00675
-    },
-    {
-      "item": "hbm:item.schrabidium_helmet",
-      "resistance": 0.6000000000000001
-    },
-    {
-      "item": "hbm:item.starmetal_legs",
-      "resistance": 0.3
-    },
-    {
-      "item": "hbm:item.liquidator_boots",
-      "resistance": 0.24
-    },
-    {
-      "item": "hbm:item.security_plate",
-      "resistance": 0.33
-    },
-    {
-      "item": "hbm:item.euphemium_legs",
-      "resistance": 3.0
-    },
-    {
-      "item": "hbm:item.steel_boots",
-      "resistance": 0.0045
-    },
-    {
-      "item": "minecraft:golden_boots",
-      "resistance": 0.00225
+      "item": "hbm:item.cobalt_boots",
+      "resistance": 0.0125
     },
     {
       "item": "etfuturum:netherite_boots",
       "resistance": 0.1
     },
     {
-      "item": "hbm:item.hazmat_helmet_red",
+      "item": "hbm:item.alloy_helmet",
+      "resistance": 0.014000000000000002
+    },
+    {
+      "item": "hbm:item.gas_mask",
+      "resistance": 0.07
+    },
+    {
+      "item": "hbm:item.rpa_helmet",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.bj_helmet",
       "resistance": 0.2
     },
     {
-      "item": "hbm:item.hev_legs",
-      "resistance": 0.69
+      "item": "hbm:item.liquidator_legs",
+      "resistance": 0.72
+    },
+    {
+      "item": "hbm:item.bj_plate_jetpack",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.dns_plate",
+      "resistance": 2.0
+    },
+    {
+      "item": "hbm:item.ajr_helmet",
+      "resistance": 0.26
+    },
+    {
+      "item": "hbm:item.alloy_boots",
+      "resistance": 0.007000000000000001
+    },
+    {
+      "item": "hbm:item.hazmat_paa_plate",
+      "resistance": 0.68
+    },
+    {
+      "item": "hbm:item.t45_legs",
+      "resistance": 0.3
+    },
+    {
+      "item": "minecraft:golden_chestplate",
+      "resistance": 0.009
+    },
+    {
+      "item": "hbm:item.titanium_boots",
+      "resistance": 0.0045
+    },
+    {
+      "item": "hbm:item.rpa_boots",
+      "resistance": 0.2
+    },
+    {
+      "item": "hbm:item.liquidator_plate",
+      "resistance": 0.96
     },
     {
       "item": "hbm:item.steamsuit_plate",
       "resistance": 0.52
     },
     {
-      "item": "hbm:item.trenchmaster_helmet",
-      "resistance": 0.2
+      "item": "hbm:item.hazmat_plate_grey",
+      "resistance": 0.8
+    },
+    {
+      "item": "hbm:item.bj_plate",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.hazmat_legs",
+      "resistance": 0.18
+    },
+    {
+      "item": "hbm:item.euphemium_boots",
+      "resistance": 1.0
+    },
+    {
+      "item": "hbm:item.trenchmaster_boots",
+      "resistance": 0.1
+    },
+    {
+      "item": "hbm:item.hev_plate",
+      "resistance": 0.9199999999999999
+    },
+    {
+      "item": "hbm:item.steel_legs",
+      "resistance": 0.0135
+    },
+    {
+      "item": "hbm:item.security_legs",
+      "resistance": 0.24749999999999997
+    },
+    {
+      "item": "hbm:item.hev_legs",
+      "resistance": 0.69
     },
     {
       "item": "hbm:item.hazmat_paa_boots",
+      "resistance": 0.17
+    },
+    {
+      "item": "hbm:item.security_plate",
+      "resistance": 0.33
+    },
+    {
+      "item": "hbm:item.envsuit_boots",
+      "resistance": 0.1
+    },
+    {
+      "item": "hbm:item.hazmat_legs_red",
+      "resistance": 0.3
+    },
+    {
+      "item": "hbm:item.paa_boots",
       "resistance": 0.17
     },
     {
@@ -402,59 +274,127 @@
       "resistance": 0.025
     },
     {
-      "item": "hbm:item.gas_mask",
-      "resistance": 0.07
+      "item": "hbm:item.bj_legs",
+      "resistance": 0.3
     },
     {
-      "item": "hbm:item.titanium_boots",
-      "resistance": 0.0045
+      "item": "hbm:item.cmb_helmet",
+      "resistance": 0.26
     },
     {
-      "item": "hbm:item.ajr_boots",
-      "resistance": 0.13
-    },
-    {
-      "item": "hbm:item.hazmat_boots",
-      "resistance": 0.06
-    },
-    {
-      "item": "hbm:item.cobalt_legs",
-      "resistance": 0.0375
-    },
-    {
-      "item": "hbm:item.rpa_boots",
-      "resistance": 0.2
-    },
-    {
-      "item": "hbm:item.jackt",
-      "resistance": 0.1
-    },
-    {
-      "item": "hbm:item.hazmat_plate_red",
+      "item": "hbm:item.t45_plate",
       "resistance": 0.4
     },
     {
-      "item": "hbm:item.hazmat_legs_grey",
-      "resistance": 0.6
+      "item": "hbm:item.fau_boots",
+      "resistance": 0.4
     },
     {
-      "item": "hbm:item.schrabidium_legs",
-      "resistance": 0.8999999999999999
+      "item": "hbm:item.hazmat_paa_helmet",
+      "resistance": 0.34
     },
     {
-      "item": "minecraft:golden_leggings",
-      "resistance": 0.00675
+      "item": "hbm:item.schrabidium_boots",
+      "resistance": 0.30000000000000004
+    },
+    {
+      "item": "hbm:item.paa_legs",
+      "resistance": 0.51
+    },
+    {
+      "item": "hbm:item.steamsuit_legs",
+      "resistance": 0.39
+    },
+    {
+      "item": "minecraft:golden_helmet",
+      "resistance": 0.0045
+    },
+    {
+      "item": "hbm:item.schrabidium_plate",
+      "resistance": 1.2000000000000002
+    },
+    {
+      "item": "hbm:item.cmb_plate",
+      "resistance": 0.52
+    },
+    {
+      "item": "hbm:item.fau_plate",
+      "resistance": 1.6
+    },
+    {
+      "item": "hbm:item.hev_boots",
+      "resistance": 0.22999999999999998
     },
     {
       "item": "hbm:item.titanium_helmet",
       "resistance": 0.009
     },
     {
-      "item": "hbm:item.hazmat_boots_red",
+      "item": "minecraft:golden_leggings",
+      "resistance": 0.00675
+    },
+    {
+      "item": "hbm:item.cmb_boots",
+      "resistance": 0.13
+    },
+    {
+      "item": "hbm:item.ajro_legs",
+      "resistance": 0.39
+    },
+    {
+      "item": "hbm:item.schrabidium_legs",
+      "resistance": 0.8999999999999999
+    },
+    {
+      "item": "etfuturum:netherite_chestplate",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.dns_legs",
+      "resistance": 1.5
+    },
+    {
+      "item": "hbm:item.hazmat_legs_grey",
+      "resistance": 0.6
+    },
+    {
+      "item": "hbm:item.hazmat_plate_red",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.cobalt_plate",
+      "resistance": 0.05
+    },
+    {
+      "item": "hbm:item.dns_helmet",
+      "resistance": 1.0
+    },
+    {
+      "item": "etfuturum:netherite_leggings",
+      "resistance": 0.3
+    },
+    {
+      "item": "hbm:item.security_helmet",
+      "resistance": 0.165
+    },
+    {
+      "item": "hbm:item.jackt",
       "resistance": 0.1
     },
     {
-      "item": "hbm:item.bj_legs",
+      "item": "hbm:item.euphemium_legs",
+      "resistance": 3.0
+    },
+    {
+      "item": "hbm:item.t45_boots",
+      "resistance": 0.1
+    },
+    {
+      "item": "hbm:item.starmetal_helmet",
+      "resistance": 0.2
+    },
+    {
+      "item": "hbm:item.envsuit_legs",
       "resistance": 0.3
     },
     {
@@ -462,23 +402,83 @@
       "resistance": 0.8
     },
     {
-      "item": "hbm:item.ajro_boots",
-      "resistance": 0.13
+      "item": "minecraft:iron_helmet",
+      "resistance": 0.0045
     },
     {
-      "item": "hbm:item.gas_mask_m65",
-      "resistance": 0.095
+      "item": "hbm:item.schrabidium_helmet",
+      "resistance": 0.6000000000000001
+    },
+    {
+      "item": "hbm:item.hazmat_paa_legs",
+      "resistance": 0.51
+    },
+    {
+      "item": "hbm:item.euphemium_plate",
+      "resistance": 4.0
+    },
+    {
+      "item": "hbm:item.bj_boots",
+      "resistance": 0.1
     },
     {
       "item": "hbm:item.cmb_legs",
       "resistance": 0.39
     },
     {
-      "item": "hbm:item.bj_plate_jetpack",
+      "item": "hbm:item.starmetal_boots",
+      "resistance": 0.1
+    },
+    {
+      "item": "hbm:item.titanium_plate",
+      "resistance": 0.018
+    },
+    {
+      "item": "hbm:item.ajr_plate",
+      "resistance": 0.52
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "resistance": 0.00675
+    },
+    {
+      "item": "hbm:item.hazmat_boots_red",
+      "resistance": 0.1
+    },
+    {
+      "item": "hbm:item.envsuit_helmet",
+      "resistance": 0.2
+    },
+    {
+      "item": "etfuturum:netherite_helmet",
+      "resistance": 0.2
+    },
+    {
+      "item": "hbm:item.t45_helmet",
+      "resistance": 0.2
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "resistance": 0.009
+    },
+    {
+      "item": "hbm:item.jackt2",
+      "resistance": 0.1
+    },
+    {
+      "item": "hbm:item.trenchmaster_plate",
       "resistance": 0.4
     },
     {
-      "item": "hbm:item.steamsuit_helmet",
+      "item": "hbm:item.ajr_legs",
+      "resistance": 0.39
+    },
+    {
+      "item": "hbm:item.starmetal_plate",
+      "resistance": 0.4
+    },
+    {
+      "item": "hbm:item.ajro_helmet",
       "resistance": 0.26
     }
   ]

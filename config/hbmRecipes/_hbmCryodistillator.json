@@ -8,11 +8,18 @@
       "output4": ["OXYGEN",15]
     },
     {
-      "input": "NGAS",
-      "output1": ["GAS",35],
-      "output2": ["XENON",14],
-      "output3": ["UNSATURATEDS",15],
-      "output4": ["AMMONIA",24]
+      "input": "JOOLGAS",
+      "output1": ["HELIUM3",30],
+      "output2": ["NEON",10],
+      "output3": ["CHLORINE",20],
+      "output4": ["HYDROGEN",25]
+    },
+    {
+      "input": "SARNUSGAS",
+      "output1": ["HYDROGEN",45],
+      "output2": ["NITROGEN",5],
+      "output3": ["GAS",15],
+      "output4": ["HELIUM3",35]
     },
     {
       "input": "DUNAAIR",
@@ -22,13 +29,6 @@
       "output4": ["NITROGEN",10]
     },
     {
-      "input": "UGAS",
-      "output1": ["OXYGEN",45],
-      "output2": ["AROMATICS",15],
-      "output3": ["METHANOL",15],
-      "output4": ["NITROGEN",25]
-    },
-    {
       "input": "MORKINE",
       "output1": ["UNSATURATEDS",40],
       "output2": ["HYDROGEN",10],
@@ -36,18 +36,11 @@
       "output4": ["AROMATICS",25]
     },
     {
-      "input": "JOOLGAS",
-      "output1": ["HELIUM3",30],
-      "output2": ["NEON",10],
-      "output3": ["CHLORINE",20],
-      "output4": ["HYDROGEN",25]
-    },
-    {
-      "input": "EVEAIR",
-      "output1": ["KMnO4",30],
-      "output2": ["AMMONIA",5],
-      "output3": ["XENON",15],
-      "output4": ["MERCURY",25]
+      "input": "NGAS",
+      "output1": ["GAS",35],
+      "output2": ["XENON",14],
+      "output3": ["UNSATURATEDS",15],
+      "output4": ["AMMONIA",24]
     },
     {
       "input": "TEKTOAIR",
@@ -57,11 +50,18 @@
       "output4": ["AROMATICS",25]
     },
     {
-      "input": "SARNUSGAS",
-      "output1": ["HYDROGEN",45],
-      "output2": ["NITROGEN",5],
-      "output3": ["GAS",15],
-      "output4": ["HELIUM3",35]
+      "input": "UGAS",
+      "output1": ["OXYGEN",45],
+      "output2": ["AROMATICS",15],
+      "output3": ["METHANOL",15],
+      "output4": ["NITROGEN",25]
+    },
+    {
+      "input": "EVEAIR",
+      "output1": ["KMnO4",30],
+      "output2": ["AMMONIA",5],
+      "output3": ["XENON",15],
+      "output4": ["MERCURY",25]
     }
   ]
 }

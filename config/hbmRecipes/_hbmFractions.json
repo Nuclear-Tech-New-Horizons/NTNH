@@ -2,44 +2,9 @@
   "comment": "Inputs are always 100mB, set output quantities accordingly.",
   "recipes": [
     {
-      "input": "LIGHTOIL_VACUUM",
-      "output1": ["KEROSENE",70],
-      "output2": ["REFORMGAS",30]
-    },
-    {
-      "input": "GAS_COKER",
-      "output1": ["AROMATICS",25],
-      "output2": ["CARBONDIOXIDE",75]
-    },
-    {
-      "input": "COALOIL",
-      "output1": ["COALGAS",30],
-      "output2": ["OIL",70]
-    },
-    {
-      "input": "MORKINE",
-      "output1": ["UNSATURATEDS",40],
-      "output2": ["HYDROGEN",25]
-    },
-    {
-      "input": "OIL_COKER",
-      "output1": ["CRACKOIL",30],
-      "output2": ["HEATINGOIL",70]
-    },
-    {
-      "input": "EGG",
-      "output1": ["CHOLESTEROL",50],
-      "output2": ["RADIOSOLVENT",50]
-    },
-    {
-      "input": "NAPHTHA",
-      "output1": ["HEATINGOIL",40],
-      "output2": ["DIESEL",60]
-    },
-    {
-      "input": "LIGHTOIL",
-      "output1": ["DIESEL",40],
-      "output2": ["KEROSENE",60]
+      "input": "REFORMATE",
+      "output1": ["AROMATICS",40],
+      "output2": ["XYLENE",60]
     },
     {
       "input": "HEAVYOIL_VACUUM",
@@ -47,39 +12,34 @@
       "output2": ["HEATINGOIL_VACUUM",60]
     },
     {
-      "input": "BAUXITE_SOLUTION",
-      "output1": ["REDMUD",50],
-      "output2": ["SODIUM_ALUMINATE",50]
-    },
-    {
-      "input": "COALCREOSOTE",
-      "output1": ["COALOIL",10],
-      "output2": ["BITUMEN",90]
-    },
-    {
-      "input": "CHLOROCALCITE_MIX",
-      "output1": ["CHLOROCALCITE_CLEANED",50],
-      "output2": ["COLLOID",50]
-    },
-    {
       "input": "METHYLENE",
       "output1": ["GAS",70],
       "output2": ["CARBONDIOXIDE",45]
     },
     {
-      "input": "NAPHTHA_CRACK",
-      "output1": ["HEATINGOIL",30],
-      "output2": ["DIESEL_CRACK",70]
+      "input": "COALOIL",
+      "output1": ["COALGAS",30],
+      "output2": ["OIL",70]
     },
     {
-      "input": "REFORMATE",
-      "output1": ["AROMATICS",40],
-      "output2": ["XYLENE",60]
+      "input": "BAUXITE_SOLUTION",
+      "output1": ["REDMUD",50],
+      "output2": ["SODIUM_ALUMINATE",50]
     },
     {
-      "input": "LIGHTOIL_DS",
-      "output1": ["DIESEL_REFORM",60],
-      "output2": ["KEROSENE_REFORM",40]
+      "input": "MORKINE",
+      "output1": ["UNSATURATEDS",40],
+      "output2": ["HYDROGEN",25]
+    },
+    {
+      "input": "LIGHTOIL",
+      "output1": ["DIESEL",40],
+      "output2": ["KEROSENE",60]
+    },
+    {
+      "input": "EGG",
+      "output1": ["CHOLESTEROL",50],
+      "output2": ["RADIOSOLVENT",50]
     },
     {
       "input": "NAPHTHA_COKER",
@@ -87,24 +47,64 @@
       "output2": ["LIGHTOIL_CRACK",25]
     },
     {
-      "input": "HEAVYOIL",
-      "output1": ["BITUMEN",30],
-      "output2": ["SMEAR",70]
-    },
-    {
-      "input": "NAPHTHA_DS",
-      "output1": ["XYLENE",60],
-      "output2": ["DIESEL_REFORM",40]
-    },
-    {
       "input": "SMEAR",
       "output1": ["HEATINGOIL",60],
       "output2": ["LUBRICANT",40]
     },
     {
+      "input": "NAPHTHA_CRACK",
+      "output1": ["HEATINGOIL",30],
+      "output2": ["DIESEL_CRACK",70]
+    },
+    {
+      "input": "LIGHTOIL_VACUUM",
+      "output1": ["KEROSENE",70],
+      "output2": ["REFORMGAS",30]
+    },
+    {
+      "input": "HEAVYOIL",
+      "output1": ["BITUMEN",30],
+      "output2": ["SMEAR",70]
+    },
+    {
       "input": "LIGHTOIL_CRACK",
       "output1": ["KEROSENE",70],
       "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "COALCREOSOTE",
+      "output1": ["COALOIL",10],
+      "output2": ["BITUMEN",90]
+    },
+    {
+      "input": "NAPHTHA",
+      "output1": ["HEATINGOIL",40],
+      "output2": ["DIESEL",60]
+    },
+    {
+      "input": "CHLOROCALCITE_MIX",
+      "output1": ["CHLOROCALCITE_CLEANED",50],
+      "output2": ["COLLOID",50]
+    },
+    {
+      "input": "OIL_COKER",
+      "output1": ["CRACKOIL",30],
+      "output2": ["HEATINGOIL",70]
+    },
+    {
+      "input": "GAS_COKER",
+      "output1": ["AROMATICS",25],
+      "output2": ["CARBONDIOXIDE",75]
+    },
+    {
+      "input": "LIGHTOIL_DS",
+      "output1": ["DIESEL_REFORM",60],
+      "output2": ["KEROSENE_REFORM",40]
+    },
+    {
+      "input": "NAPHTHA_DS",
+      "output1": ["XYLENE",60],
+      "output2": ["DIESEL_REFORM",40]
     }
   ]
 }

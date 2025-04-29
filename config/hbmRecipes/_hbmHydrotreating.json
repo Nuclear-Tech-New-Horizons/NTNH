@@ -1,16 +1,10 @@
 {
   "recipes": [
     {
-      "input": "GAS",
-      "hydrogen": ["HYDROGEN",5,1],
-      "output1": ["PETROLEUM",80],
-      "output2": ["SOURGAS",15]
-    },
-    {
-      "input": "COALOIL",
+      "input": "DIESEL_CRACK",
       "hydrogen": ["HYDROGEN",10,1],
-      "output1": ["COALGAS",80],
-      "output2": ["SOURGAS",15]
+      "output1": ["DIESEL",80],
+      "output2": ["SOURGAS",30]
     },
     {
       "input": "CRACKOIL",
@@ -19,10 +13,16 @@
       "output2": ["SOURGAS",15]
     },
     {
-      "input": "DIESEL_CRACK",
+      "input": "DIESEL_CRACK_REFORM",
       "hydrogen": ["HYDROGEN",10,1],
-      "output1": ["DIESEL",80],
+      "output1": ["DIESEL_REFORM",80],
       "output2": ["SOURGAS",30]
+    },
+    {
+      "input": "COALOIL",
+      "hydrogen": ["HYDROGEN",10,1],
+      "output1": ["COALGAS",80],
+      "output2": ["SOURGAS",15]
     },
     {
       "input": "OIL",
@@ -31,10 +31,10 @@
       "output2": ["SOURGAS",15]
     },
     {
-      "input": "DIESEL_CRACK_REFORM",
-      "hydrogen": ["HYDROGEN",10,1],
-      "output1": ["DIESEL_REFORM",80],
-      "output2": ["SOURGAS",30]
+      "input": "GAS",
+      "hydrogen": ["HYDROGEN",5,1],
+      "output1": ["PETROLEUM",80],
+      "output2": ["SOURGAS",15]
     }
   ]
 }

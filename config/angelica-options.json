@@ -1,7 +1,7 @@
 {
   "quality": {
     "grass_quality": "FAST",
-    "use_sodium_a_o": true
+    "use_sodium_a_o": false
   },
   "advanced": {
     "use_vertex_array_objects": false,
@@ -17,7 +17,7 @@
     "translucency_sorting": true
   },
   "performance": {
-    "chunk_builder_threads": 12,
+    "chunk_builder_threads": 0,
     "always_defer_chunk_updates": true,
     "use_no_error_g_l_context": true
   }
