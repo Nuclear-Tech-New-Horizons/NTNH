@@ -746,481 +746,6 @@ minecraft:lead, Поводок
 minecraft:name_tag, Бирка
 minecraft:command_block_minecart, Вагонетка с командным блоком
 ArchitectureCraft:shapeSE, Architectural Block(Glow)
-BuildCraft|Core:eternalSpring:0, Источник воды
-BuildCraft|Core:eternalSpring:1, Источник нефти
-BuildCraft|Core:buildToolBlock, tile.buildToolBlock.name
-BuildCraft|Core:engineBlock:0, Двигатель на красном камне
-BuildCraft|Core:engineBlock:1, Двигатель Стирлинга
-BuildCraft|Core:engineBlock:2, Двигатель внутреннего сгорания
-BuildCraft|Core:engineBlock:3, Двигатель для творческого режима
-BuildCraft|Core:markerBlock, Метка
-BuildCraft|Core:pathMarkerBlock, Направляющая Метка
-BuildCraft|Transport:filteredBufferBlock, Фильтр
-BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
-BuildCraft|Builders:machineBlock, Карьер
-BuildCraft|Builders:fillerBlock, Заполнитель
-BuildCraft|Builders:frameBlock, Каркас
-BuildCraft|Builders:builderBlock, Строитель
-BuildCraft|Builders:architectBlock, Стол архитектора
-BuildCraft|Builders:libraryBlock, Библиотека проектов
-BuildCraft|Builders:constructionMarkerBlock, Строительная метка
-BuildCraft|Robotics:zonePlan, Планировщик зон
-BuildCraft|Robotics:requester, Инициатор запроса
-BuildCraft|Energy:blockOil, Нефть
-BuildCraft|Energy:blockFuel, Топливо
-BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
-BuildCraft|Silicon:laserBlock, Лазер
-BuildCraft|Silicon:laserTableBlock:0, Сборочный стол
-BuildCraft|Silicon:laserTableBlock:1, Сборочный верстак
-BuildCraft|Silicon:laserTableBlock:2, Стол интеграции
-BuildCraft|Silicon:laserTableBlock:3, Стол подзарядки
-BuildCraft|Silicon:laserTableBlock:4, Стол программирования
-BuildCraft|Silicon:laserTableBlock:5, Стол штамповки
-BuildCraft|Silicon:packagerBlock, Упаковщик рецептов
-BuildCraft|Factory:miningWellBlock, Буровая установка
-BuildCraft|Factory:plainPipeBlock, Буровая труба
-BuildCraft|Factory:autoWorkbenchBlock, Автоматический верстак
-BuildCraft|Factory:tankBlock, Цистерна
-BuildCraft|Factory:pumpBlock, Помпа
-BuildCraft|Factory:floodGateBlock, Шлюз
-BuildCraft|Factory:refineryBlock, Нефтеперегонная вышка
-BuildCraft|Factory:blockHopper, Воронка
-Forestry:core:0, Анализатор
-Forestry:core:1, Секретер
-Forestry:soil:0, Гумус
-Forestry:soil:1, Болотная земля
-Forestry:resources:0, Апатитовая руда
-Forestry:resources:1, Медная руда
-Forestry:resources:2, Оловянная руда
-Forestry:resourceStorage:0, Апатитовый блок
-Forestry:resourceStorage:1, Медный блок
-Forestry:resourceStorage:2, Оловянный блок
-Forestry:resourceStorage:3, Бронзовый блок
-Forestry:fluid.bioethanol, Этанол
-Forestry:fluid.biomass, Биомасса
-Forestry:fluid.glass, Жидкое стекло
-Forestry:fluid.honey, Мёд
-Forestry:fluid.ice, Молотый лёд
-Forestry:fluid.juice, Фруктовый сок
-Forestry:fluid.seedoil, Растительное масло
-Forestry:fluid.short.mead, Питный мёд
-Forestry:fluid.mead, Mead
-Forestry:apiculture:0, Пасека
-Forestry:apiculture:2, Пчелиный домик
-Forestry:apicultureChest:0, Сундук пчеловода
-Forestry:beehives:1, Лесной улей
-Forestry:beehives:2, Луговой улей
-Forestry:beehives:3, Пустынный улей
-Forestry:beehives:4, Тропический улей
-Forestry:beehives:6, Снежный улей
-Forestry:beehives:7, Болотный улей
-Forestry:candle:0, Тёмная свеча
-Forestry:stump:0, Потухшая свеча
-Forestry:alveary:0, Пчелиный улей
-Forestry:alveary:2, Роевня
-Forestry:alveary:3, Вентилятор улья
-Forestry:alveary:4, Обогреватель улья
-Forestry:alveary:5, Кондиционер улья
-Forestry:alveary:6, Стабилизатор улья
-Forestry:alveary:7, Сито улья
-Forestry:logs:0, Древесина лиственницы
-Forestry:logs:1, Древесина тикового дерева
-Forestry:logs:2, Древесина акации
-Forestry:logs:3, Древесина липы
-Forestry:logs:4, Древесина каштана
-Forestry:logs:5, Древесина дерева Венге
-Forestry:logs:6, Древесина баобаба
-Forestry:logs:7, Древесина секвойи
-Forestry:logs:8, Древесина хлопкового дерева
-Forestry:logs:9, Древесина мирта
-Forestry:logs:10, Древесина красного дерева
-Forestry:logs:11, Древесина бальзы
-Forestry:logs:12, Древесина ивы
-Forestry:logs:13, Древесина орехового дерева
-Forestry:logs:14, Древесина гринхарта
-Forestry:logs:15, Древесина вишнёвого дерева
-Forestry:logs:16, Древесина гибискуса
-Forestry:logs:17, Древесина тополя
-Forestry:logs:18, Древесина пальмы
-Forestry:logs:19, Древесина дынного дерева
-Forestry:logs:20, Древесина сосны
-Forestry:logs:21, Древесина сливового дерева
-Forestry:logs:22, Древесина клёна
-Forestry:logs:23, Древесина цитрусового дерева
-Forestry:logs:24, Древесина гигантской секвойи
-Forestry:logs:25, Древесина муравьиного дерева
-Forestry:logs:26, Древесина падука
-Forestry:logs:27, Древесина кокоболо
-Forestry:logs:28, Древесина зебрано
-Forestry:planks:0, Доски из лиственницы
-Forestry:planks:1, Доски из тикового дерева
-Forestry:planks:2, Доски из акации
-Forestry:planks:3, Доски из липы
-Forestry:planks:4, Доски из каштана
-Forestry:planks:5, Доски из дерева Венге
-Forestry:planks:6, Доски из баобаба
-Forestry:planks:7, Доски из секвойи
-Forestry:planks:8, Доски из хлопкового дерева
-Forestry:planks:9, Доски из мирта
-Forestry:planks:10, Доски из красного дерева
-Forestry:planks:11, Доски из бальзы
-Forestry:planks:12, Доски из ивы
-Forestry:planks:13, Доски из орехового дерева
-Forestry:planks:14, Доски из гринхарта
-Forestry:planks:15, Доски из вишнёвого дерева
-Forestry:planks:16, Доски из гибискуса
-Forestry:planks:17, Доски из тополя
-Forestry:planks:18, Доски из пальмы
-Forestry:planks:19, Доски из дынного дерева
-Forestry:planks:20, Доски из сосны
-Forestry:planks:21, Доски из сливового дерева
-Forestry:planks:22, Доски из клёна
-Forestry:planks:23, Доски из цитрусового дерева
-Forestry:planks:24, Доски из гигантской секвойи
-Forestry:planks:25, Доски из муравьиного дерева
-Forestry:planks:26, Доски из падука
-Forestry:planks:27, Доски из кокоболо
-Forestry:planks:28, Доски из зебрано
-Forestry:slabs:0, Плита из лиственницы
-Forestry:slabs:1, Плита из тикового дерева
-Forestry:slabs:2, Плита из акации
-Forestry:slabs:3, Плита из липы
-Forestry:slabs:4, Плита из каштана
-Forestry:slabs:5, Плита из дерева Венге
-Forestry:slabs:6, Плита из баобаба
-Forestry:slabs:7, Плита из секвойи
-Forestry:slabs:8, Плита из хлопкового дерева
-Forestry:slabs:9, Плита из мирта
-Forestry:slabs:10, Плита из красного дерева
-Forestry:slabs:11, Плита из бальзы
-Forestry:slabs:12, Плита из ивы
-Forestry:slabs:13, Плита из орехового дерева
-Forestry:slabs:14, Плита из гринхарта
-Forestry:slabs:15, Плита из вишнёвого дерева
-Forestry:slabs:16, Плита из гибискуса
-Forestry:slabs:17, Плита из тополя
-Forestry:slabs:18, Плита из пальмы
-Forestry:slabs:19, Плита из дынного дерева
-Forestry:slabs:20, Плита из сосны
-Forestry:slabs:21, Плита из сливового дерева
-Forestry:slabs:22, Плита из клёна
-Forestry:slabs:23, Плита из цитрусового дерева
-Forestry:slabs:24, Плита из гигантской секвойи
-Forestry:slabs:25, Плита из муравьиного дерева
-Forestry:slabs:26, Плита из падука
-Forestry:slabs:27, Плита из кокоболо
-Forestry:slabs:28, Плита из зебрано
-Forestry:fences:0, Забор из лиственницы
-Forestry:fences:1, Забор из тикового дерева
-Forestry:fences:2, Забор из акации
-Forestry:fences:3, Забор из липы
-Forestry:fences:4, Забор из каштана
-Forestry:fences:5, Забор из дерева Венге
-Forestry:fences:6, Забор из баобаба
-Forestry:fences:7, Забор из секвойи
-Forestry:fences:8, Забор из хлопкового дерева
-Forestry:fences:9, Забор из мирта
-Forestry:fences:10, Забор из красного дерева
-Forestry:fences:11, Забор из бальзы
-Forestry:fences:12, Забор из ивы
-Forestry:fences:13, Забор из орехового дерева
-Forestry:fences:14, Забор из гринхарта
-Forestry:fences:15, Забор из вишнёвого дерева
-Forestry:fences:16, Забор из гибискуса
-Forestry:fences:17, Забор из тополя
-Forestry:fences:18, Забор из пальмы
-Forestry:fences:19, Забор из дынного дерева
-Forestry:fences:20, Забор из сосны
-Forestry:fences:21, Забор из сливового дерева
-Forestry:fences:22, Забор из клёна
-Forestry:fences:23, Забор из цитрусового дерева
-Forestry:fences:24, Забор из гигантской секвойи
-Forestry:fences:25, Забор из муравьиного дерева
-Forestry:fences:26, Забор из падука
-Forestry:fences:27, Забор из кокоболо
-Forestry:fences:28, Забор из зебрано
-Forestry:stairs:0, Ступеньки из лиственницы
-Forestry:stairs:1, Ступеньки из тикового дерева
-Forestry:stairs:2, Ступеньки из акации
-Forestry:stairs:3, Ступеньки из липы
-Forestry:stairs:4, Ступеньки из каштана
-Forestry:stairs:5, Ступеньки из дерева Венге
-Forestry:stairs:6, Ступеньки из баобаба
-Forestry:stairs:7, Ступеньки из секвойи
-Forestry:stairs:8, Ступеньки из хлопкового дерева
-Forestry:stairs:9, Ступеньки из мирта
-Forestry:stairs:10, Ступеньки из красного дерева
-Forestry:stairs:11, Ступеньки из бальзы
-Forestry:stairs:12, Ступеньки из ивы
-Forestry:stairs:13, Ступеньки из орехового дерева
-Forestry:stairs:14, Ступеньки из гринхарта
-Forestry:stairs:15, Ступеньки из вишнёвого дерева
-Forestry:stairs:16, Ступеньки из гибискуса
-Forestry:stairs:17, Ступеньки из тополя
-Forestry:stairs:18, Ступеньки из пальмы
-Forestry:stairs:19, Ступеньки из дынного дерева
-Forestry:stairs:20, Ступеньки из сосны
-Forestry:stairs:21, Ступеньки из сливового дерева
-Forestry:stairs:22, Ступеньки из клёна
-Forestry:stairs:23, Ступеньки из цитрусового дерева
-Forestry:stairs:24, Ступеньки из гигантской секвойи
-Forestry:stairs:25, Ступеньки из муравьиного дерева
-Forestry:stairs:26, Ступеньки из падука
-Forestry:stairs:27, Ступеньки из кокоболо
-Forestry:stairs:28, Ступеньки из зебрано
-Forestry:logsFireproof:0, Древесина лиственницы (Огнестойкость)
-Forestry:logsFireproof:1, Древесина тикового дерева (Огнестойкость)
-Forestry:logsFireproof:2, Древесина акации (Огнестойкость)
-Forestry:logsFireproof:3, Древесина липы (Огнестойкость)
-Forestry:logsFireproof:4, Древесина каштана (Огнестойкость)
-Forestry:logsFireproof:5, Древесина дерева Венге (Огнестойкость)
-Forestry:logsFireproof:6, Древесина баобаба (Огнестойкость)
-Forestry:logsFireproof:7, Древесина секвойи (Огнестойкость)
-Forestry:logsFireproof:8, Древесина хлопкового дерева (Огнестойкость)
-Forestry:logsFireproof:9, Древесина мирта (Огнестойкость)
-Forestry:logsFireproof:10, Древесина красного дерева (Огнестойкость)
-Forestry:logsFireproof:11, Древесина бальзы (Огнестойкость)
-Forestry:logsFireproof:12, Древесина ивы (Огнестойкость)
-Forestry:logsFireproof:13, Древесина орехового дерева (Огнестойкость)
-Forestry:logsFireproof:14, Древесина гринхарта (Огнестойкость)
-Forestry:logsFireproof:15, Древесина вишнёвого дерева (Огнестойкость)
-Forestry:logsFireproof:16, Древесина гибискуса (Огнестойкость)
-Forestry:logsFireproof:17, Древесина тополя (Огнестойкость)
-Forestry:logsFireproof:18, Древесина пальмы (Огнестойкость)
-Forestry:logsFireproof:19, Древесина дынного дерева (Огнестойкость)
-Forestry:logsFireproof:20, Древесина сосны (Огнестойкость)
-Forestry:logsFireproof:21, Древесина сливового дерева (Огнестойкость)
-Forestry:logsFireproof:22, Древесина клёна (Огнестойкость)
-Forestry:logsFireproof:23, Древесина цитрусового дерева (Огнестойкость)
-Forestry:logsFireproof:24, Древесина гигантской секвойи (Огнестойкость)
-Forestry:logsFireproof:25, Древесина муравьиного дерева (Огнестойкость)
-Forestry:logsFireproof:26, Древесина падука (Огнестойкость)
-Forestry:logsFireproof:27, Древесина кокоболо (Огнестойкость)
-Forestry:logsFireproof:28, Древесина зебрано (Огнестойкость)
-Forestry:planksFireproof:0, Доски из лиственницы (Огнестойкость)
-Forestry:planksFireproof:1, Доски из тикового дерева (Огнестойкость)
-Forestry:planksFireproof:2, Доски из акации (Огнестойкость)
-Forestry:planksFireproof:3, Доски из липы (Огнестойкость)
-Forestry:planksFireproof:4, Доски из каштана (Огнестойкость)
-Forestry:planksFireproof:5, Доски из дерева Венге (Огнестойкость)
-Forestry:planksFireproof:6, Доски из баобаба (Огнестойкость)
-Forestry:planksFireproof:7, Доски из секвойи (Огнестойкость)
-Forestry:planksFireproof:8, Доски из хлопкового дерева (Огнестойкость)
-Forestry:planksFireproof:9, Доски из мирта (Огнестойкость)
-Forestry:planksFireproof:10, Доски из красного дерева (Огнестойкость)
-Forestry:planksFireproof:11, Доски из бальзы (Огнестойкость)
-Forestry:planksFireproof:12, Доски из ивы (Огнестойкость)
-Forestry:planksFireproof:13, Доски из орехового дерева (Огнестойкость)
-Forestry:planksFireproof:14, Доски из гринхарта (Огнестойкость)
-Forestry:planksFireproof:15, Доски из вишнёвого дерева (Огнестойкость)
-Forestry:planksFireproof:16, Доски из гибискуса (Огнестойкость)
-Forestry:planksFireproof:17, Доски из тополя (Огнестойкость)
-Forestry:planksFireproof:18, Доски из пальмы (Огнестойкость)
-Forestry:planksFireproof:19, Доски из дынного дерева (Огнестойкость)
-Forestry:planksFireproof:20, Доски из сосны (Огнестойкость)
-Forestry:planksFireproof:21, Доски из сливового дерева (Огнестойкость)
-Forestry:planksFireproof:22, Доски из клёна (Огнестойкость)
-Forestry:planksFireproof:23, Доски из цитрусового дерева (Огнестойкость)
-Forestry:planksFireproof:24, Доски из гигантской секвойи (Огнестойкость)
-Forestry:planksFireproof:25, Доски из муравьиного дерева (Огнестойкость)
-Forestry:planksFireproof:26, Доски из падука (Огнестойкость)
-Forestry:planksFireproof:27, Доски из кокоболо (Огнестойкость)
-Forestry:planksFireproof:28, Доски из зебрано (Огнестойкость)
-Forestry:slabsFireproof:0, Плита из лиственницы (Огнестойкость)
-Forestry:slabsFireproof:1, Плита из тикового дерева (Огнестойкость)
-Forestry:slabsFireproof:2, Плита из акации (Огнестойкость)
-Forestry:slabsFireproof:3, Плита из липы (Огнестойкость)
-Forestry:slabsFireproof:4, Плита из каштана (Огнестойкость)
-Forestry:slabsFireproof:5, Плита из дерева Венге (Огнестойкость)
-Forestry:slabsFireproof:6, Плита из баобаба (Огнестойкость)
-Forestry:slabsFireproof:7, Плита из секвойи (Огнестойкость)
-Forestry:slabsFireproof:8, Плита из хлопкового дерева (Огнестойкость)
-Forestry:slabsFireproof:9, Плита из мирта (Огнестойкость)
-Forestry:slabsFireproof:10, Плита из красного дерева (Огнестойкость)
-Forestry:slabsFireproof:11, Плита из бальзы (Огнестойкость)
-Forestry:slabsFireproof:12, Плита из ивы (Огнестойкость)
-Forestry:slabsFireproof:13, Плита из орехового дерева (Огнестойкость)
-Forestry:slabsFireproof:14, Плита из гринхарта (Огнестойкость)
-Forestry:slabsFireproof:15, Плита из вишнёвого дерева (Огнестойкость)
-Forestry:slabsFireproof:16, Плита из гибискуса (Огнестойкость)
-Forestry:slabsFireproof:17, Плита из тополя (Огнестойкость)
-Forestry:slabsFireproof:18, Плита из пальмы (Огнестойкость)
-Forestry:slabsFireproof:19, Плита из дынного дерева (Огнестойкость)
-Forestry:slabsFireproof:20, Плита из сосны (Огнестойкость)
-Forestry:slabsFireproof:21, Плита из сливового дерева (Огнестойкость)
-Forestry:slabsFireproof:22, Плита из клёна (Огнестойкость)
-Forestry:slabsFireproof:23, Плита из цитрусового дерева (Огнестойкость)
-Forestry:slabsFireproof:24, Плита из гигантской секвойи (Огнестойкость)
-Forestry:slabsFireproof:25, Плита из муравьиного дерева (Огнестойкость)
-Forestry:slabsFireproof:26, Плита из падука (Огнестойкость)
-Forestry:slabsFireproof:27, Плита из кокоболо (Огнестойкость)
-Forestry:slabsFireproof:28, Плита из зебрано (Огнестойкость)
-Forestry:fencesFireproof:0, Забор из лиственницы (Огнестойкость)
-Forestry:fencesFireproof:1, Забор из тикового дерева (Огнестойкость)
-Forestry:fencesFireproof:2, Забор из акации (Огнестойкость)
-Forestry:fencesFireproof:3, Забор из липы (Огнестойкость)
-Forestry:fencesFireproof:4, Забор из каштана (Огнестойкость)
-Forestry:fencesFireproof:5, Забор из дерева Венге (Огнестойкость)
-Forestry:fencesFireproof:6, Забор из баобаба (Огнестойкость)
-Forestry:fencesFireproof:7, Забор из секвойи (Огнестойкость)
-Forestry:fencesFireproof:8, Забор из хлопкового дерева (Огнестойкость)
-Forestry:fencesFireproof:9, Забор из мирта (Огнестойкость)
-Forestry:fencesFireproof:10, Забор из красного дерева (Огнестойкость)
-Forestry:fencesFireproof:11, Забор из бальзы (Огнестойкость)
-Forestry:fencesFireproof:12, Забор из ивы (Огнестойкость)
-Forestry:fencesFireproof:13, Забор из орехового дерева (Огнестойкость)
-Forestry:fencesFireproof:14, Забор из гринхарта (Огнестойкость)
-Forestry:fencesFireproof:15, Забор из вишнёвого дерева (Огнестойкость)
-Forestry:fencesFireproof:16, Забор из гибискуса (Огнестойкость)
-Forestry:fencesFireproof:17, Забор из тополя (Огнестойкость)
-Forestry:fencesFireproof:18, Забор из пальмы (Огнестойкость)
-Forestry:fencesFireproof:19, Забор из дынного дерева (Огнестойкость)
-Forestry:fencesFireproof:20, Забор из сосны (Огнестойкость)
-Forestry:fencesFireproof:21, Забор из сливового дерева (Огнестойкость)
-Forestry:fencesFireproof:22, Забор из клёна (Огнестойкость)
-Forestry:fencesFireproof:23, Забор из цитрусового дерева (Огнестойкость)
-Forestry:fencesFireproof:24, Забор из гигантской секвойи (Огнестойкость)
-Forestry:fencesFireproof:25, Забор из муравьиного дерева (Огнестойкость)
-Forestry:fencesFireproof:26, Забор из падука (Огнестойкость)
-Forestry:fencesFireproof:27, Забор из кокоболо (Огнестойкость)
-Forestry:fencesFireproof:28, Забор из зебрано (Огнестойкость)
-Forestry:stairsFireproof:0, Ступеньки из лиственницы (Огнестойкость)
-Forestry:stairsFireproof:1, Ступеньки из тикового дерева (Огнестойкость)
-Forestry:stairsFireproof:2, Ступеньки из акации (Огнестойкость)
-Forestry:stairsFireproof:3, Ступеньки из липы (Огнестойкость)
-Forestry:stairsFireproof:4, Ступеньки из каштана (Огнестойкость)
-Forestry:stairsFireproof:5, Ступеньки из дерева Венге (Огнестойкость)
-Forestry:stairsFireproof:6, Ступеньки из баобаба (Огнестойкость)
-Forestry:stairsFireproof:7, Ступеньки из секвойи (Огнестойкость)
-Forestry:stairsFireproof:8, Ступеньки из хлопкового дерева (Огнестойкость)
-Forestry:stairsFireproof:9, Ступеньки из мирта (Огнестойкость)
-Forestry:stairsFireproof:10, Ступеньки из красного дерева (Огнестойкость)
-Forestry:stairsFireproof:11, Ступеньки из бальзы (Огнестойкость)
-Forestry:stairsFireproof:12, Ступеньки из ивы (Огнестойкость)
-Forestry:stairsFireproof:13, Ступеньки из орехового дерева (Огнестойкость)
-Forestry:stairsFireproof:14, Ступеньки из гринхарта (Огнестойкость)
-Forestry:stairsFireproof:15, Ступеньки из вишнёвого дерева (Огнестойкость)
-Forestry:stairsFireproof:16, Ступеньки из гибискуса (Огнестойкость)
-Forestry:stairsFireproof:17, Ступеньки из тополя (Огнестойкость)
-Forestry:stairsFireproof:18, Ступеньки из пальмы (Огнестойкость)
-Forestry:stairsFireproof:19, Ступеньки из дынного дерева (Огнестойкость)
-Forestry:stairsFireproof:20, Ступеньки из сосны (Огнестойкость)
-Forestry:stairsFireproof:21, Ступеньки из сливового дерева (Огнестойкость)
-Forestry:stairsFireproof:22, Ступеньки из клёна (Огнестойкость)
-Forestry:stairsFireproof:23, Ступеньки из цитрусового дерева (Огнестойкость)
-Forestry:stairsFireproof:24, Ступеньки из гигантской секвойи (Огнестойкость)
-Forestry:stairsFireproof:25, Ступеньки из муравьиного дерева (Огнестойкость)
-Forestry:stairsFireproof:26, Ступеньки из падука (Огнестойкость)
-Forestry:stairsFireproof:27, Ступеньки из кокоболо (Огнестойкость)
-Forestry:stairsFireproof:28, Ступеньки из зебрано (Огнестойкость)
-Forestry:saplingGE:0, Саженец
-Forestry:pods:0, Стручок
-Forestry:arboriculture:0, Сундук лесовода
-Forestry:engine:1, Торфяной двигатель
-Forestry:engine:2, Биогазовый двигатель
-Forestry:engine:4, Заводной двигатель
-Forestry:factory:0, Разливочный механизм
-Forestry:factory:1, Плотник
-Forestry:factory:2, Центрифуга
-Forestry:factory:3, Бродильный аппарат
-Forestry:factory:4, Увлажнитель
-Forestry:factory:5, Соковыжималка
-Forestry:factory:6, Дистиллятор
-Forestry:factory:7, Вызыватель дождя
-Forestry:factory2:0, Электроламповый завод
-Forestry:factory2:1, Сборщик дождя
-Forestry:factory2:2, Рабочий стол
-Forestry:mushroom:0, Гриб
-Forestry:mushroom:1, Гриб
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:0, Блок фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:2, Редуктор фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:3, Люк фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:4, Вентиль фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:ffarm:5, Блок управления фермы
-Forestry:lepidopterology:0, Сундук лепидоптеролога
-Forestry:mail:0, Почтовый ящик
-Forestry:mail:1, Торговая станция
-Forestry:mail:2, Сборщик марок
-ThermalFoundation:Ore:0, Медная руда
-ThermalFoundation:Ore:1, Оловянная руда
-ThermalFoundation:Ore:2, Серебряная руда
-ThermalFoundation:Ore:3, Свинцовая руда
-ThermalFoundation:Ore:4, Никелевая руда
-ThermalFoundation:Ore:5, Платиновая руда
-ThermalFoundation:Ore:6, Мифриловая руда
-ThermalFoundation:Storage:0, Медный блок
-ThermalFoundation:Storage:1, Оловянный блок
-ThermalFoundation:Storage:2, Серебряный блок
-ThermalFoundation:Storage:3, Свинцовый блок
-ThermalFoundation:Storage:4, Никелевый блок
-ThermalFoundation:Storage:5, Платиновый блок
-ThermalFoundation:Storage:6, Мифриловый блок
-ThermalFoundation:Storage:7, Электрумовый блок
-ThermalFoundation:Storage:8, Инваровый блок
-ThermalFoundation:Storage:9, Бронзовый блок
-ThermalFoundation:Storage:10, Синаловый блок
-ThermalFoundation:Storage:11, Ламиумовый блок
-ThermalFoundation:Storage:12, Блок эндериума
-ThermalFoundation:FluidRedstone, Дестабилизированный красный камень
-ThermalFoundation:FluidGlowstone, Заряженный светящийся камень
-ThermalFoundation:FluidEnder, Резонирующий эндериум
-ThermalFoundation:FluidPyrotheum, Пылающий пиротеум
-ThermalFoundation:FluidCryotheum, Ледяной криотеум
-ThermalFoundation:FluidAerotheum, Невесомый аэротеум
-ThermalFoundation:FluidPetrotheum, Тектонический петротеум
-ThermalFoundation:FluidMana, Изначальная мана
-ThermalFoundation:FluidSteam, Пар
-ThermalFoundation:FluidCoal, Разжиженный уголь
 campfirebackport:campfire, Campfire
 campfirebackport:soul_campfire, Soul Campfire
 campfirebackport:campfire_base, Campfire Base
@@ -2606,6 +2131,464 @@ chisel:froglight:6, Froglight
 chisel:froglight:7, Froglight
 chisel:froglight:8, Froglight
 chisel:froglight:9, Froglight
+CarpentersBlocks:blockCarpentersBlock, Блок плотника
+CarpentersBlocks:blockCarpentersBarrier, Забор плотника
+CarpentersBlocks:blockCarpentersBed, Кровать плотника
+CarpentersBlocks:blockCarpentersButton, Кнопка плотника
+CarpentersBlocks:blockCarpentersCollapsibleBlock, Складной блок плотника
+CarpentersBlocks:blockCarpentersDaylightSensor, Датчик дневного света плотника
+CarpentersBlocks:blockCarpentersDoor, Дверь плотника
+CarpentersBlocks:blockCarpentersFlowerPot, Цветочный горшок плотника
+CarpentersBlocks:blockCarpentersGarageDoor, Раздвижная дверь плотника
+CarpentersBlocks:blockCarpentersGate, Калитка плотника
+CarpentersBlocks:blockCarpentersHatch, Люк плотника
+CarpentersBlocks:blockCarpentersLadder, Лестница плотника
+CarpentersBlocks:blockCarpentersLever, Рычаг плотника
+CarpentersBlocks:blockCarpentersPressurePlate, Нажимная пластина плотника
+CarpentersBlocks:blockCarpentersSafe, Сейф плотника
+CarpentersBlocks:blockCarpentersSlope:0, Прямой склон плотника
+CarpentersBlocks:blockCarpentersSlope:1, Косой внутренний склон плотника
+CarpentersBlocks:blockCarpentersSlope:2, Косой внешний склон плотника
+CarpentersBlocks:blockCarpentersSlope:3, Призмовидный склон плотника
+CarpentersBlocks:blockCarpentersSlope:4, Призмовидный плоский склон плотника
+CarpentersBlocks:blockCarpentersStairs, Ступеньки плотника
+CarpentersBlocks:blockCarpentersTorch, Факел плотника
+Forestry:core:0, Анализатор
+Forestry:core:1, Секретер
+Forestry:soil:0, Гумус
+Forestry:soil:1, Болотная земля
+Forestry:resources:0, Апатитовая руда
+Forestry:resources:1, Медная руда
+Forestry:resources:2, Оловянная руда
+Forestry:resourceStorage:0, Апатитовый блок
+Forestry:resourceStorage:1, Медный блок
+Forestry:resourceStorage:2, Оловянный блок
+Forestry:resourceStorage:3, Бронзовый блок
+Forestry:fluid.bioethanol, Этанол
+Forestry:fluid.biomass, Биомасса
+Forestry:fluid.glass, Жидкое стекло
+Forestry:fluid.honey, Мёд
+Forestry:fluid.ice, Молотый лёд
+Forestry:fluid.juice, Фруктовый сок
+Forestry:fluid.seedoil, Растительное масло
+Forestry:fluid.short.mead, Питный мёд
+Forestry:fluid.mead, Mead
+Forestry:apiculture:0, Пасека
+Forestry:apiculture:2, Пчелиный домик
+Forestry:apicultureChest:0, Сундук пчеловода
+Forestry:beehives:1, Лесной улей
+Forestry:beehives:2, Луговой улей
+Forestry:beehives:3, Пустынный улей
+Forestry:beehives:4, Тропический улей
+Forestry:beehives:6, Снежный улей
+Forestry:beehives:7, Болотный улей
+Forestry:candle:0, Тёмная свеча
+Forestry:stump:0, Потухшая свеча
+Forestry:alveary:0, Пчелиный улей
+Forestry:alveary:2, Роевня
+Forestry:alveary:3, Вентилятор улья
+Forestry:alveary:4, Обогреватель улья
+Forestry:alveary:5, Кондиционер улья
+Forestry:alveary:6, Стабилизатор улья
+Forestry:alveary:7, Сито улья
+Forestry:logs:0, Древесина лиственницы
+Forestry:logs:1, Древесина тикового дерева
+Forestry:logs:2, Древесина акации
+Forestry:logs:3, Древесина липы
+Forestry:logs:4, Древесина каштана
+Forestry:logs:5, Древесина дерева Венге
+Forestry:logs:6, Древесина баобаба
+Forestry:logs:7, Древесина секвойи
+Forestry:logs:8, Древесина хлопкового дерева
+Forestry:logs:9, Древесина мирта
+Forestry:logs:10, Древесина красного дерева
+Forestry:logs:11, Древесина бальзы
+Forestry:logs:12, Древесина ивы
+Forestry:logs:13, Древесина орехового дерева
+Forestry:logs:14, Древесина гринхарта
+Forestry:logs:15, Древесина вишнёвого дерева
+Forestry:logs:16, Древесина гибискуса
+Forestry:logs:17, Древесина тополя
+Forestry:logs:18, Древесина пальмы
+Forestry:logs:19, Древесина дынного дерева
+Forestry:logs:20, Древесина сосны
+Forestry:logs:21, Древесина сливового дерева
+Forestry:logs:22, Древесина клёна
+Forestry:logs:23, Древесина цитрусового дерева
+Forestry:logs:24, Древесина гигантской секвойи
+Forestry:logs:25, Древесина муравьиного дерева
+Forestry:logs:26, Древесина падука
+Forestry:logs:27, Древесина кокоболо
+Forestry:logs:28, Древесина зебрано
+Forestry:planks:0, Доски из лиственницы
+Forestry:planks:1, Доски из тикового дерева
+Forestry:planks:2, Доски из акации
+Forestry:planks:3, Доски из липы
+Forestry:planks:4, Доски из каштана
+Forestry:planks:5, Доски из дерева Венге
+Forestry:planks:6, Доски из баобаба
+Forestry:planks:7, Доски из секвойи
+Forestry:planks:8, Доски из хлопкового дерева
+Forestry:planks:9, Доски из мирта
+Forestry:planks:10, Доски из красного дерева
+Forestry:planks:11, Доски из бальзы
+Forestry:planks:12, Доски из ивы
+Forestry:planks:13, Доски из орехового дерева
+Forestry:planks:14, Доски из гринхарта
+Forestry:planks:15, Доски из вишнёвого дерева
+Forestry:planks:16, Доски из гибискуса
+Forestry:planks:17, Доски из тополя
+Forestry:planks:18, Доски из пальмы
+Forestry:planks:19, Доски из дынного дерева
+Forestry:planks:20, Доски из сосны
+Forestry:planks:21, Доски из сливового дерева
+Forestry:planks:22, Доски из клёна
+Forestry:planks:23, Доски из цитрусового дерева
+Forestry:planks:24, Доски из гигантской секвойи
+Forestry:planks:25, Доски из муравьиного дерева
+Forestry:planks:26, Доски из падука
+Forestry:planks:27, Доски из кокоболо
+Forestry:planks:28, Доски из зебрано
+Forestry:slabs:0, Плита из лиственницы
+Forestry:slabs:1, Плита из тикового дерева
+Forestry:slabs:2, Плита из акации
+Forestry:slabs:3, Плита из липы
+Forestry:slabs:4, Плита из каштана
+Forestry:slabs:5, Плита из дерева Венге
+Forestry:slabs:6, Плита из баобаба
+Forestry:slabs:7, Плита из секвойи
+Forestry:slabs:8, Плита из хлопкового дерева
+Forestry:slabs:9, Плита из мирта
+Forestry:slabs:10, Плита из красного дерева
+Forestry:slabs:11, Плита из бальзы
+Forestry:slabs:12, Плита из ивы
+Forestry:slabs:13, Плита из орехового дерева
+Forestry:slabs:14, Плита из гринхарта
+Forestry:slabs:15, Плита из вишнёвого дерева
+Forestry:slabs:16, Плита из гибискуса
+Forestry:slabs:17, Плита из тополя
+Forestry:slabs:18, Плита из пальмы
+Forestry:slabs:19, Плита из дынного дерева
+Forestry:slabs:20, Плита из сосны
+Forestry:slabs:21, Плита из сливового дерева
+Forestry:slabs:22, Плита из клёна
+Forestry:slabs:23, Плита из цитрусового дерева
+Forestry:slabs:24, Плита из гигантской секвойи
+Forestry:slabs:25, Плита из муравьиного дерева
+Forestry:slabs:26, Плита из падука
+Forestry:slabs:27, Плита из кокоболо
+Forestry:slabs:28, Плита из зебрано
+Forestry:fences:0, Забор из лиственницы
+Forestry:fences:1, Забор из тикового дерева
+Forestry:fences:2, Забор из акации
+Forestry:fences:3, Забор из липы
+Forestry:fences:4, Забор из каштана
+Forestry:fences:5, Забор из дерева Венге
+Forestry:fences:6, Забор из баобаба
+Forestry:fences:7, Забор из секвойи
+Forestry:fences:8, Забор из хлопкового дерева
+Forestry:fences:9, Забор из мирта
+Forestry:fences:10, Забор из красного дерева
+Forestry:fences:11, Забор из бальзы
+Forestry:fences:12, Забор из ивы
+Forestry:fences:13, Забор из орехового дерева
+Forestry:fences:14, Забор из гринхарта
+Forestry:fences:15, Забор из вишнёвого дерева
+Forestry:fences:16, Забор из гибискуса
+Forestry:fences:17, Забор из тополя
+Forestry:fences:18, Забор из пальмы
+Forestry:fences:19, Забор из дынного дерева
+Forestry:fences:20, Забор из сосны
+Forestry:fences:21, Забор из сливового дерева
+Forestry:fences:22, Забор из клёна
+Forestry:fences:23, Забор из цитрусового дерева
+Forestry:fences:24, Забор из гигантской секвойи
+Forestry:fences:25, Забор из муравьиного дерева
+Forestry:fences:26, Забор из падука
+Forestry:fences:27, Забор из кокоболо
+Forestry:fences:28, Забор из зебрано
+Forestry:stairs:0, Ступеньки из лиственницы
+Forestry:stairs:1, Ступеньки из тикового дерева
+Forestry:stairs:2, Ступеньки из акации
+Forestry:stairs:3, Ступеньки из липы
+Forestry:stairs:4, Ступеньки из каштана
+Forestry:stairs:5, Ступеньки из дерева Венге
+Forestry:stairs:6, Ступеньки из баобаба
+Forestry:stairs:7, Ступеньки из секвойи
+Forestry:stairs:8, Ступеньки из хлопкового дерева
+Forestry:stairs:9, Ступеньки из мирта
+Forestry:stairs:10, Ступеньки из красного дерева
+Forestry:stairs:11, Ступеньки из бальзы
+Forestry:stairs:12, Ступеньки из ивы
+Forestry:stairs:13, Ступеньки из орехового дерева
+Forestry:stairs:14, Ступеньки из гринхарта
+Forestry:stairs:15, Ступеньки из вишнёвого дерева
+Forestry:stairs:16, Ступеньки из гибискуса
+Forestry:stairs:17, Ступеньки из тополя
+Forestry:stairs:18, Ступеньки из пальмы
+Forestry:stairs:19, Ступеньки из дынного дерева
+Forestry:stairs:20, Ступеньки из сосны
+Forestry:stairs:21, Ступеньки из сливового дерева
+Forestry:stairs:22, Ступеньки из клёна
+Forestry:stairs:23, Ступеньки из цитрусового дерева
+Forestry:stairs:24, Ступеньки из гигантской секвойи
+Forestry:stairs:25, Ступеньки из муравьиного дерева
+Forestry:stairs:26, Ступеньки из падука
+Forestry:stairs:27, Ступеньки из кокоболо
+Forestry:stairs:28, Ступеньки из зебрано
+Forestry:logsFireproof:0, Древесина лиственницы (Огнестойкость)
+Forestry:logsFireproof:1, Древесина тикового дерева (Огнестойкость)
+Forestry:logsFireproof:2, Древесина акации (Огнестойкость)
+Forestry:logsFireproof:3, Древесина липы (Огнестойкость)
+Forestry:logsFireproof:4, Древесина каштана (Огнестойкость)
+Forestry:logsFireproof:5, Древесина дерева Венге (Огнестойкость)
+Forestry:logsFireproof:6, Древесина баобаба (Огнестойкость)
+Forestry:logsFireproof:7, Древесина секвойи (Огнестойкость)
+Forestry:logsFireproof:8, Древесина хлопкового дерева (Огнестойкость)
+Forestry:logsFireproof:9, Древесина мирта (Огнестойкость)
+Forestry:logsFireproof:10, Древесина красного дерева (Огнестойкость)
+Forestry:logsFireproof:11, Древесина бальзы (Огнестойкость)
+Forestry:logsFireproof:12, Древесина ивы (Огнестойкость)
+Forestry:logsFireproof:13, Древесина орехового дерева (Огнестойкость)
+Forestry:logsFireproof:14, Древесина гринхарта (Огнестойкость)
+Forestry:logsFireproof:15, Древесина вишнёвого дерева (Огнестойкость)
+Forestry:logsFireproof:16, Древесина гибискуса (Огнестойкость)
+Forestry:logsFireproof:17, Древесина тополя (Огнестойкость)
+Forestry:logsFireproof:18, Древесина пальмы (Огнестойкость)
+Forestry:logsFireproof:19, Древесина дынного дерева (Огнестойкость)
+Forestry:logsFireproof:20, Древесина сосны (Огнестойкость)
+Forestry:logsFireproof:21, Древесина сливового дерева (Огнестойкость)
+Forestry:logsFireproof:22, Древесина клёна (Огнестойкость)
+Forestry:logsFireproof:23, Древесина цитрусового дерева (Огнестойкость)
+Forestry:logsFireproof:24, Древесина гигантской секвойи (Огнестойкость)
+Forestry:logsFireproof:25, Древесина муравьиного дерева (Огнестойкость)
+Forestry:logsFireproof:26, Древесина падука (Огнестойкость)
+Forestry:logsFireproof:27, Древесина кокоболо (Огнестойкость)
+Forestry:logsFireproof:28, Древесина зебрано (Огнестойкость)
+Forestry:planksFireproof:0, Доски из лиственницы (Огнестойкость)
+Forestry:planksFireproof:1, Доски из тикового дерева (Огнестойкость)
+Forestry:planksFireproof:2, Доски из акации (Огнестойкость)
+Forestry:planksFireproof:3, Доски из липы (Огнестойкость)
+Forestry:planksFireproof:4, Доски из каштана (Огнестойкость)
+Forestry:planksFireproof:5, Доски из дерева Венге (Огнестойкость)
+Forestry:planksFireproof:6, Доски из баобаба (Огнестойкость)
+Forestry:planksFireproof:7, Доски из секвойи (Огнестойкость)
+Forestry:planksFireproof:8, Доски из хлопкового дерева (Огнестойкость)
+Forestry:planksFireproof:9, Доски из мирта (Огнестойкость)
+Forestry:planksFireproof:10, Доски из красного дерева (Огнестойкость)
+Forestry:planksFireproof:11, Доски из бальзы (Огнестойкость)
+Forestry:planksFireproof:12, Доски из ивы (Огнестойкость)
+Forestry:planksFireproof:13, Доски из орехового дерева (Огнестойкость)
+Forestry:planksFireproof:14, Доски из гринхарта (Огнестойкость)
+Forestry:planksFireproof:15, Доски из вишнёвого дерева (Огнестойкость)
+Forestry:planksFireproof:16, Доски из гибискуса (Огнестойкость)
+Forestry:planksFireproof:17, Доски из тополя (Огнестойкость)
+Forestry:planksFireproof:18, Доски из пальмы (Огнестойкость)
+Forestry:planksFireproof:19, Доски из дынного дерева (Огнестойкость)
+Forestry:planksFireproof:20, Доски из сосны (Огнестойкость)
+Forestry:planksFireproof:21, Доски из сливового дерева (Огнестойкость)
+Forestry:planksFireproof:22, Доски из клёна (Огнестойкость)
+Forestry:planksFireproof:23, Доски из цитрусового дерева (Огнестойкость)
+Forestry:planksFireproof:24, Доски из гигантской секвойи (Огнестойкость)
+Forestry:planksFireproof:25, Доски из муравьиного дерева (Огнестойкость)
+Forestry:planksFireproof:26, Доски из падука (Огнестойкость)
+Forestry:planksFireproof:27, Доски из кокоболо (Огнестойкость)
+Forestry:planksFireproof:28, Доски из зебрано (Огнестойкость)
+Forestry:slabsFireproof:0, Плита из лиственницы (Огнестойкость)
+Forestry:slabsFireproof:1, Плита из тикового дерева (Огнестойкость)
+Forestry:slabsFireproof:2, Плита из акации (Огнестойкость)
+Forestry:slabsFireproof:3, Плита из липы (Огнестойкость)
+Forestry:slabsFireproof:4, Плита из каштана (Огнестойкость)
+Forestry:slabsFireproof:5, Плита из дерева Венге (Огнестойкость)
+Forestry:slabsFireproof:6, Плита из баобаба (Огнестойкость)
+Forestry:slabsFireproof:7, Плита из секвойи (Огнестойкость)
+Forestry:slabsFireproof:8, Плита из хлопкового дерева (Огнестойкость)
+Forestry:slabsFireproof:9, Плита из мирта (Огнестойкость)
+Forestry:slabsFireproof:10, Плита из красного дерева (Огнестойкость)
+Forestry:slabsFireproof:11, Плита из бальзы (Огнестойкость)
+Forestry:slabsFireproof:12, Плита из ивы (Огнестойкость)
+Forestry:slabsFireproof:13, Плита из орехового дерева (Огнестойкость)
+Forestry:slabsFireproof:14, Плита из гринхарта (Огнестойкость)
+Forestry:slabsFireproof:15, Плита из вишнёвого дерева (Огнестойкость)
+Forestry:slabsFireproof:16, Плита из гибискуса (Огнестойкость)
+Forestry:slabsFireproof:17, Плита из тополя (Огнестойкость)
+Forestry:slabsFireproof:18, Плита из пальмы (Огнестойкость)
+Forestry:slabsFireproof:19, Плита из дынного дерева (Огнестойкость)
+Forestry:slabsFireproof:20, Плита из сосны (Огнестойкость)
+Forestry:slabsFireproof:21, Плита из сливового дерева (Огнестойкость)
+Forestry:slabsFireproof:22, Плита из клёна (Огнестойкость)
+Forestry:slabsFireproof:23, Плита из цитрусового дерева (Огнестойкость)
+Forestry:slabsFireproof:24, Плита из гигантской секвойи (Огнестойкость)
+Forestry:slabsFireproof:25, Плита из муравьиного дерева (Огнестойкость)
+Forestry:slabsFireproof:26, Плита из падука (Огнестойкость)
+Forestry:slabsFireproof:27, Плита из кокоболо (Огнестойкость)
+Forestry:slabsFireproof:28, Плита из зебрано (Огнестойкость)
+Forestry:fencesFireproof:0, Забор из лиственницы (Огнестойкость)
+Forestry:fencesFireproof:1, Забор из тикового дерева (Огнестойкость)
+Forestry:fencesFireproof:2, Забор из акации (Огнестойкость)
+Forestry:fencesFireproof:3, Забор из липы (Огнестойкость)
+Forestry:fencesFireproof:4, Забор из каштана (Огнестойкость)
+Forestry:fencesFireproof:5, Забор из дерева Венге (Огнестойкость)
+Forestry:fencesFireproof:6, Забор из баобаба (Огнестойкость)
+Forestry:fencesFireproof:7, Забор из секвойи (Огнестойкость)
+Forestry:fencesFireproof:8, Забор из хлопкового дерева (Огнестойкость)
+Forestry:fencesFireproof:9, Забор из мирта (Огнестойкость)
+Forestry:fencesFireproof:10, Забор из красного дерева (Огнестойкость)
+Forestry:fencesFireproof:11, Забор из бальзы (Огнестойкость)
+Forestry:fencesFireproof:12, Забор из ивы (Огнестойкость)
+Forestry:fencesFireproof:13, Забор из орехового дерева (Огнестойкость)
+Forestry:fencesFireproof:14, Забор из гринхарта (Огнестойкость)
+Forestry:fencesFireproof:15, Забор из вишнёвого дерева (Огнестойкость)
+Forestry:fencesFireproof:16, Забор из гибискуса (Огнестойкость)
+Forestry:fencesFireproof:17, Забор из тополя (Огнестойкость)
+Forestry:fencesFireproof:18, Забор из пальмы (Огнестойкость)
+Forestry:fencesFireproof:19, Забор из дынного дерева (Огнестойкость)
+Forestry:fencesFireproof:20, Забор из сосны (Огнестойкость)
+Forestry:fencesFireproof:21, Забор из сливового дерева (Огнестойкость)
+Forestry:fencesFireproof:22, Забор из клёна (Огнестойкость)
+Forestry:fencesFireproof:23, Забор из цитрусового дерева (Огнестойкость)
+Forestry:fencesFireproof:24, Забор из гигантской секвойи (Огнестойкость)
+Forestry:fencesFireproof:25, Забор из муравьиного дерева (Огнестойкость)
+Forestry:fencesFireproof:26, Забор из падука (Огнестойкость)
+Forestry:fencesFireproof:27, Забор из кокоболо (Огнестойкость)
+Forestry:fencesFireproof:28, Забор из зебрано (Огнестойкость)
+Forestry:stairsFireproof:0, Ступеньки из лиственницы (Огнестойкость)
+Forestry:stairsFireproof:1, Ступеньки из тикового дерева (Огнестойкость)
+Forestry:stairsFireproof:2, Ступеньки из акации (Огнестойкость)
+Forestry:stairsFireproof:3, Ступеньки из липы (Огнестойкость)
+Forestry:stairsFireproof:4, Ступеньки из каштана (Огнестойкость)
+Forestry:stairsFireproof:5, Ступеньки из дерева Венге (Огнестойкость)
+Forestry:stairsFireproof:6, Ступеньки из баобаба (Огнестойкость)
+Forestry:stairsFireproof:7, Ступеньки из секвойи (Огнестойкость)
+Forestry:stairsFireproof:8, Ступеньки из хлопкового дерева (Огнестойкость)
+Forestry:stairsFireproof:9, Ступеньки из мирта (Огнестойкость)
+Forestry:stairsFireproof:10, Ступеньки из красного дерева (Огнестойкость)
+Forestry:stairsFireproof:11, Ступеньки из бальзы (Огнестойкость)
+Forestry:stairsFireproof:12, Ступеньки из ивы (Огнестойкость)
+Forestry:stairsFireproof:13, Ступеньки из орехового дерева (Огнестойкость)
+Forestry:stairsFireproof:14, Ступеньки из гринхарта (Огнестойкость)
+Forestry:stairsFireproof:15, Ступеньки из вишнёвого дерева (Огнестойкость)
+Forestry:stairsFireproof:16, Ступеньки из гибискуса (Огнестойкость)
+Forestry:stairsFireproof:17, Ступеньки из тополя (Огнестойкость)
+Forestry:stairsFireproof:18, Ступеньки из пальмы (Огнестойкость)
+Forestry:stairsFireproof:19, Ступеньки из дынного дерева (Огнестойкость)
+Forestry:stairsFireproof:20, Ступеньки из сосны (Огнестойкость)
+Forestry:stairsFireproof:21, Ступеньки из сливового дерева (Огнестойкость)
+Forestry:stairsFireproof:22, Ступеньки из клёна (Огнестойкость)
+Forestry:stairsFireproof:23, Ступеньки из цитрусового дерева (Огнестойкость)
+Forestry:stairsFireproof:24, Ступеньки из гигантской секвойи (Огнестойкость)
+Forestry:stairsFireproof:25, Ступеньки из муравьиного дерева (Огнестойкость)
+Forestry:stairsFireproof:26, Ступеньки из падука (Огнестойкость)
+Forestry:stairsFireproof:27, Ступеньки из кокоболо (Огнестойкость)
+Forestry:stairsFireproof:28, Ступеньки из зебрано (Огнестойкость)
+Forestry:saplingGE:0, Саженец
+Forestry:pods:0, Стручок
+Forestry:arboriculture:0, Сундук лесовода
+Forestry:engine:1, Торфяной двигатель
+Forestry:engine:2, Биогазовый двигатель
+Forestry:engine:4, Заводной двигатель
+Forestry:factory:0, Разливочный механизм
+Forestry:factory:1, Плотник
+Forestry:factory:2, Центрифуга
+Forestry:factory:3, Бродильный аппарат
+Forestry:factory:4, Увлажнитель
+Forestry:factory:5, Соковыжималка
+Forestry:factory:6, Дистиллятор
+Forestry:factory:7, Вызыватель дождя
+Forestry:factory2:0, Электроламповый завод
+Forestry:factory2:1, Сборщик дождя
+Forestry:factory2:2, Рабочий стол
+Forestry:mushroom:0, Гриб
+Forestry:mushroom:1, Гриб
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:0, Блок фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:2, Редуктор фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:3, Люк фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:4, Вентиль фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:ffarm:5, Блок управления фермы
+Forestry:lepidopterology:0, Сундук лепидоптеролога
+Forestry:mail:0, Почтовый ящик
+Forestry:mail:1, Торговая станция
+Forestry:mail:2, Сборщик марок
+ThermalFoundation:Ore:0, Медная руда
+ThermalFoundation:Ore:1, Оловянная руда
+ThermalFoundation:Ore:2, Серебряная руда
+ThermalFoundation:Ore:3, Свинцовая руда
+ThermalFoundation:Ore:4, Никелевая руда
+ThermalFoundation:Ore:5, Платиновая руда
+ThermalFoundation:Ore:6, Мифриловая руда
+ThermalFoundation:Storage:0, Медный блок
+ThermalFoundation:Storage:1, Оловянный блок
+ThermalFoundation:Storage:2, Серебряный блок
+ThermalFoundation:Storage:3, Свинцовый блок
+ThermalFoundation:Storage:4, Никелевый блок
+ThermalFoundation:Storage:5, Платиновый блок
+ThermalFoundation:Storage:6, Мифриловый блок
+ThermalFoundation:Storage:7, Электрумовый блок
+ThermalFoundation:Storage:8, Инваровый блок
+ThermalFoundation:Storage:9, Бронзовый блок
+ThermalFoundation:Storage:10, Синаловый блок
+ThermalFoundation:Storage:11, Ламиумовый блок
+ThermalFoundation:Storage:12, Блок эндериума
+ThermalFoundation:FluidRedstone, Дестабилизированный красный камень
+ThermalFoundation:FluidGlowstone, Заряженный светящийся камень
+ThermalFoundation:FluidEnder, Резонирующий эндериум
+ThermalFoundation:FluidPyrotheum, Пылающий пиротеум
+ThermalFoundation:FluidCryotheum, Ледяной криотеум
+ThermalFoundation:FluidAerotheum, Невесомый аэротеум
+ThermalFoundation:FluidPetrotheum, Тектонический петротеум
+ThermalFoundation:FluidMana, Изначальная мана
+ThermalFoundation:FluidSteam, Пар
+ThermalFoundation:FluidCoal, Разжиженный уголь
 OpenComputers:accessPoint:0, §cТочка доступа§7
 OpenComputers:adapter:0, Адаптер
 OpenComputers:assembler:0, Сборщик
@@ -4894,18 +4877,6 @@ harvestcraft:pampearSapling, Саженец груши
 harvestcraft:pamPecan, Пекан
 harvestcraft:pampecanSapling, Саженец пекана
 harvestcraft:pamPeppercorn, Перец
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 harvestcraft:pampeppercornSapling, Саженец перца
 harvestcraft:pamPersimmon, Хурма
 harvestcraft:pampersimmonSapling, Саженец хурмы
@@ -4918,6 +4889,18 @@ harvestcraft:pampomegranateSapling, Саженец граната
 harvestcraft:pamStarfruit, Карамбола
 harvestcraft:pamstarfruitSapling, Саженец карамболы
 harvestcraft:pamVanillabean, Ванильный стручок
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
 harvestcraft:pamvanillabeanSapling, Саженец ванили
 harvestcraft:pamWalnut, Грецкий орех
 harvestcraft:pamwalnutSapling, Саженец грецкого ореха
@@ -5467,34 +5450,6 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Изме�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из резного истинного кварца
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Плита из колонны истинного кварца
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.buildToolBlock.name
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Апатитовая руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Апатитовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бронзовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряная руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевая руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновая руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мифриловая руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряный блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мифриловый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Электрумовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Инваровый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бронзовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синаловый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ламиумовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок эндериума
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевый блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевый блок
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевый блок
@@ -6543,6 +6498,33 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Froglight
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Froglight
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Froglight
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Froglight
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Апатитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Апатитовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бронзовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мифриловая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Серебряный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Свинцовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Никелевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Платиновый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мифриловый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Электрумовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Инваровый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бронзовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Синаловый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ламиумовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок эндериума
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок хамелиума
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень края
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Призмарин
@@ -7970,114 +7952,22 @@ betterbuilderswands:wandUnbreakable, Нерушимый жезл
 betterbuilderswands:wandDiamond, Алмазный жезл
 betterp2p:advanced_memory_card, Advanced Memory Card
 questbook:ItemQuestBook, Quest Book
-BuildCraft|Core:wrenchItem, Гаечный ключ
-BuildCraft|Core:mapLocation, Карта расположения
-BuildCraft|Core:list:0, Список
-BuildCraft|Core:list:1, Список
-BuildCraft|Core:debugger, Отладчик
-BuildCraft|Core:woodenGearItem, Деревянная шестерня
-BuildCraft|Core:stoneGearItem, Каменная шестерня
-BuildCraft|Core:ironGearItem, Железная шестерня
-BuildCraft|Core:goldGearItem, Золотая шестерня
-BuildCraft|Core:diamondGearItem, Алмазная шестерня
-BuildCraft|Core:paintbrush, Кисточка
-BuildCraft|Transport:pipeWaterproof, Уплотнитель для труб
-BuildCraft|Transport:item.buildcraftPipe.pipeitemswood:0, Деревянная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald:0, Изумрудная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone:0, Булыжниковая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone:0, Каменная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz:0, Кварцевая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron:0, Железная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold:0, Золотая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond:0, Алмазная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian:0, Обсидиановая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis:0, Лазуритовая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli:0, Алмазуритовая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone:0, Песчаниковая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid:0, Пустотная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli:0, Изумуритовая транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes:0, Активная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay:0, Глиняная транспортная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidswood:0, Деревянная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone:0, Булыжниковая жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone:0, Каменная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz:0, Кварцевая жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron:0, Железная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold:0, Золотая жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald:0, Изумрудная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond:0, Алмазная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone:0, Песчаниковая жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid:0, Пустотная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay:0, Глиняная жидкостная труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowerwood:0, Деревянная энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone:0, Булыжниковая энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowerstone:0, Каменная энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz:0, Кварцевая энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepoweriron:0, Железная энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowergold:0, Золотая энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond:0, Алмазная энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald:0, Изумрудная энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone:0, Песчаниковая энергетическая труба
-BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone:0, Структурная труба
-BuildCraft|Transport:pipeWire:0, Красный провод
-BuildCraft|Transport:pipeWire:1, Синий провод
-BuildCraft|Transport:pipeWire:2, Зелёный провод
-BuildCraft|Transport:pipeWire:3, Жёлтый провод
-BuildCraft|Transport:pipeGate, Gate
-BuildCraft|Transport:pipePlug, Pipe Plug
-BuildCraft|Transport:pipeLens:0, Линза (Чёрный)
-BuildCraft|Transport:pipeLens:1, Линза (Красный)
-BuildCraft|Transport:pipeLens:2, Линза (Зелёный)
-BuildCraft|Transport:pipeLens:3, Линза (Коричневый)
-BuildCraft|Transport:pipeLens:4, Линза (Синий)
-BuildCraft|Transport:pipeLens:5, Линза (Фиолетовый)
-BuildCraft|Transport:pipeLens:6, Линза (Бирюзовый)
-BuildCraft|Transport:pipeLens:7, Линза (Светло-серый)
-BuildCraft|Transport:pipeLens:8, Линза (Серый)
-BuildCraft|Transport:pipeLens:9, Линза (Розовый)
-BuildCraft|Transport:pipeLens:10, Линза (Лаймовый)
-BuildCraft|Transport:pipeLens:11, Линза (Жёлтый)
-BuildCraft|Transport:pipeLens:12, Линза (Светло-синий)
-BuildCraft|Transport:pipeLens:13, Линза (Сиреневый)
-BuildCraft|Transport:pipeLens:14, Линза (Оранжевый)
-BuildCraft|Transport:pipeLens:15, Линза (Белый)
-BuildCraft|Transport:pipeLens:16, Фильтр (Чёрный)
-BuildCraft|Transport:pipeLens:17, Фильтр (Красный)
-BuildCraft|Transport:pipeLens:18, Фильтр (Зелёный)
-BuildCraft|Transport:pipeLens:19, Фильтр (Коричневый)
-BuildCraft|Transport:pipeLens:20, Фильтр (Синий)
-BuildCraft|Transport:pipeLens:21, Фильтр (Фиолетовый)
-BuildCraft|Transport:pipeLens:22, Фильтр (Бирюзовый)
-BuildCraft|Transport:pipeLens:23, Фильтр (Светло-серый)
-BuildCraft|Transport:pipeLens:24, Фильтр (Серый)
-BuildCraft|Transport:pipeLens:25, Фильтр (Розовый)
-BuildCraft|Transport:pipeLens:26, Фильтр (Лаймовый)
-BuildCraft|Transport:pipeLens:27, Фильтр (Жёлтый)
-BuildCraft|Transport:pipeLens:28, Фильтр (Светло-синий)
-BuildCraft|Transport:pipeLens:29, Фильтр (Сиреневый)
-BuildCraft|Transport:pipeLens:30, Фильтр (Оранжевый)
-BuildCraft|Transport:pipeLens:31, Фильтр (Белый)
-BuildCraft|Transport:pipeLens:32, Линза (Чистый)
-BuildCraft|Transport:pipeLens:33, Фильтр (Чистый)
-BuildCraft|Transport:pipePowerAdapter, Power Adapter
-BuildCraft|Transport:gateCopier, Копировальщик гейтов
-BuildCraft|Builders:templateItem, Чертёж
-BuildCraft|Builders:blueprintItem, Строительный проект
-BuildCraft|Robotics:robot, Робот
-BuildCraft|Robotics:robotStation, Docking Station
-BuildCraft|Robotics:redstone_board, Красная плата
-BuildCraft|Energy:bucketOil, Ведро нефти
-BuildCraft|Energy:bucketFuel, Ведро топлива
-BuildCraft|Silicon:redstoneChipset:0, Микросхема из красного камня
-BuildCraft|Silicon:redstoneChipset:1, Железная микросхема
-BuildCraft|Silicon:redstoneChipset:2, Золотая микросхема
-BuildCraft|Silicon:redstoneChipset:3, Алмазная микросхема
-BuildCraft|Silicon:redstoneChipset:4, Пульсирующая микросхема
-BuildCraft|Silicon:redstoneChipset:5, Кварцевая микросхема
-BuildCraft|Silicon:redstoneChipset:6, Композитная микросхема
-BuildCraft|Silicon:redstoneChipset:7, Изумрудная микросхема
-BuildCraft|Silicon:package, Пакет
-BuildCraft|Silicon:redstoneCrystal, Красный кристалл
+chisel:upgrade:0, Улучшение «Скорость»
+chisel:upgrade:1, Улучшение «Автоматизация»
+chisel:upgrade:2, Улучшение «Складывание»
+chisel:upgrade:3, Улучшение «Реверсия»
+chisel:ballomoss, Шарик мха
+chisel:chisel, Стамеска
+chisel:diamondChisel, Алмазная стамеска
+chisel:obsidianChisel, Обсидиановая стамеска
+chisel:netherStarChisel, Стамеска из адских звёзд
+chisel:cloudinabottle, Облако в бутылке
+chisel:smashingrock, Сокрушительный камень
+CarpentersBlocks:itemCarpentersHammer, Молоток плотника
+CarpentersBlocks:itemCarpentersChisel, Стамеска плотника
+CarpentersBlocks:itemCarpentersTile, Плитка плотника
+CarpentersBlocks:itemCarpentersDoor, Дверь плотника
+CarpentersBlocks:itemCarpentersBed, Кровать плотника
 Forestry:fertilizerBio, Компост
 Forestry:fertilizerCompound, Минеральное удобрение
 Forestry:researchNote, Записки игрока %s
@@ -8173,12 +8063,6 @@ Forestry:waxCapsuleWater, Капсула воды
 Forestry:refractoryWater, Капсула воды
 Forestry:canLava, Банка лавы
 Forestry:refractoryLava, Капсула лавы
-Forestry:canFuel, Банка топлива
-Forestry:waxCapsuleFuel, Капсула топлива
-Forestry:refractoryFuel, Капсула топлива
-Forestry:canOil, Банка нефти
-Forestry:waxCapsuleOil, Капсула нефти
-Forestry:refractoryOil, Капсула нефти
 Forestry:beealyzer, Анализатор пчёл
 Forestry:habitatLocator, Определитель ареала
 Forestry:imprinter, Импринтер
@@ -8565,18 +8449,6 @@ ThermalExpansion:satchel:3, Укреплённая сумка
 ThermalExpansion:satchel:4, Резонирующая сумка
 ThermalExpansion:florb:0, Неизвестный предмет (Уничтожить) (Пусто§r)
 ThermalExpansion:florb:1, Неизвестный предмет (Уничтожить) (Пусто§r)
-BuildCraft|Compat:item.buildcraftPipe.pipeitemspropolis:0, Труба пчеловода
-chisel:upgrade:0, Улучшение «Скорость»
-chisel:upgrade:1, Улучшение «Автоматизация»
-chisel:upgrade:2, Улучшение «Складывание»
-chisel:upgrade:3, Улучшение «Реверсия»
-chisel:ballomoss, Шарик мха
-chisel:chisel, Стамеска
-chisel:diamondChisel, Алмазная стамеска
-chisel:obsidianChisel, Обсидиановая стамеска
-chisel:netherStarChisel, Стамеска из адских звёзд
-chisel:cloudinabottle, Облако в бутылке
-chisel:smashingrock, Сокрушительный камень
 OpenComputers:item:27, Арифметико-логическое устройство (АЛУ)
 OpenComputers:item:101, Процессор с видеокартой (APU) (1-ый уровень)
 OpenComputers:item:102, Процессор с видеокартой (APU) (2-ой уровень)
@@ -8723,8 +8595,6 @@ computronics:computronics.ocParts:14, Speech Upgrade
 computronics:computronics.ocSpecialParts:0, Magical Memory (Creative)
 computronics:computronics.partsForestry:0, Каустическая сота
 computronics:computronics.partsForestry:1, Каустическая капля
-computronics:computronics.droneStation, Стыковочная станция дронов
-computronics:computronics.dockingUpgrade:0, Улучшение: стыковка
 dmod:bundle, Bundle
 eplus:item.tableUpgrade, Table Upgrade
 etfuturum:mutton_raw, Сырая баранина
@@ -13805,14 +13675,14 @@ IronChest:woodCopperUpgrade, Улучшение из деревянного в �
 IronChest:diamondObsidianUpgrade, Улучшение из алмазного в обсидиановый сундук
 IronChest:obsidianNetheriteUpgrade, Obsidian to Netherite Chest Upgrade
 IronChest:ironSteelUpgrade, Iron to Steel Chest Upgrade
+ironchestminecarts:minecart_chest_copper, Вагонетка с медным сундуком
+ironchestminecarts:minecart_chest_diamond, Вагонетка с алмазным сундуком
+ironchestminecarts:minecart_chest_gold, Вагонетка с золотым сундуком
+ironchestminecarts:minecart_chest_steel, Вагонетка с жестокий сундуком
+ironchestminecarts:minecart_chest_dirtchest9000, Вагонетка с DirtChest9000
 ironchestminecarts:minecart_chest_iron, Вагонетка с железным сундуком
 ironchestminecarts:minecart_chest_crystal, Вагонетка с кристальным сундуком
-ironchestminecarts:minecart_chest_diamond, Вагонетка с алмазным сундуком
-ironchestminecarts:minecart_chest_dirtchest9000, Вагонетка с DirtChest9000
-ironchestminecarts:minecart_chest_copper, Вагонетка с медным сундуком
-ironchestminecarts:minecart_chest_gold, Вагонетка с золотым сундуком
 ironchestminecarts:minecart_chest_obsidian, Вагонетка с обсидиановым сундуком
-ironchestminecarts:minecart_chest_steel, Вагонетка с жестокий сундуком
 cfm:ItemTableWood, Деревянный столик
 cfm:ItemTableStone, Каменный столик
 cfm:ItemChairWood, Деревянный стул
@@ -15038,65 +14908,6 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Источник воды)
-ThermalDynamics:cover:0, Крышка (Источник нефти)
-ThermalDynamics:cover:0, Крышка (tile.buildToolBlock.name)
-ThermalDynamics:cover:0, Крышка (Каркас)
-ThermalDynamics:cover:0, Крышка (Нефть)
-ThermalDynamics:cover:0, Крышка (Топливо)
-ThermalDynamics:cover:0, Крышка (tile.blockRedPlasma.name)
-ThermalDynamics:cover:0, Крышка (Буровая труба)
-ThermalDynamics:cover:0, Крышка (Гумус)
-ThermalDynamics:cover:0, Крышка (Болотная земля)
-ThermalDynamics:cover:0, Крышка (Апатитовая руда)
-ThermalDynamics:cover:0, Крышка (Медная руда)
-ThermalDynamics:cover:0, Крышка (Оловянная руда)
-ThermalDynamics:cover:0, Крышка (Апатитовый блок)
-ThermalDynamics:cover:0, Крышка (Медный блок)
-ThermalDynamics:cover:0, Крышка (Оловянный блок)
-ThermalDynamics:cover:0, Крышка (Бронзовый блок)
-ThermalDynamics:cover:0, Крышка (Этанол)
-ThermalDynamics:cover:0, Крышка (Биомасса)
-ThermalDynamics:cover:0, Крышка (Жидкое стекло)
-ThermalDynamics:cover:0, Крышка (Мёд)
-ThermalDynamics:cover:0, Крышка (Молотый лёд)
-ThermalDynamics:cover:0, Крышка (Фруктовый сок)
-ThermalDynamics:cover:0, Крышка (Растительное масло)
-ThermalDynamics:cover:0, Крышка (Питный мёд)
-ThermalDynamics:cover:0, Крышка (Mead)
-ThermalDynamics:cover:0, Крышка (Потухшая свеча)
-ThermalDynamics:cover:0, Крышка (Гриб)
-ThermalDynamics:cover:0, Крышка (Гриб)
-ThermalDynamics:cover:0, Крышка (Медная руда)
-ThermalDynamics:cover:0, Крышка (Оловянная руда)
-ThermalDynamics:cover:0, Крышка (Серебряная руда)
-ThermalDynamics:cover:0, Крышка (Свинцовая руда)
-ThermalDynamics:cover:0, Крышка (Никелевая руда)
-ThermalDynamics:cover:0, Крышка (Платиновая руда)
-ThermalDynamics:cover:0, Крышка (Мифриловая руда)
-ThermalDynamics:cover:0, Крышка (Медный блок)
-ThermalDynamics:cover:0, Крышка (Оловянный блок)
-ThermalDynamics:cover:0, Крышка (Серебряный блок)
-ThermalDynamics:cover:0, Крышка (Свинцовый блок)
-ThermalDynamics:cover:0, Крышка (Никелевый блок)
-ThermalDynamics:cover:0, Крышка (Платиновый блок)
-ThermalDynamics:cover:0, Крышка (Мифриловый блок)
-ThermalDynamics:cover:0, Крышка (Электрумовый блок)
-ThermalDynamics:cover:0, Крышка (Инваровый блок)
-ThermalDynamics:cover:0, Крышка (Бронзовый блок)
-ThermalDynamics:cover:0, Крышка (Синаловый блок)
-ThermalDynamics:cover:0, Крышка (Ламиумовый блок)
-ThermalDynamics:cover:0, Крышка (Блок эндериума)
-ThermalDynamics:cover:0, Крышка (Дестабилизированный красный камень)
-ThermalDynamics:cover:0, Крышка (Заряженный светящийся камень)
-ThermalDynamics:cover:0, Крышка (Резонирующий эндериум)
-ThermalDynamics:cover:0, Крышка (Пылающий пиротеум)
-ThermalDynamics:cover:0, Крышка (Ледяной криотеум)
-ThermalDynamics:cover:0, Крышка (Невесомый аэротеум)
-ThermalDynamics:cover:0, Крышка (Тектонический петротеум)
-ThermalDynamics:cover:0, Крышка (Изначальная мана)
-ThermalDynamics:cover:0, Крышка (Пар)
-ThermalDynamics:cover:0, Крышка (Разжиженный уголь)
 ThermalDynamics:cover:0, Крышка (Алюминиевый блок)
 ThermalDynamics:cover:0, Крышка (Алюминиевый блок)
 ThermalDynamics:cover:0, Крышка (Алюминиевый блок)
@@ -16443,6 +16254,57 @@ ThermalDynamics:cover:0, Крышка (Froglight)
 ThermalDynamics:cover:0, Крышка (Froglight)
 ThermalDynamics:cover:0, Крышка (Froglight)
 ThermalDynamics:cover:0, Крышка (Froglight)
+ThermalDynamics:cover:0, Крышка (Гумус)
+ThermalDynamics:cover:0, Крышка (Болотная земля)
+ThermalDynamics:cover:0, Крышка (Апатитовая руда)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Апатитовый блок)
+ThermalDynamics:cover:0, Крышка (Медный блок)
+ThermalDynamics:cover:0, Крышка (Оловянный блок)
+ThermalDynamics:cover:0, Крышка (Бронзовый блок)
+ThermalDynamics:cover:0, Крышка (Этанол)
+ThermalDynamics:cover:0, Крышка (Биомасса)
+ThermalDynamics:cover:0, Крышка (Жидкое стекло)
+ThermalDynamics:cover:0, Крышка (Мёд)
+ThermalDynamics:cover:0, Крышка (Молотый лёд)
+ThermalDynamics:cover:0, Крышка (Фруктовый сок)
+ThermalDynamics:cover:0, Крышка (Растительное масло)
+ThermalDynamics:cover:0, Крышка (Питный мёд)
+ThermalDynamics:cover:0, Крышка (Mead)
+ThermalDynamics:cover:0, Крышка (Потухшая свеча)
+ThermalDynamics:cover:0, Крышка (Гриб)
+ThermalDynamics:cover:0, Крышка (Гриб)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Серебряная руда)
+ThermalDynamics:cover:0, Крышка (Свинцовая руда)
+ThermalDynamics:cover:0, Крышка (Никелевая руда)
+ThermalDynamics:cover:0, Крышка (Платиновая руда)
+ThermalDynamics:cover:0, Крышка (Мифриловая руда)
+ThermalDynamics:cover:0, Крышка (Медный блок)
+ThermalDynamics:cover:0, Крышка (Оловянный блок)
+ThermalDynamics:cover:0, Крышка (Серебряный блок)
+ThermalDynamics:cover:0, Крышка (Свинцовый блок)
+ThermalDynamics:cover:0, Крышка (Никелевый блок)
+ThermalDynamics:cover:0, Крышка (Платиновый блок)
+ThermalDynamics:cover:0, Крышка (Мифриловый блок)
+ThermalDynamics:cover:0, Крышка (Электрумовый блок)
+ThermalDynamics:cover:0, Крышка (Инваровый блок)
+ThermalDynamics:cover:0, Крышка (Бронзовый блок)
+ThermalDynamics:cover:0, Крышка (Синаловый блок)
+ThermalDynamics:cover:0, Крышка (Ламиумовый блок)
+ThermalDynamics:cover:0, Крышка (Блок эндериума)
+ThermalDynamics:cover:0, Крышка (Дестабилизированный красный камень)
+ThermalDynamics:cover:0, Крышка (Заряженный светящийся камень)
+ThermalDynamics:cover:0, Крышка (Резонирующий эндериум)
+ThermalDynamics:cover:0, Крышка (Пылающий пиротеум)
+ThermalDynamics:cover:0, Крышка (Ледяной криотеум)
+ThermalDynamics:cover:0, Крышка (Невесомый аэротеум)
+ThermalDynamics:cover:0, Крышка (Тектонический петротеум)
+ThermalDynamics:cover:0, Крышка (Изначальная мана)
+ThermalDynamics:cover:0, Крышка (Пар)
+ThermalDynamics:cover:0, Крышка (Разжиженный уголь)
 ThermalDynamics:cover:0, Крышка (Робот)
 ThermalDynamics:cover:0, Крышка (Блок хамелиума)
 ThermalDynamics:cover:0, Крышка (Камень края)

@@ -12,6 +12,19 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<Forestry:pipette>);
+recipes.remove(<BuildCraft|Core:engineBlock>);
+recipes.remove(<Forestry:engine:1>);
+recipes.remove(<Forestry:engine:2>);
+recipes.remove(<Forestry:engine:4>);
+recipes.remove(<Forestry:factory2>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:beealyzer>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:treealyzer>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:chipsets:3>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:chipsets:2>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:chipsets:1>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:chipsets:0>);
+mods.forestry.Carpenter.removeRecipe(<Forestry:solderingIron>);
 recipes.remove(<Forestry:sturdyMachine>);
 recipes.remove(<StorageDrawers:halfDrawers4>);
 recipes.remove(<StorageDrawers:halfDrawers2>);
@@ -220,6 +233,13 @@ recipes.removeShaped(<minecraft:fire>, [[<ore:cobblestone>, null, null], [<ore:c
 
 // ================================================================================
 //#MARKER ADD
+mods.forestry.Carpenter.addRecipe(<Forestry:solderingIron>, [[<ore:ingotLead>, <ore:ingotLead>, null], [null, <ore:ingotLead>, null], [null, <ore:ingotAnyRubber>, null]], 60, null);
+mods.forestry.Carpenter.addRecipe(<Forestry:chipsets:0>, [[<ore:dustRedstone>, <hbm:item.circuit:6>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:ingotTin>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:6>, <ore:dustRedstone>]], 60, null);
+mods.forestry.Carpenter.addRecipe(<Forestry:chipsets:1>, [[<ore:dustRedstone>, <hbm:item.circuit:8>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:ingotBronze>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:8>, <ore:dustRedstone>]], 120, null);
+mods.forestry.Carpenter.addRecipe(<Forestry:chipsets:2>, [[<ore:dustRedstone>, <hbm:item.circuit:9>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:ingotSteel>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:9>, <ore:dustRedstone>]], 240, null);
+mods.forestry.Carpenter.addRecipe(<Forestry:chipsets:3>, [[<ore:dustRedstone>, <hbm:item.circuit:9>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:10>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:9>, <ore:dustRedstone>]], 320, null);
+mods.forestry.Carpenter.addRecipe(<Forestry:beealyzer>, [[<ore:ingotSteel>, <ore:paneGlass>, <ore:ingotSteel>], [<ore:ingotSteel>, <ore:paneGlass>, <ore:ingotSteel>], [<hbm:item.circuit:1>, <hbm:item.circuit:9>, <hbm:item.circuit:1>]], 128, null);
+mods.forestry.Carpenter.addRecipe(<Forestry:treealyzer>, [[<ore:ingotCopper>, <ore:paneGlass>, <ore:ingotCopper>], [<ore:ingotCopper>, <ore:paneGlass>, <ore:ingotCopper>], [<hbm:item.circuit:1>, <hbm:item.circuit:9>, <hbm:item.circuit:1>]], 128, null);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
@@ -227,6 +247,8 @@ recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpac
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<Forestry:pipette>, [[null, null, <ore:ingotAnyRubber>], [null, <ore:ntmpipeRubber>, null], [<ore:ntmpipeRubber>, null, null]]);
+recipes.addShaped(<Forestry:factory2>, [[<ore:AdvancedAlloy>, <hbm:item.circuit:1>, <ore:AdvancedAlloy>], [<hbm:item.circuit:9>, <Forestry:sturdyMachine>, <hbm:item.circuit:9>], [<ore:AdvancedAlloy>, <ore:chest>, <ore:AdvancedAlloy>]]);
 recipes.addShaped(<Forestry:sturdyMachine>, [[<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>], [<ore:ingotBronze>, <hbm:item.circuit:9>, <ore:ingotBronze>], [<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>]]);
 recipes.addShaped(<GraviGun:GraviGun>, [[null, <hbm:item.levitation_unit>, <hbm:item.circuit:9>], [<ore:barrelHeavyWeaponSteel>, <ore:receiverHeavyWeaponSteel>, <ore:gunMechanismWeaponSteel>], [null, <ore:stockAnyPlastic>, <ore:gripAnyPlastic>]]);
 recipes.addShaped(<appliedenergistics2:tile.BlockCellWorkbench>, [[<ore:plateTripleSteel>, <appliedenergistics2:item.ItemMultiMaterial:23>, <ore:plateTripleSteel>], [<ore:Steel>, <ore:chestWood>, <ore:Steel>], [<ore:Steel>, <ore:Steel>, <ore:Steel>]]);

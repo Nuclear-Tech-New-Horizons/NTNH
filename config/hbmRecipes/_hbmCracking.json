@@ -2,23 +2,13 @@
   "comment": "Inputs are always 100mB, set output quantities accordingly. The steam in/outputs are fixed, using 200mB of steam per 100mB of input.",
   "recipes": [
     {
-      "input": "XYLENE",
-      "output1": ["AROMATICS",80],
-      "output2": ["PETROLEUM",20]
+      "input": "ELBOWGREASE",
+      "output1": ["MERCURY",70],
+      "output2": ["SOURGAS",50]
     },
     {
-      "input": "DIESEL_CRACK",
-      "output1": ["KEROSENE",40],
-      "output2": ["PETROLEUM",30]
-    },
-    {
-      "input": "OIL",
-      "output1": ["CRACKOIL",80],
-      "output2": ["PETROLEUM",20]
-    },
-    {
-      "input": "DIESEL",
-      "output1": ["KEROSENE",40],
+      "input": "DIESEL_REFORM",
+      "output1": ["KEROSENE_REFORM",40],
       "output2": ["PETROLEUM",30]
     },
     {
@@ -27,14 +17,24 @@
       "output2": ["AROMATICS",20]
     },
     {
+      "input": "MORKINE",
+      "output1": ["METHANOL",40],
+      "output2": ["REFORMGAS",20]
+    },
+    {
+      "input": "DIESEL_CRACK",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
       "input": "OIL_DS",
       "output1": ["CRACKOIL_DS",80],
       "output2": ["PETROLEUM",20]
     },
     {
-      "input": "MORKINE",
-      "output1": ["METHANOL",40],
-      "output2": ["REFORMGAS",20]
+      "input": "DIESEL_CRACK_REFORM",
+      "output1": ["KEROSENE_REFORM",40],
+      "output2": ["PETROLEUM",30]
     },
     {
       "input": "TEKTOAIR",
@@ -47,9 +47,14 @@
       "output2": ["NONE",0]
     },
     {
-      "input": "DIESEL_REFORM",
-      "output1": ["KEROSENE_REFORM",40],
-      "output2": ["PETROLEUM",30]
+      "input": "WOODOIL",
+      "output1": ["HEATINGOIL",40],
+      "output2": ["AROMATICS",10]
+    },
+    {
+      "input": "REFORMATE",
+      "output1": ["UNSATURATEDS",40],
+      "output2": ["REFORMGAS",60]
     },
     {
       "input": "HEATINGOIL_VACUUM",
@@ -57,14 +62,9 @@
       "output2": ["REFORMGAS",20]
     },
     {
-      "input": "WOODOIL",
-      "output1": ["HEATINGOIL",40],
-      "output2": ["AROMATICS",10]
-    },
-    {
-      "input": "ELBOWGREASE",
-      "output1": ["MERCURY",70],
-      "output2": ["SOURGAS",50]
+      "input": "OIL",
+      "output1": ["CRACKOIL",80],
+      "output2": ["PETROLEUM",20]
     },
     {
       "input": "SMEAR",
@@ -72,14 +72,14 @@
       "output2": ["PETROLEUM",40]
     },
     {
-      "input": "DIESEL_CRACK_REFORM",
-      "output1": ["KEROSENE_REFORM",40],
-      "output2": ["PETROLEUM",30]
+      "input": "XYLENE",
+      "output1": ["AROMATICS",80],
+      "output2": ["PETROLEUM",20]
     },
     {
-      "input": "REFORMATE",
-      "output1": ["UNSATURATEDS",40],
-      "output2": ["REFORMGAS",60]
+      "input": "DIESEL",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
     }
   ]
 }
