@@ -14,7 +14,7 @@ Key Mods:
 
 • And many other exciting mods!
 
-Create your industry, build homes, and enjoy the game! Good luck with your playthrough!
+Create your industry, build factories, and enjoy the game! Good luck with your playthrough!
 Discord: https://discord.gg/wtNVzeE5QB
 
 
@@ -35,7 +35,5 @@ Nuclear Tech: New Horizons — это масштабный модпак, кот�
 
 • И многие другие увлекательные моды!
 
-Создавайте свою промышленность, стройте дома и наслаждайтесь игрой! Удачи в прохождении сборки!
+Создавайте свою промышленность, стройте заводы и наслаждайтесь игрой! Удачи в прохождении сборки!
 Discord: https://discord.gg/wtNVzeE5QB
-
-https://docs.google.com/spreadsheets/d/1LHd8c4FLLHiJqsuTppF2XFTE6bh-mXE7afVwGbzOKms/edit?gid=1469028684#gid=1469028684
