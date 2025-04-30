@@ -37,3 +37,5 @@ Nuclear Tech: New Horizons — это масштабный модпак, кот�
 
 Создавайте свою промышленность, стройте дома и наслаждайтесь игрой! Удачи в прохождении сборки!
 Discord: https://discord.gg/wtNVzeE5QB
+
+https://docs.google.com/spreadsheets/d/1LHd8c4FLLHiJqsuTppF2XFTE6bh-mXE7afVwGbzOKms/edit?gid=1469028684#gid=1469028684
