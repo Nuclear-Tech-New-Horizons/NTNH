@@ -13,16 +13,16 @@
       "output2": ["CHLORINE",25]
     },
     {
-      "input": "UNSATURATEDS",
-      "acid": ["NONE",0],
-      "output1": ["AROMATICS",70],
-      "output2": ["PETROLEUM",30]
-    },
-    {
       "input": "AROMATICS",
       "acid": ["RADIOSOLVENT",40],
       "output1": ["XYLENE",100],
       "output2": ["CHLORINE",10]
+    },
+    {
+      "input": "UNSATURATEDS",
+      "acid": ["NONE",0],
+      "output1": ["AROMATICS",70],
+      "output2": ["PETROLEUM",30]
     }
   ]
 }
