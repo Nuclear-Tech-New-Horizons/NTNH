@@ -1,3 +1,5 @@
+TODO: Talk with GTNH about using these mods: Better Builder's Wands, Iron Chest Minecarts, Special Mobs.
+
 +Mycelium-2.1 (+Mycelium-2.1.jar)
 1.7.10 (1.7.10)
 AE2 Fluid Crafting by GlodBlock (ae2fc-1.4.54-gtnh-pre.jar)
