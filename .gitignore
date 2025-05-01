@@ -53,3 +53,4 @@ config/worldedit/worldedit.properties
 config/hodgepodgeEarly.properties
 config/shaders.properties
 mods/carpentersblocks/CarpentersBlocksCachedResources.zip
+config/splash.properties
