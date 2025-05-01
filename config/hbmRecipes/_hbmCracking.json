@@ -2,19 +2,9 @@
   "comment": "Inputs are always 100mB, set output quantities accordingly. The steam in/outputs are fixed, using 200mB of steam per 100mB of input.",
   "recipes": [
     {
-      "input": "DIESEL",
-      "output1": ["KEROSENE",40],
-      "output2": ["PETROLEUM",30]
-    },
-    {
-      "input": "DIESEL_CRACK_REFORM",
-      "output1": ["KEROSENE_REFORM",40],
-      "output2": ["PETROLEUM",30]
-    },
-    {
-      "input": "HEATINGOIL_VACUUM",
-      "output1": ["HEATINGOIL",80],
-      "output2": ["REFORMGAS",20]
+      "input": "ELBOWGREASE",
+      "output1": ["MERCURY",70],
+      "output2": ["SOURGAS",50]
     },
     {
       "input": "REFORMATE",
@@ -22,8 +12,8 @@
       "output2": ["REFORMGAS",60]
     },
     {
-      "input": "DIESEL_CRACK",
-      "output1": ["KEROSENE",40],
+      "input": "DIESEL_REFORM",
+      "output1": ["KEROSENE_REFORM",40],
       "output2": ["PETROLEUM",30]
     },
     {
@@ -32,39 +22,9 @@
       "output2": ["PETROLEUM",20]
     },
     {
-      "input": "TEKTOAIR",
-      "output1": ["METHANOL",80],
-      "output2": ["AROMATICS",20]
-    },
-    {
-      "input": "OIL_DS",
-      "output1": ["CRACKOIL_DS",80],
-      "output2": ["PETROLEUM",20]
-    },
-    {
-      "input": "KEROSENE",
-      "output1": ["PETROLEUM",60],
-      "output2": ["NONE",0]
-    },
-    {
-      "input": "WOODOIL",
-      "output1": ["HEATINGOIL",40],
-      "output2": ["AROMATICS",10]
-    },
-    {
-      "input": "BITUMEN",
-      "output1": ["OIL",80],
-      "output2": ["AROMATICS",20]
-    },
-    {
       "input": "SMEAR",
       "output1": ["NAPHTHA",60],
       "output2": ["PETROLEUM",40]
-    },
-    {
-      "input": "DIESEL_REFORM",
-      "output1": ["KEROSENE_REFORM",40],
-      "output2": ["PETROLEUM",30]
     },
     {
       "input": "OIL",
@@ -72,9 +32,49 @@
       "output2": ["PETROLEUM",20]
     },
     {
-      "input": "ELBOWGREASE",
-      "output1": ["MERCURY",70],
-      "output2": ["SOURGAS",50]
+      "input": "BITUMEN",
+      "output1": ["OIL",80],
+      "output2": ["AROMATICS",20]
+    },
+    {
+      "input": "DIESEL_CRACK",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "OIL_DS",
+      "output1": ["CRACKOIL_DS",80],
+      "output2": ["PETROLEUM",20]
+    },
+    {
+      "input": "DIESEL_CRACK_REFORM",
+      "output1": ["KEROSENE_REFORM",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "DIESEL",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "KEROSENE",
+      "output1": ["PETROLEUM",60],
+      "output2": ["NONE",0]
+    },
+    {
+      "input": "TEKTOAIR",
+      "output1": ["METHANOL",80],
+      "output2": ["AROMATICS",20]
+    },
+    {
+      "input": "WOODOIL",
+      "output1": ["HEATINGOIL",40],
+      "output2": ["AROMATICS",10]
+    },
+    {
+      "input": "HEATINGOIL_VACUUM",
+      "output1": ["HEATINGOIL",80],
+      "output2": ["REFORMGAS",20]
     },
     {
       "input": "MORKINE",

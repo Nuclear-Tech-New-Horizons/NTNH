@@ -12,8 +12,12 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<TConstruct:Redstone.Landmine:3>);
+recipes.remove(<TConstruct:Redstone.Landmine:2>);
+recipes.remove(<TConstruct:Redstone.Landmine:1>);
+recipes.remove(<TConstruct:Redstone.Landmine>);
+recipes.remove(<TConstruct:CraftedSoil:1>);
 recipes.remove(<Forestry:pipette>);
-recipes.remove(<BuildCraft|Core:engineBlock>);
 recipes.remove(<Forestry:engine:1>);
 recipes.remove(<Forestry:engine:2>);
 recipes.remove(<Forestry:engine:4>);

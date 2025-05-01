@@ -2640,6 +2640,280 @@ computronics:computronics.radar, Радар
 computronics:computronics.colorfulLamp, Цветная лампа
 computronics:computronics.speechBox, Speech Box
 eplus:tile.advancedEnchantmentTable, Advanced Enchantment Table
+TConstruct:liquid.slime, Сжиженная слизь
+TConstruct:MeatBlock, Ветчина на кости
+TConstruct:WoolSlab1:0, Плита из шерсти
+TConstruct:WoolSlab1:1, Плита из оранжевой шерсти
+TConstruct:WoolSlab1:2, Плита из сиреневой шерсти
+TConstruct:WoolSlab1:3, Плита из светло-синей шерсти
+TConstruct:WoolSlab1:4, Плита из жёлтой шерсти
+TConstruct:WoolSlab1:5, Плита из лаймовой шерсти
+TConstruct:WoolSlab1:6, Плита из розовой шерсти
+TConstruct:WoolSlab1:7, Плита из серой шерсти
+TConstruct:WoolSlab2:0, Плита светло-серой шерсти
+TConstruct:WoolSlab2:1, Плита из бирюзовой шерсти
+TConstruct:WoolSlab2:2, Плита из фиолетовой шерсти
+TConstruct:WoolSlab2:3, Плита из синей шерсти
+TConstruct:WoolSlab2:4, Плита из коричневой шерсти
+TConstruct:WoolSlab2:5, Плита из зелёной шерсти
+TConstruct:WoolSlab2:6, Плита из красной шерсти
+TConstruct:WoolSlab2:7, Плита из чёрной шерсти
+TConstruct:trap.punji, Колышек
+TConstruct:trap.barricade.oak, Баррикада из дуба
+TConstruct:trap.barricade.spruce, Баррикада из ели
+TConstruct:trap.barricade.birch, Баррикада из берёзы
+TConstruct:trap.barricade.jungle, Баррикада из тропического дерева
+TConstruct:explosive.slime:0, Бомба из слизи
+TConstruct:explosive.slime:2, Бомба из слизи
+TConstruct:slime.gel:0, Застывшая синяя слизь
+TConstruct:slime.gel:1, Застывшая зелёная слизь
+TConstruct:slime.gel:2, Застывшая фиолетовая слизь
+TConstruct:slime.grass:0, Слизневая трава
+TConstruct:slime.grass.tall:0, Слизневая трава
+TConstruct:slime.leaves:0, Слизневая листва
+TConstruct:slime.sapling:0, Слизневый саженец
+TConstruct:slime.channel, Сточная слизь
+TConstruct:blood.channel, Сточная кровь
+TConstruct:slime.pad, Прыжковая панель
+TConstruct:decoration.stonetorch, Факел
+TConstruct:decoration.stoneladder, Лестница
+TConstruct:decoration.multibrick:0, Обсидиановый кирпич
+TConstruct:decoration.multibrick:1, Песчаниковый кирпич
+TConstruct:decoration.multibrick:2, Кирпич Нижнего мира
+TConstruct:decoration.multibrick:3, Кирпич из гладкого камня
+TConstruct:decoration.multibrick:4, Железный кирпич
+TConstruct:decoration.multibrick:5, Золотой кирпич
+TConstruct:decoration.multibrick:6, Лазуритовый кирпич
+TConstruct:decoration.multibrick:7, Алмазный кирпич
+TConstruct:decoration.multibrick:8, Красный кирпич
+TConstruct:decoration.multibrick:9, Костяной кирпич
+TConstruct:decoration.multibrick:10, Слизневый кирпич
+TConstruct:decoration.multibrick:11, Слизневый кирпич
+TConstruct:decoration.multibrick:12, Кирпич из камня Края
+TConstruct:decoration.multibrick:13, Обсидиановый кирпич
+TConstruct:decoration.multibrickfancy:0, Красивый обсидиановый кирпич
+TConstruct:decoration.multibrickfancy:1, Красивый песчаниковый кирпич
+TConstruct:decoration.multibrickfancy:2, Красивый кирпич Нижнего мира
+TConstruct:decoration.multibrickfancy:3, Красивый кирпич из гладкого камня
+TConstruct:decoration.multibrickfancy:4, Красивый железный кирпич
+TConstruct:decoration.multibrickfancy:5, Красивый золотой кирпич
+TConstruct:decoration.multibrickfancy:6, Красивый лазуритовый кирпич
+TConstruct:decoration.multibrickfancy:7, Красивый алмазный кирпич
+TConstruct:decoration.multibrickfancy:8, Красивый красный кирпич
+TConstruct:decoration.multibrickfancy:9, Красивый костяной кирпич
+TConstruct:decoration.multibrickfancy:10, Красивый слизневый кирпич
+TConstruct:decoration.multibrickfancy:11, Красивый слизневый кирпич
+TConstruct:decoration.multibrickfancy:12, Кирпич из красивого камня Края
+TConstruct:decoration.multibrickfancy:13, Красивый обсидиановый кирпич
+TConstruct:decoration.multibrickfancy:14, Кирпич из красивого камня
+TConstruct:decoration.multibrickfancy:15, Каменная дорога
+TConstruct:decoration.multibrickmetal:0, Алюмитовый кирпич
+TConstruct:decoration.multibrickmetal:1, Ардитовый кирпич
+TConstruct:decoration.multibrickmetal:2, Кобальтовый кирпич
+TConstruct:decoration.multibrickmetal:3, Мануллиновый кирпич
+TConstruct:decoration.multibrickmetal:4, Красивый алюмитовый кирпич
+TConstruct:decoration.multibrickmetal:5, Красивый ардитовый кирпич
+TConstruct:decoration.multibrickmetal:6, Красивый кобальтовый кирпич
+TConstruct:decoration.multibrickmetal:7, Красивый мануллиновый кирпич
+TConstruct:ore.berries.one:8, Железный рудный куст
+TConstruct:ore.berries.one:9, Золотой рудный куст
+TConstruct:ore.berries.one:10, Медный рудный куст
+TConstruct:ore.berries.one:11, Оловянный рудный куст
+TConstruct:ore.berries.two:8, Алюминиевый рудный куст
+TConstruct:ore.berries.two:9, Куст эссенции опыта
+TConstruct:SearedBrick:1, Кобальтовая руда
+TConstruct:SearedBrick:2, Ардитовая руда
+TConstruct:SearedBrick:3, Медная руда
+TConstruct:SearedBrick:4, Оловянная руда
+TConstruct:SearedBrick:5, Алюминиевая руда
+TConstruct:GravelOre:0, Железная гравиевая руда
+TConstruct:GravelOre:1, Золотая гравиевая руда
+TConstruct:GravelOre:2, Медная гравиевая руда
+TConstruct:GravelOre:3, Оловянная гравиевая руда
+TConstruct:GravelOre:4, Алюминиевая гравиевая руда
+TConstruct:GravelOre:5, Кобальтовая гравиевая руда
+TConstruct:rail.wood, Деревянные рельсы
+TConstruct:MetalBlock:0, Кобальтовый блок
+TConstruct:MetalBlock:1, Ардитовый блок
+TConstruct:MetalBlock:2, Мануллиновый блок
+TConstruct:MetalBlock:3, Медный блок
+TConstruct:MetalBlock:4, Бронзовый блок
+TConstruct:MetalBlock:5, Оловянный блок
+TConstruct:MetalBlock:6, Алюминиевый блок
+TConstruct:MetalBlock:7, Блок алюминиевой латуни
+TConstruct:MetalBlock:8, Алюмитовый блок
+TConstruct:MetalBlock:9, Стальной блок
+TConstruct:MetalBlock:10, Блок спрессованного ока Края
+TConstruct:ToolStationBlock:0, Инженерная станция
+TConstruct:ToolStationBlock:1, Конструктор деталей
+TConstruct:ToolStationBlock:2, Конструктор деталей
+TConstruct:ToolStationBlock:3, Конструктор деталей
+TConstruct:ToolStationBlock:4, Конструктор деталей
+TConstruct:ToolStationBlock:5, Сундук для схем
+TConstruct:ToolStationBlock:10, Стол для вырезки схем
+TConstruct:ToolStationBlock:11, Стол для вырезки схем
+TConstruct:ToolStationBlock:12, Стол для вырезки схем
+TConstruct:ToolStationBlock:13, Стол для вырезки схем
+TConstruct:ToolForgeBlock:0, Инженерная кузня
+TConstruct:ToolForgeBlock:1, Инженерная кузня
+TConstruct:ToolForgeBlock:2, Инженерная кузня
+TConstruct:ToolForgeBlock:3, Инженерная кузня
+TConstruct:ToolForgeBlock:4, Инженерная кузня
+TConstruct:ToolForgeBlock:5, Инженерная кузня
+TConstruct:ToolForgeBlock:6, Инженерная кузня
+TConstruct:ToolForgeBlock:7, Инженерная кузня
+TConstruct:ToolForgeBlock:8, Инженерная кузня
+TConstruct:ToolForgeBlock:9, Инженерная кузня
+TConstruct:ToolForgeBlock:10, Инженерная кузня
+TConstruct:ToolForgeBlock:11, Инженерная кузня
+TConstruct:ToolForgeBlock:12, Инженерная кузня
+TConstruct:ToolForgeBlock:13, Инженерная кузня
+TConstruct:CraftingStation, Верстак инженера
+TConstruct:CraftingSlab:0, Верстак инженера
+TConstruct:CraftingSlab:1, Инженерная станция
+TConstruct:CraftingSlab:2, Конструктор деталей
+TConstruct:CraftingSlab:3, Стол для вырезки схем
+TConstruct:CraftingSlab:4, Сундук для схем
+TConstruct:CraftingSlab:5, Инженерная кузня
+TConstruct:FurnaceSlab, Печь-плита
+TConstruct:HeldItemBlock, Сковорода
+TConstruct:BattleSignBlock, tile.Battlesign.name
+TConstruct:CraftedSoil:0, Слизневая грязь
+TConstruct:CraftedSoil:1, Цемент
+TConstruct:CraftedSoil:2, Слизневая грязь
+TConstruct:CraftedSoil:3, Кладбищенская почва
+TConstruct:CraftedSoil:4, Священная почва
+TConstruct:CraftedSoil:5, Земля из синей слизи
+TConstruct:CraftedSoil:6, Слизевая почва
+TConstruct:fluid.molten.iron, Расплавленное железо
+TConstruct:fluid.molten.gold, Расплавленное золото
+TConstruct:fluid.molten.copper, Расплавленная медь
+TConstruct:fluid.molten.tin, Жидкое олово
+TConstruct:fluid.molten.aluminum, Расплавленный алюминий
+TConstruct:fluid.molten.cobalt, Расплавленный кобальт
+TConstruct:fluid.molten.ardite, Расплавленный ардит
+TConstruct:fluid.molten.bronze, Расплавленная бронза
+TConstruct:fluid.molten.alubrass, Расплавленная алюминиевая латунь
+TConstruct:fluid.molten.manyullyn, Расплавленный мануллин
+TConstruct:fluid.molten.alumite, Расплавленный алюмит
+TConstruct:fluid.molten.obsidian, Расплавленный обсидиан
+TConstruct:fluid.molten.steel, Расплавленная сталь
+TConstruct:fluid.molten.glass, Расплавленное стекло
+TConstruct:molten.stone, Обожжённый камень
+TConstruct:molten.emerald, Сжиженный изумруд
+TConstruct:molten.quartz, Molten Nether Quartz
+TConstruct:fluid.molten.nickel, Расплавленный никель
+TConstruct:fluid.molten.lead, Расплавленный свинец
+TConstruct:fluid.molten.silver, Расплавленное серебро
+TConstruct:fluid.molten.shiny, Расплавленная платина
+TConstruct:fluid.molten.invar, Расплавленный инвар
+TConstruct:fluid.molten.electrum, Расплавленный электрум
+TConstruct:fluid.ender, Жидкость Края
+TConstruct:fluid.molten.lumium, Расплавленный ламиум
+TConstruct:fluid.molten.signalum, Расплавленный синал
+TConstruct:fluid.molten.mithril, Расплавленный мифрил
+TConstruct:fluid.molten.enderium, Расплавленный эндериум
+TConstruct:liquid.blood, Кровь
+TConstruct:liquid.glue, Клей
+TConstruct:fluid.molten.pigiron, Расплавленное свиное железо
+TConstruct:SearedSlab:0, Плита из обожжённого кирпича
+TConstruct:SearedSlab:1, Плита из обожжённого камня
+TConstruct:SearedSlab:2, Плита из обожжённого булыжника
+TConstruct:SearedSlab:3, Плита из обожжённой брусчатки
+TConstruct:SearedSlab:4, Плита из обожжённой дороги
+TConstruct:SearedSlab:5, Красивая обожжённая плита
+TConstruct:SearedSlab:6, Резная обожжённая плита
+TConstruct:SearedSlab:7, Резная обожжённая плита
+TConstruct:SpeedSlab:0, Плита из грубого бурого песчаника
+TConstruct:SpeedSlab:1, Плита из грубого дорожного бурого песчаника
+TConstruct:SpeedSlab:2, Плита из бурого песчаника
+TConstruct:SpeedSlab:3, Плита из кирпича бурого песчаника
+TConstruct:SpeedSlab:4, Плита из дорожного бурого песчаника
+TConstruct:SpeedSlab:5, Плита из красивого бурого песчаника
+TConstruct:SpeedSlab:6, Плита из резного бурого песчаника
+TConstruct:GlueBlock, Блок клея
+TConstruct:Smeltery:0, Контроллер плавильни
+TConstruct:Smeltery:1, Слив плавильни
+TConstruct:Smeltery:2, Обожжённый кирпич
+TConstruct:Smeltery:4, Обожжённый камень
+TConstruct:Smeltery:5, Обожжённый булыжник
+TConstruct:Smeltery:6, Обожжённая брусчатка
+TConstruct:Smeltery:7, Потрескавшийся обожжённый кирпич
+TConstruct:Smeltery:8, Обожжённая дорога
+TConstruct:Smeltery:9, Красивый обожжённый кирпич
+TConstruct:Smeltery:10, Резной обожжённый кирпич
+TConstruct:Smeltery:11, Резной обожжённый кирпич
+TConstruct:SmelteryNether:0, Контроллер плавильни
+TConstruct:SmelteryNether:1, Слив плавильни
+TConstruct:SmelteryNether:2, Обожжённый кирпич
+TConstruct:SmelteryNether:4, Обожжённый камень
+TConstruct:SmelteryNether:5, Обожжённый булыжник
+TConstruct:SmelteryNether:6, Обожжённая брусчатка
+TConstruct:SmelteryNether:7, Потрескавшийся обожжённый кирпич
+TConstruct:SmelteryNether:8, Обожжённая дорога
+TConstruct:SmelteryNether:9, Красивый обожжённый кирпич
+TConstruct:SmelteryNether:10, Резной обожжённый кирпич
+TConstruct:SmelteryNether:11, Резной обожжённый кирпич
+TConstruct:LavaTank:0, Обожжённый резервуар
+TConstruct:LavaTank:1, Обожжённое стекло
+TConstruct:LavaTank:2, Обожжённое окно
+TConstruct:LavaTankNether:0, Обожжённый резервуар
+TConstruct:LavaTankNether:1, Обожжённое стекло
+TConstruct:LavaTankNether:2, Обожжённое окно
+TConstruct:SearedBlock:0, Литейный стол
+TConstruct:SearedBlock:1, Литейный кран
+TConstruct:SearedBlock:2, Литейный резервуар
+TConstruct:SearedBlockNether:0, Литейный стол
+TConstruct:SearedBlockNether:1, Литейный кран
+TConstruct:SearedBlockNether:2, Литейный резервуар
+TConstruct:CastingChannel:0, Разливочный канал
+TConstruct:CastingChannel:1, Разливочный канал
+TConstruct:SpeedBlock:0, Грубый бурый песчаник
+TConstruct:SpeedBlock:1, Дорога из грубого бурого песчаника
+TConstruct:SpeedBlock:2, Бурый песчаник
+TConstruct:SpeedBlock:3, Кирпич из бурого песчаника
+TConstruct:SpeedBlock:4, Дорога из бурого песчаника
+TConstruct:SpeedBlock:5, Красивый бурый песчаник
+TConstruct:SpeedBlock:6, Резной бурый песчаник
+TConstruct:GlassBlock:0, Прозрачное стекло
+TConstruct:GlassPane:0, Прозрачная стеклянная панель
+TConstruct:GlassBlock.StainedClear:0, Белое стекло
+TConstruct:GlassBlock.StainedClear:1, Оранжевое стекло
+TConstruct:GlassBlock.StainedClear:2, Сиреневое стекло
+TConstruct:GlassBlock.StainedClear:3, Светло-синее стекло
+TConstruct:GlassBlock.StainedClear:4, Жёлтое стекло
+TConstruct:GlassBlock.StainedClear:5, Лаймовое стекло
+TConstruct:GlassBlock.StainedClear:6, Розовое стекло
+TConstruct:GlassBlock.StainedClear:7, Серое стекло
+TConstruct:GlassBlock.StainedClear:8, Светло-серое стекло
+TConstruct:GlassBlock.StainedClear:9, Бирюзовое стекло
+TConstruct:GlassBlock.StainedClear:10, Фиолетовое стекло
+TConstruct:GlassBlock.StainedClear:11, Синее стекло
+TConstruct:GlassBlock.StainedClear:12, Коричневое стекло
+TConstruct:GlassBlock.StainedClear:13, Зелёное стекло
+TConstruct:GlassBlock.StainedClear:14, Красное стекло
+TConstruct:GlassBlock.StainedClear:15, Чёрное стекло
+TConstruct:GlassPaneClearStained:0, Белая стеклянная панель
+TConstruct:GlassPaneClearStained:1, Оранжевая стеклянная панель
+TConstruct:GlassPaneClearStained:2, Сиреневая стеклянная панель
+TConstruct:GlassPaneClearStained:3, Светло-синяя стеклянная панель
+TConstruct:GlassPaneClearStained:4, Жёлтая стеклянная панель
+TConstruct:GlassPaneClearStained:5, Лаймовая стеклянная панель
+TConstruct:GlassPaneClearStained:6, Розовая стеклянная панель
+TConstruct:GlassPaneClearStained:7, Серая стеклянная панель
+TConstruct:GlassPaneClearStained:8, Светло-серая стеклянная панель
+TConstruct:GlassPaneClearStained:9, Бирюзовая стеклянная панель
+TConstruct:GlassPaneClearStained:10, Фиолетовая стеклянная панель
+TConstruct:GlassPaneClearStained:11, Синяя стеклянная панель
+TConstruct:GlassPaneClearStained:12, Коричневая стеклянная панель
+TConstruct:GlassPaneClearStained:13, Зелёная стеклянная панель
+TConstruct:GlassPaneClearStained:14, Красная стеклянная панель
+TConstruct:GlassPaneClearStained:15, Чёрная стеклянная панель
+TConstruct:Redstone.Landmine:0, Мина
+TConstruct:Redstone.Landmine:1, Мина
+TConstruct:Redstone.Landmine:2, Мина
+TConstruct:Redstone.Landmine:3, Мина
+TConstruct:Armor.DryingRack, Доска для вяления
 etfuturum:prismarine_block:0, Призмарин
 etfuturum:prismarine_block:1, Призмариновый кирпич
 etfuturum:prismarine_block:2, Тёмный призмарин
@@ -2944,17 +3218,6 @@ etfuturum:light:15, Свет
 etfuturum:barrier, Барьер
 etfuturum:glow_lichen, Glow Lichen
 etfuturum:glow_berries, tile.etfuturum.cave_vines.name
-extracells:certustank, extracells.block.certustank.name
-extracells:walrus, Морж
-extracells:fluidcrafter, МЭ жидкостный сборщик
-extracells:ecbaseblock:0, МЭ жидкостный интерфейс
-extracells:ecbaseblock:1, МЭ жидкостный авто-заполнитель
-extracells:hardmedrive, Взрывоустойчивый МЭ накопитель
-extracells:vibrantchamberfluid, Жидкостная вибрационная камера
-extracells:craftingstorage:0, 256k хранилище создания
-extracells:craftingstorage:1, 1024k хранилище создания
-extracells:craftingstorage:2, 4096k хранилище создания
-extracells:craftingstorage:3, 16384k хранилище создания
 ForgeRelocation:relocation.blockmovingrow:0, tile.relocation.blockmovingrow|0.name
 MCFrames:mcframes.motor:0, Debug Frame Motor
 MCFrames:mcframes.frame, Frame
@@ -3365,8 +3628,26 @@ hbm:tile.ore_shale:6, Газовый карман
 hbm:tile.ore_shale:7, Газовый карман
 hbm:tile.ore_shale:8, Газовый карман
 hbm:tile.ore_shale:9, Газовый карман
-hbm:tile.ore_australium, Австралиевая руда
-hbm:tile.ore_rare, Редкоземельная руда
+hbm:tile.ore_australium:0, Австралиевая руда
+hbm:tile.ore_australium:1, Австралиевая руда
+hbm:tile.ore_australium:2, Австралиевая руда
+hbm:tile.ore_australium:3, Австралиевая руда
+hbm:tile.ore_australium:4, Австралиевая руда
+hbm:tile.ore_australium:5, Австралиевая руда
+hbm:tile.ore_australium:6, Австралиевая руда
+hbm:tile.ore_australium:7, Австралиевая руда
+hbm:tile.ore_australium:8, Австралиевая руда
+hbm:tile.ore_australium:9, Австралиевая руда
+hbm:tile.ore_rare:0, Редкоземельная руда
+hbm:tile.ore_rare:1, Редкоземельная руда
+hbm:tile.ore_rare:2, Редкоземельная руда
+hbm:tile.ore_rare:3, Редкоземельная руда
+hbm:tile.ore_rare:4, Редкоземельная руда
+hbm:tile.ore_rare:5, Редкоземельная руда
+hbm:tile.ore_rare:6, Редкоземельная руда
+hbm:tile.ore_rare:7, Редкоземельная руда
+hbm:tile.ore_rare:8, Редкоземельная руда
+hbm:tile.ore_rare:9, Редкоземельная руда
 hbm:tile.ore_cobalt:0, Кобальтовая руда
 hbm:tile.ore_cobalt:1, Кобальтовая руда
 hbm:tile.ore_cobalt:2, Кобальтовая руда
@@ -4131,6 +4412,7 @@ hbm:tile.door_metal, Металлическая дверь
 hbm:tile.door_office, Офисная дверь
 hbm:tile.door_bunker, Бункерная дверь
 hbm:tile.door_red, Красная дверь
+hbm:tile.fence_gate, Chainlink Fence Gate
 hbm:tile.secure_access_door, Дверь с изолированным доступом
 hbm:tile.large_vehicle_door, Дверь для крупногабаритных автомобилей
 hbm:tile.qe_containment, QE Дверь биологического сдерживания
@@ -4810,6 +5092,18 @@ harvestcraft:quern, Quern
 harvestcraft:quernon, tile.quernon.name
 harvestcraft:fishtrap, Fish Trap
 harvestcraft:animaltrap, Animal Trap
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
 harvestcraft:berrygarden, Ягодный куст
 harvestcraft:desertgarden, Пустынный куст
 harvestcraft:grassgarden, Травяной куст
@@ -4889,18 +5183,6 @@ harvestcraft:pampomegranateSapling, Саженец граната
 harvestcraft:pamStarfruit, Карамбола
 harvestcraft:pamstarfruitSapling, Саженец карамболы
 harvestcraft:pamVanillabean, Ванильный стручок
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 harvestcraft:pamvanillabeanSapling, Саженец ванили
 harvestcraft:pamWalnut, Грецкий орех
 harvestcraft:pamwalnutSapling, Саженец грецкого ореха
@@ -5263,6 +5545,18 @@ ThermalDynamics:ThermalDynamics_64:0, Виадук
 ThermalDynamics:ThermalDynamics_64:1, Виадук большой дальности
 ThermalDynamics:ThermalDynamics_64:2, Соединяющий виадук большой дальности
 ThermalDynamics:ThermalDynamics_64:3, Виадук (Необработанный)
+TMechworks:RedstoneMachine:0, Разводной мост
+TMechworks:RedstoneMachine:1, Воспламенитель
+TMechworks:RedstoneMachine:2, Продвинутый разводной мост
+TMechworks:RedstoneMachine:3, Расширенный разводной мост
+TMechworks:Dynamo, Двигатель
+TMechworks:SignalBus, Signal Bus
+TMechworks:SignalTerminal, Signal Terminal
+TMechworks:MeshFilter:0, Пустая фильтровальная сетка
+TMechworks:MeshFilter:1, Широкая фильтровальная сетка
+TMechworks:MeshFilter:2, Slat Mesh Filter
+TMechworks:MeshFilter:3, фильтровальная сетка
+TMechworks:MeshFilter:4, Тонкая фильтровальная сетка
 waystones:waystone, Waystone
 deconstruction:table, Deconstruction Table
 adventurebackpack:machete, Мачете
@@ -6527,6 +6821,87 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лами�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок эндериума
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок хамелиума
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Камень края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ветчина на кости
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бомба из слизи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бомба из слизи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Застывшая синяя слизь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Застывшая зелёная слизь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Застывшая фиолетовая слизь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обсидиановый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Песчаниковый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич Нижнего мира
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич из гладкого камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотой кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Лазуритовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алмазный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Костяной кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Слизневый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Слизневый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич из камня Края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Обсидиановый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый обсидиановый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый песчаниковый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый кирпич Нижнего мира
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый кирпич из гладкого камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый железный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый золотой кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый лазуритовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый алмазный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый красный кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый костяной кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый слизневый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый слизневый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич из красивого камня Края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый обсидиановый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич из красивого камня
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Каменная дорога
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюмитовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ардитовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кобальтовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мануллиновый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый алюмитовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый ардитовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый кобальтовый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый мануллиновый кирпич
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кобальтовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ардитовая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Железная гравиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Золотая гравиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная гравиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная гравиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевая гравиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кобальтовая гравиевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кобальтовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Ардитовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Мануллиновый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бронзовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюминиевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок алюминиевой латуни
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Алюмитовый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Стальной блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок спрессованного ока Края
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Слизневая грязь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Цемент
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Слизневая грязь
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кладбищенская почва
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Священная почва
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Земля из синей слизи
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Слизевая почва
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок клея
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Грубый бурый песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дорога из грубого бурого песчаника
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Бурый песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кирпич из бурого песчаника
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дорога из бурого песчаника
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Красивый бурый песчаник
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Резной бурый песчаник
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Призмарин
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Призмариновый кирпич
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Тёмный призмарин
@@ -8597,6 +8972,770 @@ computronics:computronics.partsForestry:0, Каустическая сота
 computronics:computronics.partsForestry:1, Каустическая капля
 dmod:bundle, Bundle
 eplus:item.tableUpgrade, Table Upgrade
+Mantle:mantleBook:0, Mantle:item.mantle.manual.beginner.name
+Mantle:mantleBook:1, Mantle:item.mantle.manual.toolstation.name
+Mantle:mantleBook:2, Mantle:item.mantle.manual.smeltery.name
+Mantle:mantleBook:3, Mantle:item.mantle.manual.diary.name
+TConstruct:goldHead:0, Золотистая голова
+TConstruct:strangeFood:0, Желатиновая слизь
+TConstruct:strangeFood:1, Свернувшаяся кровь
+TConstruct:strangeFood:2, Бекон
+TConstruct:oreBerries:0, Кусочки железа
+TConstruct:oreBerries:1, Кусочки золота
+TConstruct:oreBerries:2, Кусочки меди
+TConstruct:oreBerries:3, Кусочки олова
+TConstruct:oreBerries:4, Кусочки алюминия
+TConstruct:oreBerries:5, Кусочки концентрированной эссенции
+TConstruct:titleIcon:0, Призвать существо - Синий слизень
+TConstruct:titleIcon:1, Призвать существо - Король слизней
+TConstruct:blankPattern:0, Пустая схема
+TConstruct:blankPattern:1, Пустой слепок
+TConstruct:blankPattern:2, Пустой слепок
+TConstruct:blankPattern:3, Blank Clay Cast
+TConstruct:materials:0, Кучка бумаги
+TConstruct:materials:1, Слизневый кристалл
+TConstruct:materials:2, Обожжённый кирпич
+TConstruct:materials:3, Кобальтовый слиток
+TConstruct:materials:4, Ардитовый слиток
+TConstruct:materials:5, Мануллиновый слиток
+TConstruct:materials:6, Шарик мха
+TConstruct:materials:7, Лавовый кристалл
+TConstruct:materials:8, Некротическая кость
+TConstruct:materials:9, Медный слиток
+TConstruct:materials:10, Оловянный слиток
+TConstruct:materials:11, Алюминиевый слиток
+TConstruct:materials:12, Необработанный алюминий
+TConstruct:materials:13, Бронзовый слиток
+TConstruct:materials:14, Слиток алюминиевой латуни
+TConstruct:materials:15, Алюмитовый слиток
+TConstruct:materials:16, Стальной слиток
+TConstruct:materials:17, Слизневый кристалл
+TConstruct:materials:18, Обсидиановый слиток
+TConstruct:materials:19, Железный самородок
+TConstruct:materials:20, Медный самородок
+TConstruct:materials:21, Оловянный самородок
+TConstruct:materials:22, Алюминиевый самородок
+TConstruct:materials:24, Самородок алюминиевой латуни
+TConstruct:materials:25, Шелковистая ткань
+TConstruct:materials:26, Шелковистая драгоценность
+TConstruct:materials:27, Обсидиановый самородок
+TConstruct:materials:28, Кобальтовый самородок
+TConstruct:materials:29, Ардитовый самородок
+TConstruct:materials:30, Мануллиновый самородок
+TConstruct:materials:31, Бронзовый самородок
+TConstruct:materials:32, Алюмитовый самородок
+TConstruct:materials:33, Стальной самородок
+TConstruct:materials:34, Слиток свиного железа
+TConstruct:materials:35, Тарелка свиного железа
+TConstruct:materials:36, Шарик клея
+TConstruct:materials:37, Обожжённый кирпич
+TConstruct:materials:38, Ардитовая пыль
+TConstruct:materials:39, Кобальтовая пыль
+TConstruct:materials:40, Алюминиевая пыль
+TConstruct:materials:41, Мануллиновая пыль
+TConstruct:materials:42, Пыль алюминиевой латуни
+TConstruct:materials:43, Укрепитель
+TConstruct:woodPattern:1, Схема стержня
+TConstruct:woodPattern:2, Схема обуха кирки
+TConstruct:woodPattern:3, Схема штыка лопаты
+TConstruct:woodPattern:4, Схема обуха топора
+TConstruct:woodPattern:5, Схема лезвия меча
+TConstruct:woodPattern:6, Схема широкой гарды
+TConstruct:woodPattern:7, Схема малой гарды
+TConstruct:woodPattern:8, Схема поперечной гарды
+TConstruct:woodPattern:9, Схема крепления
+TConstruct:woodPattern:10, Схема сковороды
+TConstruct:woodPattern:11, Схема широкой таблички
+TConstruct:woodPattern:12, Схема лезвия ножа
+TConstruct:woodPattern:13, Схема лезвия стамески
+TConstruct:woodPattern:14, Схема прочного стержня
+TConstruct:woodPattern:15, Схема прочного крепления
+TConstruct:woodPattern:16, Схема большой пластины
+TConstruct:woodPattern:17, Схема большого обуха топора
+TConstruct:woodPattern:18, Схема лезвия косы
+TConstruct:woodPattern:19, Схема пластины копалки
+TConstruct:woodPattern:20, Схема большого лезвия
+TConstruct:woodPattern:21, Схема бойка молота
+TConstruct:woodPattern:22, Схема полной гарды
+TConstruct:woodPattern:23, Схема тетивы
+TConstruct:woodPattern:24, Схема оперения
+TConstruct:woodPattern:25, Схема наконечника стрелы
+TConstruct:manualBook:0, Материалы и Вы: Том 1
+TConstruct:manualBook:1, Материалы и Вы: Том 2
+TConstruct:manualBook:2, Могучая металлургия
+TConstruct:manualBook:3, Дневник инженера
+TConstruct:manualBook:4, Вооружение инженера
+TConstruct:pickaxe, Кирка
+TConstruct:shovel, Лопата
+TConstruct:hatchet, Топорик
+TConstruct:broadsword, Палаш
+TConstruct:longsword, Полуторный меч
+TConstruct:rapier, Рапира
+TConstruct:dagger, Кинжал
+TConstruct:cutlass, Сабля
+TConstruct:frypan, Сковорода
+TConstruct:battlesign, Боевая табличка
+TConstruct:mattock, Мотыготопор
+TConstruct:chisel, Стамеска
+TConstruct:lumberaxe, Большой топор
+TConstruct:cleaver, Тесак
+TConstruct:scythe, Коса
+TConstruct:excavator, Копалка
+TConstruct:hammer, Молот
+TConstruct:battleaxe, Боевой топор
+TConstruct:potionLauncher, Метатель зелий
+TConstruct:toolRod:0, Деревянный стержень
+TConstruct:toolRod:1, Каменный стержень
+TConstruct:toolRod:2, Железный стержень
+TConstruct:toolRod:3, Кремниевый стержень
+TConstruct:toolRod:4, Кактусовый стержень
+TConstruct:toolRod:5, Костяной стержень
+TConstruct:toolRod:6, Обсидиановый стержень
+TConstruct:toolRod:7, Стержень из камня Нижнего мира
+TConstruct:toolRod:8, Слизневый стержень
+TConstruct:toolRod:9, Бумажный стержень
+TConstruct:toolRod:10, Кобальтовый стержень
+TConstruct:toolRod:11, Ардитовый стержень
+TConstruct:toolRod:12, Мануллиновый стержень
+TConstruct:toolRod:13, Медный стержень
+TConstruct:toolRod:14, Бронзовый стержень
+TConstruct:toolRod:15, Алюмитовый стержень
+TConstruct:toolRod:16, Стальной стержень
+TConstruct:toolRod:17, Стержень из синей слизи
+TConstruct:toolRod:18, Стержень из свиного железа
+TConstruct:toolShard:1, Каменный осколок
+TConstruct:toolShard:3, Кремниевый осколок
+TConstruct:toolShard:4, Кактусовый осколок
+TConstruct:toolShard:6, Обсидиановый осколок
+TConstruct:toolShard:7, Осколок камня Нижнего мира
+TConstruct:toolShard:8, Слизневый осколок
+TConstruct:toolShard:17, Осколок синей слизи
+TConstruct:pickaxeHead:0, Деревянный обух кирки
+TConstruct:pickaxeHead:1, Каменный обух кирки
+TConstruct:pickaxeHead:2, Железный обух кирки
+TConstruct:pickaxeHead:3, Кремниевый обух кирки
+TConstruct:pickaxeHead:4, Кактусовый обух кирки
+TConstruct:pickaxeHead:5, Костяной обух кирки
+TConstruct:pickaxeHead:6, Обсидиановый обух кирки
+TConstruct:pickaxeHead:7, Обух кирки из камня Нижнего мира
+TConstruct:pickaxeHead:8, Слизневый обух кирки
+TConstruct:pickaxeHead:9, Бумажный обух кирки
+TConstruct:pickaxeHead:10, Кобальтовый обух кирки
+TConstruct:pickaxeHead:11, Ардитовый обух кирки
+TConstruct:pickaxeHead:12, Мануллиновый обух кирки
+TConstruct:pickaxeHead:13, Медный обух кирки
+TConstruct:pickaxeHead:14, Бронзовый обух кирки
+TConstruct:pickaxeHead:15, Алюмитовый обух кирки
+TConstruct:pickaxeHead:16, Стальной обух кирки
+TConstruct:pickaxeHead:17, Обух кирки из синей слизи
+TConstruct:pickaxeHead:18, Обух кирки из свиного железа
+TConstruct:shovelHead:0, Деревянный штык лопаты
+TConstruct:shovelHead:1, Каменный штык лопаты
+TConstruct:shovelHead:2, Железный штык лопаты
+TConstruct:shovelHead:3, Кремниевый штык лопаты
+TConstruct:shovelHead:4, Кактусовый штык лопаты
+TConstruct:shovelHead:5, Костяной штык лопаты
+TConstruct:shovelHead:6, Обсидиановый штык лопаты
+TConstruct:shovelHead:7, Штык лопаты из камня Нижнего мира
+TConstruct:shovelHead:8, Слизневый штык лопаты
+TConstruct:shovelHead:9, Бумажный штык лопаты
+TConstruct:shovelHead:10, Кобальтовый штык лопаты
+TConstruct:shovelHead:11, Ардитовый штык лопаты
+TConstruct:shovelHead:12, Мануллиновый штык лопаты
+TConstruct:shovelHead:13, Медный штык лопаты
+TConstruct:shovelHead:14, Бронзовый штык лопаты
+TConstruct:shovelHead:15, Алюмитовый штык лопаты
+TConstruct:shovelHead:16, Стальной штык лопаты
+TConstruct:shovelHead:17, Штык лопаты из синей слизи
+TConstruct:shovelHead:18, Штык лопаты из свиного железа
+TConstruct:hatchetHead:0, Деревянный обух топора
+TConstruct:hatchetHead:1, Каменный обух топора
+TConstruct:hatchetHead:2, Железный обух топора
+TConstruct:hatchetHead:3, Кремниевый обух топора
+TConstruct:hatchetHead:4, Кактусовый обух топора
+TConstruct:hatchetHead:5, Костяной обух топора
+TConstruct:hatchetHead:6, Обсидиановый обух топора
+TConstruct:hatchetHead:7, Обух топора из камня Нижнего мира
+TConstruct:hatchetHead:8, Слизневый обух топора
+TConstruct:hatchetHead:9, Бумажный обух топора
+TConstruct:hatchetHead:10, Кобальтовый обух топора
+TConstruct:hatchetHead:11, Ардитовый обух топора
+TConstruct:hatchetHead:12, Мануллиновый обух топора
+TConstruct:hatchetHead:13, Медный обух топора
+TConstruct:hatchetHead:14, Бронзовый обух топора
+TConstruct:hatchetHead:15, Алюмитовый обух топора
+TConstruct:hatchetHead:16, Стальной обух топора
+TConstruct:hatchetHead:17, Обух топора из синей слизи
+TConstruct:hatchetHead:18, Обух топора из свиного железа
+TConstruct:binding:0, Деревянное крепление
+TConstruct:binding:1, Каменное крепление
+TConstruct:binding:2, Железное крепление
+TConstruct:binding:3, Кремниевое крепление
+TConstruct:binding:4, Кактусовое крепление
+TConstruct:binding:5, Костяное крепление
+TConstruct:binding:6, Обсидиановое крепление
+TConstruct:binding:7, Крепление из камня Нижнего мира
+TConstruct:binding:8, Слизневое крепление
+TConstruct:binding:9, Бумажное крепление
+TConstruct:binding:10, Кобальтовое крепление
+TConstruct:binding:11, Ардитовое крепление
+TConstruct:binding:12, Мануллиновое крепление
+TConstruct:binding:13, Медное крепление
+TConstruct:binding:14, Бронзовое крепление
+TConstruct:binding:15, Алюмитовое крепление
+TConstruct:binding:16, Стальное крепление
+TConstruct:binding:17, Крепление из синей слизи
+TConstruct:binding:18, Крепление из свиного железа
+TConstruct:toughBinding:0, Деревянное прочное крепление
+TConstruct:toughBinding:1, Каменное прочное крепление
+TConstruct:toughBinding:2, Железное прочное крепление
+TConstruct:toughBinding:3, Кремниевое прочное крепление
+TConstruct:toughBinding:4, Кактусовое прочное крепление
+TConstruct:toughBinding:5, Костяное прочное крепление
+TConstruct:toughBinding:6, Обсидиановое прочное крепление
+TConstruct:toughBinding:7, Прочное крепление из камня Нижнего мира
+TConstruct:toughBinding:8, Слизневое прочное крепление
+TConstruct:toughBinding:9, Бумажное прочное крепление
+TConstruct:toughBinding:10, Кобальтовое прочное крепление
+TConstruct:toughBinding:11, Ардитовое прочное крепление
+TConstruct:toughBinding:12, Мануллиновое прочное крепление
+TConstruct:toughBinding:13, Медное прочное крепление
+TConstruct:toughBinding:14, Бронзовое прочное крепление
+TConstruct:toughBinding:15, Алюмитовое прочное крепление
+TConstruct:toughBinding:16, Стальное прочное крепление
+TConstruct:toughBinding:17, Прочное крепление из синей слизи
+TConstruct:toughBinding:18, Прочное крепление из свиного железа
+TConstruct:toughRod:0, Деревянный прочный стержень
+TConstruct:toughRod:1, Каменный прочный стержень
+TConstruct:toughRod:2, Железный прочный стержень
+TConstruct:toughRod:3, Кремниевый прочный стержень
+TConstruct:toughRod:4, Кактусовый прочный стержень
+TConstruct:toughRod:5, Костяной прочный стержень
+TConstruct:toughRod:6, Обсидиановый прочный стержень
+TConstruct:toughRod:7, Прочный стержень из камня Нижнего мира
+TConstruct:toughRod:8, Слизневый прочный стержень
+TConstruct:toughRod:9, Бумажный прочный стержень
+TConstruct:toughRod:10, Кобальтовый прочный стержень
+TConstruct:toughRod:11, Ардитовый прочный стержень
+TConstruct:toughRod:12, Мануллиновый прочный стержень
+TConstruct:toughRod:13, Медный прочный стержень
+TConstruct:toughRod:14, Бронзовый прочный стержень
+TConstruct:toughRod:15, Алюмитовый прочный стержень
+TConstruct:toughRod:16, Стальной прочный стержень
+TConstruct:toughRod:17, Прочный стержень из синей слизи
+TConstruct:toughRod:18, Прочный стержень из свиного железа
+TConstruct:heavyPlate:0, Деревянная большая пластина
+TConstruct:heavyPlate:1, Каменная большая пластина
+TConstruct:heavyPlate:2, Железная большая пластина
+TConstruct:heavyPlate:3, Кремниевая большая пластина
+TConstruct:heavyPlate:4, Кактусовая большая пластина
+TConstruct:heavyPlate:5, Костяная большая пластина
+TConstruct:heavyPlate:6, Обсидиановая большая пластина
+TConstruct:heavyPlate:7, Большая пластина из камня Нижнего мира
+TConstruct:heavyPlate:8, Слизневая большая пластина
+TConstruct:heavyPlate:9, Бумажная большая пластина
+TConstruct:heavyPlate:10, Кобальтовая большая пластина
+TConstruct:heavyPlate:11, Ардитовая большая пластина
+TConstruct:heavyPlate:12, Мануллиновая большая пластина
+TConstruct:heavyPlate:13, Медная большая пластина
+TConstruct:heavyPlate:14, Бронзовая большая пластина
+TConstruct:heavyPlate:15, Алюмитовая большая пластина
+TConstruct:heavyPlate:16, Стальная большая пластина
+TConstruct:heavyPlate:17, Большая пластина из синей слизи
+TConstruct:heavyPlate:18, Большая пластина из свиного железа
+TConstruct:swordBlade:0, Деревянное лезвие меча
+TConstruct:swordBlade:1, Каменное лезвие меча
+TConstruct:swordBlade:2, Железное лезвие меча
+TConstruct:swordBlade:3, Кремниевое лезвие меча
+TConstruct:swordBlade:4, Кактусовое лезвие меча
+TConstruct:swordBlade:5, Костяное лезвие меча
+TConstruct:swordBlade:6, Обсидиановое лезвие меча
+TConstruct:swordBlade:7, Лезвие меча из камня Нижнего мира
+TConstruct:swordBlade:8, Слизневое лезвие меча
+TConstruct:swordBlade:9, Бумажное лезвие меча
+TConstruct:swordBlade:10, Кобальтовое лезвие меча
+TConstruct:swordBlade:11, Ардитовое лезвие меча
+TConstruct:swordBlade:12, Мануллиновое лезвие меча
+TConstruct:swordBlade:13, Медное лезвие меча
+TConstruct:swordBlade:14, Бронзовое лезвие меча
+TConstruct:swordBlade:15, Алюмитовое лезвие меча
+TConstruct:swordBlade:16, Стальное лезвие меча
+TConstruct:swordBlade:17, Лезвие меча из синей слизи
+TConstruct:swordBlade:18, Лезвие меча из свиного железа
+TConstruct:wideGuard:0, Деревянная широкая гарда
+TConstruct:wideGuard:1, Каменная широкая гарда
+TConstruct:wideGuard:2, Железная широкая гарда
+TConstruct:wideGuard:3, Кремниевая широкая гарда
+TConstruct:wideGuard:4, Кактусовая широкая гарда
+TConstruct:wideGuard:5, Костяная широкая гарда
+TConstruct:wideGuard:6, Обсидиановая широкая гарда
+TConstruct:wideGuard:7, Широкая гарда из камня Нижнего мира
+TConstruct:wideGuard:8, Слизневая широкая гарда
+TConstruct:wideGuard:9, Бумажная широкая гарда
+TConstruct:wideGuard:10, Кобальтовая широкая гарда
+TConstruct:wideGuard:11, Ардитовая широкая гарда
+TConstruct:wideGuard:12, Мануллиновая широкая гарда
+TConstruct:wideGuard:13, Медная широкая гарда
+TConstruct:wideGuard:14, Бронзовая широкая гарда
+TConstruct:wideGuard:15, Алюмитовая широкая гарда
+TConstruct:wideGuard:16, Стальная широкая гарда
+TConstruct:wideGuard:17, Широкая гарда из синей слизи
+TConstruct:wideGuard:18, Широкая гарда из свиного железа
+TConstruct:handGuard:0, Деревянная малая гарда
+TConstruct:handGuard:1, Каменная малая гарда
+TConstruct:handGuard:2, Железная малая гарда
+TConstruct:handGuard:3, Кремниевая малая гарда
+TConstruct:handGuard:4, Кактусовая малая гарда
+TConstruct:handGuard:5, Костяная малая гарда
+TConstruct:handGuard:6, Обсидиановая малая гарда
+TConstruct:handGuard:7, Малая гарда из камня Нижнего мира
+TConstruct:handGuard:8, Слизневая малая гарда
+TConstruct:handGuard:9, Бумажная малая гарда
+TConstruct:handGuard:10, Кобальтовая малая гарда
+TConstruct:handGuard:11, Ардитовая малая гарда
+TConstruct:handGuard:12, Мануллиновая малая гарда
+TConstruct:handGuard:13, Медная малая гарда
+TConstruct:handGuard:14, Бронзовая малая гарда
+TConstruct:handGuard:15, Алюмитовая малая гарда
+TConstruct:handGuard:16, Стальная малая гарда
+TConstruct:handGuard:17, Малая гарда из синей слизи
+TConstruct:handGuard:18, Малая гарда из свиного железа
+TConstruct:crossbar:0, Деревянная поперечная гарда
+TConstruct:crossbar:1, Каменная поперечная гарда
+TConstruct:crossbar:2, Железная поперечная гарда
+TConstruct:crossbar:3, Кремниевая поперечная гарда
+TConstruct:crossbar:4, Кактусовая поперечная гарда
+TConstruct:crossbar:5, Костяная поперечная гарда
+TConstruct:crossbar:6, Обсидиановая поперечная гарда
+TConstruct:crossbar:7, Поперечная гарда из камня Нижнего мира
+TConstruct:crossbar:8, Слизневая поперечная гарда
+TConstruct:crossbar:9, Бумажная поперечная гарда
+TConstruct:crossbar:10, Кобальтовая поперечная гарда
+TConstruct:crossbar:11, Ардитовая поперечная гарда
+TConstruct:crossbar:12, Мануллиновая поперечная гарда
+TConstruct:crossbar:13, Медная поперечная гарда
+TConstruct:crossbar:14, Бронзовая поперечная гарда
+TConstruct:crossbar:15, Алюмитовая поперечная гарда
+TConstruct:crossbar:16, Стальная поперечная гарда
+TConstruct:crossbar:17, Поперечная гарда из синей слизи
+TConstruct:crossbar:18, Поперечная гарда из свиного железа
+TConstruct:knifeBlade:0, Деревянное лезвие ножа
+TConstruct:knifeBlade:1, Каменное лезвие ножа
+TConstruct:knifeBlade:2, Железное лезвие ножа
+TConstruct:knifeBlade:3, Кремниевое лезвие ножа
+TConstruct:knifeBlade:4, Кактусовое лезвие ножа
+TConstruct:knifeBlade:5, Костяное лезвие ножа
+TConstruct:knifeBlade:6, Обсидиановое лезвие ножа
+TConstruct:knifeBlade:7, Лезвие ножа из камня Нижнего мира
+TConstruct:knifeBlade:8, Слизневое лезвие ножа
+TConstruct:knifeBlade:9, Бумажное лезвие ножа
+TConstruct:knifeBlade:10, Кобальтовое лезвие ножа
+TConstruct:knifeBlade:11, Ардитовое лезвие ножа
+TConstruct:knifeBlade:12, Мануллиновое лезвие ножа
+TConstruct:knifeBlade:13, Медное лезвие ножа
+TConstruct:knifeBlade:14, Бронзовое лезвие ножа
+TConstruct:knifeBlade:15, Алюмитовое лезвие ножа
+TConstruct:knifeBlade:16, Стальное лезвие ножа
+TConstruct:knifeBlade:17, Лезвие ножа из синей слизи
+TConstruct:knifeBlade:18, Лезвие ножа из свиного железа
+TConstruct:frypanHead:0, Деревянная сковорода
+TConstruct:frypanHead:1, Каменная сковорода
+TConstruct:frypanHead:2, Железная сковорода
+TConstruct:frypanHead:3, Кремниевая сковорода
+TConstruct:frypanHead:4, Кактусовая сковорода
+TConstruct:frypanHead:5, Костяная сковорода
+TConstruct:frypanHead:6, Обсидиановая сковорода
+TConstruct:frypanHead:7, Сковорода из камня Нижнего мира
+TConstruct:frypanHead:8, Слизневая сковорода
+TConstruct:frypanHead:9, Бумажная сковорода
+TConstruct:frypanHead:10, Кобальтовая сковорода
+TConstruct:frypanHead:11, Ардитовая сковорода
+TConstruct:frypanHead:12, Мануллиновая сковорода
+TConstruct:frypanHead:13, Медная сковорода
+TConstruct:frypanHead:14, Бронзовая сковорода
+TConstruct:frypanHead:15, Алюмитовая сковорода
+TConstruct:frypanHead:16, Стальная сковорода
+TConstruct:frypanHead:17, Сковорода из синей слизи
+TConstruct:frypanHead:18, Сковорода из свиного железа
+TConstruct:signHead:0, Деревянная табличка
+TConstruct:signHead:1, Каменная табличка
+TConstruct:signHead:2, Железная табличка
+TConstruct:signHead:3, Кремниевая табличка
+TConstruct:signHead:4, Кактусовая табличка
+TConstruct:signHead:5, Костяная табличка
+TConstruct:signHead:6, Обсидиановая табличка
+TConstruct:signHead:7, Табличка из камня Нижнего мира
+TConstruct:signHead:8, Слизневая табличка
+TConstruct:signHead:9, Бумажная табличка
+TConstruct:signHead:10, Кобальтовая табличка
+TConstruct:signHead:11, Ардитовая табличка
+TConstruct:signHead:12, Мануллиновая табличка
+TConstruct:signHead:13, Медная табличка
+TConstruct:signHead:14, Бронзовая табличка
+TConstruct:signHead:15, Алюмитовая табличка
+TConstruct:signHead:16, Стальная табличка
+TConstruct:signHead:17, Табличка из синей слизи
+TConstruct:signHead:18, Табличка из свиного железа
+TConstruct:chiselHead:0, Деревянное лезвие стамески
+TConstruct:chiselHead:1, Каменное лезвие стамески
+TConstruct:chiselHead:2, Железное лезвие стамески
+TConstruct:chiselHead:3, Кремниевое лезвие стамески
+TConstruct:chiselHead:4, Кактусовое лезвие стамески
+TConstruct:chiselHead:5, Костяное лезвие стамески
+TConstruct:chiselHead:6, Обсидиановое лезвие стамески
+TConstruct:chiselHead:7, Лезвие стамески из камня Нижнего мира
+TConstruct:chiselHead:8, Слизневое лезвие стамески
+TConstruct:chiselHead:9, Бумажное лезвие стамески
+TConstruct:chiselHead:10, Кобальтовое лезвие стамески
+TConstruct:chiselHead:11, Ардитовое лезвие стамески
+TConstruct:chiselHead:12, Мануллиновое лезвие стамески
+TConstruct:chiselHead:13, Медное лезвие стамески
+TConstruct:chiselHead:14, Бронзовое лезвие стамески
+TConstruct:chiselHead:15, Алюмитовое лезвие стамески
+TConstruct:chiselHead:16, Стальное лезвие стамески
+TConstruct:chiselHead:17, Лезвие стамески из синей слизи
+TConstruct:chiselHead:18, Лезвие стамески из свиного железа
+TConstruct:scytheBlade:0, Деревянное лезвие косы
+TConstruct:scytheBlade:1, Каменное лезвие косы
+TConstruct:scytheBlade:2, Железное лезвие косы
+TConstruct:scytheBlade:3, Кремниевое лезвие косы
+TConstruct:scytheBlade:4, Кактусовое лезвие косы
+TConstruct:scytheBlade:5, Костяное лезвие косы
+TConstruct:scytheBlade:6, Обсидиановое лезвие косы
+TConstruct:scytheBlade:7, Лезвие косы из камня Нижнего мира
+TConstruct:scytheBlade:8, Слизневое лезвие косы
+TConstruct:scytheBlade:9, Бумажное лезвие косы
+TConstruct:scytheBlade:10, Кобальтовое лезвие косы
+TConstruct:scytheBlade:11, Ардитовое лезвие косы
+TConstruct:scytheBlade:12, Мануллиновое лезвие косы
+TConstruct:scytheBlade:13, Медное лезвие косы
+TConstruct:scytheBlade:14, Бронзовое лезвие косы
+TConstruct:scytheBlade:15, Алюмитовое лезвие косы
+TConstruct:scytheBlade:16, Стальное лезвие косы
+TConstruct:scytheBlade:17, Лезвие косы из синей слизи
+TConstruct:scytheBlade:18, Лезвие косы из свиного железа
+TConstruct:broadAxeHead:0, Деревянный большой обух топора
+TConstruct:broadAxeHead:1, Каменный большой обух топора
+TConstruct:broadAxeHead:2, Железный большой обух топора
+TConstruct:broadAxeHead:3, Кремниевый большой обух топора
+TConstruct:broadAxeHead:4, Кактусовый большой обух топора
+TConstruct:broadAxeHead:5, Костяной большой обух топора
+TConstruct:broadAxeHead:6, Обсидиановый большой обух топора
+TConstruct:broadAxeHead:7, Большой обух топора из камня Нижнего мира
+TConstruct:broadAxeHead:8, Слизневый большой обух топора
+TConstruct:broadAxeHead:9, Бумажный большой обух топора
+TConstruct:broadAxeHead:10, Кобальтовый большой обух топора
+TConstruct:broadAxeHead:11, Ардитовый большой обух топора
+TConstruct:broadAxeHead:12, Мануллиновый большой обух топора
+TConstruct:broadAxeHead:13, Медный большой обух топора
+TConstruct:broadAxeHead:14, Бронзовый большой обух топора
+TConstruct:broadAxeHead:15, Алюмитовый большой обух топора
+TConstruct:broadAxeHead:16, Стальной большой обух топора
+TConstruct:broadAxeHead:17, Большой обух топора из синей слизи
+TConstruct:broadAxeHead:18, Большой обух топора из свиного железа
+TConstruct:excavatorHead:0, Деревянная пластина копалки
+TConstruct:excavatorHead:1, Каменная пластина копалки
+TConstruct:excavatorHead:2, Железная пластина копалки
+TConstruct:excavatorHead:3, Кремниевая пластина копалки
+TConstruct:excavatorHead:4, Кактусовая пластина копалки
+TConstruct:excavatorHead:5, Костяная пластина копалки
+TConstruct:excavatorHead:6, Обсидиановая пластина копалки
+TConstruct:excavatorHead:7, Пластина копалки из камня Нижнего мира
+TConstruct:excavatorHead:8, Слизневая пластина копалки
+TConstruct:excavatorHead:9, Бумажная пластина копалки
+TConstruct:excavatorHead:10, Кобальтовая пластина копалки
+TConstruct:excavatorHead:11, Ардитовая пластина копалки
+TConstruct:excavatorHead:12, Мануллиновая пластина копалки
+TConstruct:excavatorHead:13, Медная пластина копалки
+TConstruct:excavatorHead:14, Бронзовая пластина копалки
+TConstruct:excavatorHead:15, Алюмитовая пластина копалки
+TConstruct:excavatorHead:16, Стальная пластина копалки
+TConstruct:excavatorHead:17, Пластина копалки из синей слизи
+TConstruct:excavatorHead:18, Пластина копалки из свиного железа
+TConstruct:largeSwordBlade:0, Деревянное большое лезвие меча
+TConstruct:largeSwordBlade:1, Каменное большое лезвие меча
+TConstruct:largeSwordBlade:2, Железное большое лезвие меча
+TConstruct:largeSwordBlade:3, Кремниевое большое лезвие меча
+TConstruct:largeSwordBlade:4, Кактусовое большое лезвие меча
+TConstruct:largeSwordBlade:5, Костяное большое лезвие меча
+TConstruct:largeSwordBlade:6, Обсидиановое большое лезвие меча
+TConstruct:largeSwordBlade:7, Большое лезвие меча из камня Нижнего мира
+TConstruct:largeSwordBlade:8, Слизневое большое лезвие меча
+TConstruct:largeSwordBlade:9, Бумажное большое лезвие меча
+TConstruct:largeSwordBlade:10, Кобальтовое большое лезвие меча
+TConstruct:largeSwordBlade:11, Ардитовое большое лезвие меча
+TConstruct:largeSwordBlade:12, Мануллиновое большое лезвие меча
+TConstruct:largeSwordBlade:13, Медное большое лезвие меча
+TConstruct:largeSwordBlade:14, Бронзовое большое лезвие меча
+TConstruct:largeSwordBlade:15, Алюмитовое большое лезвие меча
+TConstruct:largeSwordBlade:16, Стальное большое лезвие меча
+TConstruct:largeSwordBlade:17, Большое лезвие меча из синей слизи
+TConstruct:largeSwordBlade:18, Большое лезвие меча из свиного железа
+TConstruct:hammerHead:0, Деревянный боёк молота
+TConstruct:hammerHead:1, Каменный боёк молота
+TConstruct:hammerHead:2, Железный боёк молота
+TConstruct:hammerHead:3, Кремниевый боёк молота
+TConstruct:hammerHead:4, Кактусовый боёк молота
+TConstruct:hammerHead:5, Костяной боёк молота
+TConstruct:hammerHead:6, Обсидиановый боёк молота
+TConstruct:hammerHead:7, Боёк молота из камня Нижнего мира
+TConstruct:hammerHead:8, Слизневый боёк молота
+TConstruct:hammerHead:9, Бумажный боёк молота
+TConstruct:hammerHead:10, Кобальтовый боёк молота
+TConstruct:hammerHead:11, Ардитовый боёк молота
+TConstruct:hammerHead:12, Мануллиновый боёк молота
+TConstruct:hammerHead:13, Медный боёк молота
+TConstruct:hammerHead:14, Бронзовый боёк молота
+TConstruct:hammerHead:15, Алюмитовый боёк молота
+TConstruct:hammerHead:16, Стальной боёк молота
+TConstruct:hammerHead:17, Боёк молота из синей слизи
+TConstruct:hammerHead:18, Боёк молота из свиного железа
+TConstruct:creativeModifier, Творческий модификатор инструмента
+TConstruct:buckets:0, Ведро расплавленного железа
+TConstruct:buckets:1, Ведро расплавленного золота
+TConstruct:buckets:2, Ведро расплавленной меди
+TConstruct:buckets:3, Ведро расплавленного олова
+TConstruct:buckets:4, Ведро расплавленного алюминия
+TConstruct:buckets:5, Ведро расплавленного кобальта
+TConstruct:buckets:6, Ведро расплавленного ардита
+TConstruct:buckets:7, Ведро расплавленной бронзы
+TConstruct:buckets:8, Ведро расплавленной алюминиевой латуни
+TConstruct:buckets:9, Ведро расплавленного мануллина
+TConstruct:buckets:10, Ведро расплавленного алюмита
+TConstruct:buckets:11, Ведро расплавленного обсидиана
+TConstruct:buckets:12, Ведро расплавленной стали
+TConstruct:buckets:13, Ведро расплавленного стекла
+TConstruct:buckets:14, Ведро расплавленного обожжённого камня
+TConstruct:buckets:15, Ведро сжиженного изумруда
+TConstruct:buckets:16, Ведро крови
+TConstruct:buckets:17, Ведро расплавленного никеля
+TConstruct:buckets:18, Ведро расплавленного свинца
+TConstruct:buckets:19, Ведро расплавленного серебра
+TConstruct:buckets:20, Ведро расплавленной платины
+TConstruct:buckets:21, Ведро расплавленного инвара
+TConstruct:buckets:22, Ведро расплавленного электрума
+TConstruct:buckets:23, Ведро жидкости Края
+TConstruct:buckets:24, Ведро жидкой слизи
+TConstruct:buckets:25, Ведро липкого клея
+TConstruct:buckets:26, Ведро расплавленного свиного железа
+TConstruct:buckets:27, Ведро расплавленного ламиума
+TConstruct:buckets:28, Ведро расплавленного синала
+TConstruct:buckets:29, Ведро расплавленного мифрила
+TConstruct:buckets:30, Ведро расплавленного эндериума
+TConstruct:buckets:31, Ведро расплавленного кварца
+TConstruct:metalPattern:0, Слепок слитка
+TConstruct:metalPattern:1, Слепок стержня
+TConstruct:metalPattern:2, Слепок обуха кирки
+TConstruct:metalPattern:3, Слепок штыка лопаты
+TConstruct:metalPattern:4, Слепок обуха топора
+TConstruct:metalPattern:5, Слепок лезвия меча
+TConstruct:metalPattern:6, Слепок широкой гарды
+TConstruct:metalPattern:7, Слепок малой гарды
+TConstruct:metalPattern:8, Слепок поперечной гарды
+TConstruct:metalPattern:9, Слепок крепления
+TConstruct:metalPattern:10, Слепок сковороды
+TConstruct:metalPattern:11, Слепок широкой таблички
+TConstruct:metalPattern:12, Слепок лезвия ножа
+TConstruct:metalPattern:13, Слепок лезвия стамески
+TConstruct:metalPattern:14, Слепок прочного стержня
+TConstruct:metalPattern:15, Слепок прочного крепления
+TConstruct:metalPattern:16, Слепок большой пластины
+TConstruct:metalPattern:17, Слепок большого обуха топора
+TConstruct:metalPattern:18, Слепок лезвия косы
+TConstruct:metalPattern:19, Слепок пластины копалки
+TConstruct:metalPattern:20, Слепок большого лезвия
+TConstruct:metalPattern:21, Слепок бойка молота
+TConstruct:metalPattern:22, Слепок полной гарды
+TConstruct:metalPattern:25, Слепок наконечника
+TConstruct:metalPattern:26, Слепок драгоценного камня
+TConstruct:metalPattern:27, Слепок самородка
+TConstruct:clayPattern:0, Ingot Clay Cast
+TConstruct:clayPattern:1, Tool Rod Clay Cast
+TConstruct:clayPattern:2, Pickaxe Head Clay Cast
+TConstruct:clayPattern:3, Shovel Head Clay Cast
+TConstruct:clayPattern:4, Axe Head Clay Cast
+TConstruct:clayPattern:5, Sword Blade Clay Cast
+TConstruct:clayPattern:6, Wide Guard Clay Cast
+TConstruct:clayPattern:7, Hand Guard Clay Cast
+TConstruct:clayPattern:8, Crossbar Clay Cast
+TConstruct:clayPattern:9, Tool Binding Clay Cast
+TConstruct:clayPattern:10, Pan Clay Cast
+TConstruct:clayPattern:11, Wide Board Clay Cast
+TConstruct:clayPattern:12, Knife Blade Clay Cast
+TConstruct:clayPattern:13, Chisel Head Clay Cast
+TConstruct:clayPattern:22, Full Guard Clay Cast
+TConstruct:clayPattern:25, Arrowhead Clay Cast
+TConstruct:clayPattern:26, Gem Clay Cast
+TConstruct:clayPattern:27, Nugget Clay Cast
+TConstruct:diamondApple:0, Драгоценное яблоко
+TConstruct:jerky:0, Вяленая говядина
+TConstruct:jerky:1, Вяленая курятина
+TConstruct:jerky:2, Вяленый бекон
+TConstruct:jerky:3, Вяленая баранина
+TConstruct:jerky:4, Вяленая рыбка
+TConstruct:jerky:5, Вяленое мясо монстра
+TConstruct:jerky:6, Студенистая слизь
+TConstruct:jerky:7, Капля свернувшейся крови
+TConstruct:heartCanister:0, Пустая банка
+TConstruct:heartCanister:1, Маленькое красное сердечко
+TConstruct:heartCanister:2, Банка с красным сердцем
+TConstruct:heartCanister:3, Маленькое жёлтое сердечко
+TConstruct:heartCanister:4, Банка с жёлтым сердцем
+TConstruct:heartCanister:5, Маленькое зелёное сердечко
+TConstruct:heartCanister:6, Банка с зелёным сердцем
+TConstruct:knapsack:0, Ранец
+TConstruct:helmetWood, Деревянный шлем
+TConstruct:chestplateWood, Деревянная кираса
+TConstruct:leggingsWood, Деревянные поножи
+TConstruct:bootsWood, Деревянные ботинки
+TConstruct:travelGoggles, Очки путешественника
+TConstruct:travelVest, Жилет путешественника
+TConstruct:travelWings, Крылья путешественника
+TConstruct:travelBoots, Ботинки путешественника
+TConstruct:travelGlove, Перчатки путешественника
+TConstruct:travelBelt, Пояс путешественника
+TConstruct:bowstring:0, Тетива
+TConstruct:arrowhead:0, Деревянный наконечник стрелы
+TConstruct:arrowhead:1, Каменный наконечник стрелы
+TConstruct:arrowhead:2, Железный наконечник стрелы
+TConstruct:arrowhead:3, Кремниевый наконечник стрелы
+TConstruct:arrowhead:4, Кактусовый наконечник стрелы
+TConstruct:arrowhead:5, Костяной наконечник стрелы
+TConstruct:arrowhead:6, Обсидиановый наконечник стрелы
+TConstruct:arrowhead:7, Наконечник стрелы из камня Нижнего мира
+TConstruct:arrowhead:8, Слизневый наконечник стрелы
+TConstruct:arrowhead:9, Бумажный наконечник стрелы
+TConstruct:arrowhead:10, Кобальтовый наконечник стрелы
+TConstruct:arrowhead:11, Ардитовый наконечник стрелы
+TConstruct:arrowhead:12, Мануллиновый наконечник стрелы
+TConstruct:arrowhead:13, Медный наконечник стрелы
+TConstruct:arrowhead:14, Бронзовый наконечник стрелы
+TConstruct:arrowhead:15, Алюмитовый наконечник стрелы
+TConstruct:arrowhead:16, Стальной наконечник стрелы
+TConstruct:arrowhead:17, Наконечник стрелы из синей слизи
+TConstruct:arrowhead:18, Наконечник стрелы из свиного железа
+TConstruct:fletching:0, Перьевое оперение
+TConstruct:fletching:1, Листовое оперение
+TConstruct:fletching:2, Слизневое оперение
+TConstruct:fletching:3, Слизневое оперение
+TConstruct:fletching:4, Оперение из слизневого листа
+TConstruct:ShurikenPart:0, Деревянный сюрикэн
+TConstruct:ShurikenPart:1, Каменный сюрикэн
+TConstruct:ShurikenPart:2, Железный сюрикэн
+TConstruct:ShurikenPart:3, Кремниевый сюрикэн
+TConstruct:ShurikenPart:4, Кактусовый сюрикэн
+TConstruct:ShurikenPart:5, Костяной сюрикэн
+TConstruct:ShurikenPart:6, Обсидиановый сюрикэн
+TConstruct:ShurikenPart:7, Сюрикэн из камня Нижнего мира
+TConstruct:ShurikenPart:8, Слизневый сюрикэн
+TConstruct:ShurikenPart:9, Бумажный сюрикэн
+TConstruct:ShurikenPart:10, Кобальтовый сюрикэн
+TConstruct:ShurikenPart:11, Ардитовый сюрикэн
+TConstruct:ShurikenPart:12, Мануллиновый сюрикэн
+TConstruct:ShurikenPart:13, Медный сюрикэн
+TConstruct:ShurikenPart:14, Бронзовый сюрикэн
+TConstruct:ShurikenPart:15, Алюмитовый сюрикэн
+TConstruct:ShurikenPart:16, Стальной сюрикэн
+TConstruct:ShurikenPart:17, Сюрикэн из синей слизи
+TConstruct:ShurikenPart:18, Сюрикэн из свиного железа
+TConstruct:BowLimbPart:0, Деревянное плечо лука
+TConstruct:BowLimbPart:1, Каменное плечо лука
+TConstruct:BowLimbPart:2, Железное плечо лука
+TConstruct:BowLimbPart:3, Кремниевое плечо лука
+TConstruct:BowLimbPart:4, Кактусовое плечо лука
+TConstruct:BowLimbPart:5, Костяное плечо лука
+TConstruct:BowLimbPart:6, Обсидиановое плечо лука
+TConstruct:BowLimbPart:7, Плечо лука из камня Нижнего мира
+TConstruct:BowLimbPart:8, Слизневое плечо лука
+TConstruct:BowLimbPart:9, Бумажное плечо лука
+TConstruct:BowLimbPart:10, Кобальтовое плечо лука
+TConstruct:BowLimbPart:11, Ардитовое плечо лука
+TConstruct:BowLimbPart:12, Мануллиновое плечо лука
+TConstruct:BowLimbPart:13, Медное плечо лука
+TConstruct:BowLimbPart:14, Бронзовое плечо лука
+TConstruct:BowLimbPart:15, Алюмитовое плечо лука
+TConstruct:BowLimbPart:16, Стальное плечо лука
+TConstruct:BowLimbPart:17, Плечо лука из синей слизи
+TConstruct:BowLimbPart:18, Плечо лука из свиного железа
+TConstruct:CrossbowLimbPart:0, Деревянное плечо арбалета
+TConstruct:CrossbowLimbPart:1, Каменное плечо арбалета
+TConstruct:CrossbowLimbPart:2, Железное плечо арбалета
+TConstruct:CrossbowLimbPart:3, Кремниевое плечо арбалета
+TConstruct:CrossbowLimbPart:4, Кактусовое плечо арбалета
+TConstruct:CrossbowLimbPart:5, Костяное плечо арбалета
+TConstruct:CrossbowLimbPart:6, Обсидиановое плечо арбалета
+TConstruct:CrossbowLimbPart:7, Плечо арбалета из камня Нижнего мира
+TConstruct:CrossbowLimbPart:8, Слизневое плечо арбалета
+TConstruct:CrossbowLimbPart:9, Бумажное плечо арбалета
+TConstruct:CrossbowLimbPart:10, Кобальтовое плечо арбалета
+TConstruct:CrossbowLimbPart:11, Ардитовое плечо арбалета
+TConstruct:CrossbowLimbPart:12, Мануллиновое плечо арбалета
+TConstruct:CrossbowLimbPart:13, Медное плечо арбалета
+TConstruct:CrossbowLimbPart:14, Бронзовое плечо арбалета
+TConstruct:CrossbowLimbPart:15, Алюмитовое плечо арбалета
+TConstruct:CrossbowLimbPart:16, Стальное плечо арбалета
+TConstruct:CrossbowLimbPart:17, Плечо арбалета из синей слизи
+TConstruct:CrossbowLimbPart:18, Плечо арбалета из свиного железа
+TConstruct:CrossbowBodyPart:0, Деревянная основа арбалета
+TConstruct:CrossbowBodyPart:1, Каменная основа арбалета
+TConstruct:CrossbowBodyPart:2, Железная основа арбалета
+TConstruct:CrossbowBodyPart:3, Кремниевая основа арбалета
+TConstruct:CrossbowBodyPart:4, Кактусовая основа арбалета
+TConstruct:CrossbowBodyPart:5, Костяная основа арбалета
+TConstruct:CrossbowBodyPart:6, Обсидиановая основа арбалета
+TConstruct:CrossbowBodyPart:7, Основа арбалета из камня Нижнего мира
+TConstruct:CrossbowBodyPart:8, Слизневая основа арбалета
+TConstruct:CrossbowBodyPart:9, Бумажная основа арбалета
+TConstruct:CrossbowBodyPart:10, Кобальтовая основа арбалета
+TConstruct:CrossbowBodyPart:11, Ардитовая основа арбалета
+TConstruct:CrossbowBodyPart:12, Мануллиновая основа арбалета
+TConstruct:CrossbowBodyPart:13, Медная основа арбалета
+TConstruct:CrossbowBodyPart:14, Бронзовая основа арбалета
+TConstruct:CrossbowBodyPart:15, Алюмитовая основа арбалета
+TConstruct:CrossbowBodyPart:16, Стальная основа арбалета
+TConstruct:CrossbowBodyPart:17, Основа арбалета из синей слизи
+TConstruct:CrossbowBodyPart:18, Основа арбалета из свиного железа
+TConstruct:BoltPart:0, Деревянный болт
+TConstruct:BoltPart:1, Каменный болт
+TConstruct:BoltPart:2, Железный болт
+TConstruct:BoltPart:3, Кремниевый болт
+TConstruct:BoltPart:4, Кактусовый болт
+TConstruct:BoltPart:5, Костяной болт
+TConstruct:BoltPart:6, Обсидиановый болт
+TConstruct:BoltPart:7, Болт из камня Нижнего мира
+TConstruct:BoltPart:8, Слизневый болт
+TConstruct:BoltPart:9, Бумажный болт
+TConstruct:BoltPart:10, Кобальтовый болт
+TConstruct:BoltPart:11, Ардитовый болт
+TConstruct:BoltPart:12, Мануллиновый болт
+TConstruct:BoltPart:13, Медный болт
+TConstruct:BoltPart:14, Бронзовый болт
+TConstruct:BoltPart:15, Алюмитовый болт
+TConstruct:BoltPart:16, Стальной болт
+TConstruct:BoltPart:17, Болт из синей слизи
+TConstruct:BoltPart:18, Болт из свиного железа
+TConstruct:Shuriken, Tool / Weapon
+TConstruct:ThrowingKnife, Tool / Weapon
+TConstruct:Javelin, Tool / Weapon
+TConstruct:ShortBow, Tool / Weapon
+TConstruct:LongBow, Tool / Weapon
+TConstruct:Crossbow, Tool / Weapon
+TConstruct:ArrowAmmo, Tool / Weapon
+TConstruct:BoltAmmo, Tool / Weapon
+TConstruct:Pattern:0, Схема сюрикэна
+TConstruct:Pattern:1, Схема плеча арбалета
+TConstruct:Pattern:2, Схема основы арбалета
+TConstruct:Pattern:3, Схема плеча лука
+TConstruct:Cast:0, Слепок сюрикэна
+TConstruct:Cast:1, Слепок плеча арбалета
+TConstruct:Cast:2, Слепок основы арбалета
+TConstruct:Cast:3, Слепок плеча лука
+TConstruct:Clay Cast:3, Bow Limb Clay Cast
+TConstruct:GlassArrows, Glass Arrows
+TConstruct:Boneana, Палаш
+TConstruct:slimesling, Рогатка из слизи
+TConstruct:slime_boots, Ботинки из слизи
+TConstruct:gearCast, Слепок шестерни
 etfuturum:mutton_raw, Сырая баранина
 etfuturum:mutton_cooked, Приготовленная баранина
 etfuturum:prismarine_shard, Призмариновый осколок
@@ -8677,64 +9816,6 @@ etfuturum:item_sign_birch, Берёзовая табличка
 etfuturum:item_sign_jungle, Табличка из тропического дерева
 etfuturum:item_sign_acacia, Акациевая табличка
 etfuturum:item_sign_dark_oak, Табличка из тёмного дуба
-extracells:part.base:0, МЭ жидкостная шина экспорта
-extracells:part.base:1, МЭ жидкостная шина импорта
-extracells:part.base:2, МЭ жидкостная шина хранения
-extracells:part.base:3, МЭ жидкостный терминал
-extracells:part.base:4, МЭ жидкостный излучатель уровня
-extracells:part.base:5, МЭ жидкостная плоскость уничтожения
-extracells:part.base:6, МЭ жидкостная плоскость формирования
-extracells:part.base:7, Прикрепляющийся МЭ накопитель
-extracells:part.base:8, Прикрепляющийся МЭ энергетическая ячейка
-extracells:part.base:9, МЭ жидкостный интерфейс
-extracells:part.base:10, МЭ жидкостный монитор хранения
-extracells:part.base:11, МЭ жидкостный монитор преобразования
-extracells:part.base:12, МЭ шина экспорта по словарю руд
-extracells:storage.fluid:0, МЭ 1Кб жидкостное хранилище
-extracells:storage.fluid:1, МЭ 4Кб жидкостное хранилище
-extracells:storage.fluid:2, МЭ 16Кб жидкостное хранилище
-extracells:storage.fluid:3, МЭ 64Кб жидкостное хранилище
-extracells:storage.fluid:4, МЭ 256Кб жидкостное хранилище
-extracells:storage.fluid:5, МЭ 1024kб жидкостное хранилище
-extracells:storage.fluid:6, МЭ 4096kб жидкостное хранилище
-extracells:storage.physical:0, МЭ 256Кб хранилище
-extracells:storage.physical:1, МЭ 1024kб хранилище
-extracells:storage.physical:2, МЭ 4096kб хранилище
-extracells:storage.physical:3, МЭ 16384kб хранилище
-extracells:storage.physical:4, МЭ блок-контейнер - Пусто
-extracells:storage.physical:4, МЭ блок-контейнер - Пусто
-extracells:storage.physical.advanced.singularity, item.extracells.storage.physical.advanced.singularity.name
-extracells:storage.physical.advanced.quantum, item.extracells.storage.physical.advanced.quantum.name
-extracells:storage.physical.void, item.extracells.storage.physical.void.name
-extracells:storage.gas:0, ME 1Кб газовое хранилище
-extracells:storage.gas:1, ME 4Кб газовое хранилище
-extracells:storage.gas:2, ME 16Кб газовое хранилище
-extracells:storage.gas:3, ME 64Кб газовое хранилище
-extracells:storage.gas:4, ME 256Кб газовое хранилище
-extracells:storage.gas:5, ME 1024Кб газовое хранилище
-extracells:storage.gas:6, ME 4096Кб газовое хранилище
-extracells:pattern.fluid, item.extracells.pattern.fluid.name
-extracells:terminal.fluid.wireless, item.extracells.terminal.fluid.wireless.name
-extracells:storage.component:0, 256Кб МЭ компонент хранилища
-extracells:storage.component:1, 1024Кб МЭ компонент хранилища
-extracells:storage.component:2, 4096Кб МЭ компонент хранилища
-extracells:storage.component:3, 16384Кб МЭ компонент хранилища
-extracells:storage.component:4, 1Кб МЭ компонент жидкостного хранилища
-extracells:storage.component:5, 4Кб МЭ компонент жидкостного хранилища
-extracells:storage.component:6, 16Кб МЭ компонент жидкостного хранилища
-extracells:storage.component:7, 64Кб МЭ компонент жидкостного хранилища
-extracells:storage.component:8, 256Кб МЭ компонент жидкостного хранилища
-extracells:storage.component:9, 1024kб МЭ жидкостный компонент хранилища
-extracells:storage.component:10, 4096kб МЭ жидкостный компонент хранилища
-extracells:storage.casing:0, Продвинутый корпус хранилища
-extracells:storage.casing:1, Корпус хранилища жидкостей
-extracells:fluid.item, item.extracells.fluid.item.name
-extracells:storage.fluid.portable, item.extracells.storage.fluid.portable.name
-extracells:storage.gas.portable, item.extracells.storage.gas.portable.name
-extracells:pattern.crafting, item.extracells.pattern.crafting.name
-extracells:terminal.universal.wireless, item.extracells.terminal.universal.wireless.name
-extracells:terminal.gas.wireless, item.extracells.terminal.gas.wireless.name
-extracells:oc.upgrade, МЭ улучшение
 ForgeMicroblock:sawStone, Каменная пила
 ForgeMicroblock:sawIron, Железная пила
 ForgeMicroblock:sawDiamond, Алмазная пила
@@ -9092,7 +10173,6 @@ hbm:item.powder_euphemium, Эвфемиевый порошок
 hbm:item.powder_wd2004_tiny, Кучка порошка решётчатого анти-масс древесиума-2004
 hbm:item.powder_wd2004, Порошок решётчатого анти-масс древесиума-2004
 hbm:item.powder_dineutronium, Динейтрониевый порошок
-hbm:item.redstone_depleted, Обесцвеченная красная пыль
 hbm:item.dust, Пыль
 hbm:item.dust_tiny, Кучка пыли
 hbm:item.fallout, Куча радиоактивных осадков
@@ -9780,6 +10860,15 @@ hbm:item.item_secret:0, Композит SB-26
 hbm:item.item_secret:1, Проприетарный блок управления
 hbm:item.item_secret:2, Слиток селениевой стали
 hbm:item.item_secret:3, Часть Аберратора
+hbm:item.item_secret:4, Folly Part
+hbm:item.ingot_metal:0, Metal Ingot
+hbm:item.ingot_metal:1, Counter
+hbm:item.ingot_metal:2, Metal Key
+hbm:item.ingot_metal:3, Radio Homing Beacon
+hbm:item.ingot_metal:4, Metal Casing
+hbm:item.ingot_metal:5, Clockwork
+hbm:item.ingot_metal:6, Metal Bar
+hbm:item.ingot_metal:7, Detector
 hbm:item.parts_legendary:0, Легендарные запчасти
 hbm:item.parts_legendary:1, Легендарные запчасти
 hbm:item.parts_legendary:2, Легендарные запчасти
@@ -12310,6 +13399,7 @@ hbm:item.pollution_detector, Детектор загрязнения
 hbm:item.containment_box, Защитная коробка
 hbm:item.plastic_bag, Пластиковый пакетик
 hbm:item.atmosphere_scanner, Сканер атмосферы
+hbm:item.ammo_bag, Ammo Bag
 hbm:item.casing_bag, Сумка для гильз
 hbm:item.key, Ключ
 hbm:item.key_red, Красный ключ
@@ -12518,7 +13608,6 @@ hbm:item.sat_coord, Спутниковый целеуказатель
 hbm:item.sat_designator, Спутниковый лазерный целеуказатель
 hbm:item.sat_relay, Спутниковый радарный передатчик
 hbm:item.gun_b92, §9Энергетический бластер B92§r
-hbm:item.gun_cryocannon, Криопушка
 hbm:item.gun_fireext, Огнетушитель
 hbm:item.crucible, "Горнило Палача"
 hbm:item.gun_debug, item.gun_debug.name
@@ -12549,6 +13638,7 @@ hbm:item.gun_uzi_akimbo, Узишки
 hbm:item.gun_spas12, Дробовик SPAS-12
 hbm:item.gun_panzerschreck, Панцершрек
 hbm:item.gun_g3, Штурмовая винтовка
+hbm:item.gun_g3_zebra, Zebra Rifle
 hbm:item.gun_stinger, FIM-92 "Стингер"
 hbm:item.gun_chemthrower, Химомёт
 hbm:item.gun_m2, Ma Deuce
@@ -12561,6 +13651,9 @@ hbm:item.gun_minigun, Персональный миниган CZ53
 hbm:item.gun_minigun_lacunae, Лакунай
 hbm:item.gun_missile_launcher, Ракетница
 hbm:item.gun_tesla_cannon, Тесла пушка
+hbm:item.gun_laser_pistol, Laser Pistol
+hbm:item.gun_laser_pistol_pew_pew, Pew Pew
+hbm:item.gun_laser_pistol_morning_glory, Morning Glory
 hbm:item.gun_stg77, StG 77
 hbm:item.gun_tau, Тау пушка
 hbm:item.gun_fatman, М42 Атомная катапульта "Толстяк"
@@ -12723,7 +13816,6 @@ hbm:item.weapon_mod_caliber:5, Комплект для переоборудов�
 hbm:item.weapon_mod_caliber:6, Комплект для переоборудования под 7.62мм
 hbm:item.weapon_mod_caliber:7, Комплект для переоборудования под .50 BMG
 hbm:item.gun_b92_ammo, §9Энергетический Элемент B92§r
-hbm:item.gun_cryolator_ammo, Криоэлемент
 hbm:item.ammo_fireext:0, Бак с водой для огнетушителя
 hbm:item.ammo_fireext:1, Бак с пеной для огнетушителя
 hbm:item.ammo_fireext:2, Бак с песком для огнетушителя
@@ -13273,7 +14365,6 @@ hbm:item.boat_rubber, Резиновая лодка
 hbm:item.cart, item.cart.name
 hbm:item.train:0, Трамвай с плоской платформой
 hbm:item.train:1, item.train.cargo_tram_trailer.name
-hbm:item.train:2, item.train.tunnel_bore.name
 hbm:item.drone:0, Транспортный дрон
 hbm:item.drone:1, Транспортный дрон (Чанклоадер)
 hbm:item.drone:2, Быстрый транспортный дрон
@@ -13380,7 +14471,7 @@ hbm:item.dns_legs, Поножи DNT-Нанокостюма
 hbm:item.dns_boots, Ботинки DNT-Нанокостюма
 hbm:item.taurun_helmet, Taurun Helmet
 hbm:item.taurun_plate, Taurun Chestplate
-hbm:item.taurun_legs, Taurun Leggigns
+hbm:item.taurun_legs, Taurun Leggings
 hbm:item.taurun_boots, Taurun Boots
 hbm:item.trenchmaster_helmet, Шлем траншейщика
 hbm:item.trenchmaster_plate, Нагрудник траншейщика
@@ -13493,7 +14584,6 @@ hbm:item.structure_randomized, item.structure_randomized.name
 hbm:item.structure_randomly, item.structure_randomly.name
 hbm:item.structure_custommachine, Жезл обозначения кастомных машин
 hbm:item.rod_of_discord, Жезл раздора
-hbm:item.euphemium_stopper, Ограничитель
 hbm:item.polaroid, Полароид
 hbm:item.glitch, Глюк
 hbm:item.book_secret, 3-596-50802-9
@@ -13547,6 +14637,7 @@ hbm:item.door_metal, Металлическая дверь
 hbm:item.door_office, Офисная дверь
 hbm:item.door_bunker, Бункерная дверь
 hbm:item.door_red, Красная дверь
+hbm:item.fence_gate, Chainlink Fence Gate
 hbm:item.sliding_blast_door_skin:0, Скин раздвижной двери: Обычный
 hbm:item.sliding_blast_door_skin:1, Скин раздвижной двери: Вариант 1
 hbm:item.sliding_blast_door_skin:2, Скин раздвижной двери: Вариант 2
@@ -13675,14 +14766,14 @@ IronChest:woodCopperUpgrade, Улучшение из деревянного в �
 IronChest:diamondObsidianUpgrade, Улучшение из алмазного в обсидиановый сундук
 IronChest:obsidianNetheriteUpgrade, Obsidian to Netherite Chest Upgrade
 IronChest:ironSteelUpgrade, Iron to Steel Chest Upgrade
-ironchestminecarts:minecart_chest_obsidian, Вагонетка с обсидиановым сундуком
-ironchestminecarts:minecart_chest_copper, Вагонетка с медным сундуком
 ironchestminecarts:minecart_chest_diamond, Вагонетка с алмазным сундуком
+ironchestminecarts:minecart_chest_crystal, Вагонетка с кристальным сундуком
+ironchestminecarts:minecart_chest_copper, Вагонетка с медным сундуком
+ironchestminecarts:minecart_chest_obsidian, Вагонетка с обсидиановым сундуком
 ironchestminecarts:minecart_chest_steel, Вагонетка с жестокий сундуком
 ironchestminecarts:minecart_chest_iron, Вагонетка с железным сундуком
-ironchestminecarts:minecart_chest_gold, Вагонетка с золотым сундуком
-ironchestminecarts:minecart_chest_crystal, Вагонетка с кристальным сундуком
 ironchestminecarts:minecart_chest_dirtchest9000, Вагонетка с DirtChest9000
+ironchestminecarts:minecart_chest_gold, Вагонетка с золотым сундуком
 cfm:ItemTableWood, Деревянный столик
 cfm:ItemTableStone, Каменный столик
 cfm:ItemChairWood, Деревянный стул
@@ -16308,6 +17399,205 @@ ThermalDynamics:cover:0, Крышка (Разжиженный уголь)
 ThermalDynamics:cover:0, Крышка (Робот)
 ThermalDynamics:cover:0, Крышка (Блок хамелиума)
 ThermalDynamics:cover:0, Крышка (Камень края)
+ThermalDynamics:cover:0, Крышка (Сжиженная слизь)
+ThermalDynamics:cover:0, Крышка (Ветчина на кости)
+ThermalDynamics:cover:0, Крышка (Плита из шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из оранжевой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из сиреневой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из светло-синей шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из жёлтой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из лаймовой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из розовой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из серой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита светло-серой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из бирюзовой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из фиолетовой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из синей шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из коричневой шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из зелёной шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из красной шерсти)
+ThermalDynamics:cover:0, Крышка (Плита из чёрной шерсти)
+ThermalDynamics:cover:0, Крышка (Колышек)
+ThermalDynamics:cover:0, Крышка (Баррикада из дуба)
+ThermalDynamics:cover:0, Крышка (Баррикада из ели)
+ThermalDynamics:cover:0, Крышка (Баррикада из берёзы)
+ThermalDynamics:cover:0, Крышка (Баррикада из тропического дерева)
+ThermalDynamics:cover:0, Крышка (Бомба из слизи)
+ThermalDynamics:cover:0, Крышка (Бомба из слизи)
+ThermalDynamics:cover:0, Крышка (Застывшая синяя слизь)
+ThermalDynamics:cover:0, Крышка (Застывшая зелёная слизь)
+ThermalDynamics:cover:0, Крышка (Застывшая фиолетовая слизь)
+ThermalDynamics:cover:0, Крышка (Слизневая трава)
+ThermalDynamics:cover:0, Крышка (Слизневая трава)
+ThermalDynamics:cover:0, Крышка (Слизневая листва)
+ThermalDynamics:cover:0, Крышка (Слизневый саженец)
+ThermalDynamics:cover:0, Крышка (Сточная слизь)
+ThermalDynamics:cover:0, Крышка (Сточная кровь)
+ThermalDynamics:cover:0, Крышка (Прыжковая панель)
+ThermalDynamics:cover:0, Крышка (Факел)
+ThermalDynamics:cover:0, Крышка (Лестница)
+ThermalDynamics:cover:0, Крышка (Обсидиановый кирпич)
+ThermalDynamics:cover:0, Крышка (Песчаниковый кирпич)
+ThermalDynamics:cover:0, Крышка (Кирпич Нижнего мира)
+ThermalDynamics:cover:0, Крышка (Кирпич из гладкого камня)
+ThermalDynamics:cover:0, Крышка (Железный кирпич)
+ThermalDynamics:cover:0, Крышка (Золотой кирпич)
+ThermalDynamics:cover:0, Крышка (Лазуритовый кирпич)
+ThermalDynamics:cover:0, Крышка (Алмазный кирпич)
+ThermalDynamics:cover:0, Крышка (Красный кирпич)
+ThermalDynamics:cover:0, Крышка (Костяной кирпич)
+ThermalDynamics:cover:0, Крышка (Слизневый кирпич)
+ThermalDynamics:cover:0, Крышка (Слизневый кирпич)
+ThermalDynamics:cover:0, Крышка (Кирпич из камня Края)
+ThermalDynamics:cover:0, Крышка (Обсидиановый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый обсидиановый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый песчаниковый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый кирпич Нижнего мира)
+ThermalDynamics:cover:0, Крышка (Красивый кирпич из гладкого камня)
+ThermalDynamics:cover:0, Крышка (Красивый железный кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый золотой кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый лазуритовый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый алмазный кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый красный кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый костяной кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый слизневый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый слизневый кирпич)
+ThermalDynamics:cover:0, Крышка (Кирпич из красивого камня Края)
+ThermalDynamics:cover:0, Крышка (Красивый обсидиановый кирпич)
+ThermalDynamics:cover:0, Крышка (Кирпич из красивого камня)
+ThermalDynamics:cover:0, Крышка (Каменная дорога)
+ThermalDynamics:cover:0, Крышка (Алюмитовый кирпич)
+ThermalDynamics:cover:0, Крышка (Ардитовый кирпич)
+ThermalDynamics:cover:0, Крышка (Кобальтовый кирпич)
+ThermalDynamics:cover:0, Крышка (Мануллиновый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый алюмитовый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый ардитовый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый кобальтовый кирпич)
+ThermalDynamics:cover:0, Крышка (Красивый мануллиновый кирпич)
+ThermalDynamics:cover:0, Крышка (Железный рудный куст)
+ThermalDynamics:cover:0, Крышка (Золотой рудный куст)
+ThermalDynamics:cover:0, Крышка (Медный рудный куст)
+ThermalDynamics:cover:0, Крышка (Оловянный рудный куст)
+ThermalDynamics:cover:0, Крышка (Алюминиевый рудный куст)
+ThermalDynamics:cover:0, Крышка (Куст эссенции опыта)
+ThermalDynamics:cover:0, Крышка (Кобальтовая руда)
+ThermalDynamics:cover:0, Крышка (Ардитовая руда)
+ThermalDynamics:cover:0, Крышка (Медная руда)
+ThermalDynamics:cover:0, Крышка (Оловянная руда)
+ThermalDynamics:cover:0, Крышка (Алюминиевая руда)
+ThermalDynamics:cover:0, Крышка (Железная гравиевая руда)
+ThermalDynamics:cover:0, Крышка (Золотая гравиевая руда)
+ThermalDynamics:cover:0, Крышка (Медная гравиевая руда)
+ThermalDynamics:cover:0, Крышка (Оловянная гравиевая руда)
+ThermalDynamics:cover:0, Крышка (Алюминиевая гравиевая руда)
+ThermalDynamics:cover:0, Крышка (Кобальтовая гравиевая руда)
+ThermalDynamics:cover:0, Крышка (Деревянные рельсы)
+ThermalDynamics:cover:0, Крышка (Кобальтовый блок)
+ThermalDynamics:cover:0, Крышка (Ардитовый блок)
+ThermalDynamics:cover:0, Крышка (Мануллиновый блок)
+ThermalDynamics:cover:0, Крышка (Медный блок)
+ThermalDynamics:cover:0, Крышка (Бронзовый блок)
+ThermalDynamics:cover:0, Крышка (Оловянный блок)
+ThermalDynamics:cover:0, Крышка (Алюминиевый блок)
+ThermalDynamics:cover:0, Крышка (Блок алюминиевой латуни)
+ThermalDynamics:cover:0, Крышка (Алюмитовый блок)
+ThermalDynamics:cover:0, Крышка (Стальной блок)
+ThermalDynamics:cover:0, Крышка (Блок спрессованного ока Края)
+ThermalDynamics:cover:0, Крышка (Слизневая грязь)
+ThermalDynamics:cover:0, Крышка (Цемент)
+ThermalDynamics:cover:0, Крышка (Слизневая грязь)
+ThermalDynamics:cover:0, Крышка (Кладбищенская почва)
+ThermalDynamics:cover:0, Крышка (Священная почва)
+ThermalDynamics:cover:0, Крышка (Земля из синей слизи)
+ThermalDynamics:cover:0, Крышка (Слизевая почва)
+ThermalDynamics:cover:0, Крышка (Расплавленное железо)
+ThermalDynamics:cover:0, Крышка (Расплавленное золото)
+ThermalDynamics:cover:0, Крышка (Расплавленная медь)
+ThermalDynamics:cover:0, Крышка (Жидкое олово)
+ThermalDynamics:cover:0, Крышка (Расплавленный алюминий)
+ThermalDynamics:cover:0, Крышка (Расплавленный кобальт)
+ThermalDynamics:cover:0, Крышка (Расплавленный ардит)
+ThermalDynamics:cover:0, Крышка (Расплавленная бронза)
+ThermalDynamics:cover:0, Крышка (Расплавленная алюминиевая латунь)
+ThermalDynamics:cover:0, Крышка (Расплавленный мануллин)
+ThermalDynamics:cover:0, Крышка (Расплавленный алюмит)
+ThermalDynamics:cover:0, Крышка (Расплавленный обсидиан)
+ThermalDynamics:cover:0, Крышка (Расплавленная сталь)
+ThermalDynamics:cover:0, Крышка (Расплавленное стекло)
+ThermalDynamics:cover:0, Крышка (Обожжённый камень)
+ThermalDynamics:cover:0, Крышка (Сжиженный изумруд)
+ThermalDynamics:cover:0, Крышка (Molten Nether Quartz)
+ThermalDynamics:cover:0, Крышка (Расплавленный никель)
+ThermalDynamics:cover:0, Крышка (Расплавленный свинец)
+ThermalDynamics:cover:0, Крышка (Расплавленное серебро)
+ThermalDynamics:cover:0, Крышка (Расплавленная платина)
+ThermalDynamics:cover:0, Крышка (Расплавленный инвар)
+ThermalDynamics:cover:0, Крышка (Расплавленный электрум)
+ThermalDynamics:cover:0, Крышка (Жидкость Края)
+ThermalDynamics:cover:0, Крышка (Расплавленный ламиум)
+ThermalDynamics:cover:0, Крышка (Расплавленный синал)
+ThermalDynamics:cover:0, Крышка (Расплавленный мифрил)
+ThermalDynamics:cover:0, Крышка (Расплавленный эндериум)
+ThermalDynamics:cover:0, Крышка (Кровь)
+ThermalDynamics:cover:0, Крышка (Клей)
+ThermalDynamics:cover:0, Крышка (Расплавленное свиное железо)
+ThermalDynamics:cover:0, Крышка (Плита из обожжённого кирпича)
+ThermalDynamics:cover:0, Крышка (Плита из обожжённого камня)
+ThermalDynamics:cover:0, Крышка (Плита из обожжённого булыжника)
+ThermalDynamics:cover:0, Крышка (Плита из обожжённой брусчатки)
+ThermalDynamics:cover:0, Крышка (Плита из обожжённой дороги)
+ThermalDynamics:cover:0, Крышка (Красивая обожжённая плита)
+ThermalDynamics:cover:0, Крышка (Резная обожжённая плита)
+ThermalDynamics:cover:0, Крышка (Резная обожжённая плита)
+ThermalDynamics:cover:0, Крышка (Плита из грубого бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из грубого дорожного бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из кирпича бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из дорожного бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из красивого бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Плита из резного бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Блок клея)
+ThermalDynamics:cover:0, Крышка (Грубый бурый песчаник)
+ThermalDynamics:cover:0, Крышка (Дорога из грубого бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Бурый песчаник)
+ThermalDynamics:cover:0, Крышка (Кирпич из бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Дорога из бурого песчаника)
+ThermalDynamics:cover:0, Крышка (Красивый бурый песчаник)
+ThermalDynamics:cover:0, Крышка (Резной бурый песчаник)
+ThermalDynamics:cover:0, Крышка (Прозрачное стекло)
+ThermalDynamics:cover:0, Крышка (Прозрачная стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Белое стекло)
+ThermalDynamics:cover:0, Крышка (Оранжевое стекло)
+ThermalDynamics:cover:0, Крышка (Сиреневое стекло)
+ThermalDynamics:cover:0, Крышка (Светло-синее стекло)
+ThermalDynamics:cover:0, Крышка (Жёлтое стекло)
+ThermalDynamics:cover:0, Крышка (Лаймовое стекло)
+ThermalDynamics:cover:0, Крышка (Розовое стекло)
+ThermalDynamics:cover:0, Крышка (Серое стекло)
+ThermalDynamics:cover:0, Крышка (Светло-серое стекло)
+ThermalDynamics:cover:0, Крышка (Бирюзовое стекло)
+ThermalDynamics:cover:0, Крышка (Фиолетовое стекло)
+ThermalDynamics:cover:0, Крышка (Синее стекло)
+ThermalDynamics:cover:0, Крышка (Коричневое стекло)
+ThermalDynamics:cover:0, Крышка (Зелёное стекло)
+ThermalDynamics:cover:0, Крышка (Красное стекло)
+ThermalDynamics:cover:0, Крышка (Чёрное стекло)
+ThermalDynamics:cover:0, Крышка (Белая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Оранжевая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Сиреневая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Светло-синяя стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Жёлтая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Лаймовая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Розовая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Серая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Светло-серая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Бирюзовая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Фиолетовая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Синяя стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Коричневая стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Зелёная стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Красная стеклянная панель)
+ThermalDynamics:cover:0, Крышка (Чёрная стеклянная панель)
 ThermalDynamics:cover:0, Крышка (Призмарин)
 ThermalDynamics:cover:0, Крышка (Призмариновый кирпич)
 ThermalDynamics:cover:0, Крышка (Тёмный призмарин)
@@ -17616,6 +18906,7 @@ ThermalDynamics:cover:0, Крышка (Металлическая дверь)
 ThermalDynamics:cover:0, Крышка (Офисная дверь)
 ThermalDynamics:cover:0, Крышка (Бункерная дверь)
 ThermalDynamics:cover:0, Крышка (Красная дверь)
+ThermalDynamics:cover:0, Крышка (Chainlink Fence Gate)
 ThermalDynamics:cover:0, Крышка (Железная наковальня)
 ThermalDynamics:cover:0, Крышка (Свинцовая наковальня)
 ThermalDynamics:cover:0, Крышка (Стальная наковальня)
@@ -18063,6 +19354,11 @@ ThermalDynamics:cover:0, Крышка (Ipe Trim)
 ThermalDynamics:cover:0, Крышка (Padauk Trim)
 ThermalDynamics:cover:0, Крышка (Cocobolo Trim)
 ThermalDynamics:cover:0, Крышка (Zebrawood Trim)
+ThermalDynamics:cover:0, Крышка (Пустая фильтровальная сетка)
+ThermalDynamics:cover:0, Крышка (Широкая фильтровальная сетка)
+ThermalDynamics:cover:0, Крышка (Slat Mesh Filter)
+ThermalDynamics:cover:0, Крышка (фильтровальная сетка)
+ThermalDynamics:cover:0, Крышка (Тонкая фильтровальная сетка)
 ThermalDynamics:cover:0, Крышка (Deconstruction Table)
 ThermalDynamics:retriever:0, Поисковик
 ThermalDynamics:retriever:1, Усиленный поисковик
@@ -18070,5 +19366,7 @@ ThermalDynamics:retriever:2, Укреплённый поисковик
 ThermalDynamics:retriever:3, Синаловый поисковик
 ThermalDynamics:retriever:4, Резонирующий поисковик
 ThermalDynamics:relay:0, Красное реле
+TMechworks:LengthWire, Провод
+TMechworks:SpoolWire:0, Проводная катушка
 waystones:warpScroll, Return Scroll
 waystones:warpStone, Warp Stone

@@ -106,19 +106,35 @@
       "extra": "FULL_MOON"
     },
     {
+      "output": ["hbm:item.gun_laser_pistol_morning_glory"],
+      "input": [
+        null,
+        ["item","hbm:item.morning_glory"],
+        null,
+        ["item","hbm:item.item_secret",2,2],
+        ["item","hbm:item.gun_laser_pistol"],
+        ["item","hbm:item.item_secret",2,2],
+        null,
+        ["dict","gemEmerald",16],
+        null
+      ],
+      "extra": "NONE"
+    },
+    {
       "output": ["hbm:item.gun_folly"],
       "input": [
-        ["item","hbm:item.item_secret",4,2],
+        ["item","hbm:item.item_secret",4,4],
         ["item","hbm:item.item_secret",2,1],
-        ["item","hbm:item.item_secret",4,2],
+        ["item","hbm:item.item_secret",4,4],
         ["dict","ingotBSCCO",16],
         ["dict","blockStarmetal",64],
         ["dict","ingotBSCCO",16],
-        ["item","hbm:item.item_secret",4,2],
+        ["item","hbm:item.item_secret",4,4],
         ["item","hbm:item.item_secret",2,1],
-        ["item","hbm:item.item_secret",4,2]
+        ["item","hbm:item.item_secret",4,4]
       ],
-      "extra": "FULL_MOON"
+      "extra": "FULL_MOON",
+      "set": 1
     },
     {
       "output": ["hbm:item.gun_aberrator"],
@@ -133,7 +149,8 @@
         ["item","hbm:item.item_secret",1,3],
         null
       ],
-      "extra": "NONE"
+      "extra": "NONE",
+      "set": 1
     },
     {
       "output": ["hbm:item.gun_aberrator_eott"],
@@ -148,7 +165,8 @@
         ["item","hbm:item.item_secret",1,3],
         ["item","hbm:item.item_secret",1,3]
       ],
-      "extra": "NONE"
+      "extra": "GOOD_KARMA",
+      "set": 1
     },
     {
       "output": ["hbm:item.ammo_secret"],
@@ -163,7 +181,8 @@
         ["item","hbm:item.powder_magic"],
         ["dict","ingotStarmetal"]
       ],
-      "extra": "FULL_MOON"
+      "extra": "FULL_MOON",
+      "set": 1
     },
     {
       "output": ["hbm:item.ammo_secret",1,1],
@@ -178,7 +197,8 @@
         ["item","hbm:item.powder_magic"],
         ["dict","ingotStarmetal"]
       ],
-      "extra": "FULL_MOON"
+      "extra": "FULL_MOON",
+      "set": 1
     },
     {
       "output": ["hbm:item.ammo_secret",5,5],
@@ -193,7 +213,8 @@
         null,
         null
       ],
-      "extra": "NONE"
+      "extra": "NONE",
+      "set": 1
     }
   ]
 }

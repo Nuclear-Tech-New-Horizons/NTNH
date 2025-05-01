@@ -1,5 +1,5 @@
 ignoreUpdate:0
-updateNotification:true
+updateNotification:false
 differentiateByServerAddress:true
 debug:false
 lighting:true

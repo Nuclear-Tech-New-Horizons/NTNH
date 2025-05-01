@@ -1,7 +1,7 @@
 {
   "General": {
     "enableHotbarSort": true,
-    "enableAutoRefill": false,
+    "enableAutoRefill": true,
     "refillDmgThreshold": 1,
     "enableDropoff": true,
     "dropoffRender": true,

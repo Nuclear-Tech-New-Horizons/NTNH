@@ -73,15 +73,13 @@
     {
       "output": ["hbm:tile.machine_turbofan"],
       "input": [
-        ["dict","shellSteel",3],
-        ["dict","shellTitanium",3],
-        ["item","hbm:item.turbine_tungsten"],
-        ["item","hbm:item.turbine_titanium",7],
+        ["dict","shellTitanium",8],
         ["dict","ntmpipeDuraSteel",4],
-        ["dict","ingotMingrade",12],
-        ["dict","wireFineMingrade",24]
+        ["dict","ingotAnyPlastic",12],
+        ["item","hbm:item.turbine_tungsten"],
+        ["dict","wireDenseGold",12]
       ],
-      "duration": 500
+      "duration": 300
     },
     {
       "output": ["hbm:tile.machine_bat9000"],

@@ -326,6 +326,22 @@
       [["hbm:item.ammo_standard",1,41],6,6,10],
       [["hbm:item.ammo_standard",1,58],1,1,3]
     ],
+    "POOL_REPAIR_MATERIALS": [
+      [["hbm:item.ingot_aluminium"],2,8,3],
+      [["hbm:item.ingot_steel"],0,12,4],
+      [["hbm:item.plate_aluminium"],5,12,3],
+      [["hbm:item.plate_iron"],6,16,3],
+      [["hbm:item.plate_steel"],2,12,2],
+      [["hbm:item.ingot_tungsten"],0,2,1],
+      [["hbm:tile.deco_aluminium"],12,24,4],
+      [["hbm:tile.deco_steel"],5,12,2],
+      [["hbm:tile.block_aluminium"],0,2,1],
+      [["hbm:tile.block_steel"],0,1,1],
+      [["hbm:item.bolt",1,30],4,16,3],
+      [["hbm:item.circuit"],1,2,4],
+      [["hbm:item.circuit",1,8],1,3,5],
+      [["hbm:item.circuit",1,1],1,1,3]
+    ],
     "POOL_SAT_LUNAR": [
       [["hbm:tile.moon_turf"],48,48,5],
       [["hbm:tile.moon_turf"],32,32,7],
@@ -458,6 +474,10 @@
     ],
     "POOL_PILE_MAKESHIFT_GUN": [
       [["hbm:item.gun_maresleg"],1,1,10]
+    ],
+    "POOL_RTG": [
+      [["hbm:item.pellet_rtg_depleted",1,3],1,1,40],
+      [["hbm:item.pellet_rtg_weak"],0,1,1]
     ],
     "POOL_PILE_MAKESHIFT_WRENCH": [
       [["hbm:item.wrench"],1,1,10]

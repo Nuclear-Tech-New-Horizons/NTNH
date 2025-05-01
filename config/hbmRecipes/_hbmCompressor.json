@@ -5,12 +5,12 @@
       "output": ["LPG",1000]
     },
     {
-      "input": ["PETROLEUM",2000],
-      "output": ["PETROLEUM",2000,1]
-    },
-    {
       "input": ["BLOOD",1000,3],
       "output": ["HEAVYOIL",250]
+    },
+    {
+      "input": ["PETROLEUM",2000],
+      "output": ["PETROLEUM",2000,1]
     },
     {
       "input": ["PERFLUOROMETHYL",1000,1],

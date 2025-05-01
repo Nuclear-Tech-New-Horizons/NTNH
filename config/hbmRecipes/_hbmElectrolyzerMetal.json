@@ -2,7 +2,7 @@
   "recipes": [
     {
       "input": ["item","hbm:item.bedrock_ore",1,2845],
-      "output1": ["Uranium",1728],
+      "output1": ["Uranium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3357]
       ],
@@ -10,12 +10,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3357],
-      "output1": ["Uranium",576],
+      "output1": ["Uranium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2820],
-      "output1": ["Iron",1728],
+      "output1": ["Iron",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3332]
       ],
@@ -23,7 +23,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3332],
-      "output1": ["Iron",576],
+      "output1": ["Iron",288],
       "duration": 20
     },
     {
@@ -39,7 +39,7 @@
       "input": ["item","hbm:item.bedrock_ore",1,3365],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,1101]
+        ["hbm:item.bedrock_ore_fragment",36,1101]
       ],
       "duration": 20
     },
@@ -65,13 +65,13 @@
       "input": ["item","hbm:item.bedrock_ore",1,3340],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,1600]
+        ["hbm:item.bedrock_ore_fragment",36,1600]
       ],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2861],
-      "output1": ["Uranium",1728],
+      "output1": ["Uranium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3373]
       ],
@@ -79,12 +79,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3373],
-      "output1": ["Uranium",576],
+      "output1": ["Uranium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2836],
-      "output1": ["Titanium",1728],
+      "output1": ["Titanium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3348]
       ],
@@ -92,7 +92,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3348],
-      "output1": ["Titanium",576],
+      "output1": ["Titanium",288],
       "duration": 20
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2844],
-      "output1": ["Tantalum",1728],
+      "output1": ["Tantalum",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3356]
       ],
@@ -114,7 +114,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3356],
-      "output1": ["Tantalum",576],
+      "output1": ["Tantalum",288],
       "duration": 20
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2852],
-      "output1": ["Schrabidium",1728],
+      "output1": ["Schrabidium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3364]
       ],
@@ -136,12 +136,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3364],
-      "output1": ["Schrabidium",576],
+      "output1": ["Schrabidium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2819],
-      "output1": ["Asbestos",1728],
+      "output1": ["Asbestos",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3331]
       ],
@@ -149,7 +149,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3331],
-      "output1": ["Asbestos",576],
+      "output1": ["Asbestos",288],
       "duration": 20
     },
     {
@@ -165,13 +165,13 @@
       "input": ["item","hbm:item.bedrock_ore",1,3372],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,20000]
+        ["hbm:item.bedrock_ore_fragment",36,20000]
       ],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2827],
-      "output1": ["Zirconium",1728],
+      "output1": ["Zirconium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3339]
       ],
@@ -179,7 +179,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3339],
-      "output1": ["Zirconium",576],
+      "output1": ["Zirconium",288],
       "duration": 20
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2835],
-      "output1": ["Redstone",1728],
+      "output1": ["Redstone",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3347]
       ],
@@ -201,7 +201,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3347],
-      "output1": ["Redstone",576],
+      "output1": ["Redstone",288],
       "duration": 20
     },
     {
@@ -215,7 +215,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2839],
-      "output1": ["Australium",1728],
+      "output1": ["Australium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3351]
       ],
@@ -223,7 +223,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3351],
-      "output1": ["Australium",576],
+      "output1": ["Australium",288],
       "duration": 20
     },
     {
@@ -249,7 +249,7 @@
       "input": ["item","hbm:item.bedrock_ore",1,3359],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,1430]
+        ["hbm:item.bedrock_ore_fragment",36,1430]
       ],
       "duration": 20
     },
@@ -265,7 +265,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2822],
-      "output1": ["Cobalt",1728],
+      "output1": ["Cobalt",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3334]
       ],
@@ -273,12 +273,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3334],
-      "output1": ["Cobalt",576],
+      "output1": ["Cobalt",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2855],
-      "output1": ["Lead",1728],
+      "output1": ["Lead",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3367]
       ],
@@ -286,12 +286,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3367],
-      "output1": ["Lead",576],
+      "output1": ["Lead",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2830],
-      "output1": ["Iron",1728],
+      "output1": ["Iron",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3342]
       ],
@@ -299,12 +299,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3342],
-      "output1": ["Iron",576],
+      "output1": ["Iron",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2863],
-      "output1": ["Asbestos",1728],
+      "output1": ["Asbestos",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3375]
       ],
@@ -312,7 +312,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3375],
-      "output1": ["Asbestos",576],
+      "output1": ["Asbestos",288],
       "duration": 20
     },
     {
@@ -337,7 +337,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2838],
-      "output1": ["Neodymium",1728],
+      "output1": ["Neodymium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3350]
       ],
@@ -345,12 +345,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3350],
-      "output1": ["Neodymium",576],
+      "output1": ["Neodymium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2821],
-      "output1": ["Lead",1728],
+      "output1": ["Lead",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3333]
       ],
@@ -358,12 +358,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3333],
-      "output1": ["Lead",576],
+      "output1": ["Lead",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2846],
-      "output1": ["Silicon",1728],
+      "output1": ["Silicon",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3358]
       ],
@@ -371,7 +371,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3358],
-      "output1": ["Silicon",576],
+      "output1": ["Silicon",288],
       "duration": 20
     },
     {
@@ -387,13 +387,13 @@
       "input": ["item","hbm:item.bedrock_ore",1,3341],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,401]
+        ["hbm:item.bedrock_ore_fragment",36,401]
       ],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2854],
-      "output1": ["Copper",1728],
+      "output1": ["Copper",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3366]
       ],
@@ -401,12 +401,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3366],
-      "output1": ["Copper",576],
+      "output1": ["Copper",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2837],
-      "output1": ["Gold",1728],
+      "output1": ["Gold",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3349]
       ],
@@ -414,7 +414,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3349],
-      "output1": ["Gold",576],
+      "output1": ["Gold",288],
       "duration": 20
     },
     {
@@ -430,7 +430,7 @@
       "input": ["item","hbm:item.bedrock_ore",1,3374],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,1701]
+        ["hbm:item.bedrock_ore_fragment",36,1701]
       ],
       "duration": 20
     },
@@ -447,7 +447,7 @@
       "input": ["item","hbm:item.bedrock_ore",1,3353],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,8001]
+        ["hbm:item.bedrock_ore_fragment",36,8001]
       ],
       "duration": 20
     },
@@ -462,7 +462,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2816],
-      "output1": ["Iron",1728],
+      "output1": ["Iron",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3328]
       ],
@@ -470,12 +470,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3328],
-      "output1": ["Iron",576],
+      "output1": ["Iron",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2849],
-      "output1": ["Tungsten",1728],
+      "output1": ["Tungsten",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3361]
       ],
@@ -483,12 +483,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3361],
-      "output1": ["Tungsten",576],
+      "output1": ["Tungsten",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2824],
-      "output1": ["Redstone",1728],
+      "output1": ["Redstone",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3336]
       ],
@@ -496,12 +496,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3336],
-      "output1": ["Redstone",576],
+      "output1": ["Redstone",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2857],
-      "output1": ["Uranium",1728],
+      "output1": ["Uranium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3369]
       ],
@@ -509,7 +509,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3369],
-      "output1": ["Uranium",576],
+      "output1": ["Uranium",288],
       "duration": 20
     },
     {
@@ -525,13 +525,13 @@
       "input": ["item","hbm:item.bedrock_ore",1,3344],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,20000]
+        ["hbm:item.bedrock_ore_fragment",36,20000]
       ],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2840],
-      "output1": ["Glowstone",1728],
+      "output1": ["Glowstone",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3352]
       ],
@@ -539,7 +539,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3352],
-      "output1": ["Glowstone",576],
+      "output1": ["Glowstone",288],
       "duration": 20
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2848],
-      "output1": ["Sodium",1728],
+      "output1": ["Sodium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3360]
       ],
@@ -561,12 +561,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3360],
-      "output1": ["Sodium",576],
+      "output1": ["Sodium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2856],
-      "output1": ["Boron",1728],
+      "output1": ["Boron",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3368]
       ],
@@ -574,7 +574,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3368],
-      "output1": ["Boron",576],
+      "output1": ["Boron",288],
       "duration": 20
     },
     {
@@ -590,7 +590,7 @@
       "input": ["item","hbm:item.bedrock_ore",1,3335],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,1600]
+        ["hbm:item.bedrock_ore_fragment",36,1600]
       ],
       "duration": 20
     },
@@ -606,7 +606,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2831],
-      "output1": ["Beryllium",1728],
+      "output1": ["Beryllium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3343]
       ],
@@ -614,12 +614,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3343],
-      "output1": ["Beryllium",576],
+      "output1": ["Beryllium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2843],
-      "output1": ["Zinc",1728],
+      "output1": ["Zinc",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3355]
       ],
@@ -627,7 +627,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3355],
-      "output1": ["Zinc",576],
+      "output1": ["Zinc",288],
       "duration": 20
     },
     {
@@ -643,13 +643,13 @@
       "input": ["item","hbm:item.bedrock_ore",1,3330],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,600]
+        ["hbm:item.bedrock_ore_fragment",36,600]
       ],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2851],
-      "output1": ["Plutonium",1728],
+      "output1": ["Plutonium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3363]
       ],
@@ -657,12 +657,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3363],
-      "output1": ["Plutonium",576],
+      "output1": ["Plutonium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2826],
-      "output1": ["Lead",1728],
+      "output1": ["Lead",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3338]
       ],
@@ -670,12 +670,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3338],
-      "output1": ["Lead",576],
+      "output1": ["Lead",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2859],
-      "output1": ["Beryllium",1728],
+      "output1": ["Beryllium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3371]
       ],
@@ -683,7 +683,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3371],
-      "output1": ["Beryllium",576],
+      "output1": ["Beryllium",288],
       "duration": 20
     },
     {
@@ -699,7 +699,7 @@
       "input": ["item","hbm:item.bedrock_ore",1,3346],
       "output1": ["Slag",144],
       "byproducts": [
-        ["hbm:item.bedrock_ore_fragment",64,900]
+        ["hbm:item.bedrock_ore_fragment",36,900]
       ],
       "duration": 20
     },
@@ -714,7 +714,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2842],
-      "output1": ["Nickel",1728],
+      "output1": ["Nickel",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3354]
       ],
@@ -722,7 +722,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3354],
-      "output1": ["Nickel",576],
+      "output1": ["Nickel",288],
       "duration": 20
     },
     {
@@ -756,7 +756,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2850],
-      "output1": ["Niobium",1728],
+      "output1": ["Niobium",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3362]
       ],
@@ -764,12 +764,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3362],
-      "output1": ["Niobium",576],
+      "output1": ["Niobium",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2817],
-      "output1": ["Tungsten",1728],
+      "output1": ["Tungsten",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3329]
       ],
@@ -777,12 +777,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3329],
-      "output1": ["Tungsten",576],
+      "output1": ["Tungsten",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2858],
-      "output1": ["Aluminum",1728],
+      "output1": ["Aluminum",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3370]
       ],
@@ -790,7 +790,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3370],
-      "output1": ["Aluminum",576],
+      "output1": ["Aluminum",288],
       "duration": 20
     },
     {
@@ -814,7 +814,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2825],
-      "output1": ["Copper",1728],
+      "output1": ["Copper",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3337]
       ],
@@ -822,12 +822,12 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3337],
-      "output1": ["Copper",576],
+      "output1": ["Copper",288],
       "duration": 20
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,2833],
-      "output1": ["Thorium232",1728],
+      "output1": ["Thorium232",1152],
       "byproducts": [
         ["hbm:item.bedrock_ore",1,3345]
       ],
@@ -835,7 +835,7 @@
     },
     {
       "input": ["item","hbm:item.bedrock_ore",1,3345],
-      "output1": ["Thorium232",576],
+      "output1": ["Thorium232",288],
       "duration": 20
     }
   ]

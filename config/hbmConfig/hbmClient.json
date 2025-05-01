@@ -1,5 +1,6 @@
 {
   "info": "This file can be edited ingame using the /ntmclient command.",
+  "COOLING_TOWER_PARTICLES": true,
   "DODD_RBMK_DIAGNOSTIC": true,
   "GEIGER_OFFSET_HORIZONTAL": 0,
   "GEIGER_OFFSET_VERTICAL": 0,
