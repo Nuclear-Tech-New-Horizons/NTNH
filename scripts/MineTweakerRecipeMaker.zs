@@ -251,6 +251,12 @@ recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpac
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<computronics:computronics.speechBox>, [[<ore:ingotIron>, <ore:oc:cpu2>, <ore:ingotIron>], [<ore:oc:circuitChip3>, <computronics:computronics.speaker>, <minecraft:iron_bars>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.radar>, [[<ore:ingotIron>, <hbm:item.magnetron>, <ore:ingotIron>], [<ore:oc:circuitChip3>, <ore:oc:motionSensor>, <ore:oc:circuitChip3>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.cipher>, [[<ore:ingotIron>, <ore:materialEnderPearl>, <ore:ingotIron>], [<ore:oc:circuitChip2>, <ore:oc:dataCard2>, <ore:oc:circuitChip2>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.chatBox>, [[<ore:ingotIron>, <ore:oc:circuitChip2>, <ore:ingotIron>], [<ore:oc:circuitChip1>, <ore:oc:materialInterweb>, <ore:oc:circuitChip1>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.camera>, [[<ore:ingotIron>, <ore:oc:circuitChip1>, <ore:ingotIron>], [<ore:dustRedstone>, <ore:materialEnderPearl>, <ore:blockGlassColorless>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.tapeReader>, [[<ore:ingotIron>, <ore:oc:circuitChip2>, <ore:ingotIron>], [<ore:craftingPiston>, <computronics:computronics.speaker>, <minecraft:iron_bars>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
 recipes.addShaped(<Forestry:pipette>, [[null, null, <ore:ingotAnyRubber>], [null, <ore:ntmpipeRubber>, null], [<ore:ntmpipeRubber>, null, null]]);
 recipes.addShaped(<Forestry:factory2>, [[<ore:AdvancedAlloy>, <hbm:item.circuit:1>, <ore:AdvancedAlloy>], [<hbm:item.circuit:9>, <Forestry:sturdyMachine>, <hbm:item.circuit:9>], [<ore:AdvancedAlloy>, <ore:chest>, <ore:AdvancedAlloy>]]);
 recipes.addShaped(<Forestry:sturdyMachine>, [[<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>], [<ore:ingotBronze>, <hbm:item.circuit:9>, <ore:ingotBronze>], [<ore:ingotBronze>, <ore:ingotBronze>, <ore:ingotBronze>]]);

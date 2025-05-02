@@ -58,3 +58,13 @@ config/pregen/base.cfg
 config/AppliedEnergistics2/Facades.cfg
 config/AppliedEnergistics2/recipes/items.csv
 config/AppliedEnergistics2/CustomRecipes.cfg
+config/cofh/thermalexpansion/common.cfg
+config/NEI/client.cfg
+config/iChunUtil.cfg
+config/ExtraTrees.cfg
+config/ExtraBees.cfg
+config/forestry/binnie-mods.conf
+config/forestry/extratrees/main.conf
+config/forestry/extrabees/main.conf
+config/forestry/extrabees/machines.conf
+config/forestry/binniecore/main.conf
