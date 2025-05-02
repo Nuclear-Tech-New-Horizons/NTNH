@@ -68,3 +68,6 @@ config/forestry/extratrees/main.conf
 config/forestry/extrabees/main.conf
 config/forestry/extrabees/machines.conf
 config/forestry/binniecore/main.conf
+config/cofh/thermalfoundation/common.cfg
+config/cofh/core/common.cfg
+config/ChickenChunks.cfg
