@@ -49,8 +49,12 @@ config/hbmRecipes/_hbmHydrotreating.json
 config/hbmRecipes/_hbmMixer.json
 config/hbmRecipes/_hbmReforming.json
 config/hbmRecipes/_hbmSolidifier.json
-config/worldedit/worldedit.properties
-config/hodgepodgeEarly.properties
 config/shaders.properties
 mods/carpentersblocks/CarpentersBlocksCachedResources.zip
 config/splash.properties
+config/pregen/base.cfg
+config/worldedit/worldedit.properties
+config/pregen/base.cfg
+config/AppliedEnergistics2/Facades.cfg
+config/AppliedEnergistics2/recipes/items.csv
+config/AppliedEnergistics2/CustomRecipes.cfg
