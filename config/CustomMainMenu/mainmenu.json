@@ -40,13 +40,13 @@
     },
      "discord": {
       "action": {
-        "link": "https://discord.gg/qBSJvuNm",
+        "link": "https://discord.gg/wtNVzeE5QB",
         "type": "openLink"
       },
             "height": 20,
       "posX": -230,
       "posY": 85,
-      "text": "NTM: Space Discord",
+      "text": "NTNH Discord",
       "width": 115
     },
 
@@ -153,12 +153,29 @@
 			"image": "",
 			"slideshow": {
 				"images": [
-					"mainmenu:textures/ntms4.png",
-					"mainmenu:textures/ntms1.png",
-					"mainmenu:textures/ntms5.png",
-                                        "mainmenu:textures/ntms2.png",
-                                        "mainmenu:textures/ntms3.png"
-					
+					"mainmenu:textures/ntnh1.png",
+					"mainmenu:textures/ntnh2.png",
+					"mainmenu:textures/ntnh3.png",
+                    "mainmenu:textures/ntnh4.png",
+                    "mainmenu:textures/ntnh5.png",
+					"mainmenu:textures/ntnh6.png",
+					"mainmenu:textures/ntnh7.png",
+					"mainmenu:textures/ntnh8.png",
+					"mainmenu:textures/ntnh9.png",
+					"mainmenu:textures/ntnh10.png",
+					"mainmenu:textures/ntnh11.png",
+					"mainmenu:textures/ntnh12.png",
+					"mainmenu:textures/ntnh13.png",
+					"mainmenu:textures/ntnh14.png",
+					"mainmenu:textures/ntnh15.png",
+					"mainmenu:textures/ntnh16.png",
+					"mainmenu:textures/ntnh17.png",
+					"mainmenu:textures/ntnh18.png",
+					"mainmenu:textures/ntnh19.png",
+					"mainmenu:textures/ntnh20.png",
+					"mainmenu:textures/ntnh21.png",
+					"mainmenu:textures/ntnh22.png",
+					"mainmenu:textures/ntnh23.png"
 				],
 				"displayDuration": 150,
 				"fadeDuration": 40

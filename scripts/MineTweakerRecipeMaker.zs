@@ -12,6 +12,56 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<ae2fc:fluid_storage4096>);
+recipes.remove(<ae2fc:multi_fluid_storage4>);
+recipes.remove(<ae2fc:multi_fluid_storage16>);
+recipes.remove(<ae2fc:fluid_storage1024>);
+recipes.remove(<ae2fc:fluid_storage256>);
+recipes.remove(<ae2fc:multi_fluid_storage64>);
+recipes.remove(<ae2fc:multi_fluid_storage256>);
+recipes.remove(<ae2fc:fluid_storage64>);
+recipes.remove(<ae2fc:multi_fluid_storage1024>);
+recipes.remove(<ae2fc:fluid_storage16>);
+recipes.remove(<ae2fc:multi_fluid_storage4096>);
+recipes.remove(<ae2fc:fluid_storage4>);
+recipes.remove(<ae2fc:fluid_storage1>);
+recipes.remove(<ae2fc:multi_fluid_storage16384>);
+recipes.remove(<ae2fc:multi_fluid_storage1>);
+recipes.remove(<ae2fc:fluid_storage16384>);
+recipes.remove(<ae2fc:fluid_part:7>);
+recipes.remove(<ae2fc:fluid_part:6>);
+recipes.remove(<ae2fc:fluid_part:5>);
+recipes.remove(<ae2fc:fluid_part:4>);
+recipes.remove(<ae2fc:fluid_part:3>);
+recipes.remove(<ae2fc:fluid_part:2>);
+recipes.remove(<ae2fc:fluid_part:1>);
+recipes.remove(<ae2fc:fluid_part>);
+recipes.remove(<OpenComputers:item:115>);
+recipes.remove(<OpenComputers:item.forestry>);
+recipes.remove(<opensecurity:opensecurity.DataBlock>);
+recipes.remove(<opensecurity:alarm>);
+recipes.remove(<opensecurity:rfidwriter>);
+recipes.remove(<opensecurity:rfidreader>);
+recipes.remove(<opensecurity:magreader>);
+recipes.remove(<OpenComputers:item:32>);
+recipes.remove(<computronics:computronics.ocParts:14>);
+recipes.remove(<computronics:computronics.speechBox>);
+recipes.remove(<computronics:computronics.ocParts:13>);
+recipes.remove(<computronics:computronics.ocParts:12>);
+recipes.remove(<computronics:computronics.ocParts:11>);
+recipes.remove(<computronics:computronics.ocParts:10>);
+recipes.remove(<computronics:computronics.ocParts:7>);
+recipes.remove(<computronics:computronics.ocParts:4>);
+recipes.remove(<computronics:computronics.ocParts:2>);
+recipes.remove(<computronics:computronics.radar>);
+recipes.remove(<computronics:computronics.ocParts:1>);
+recipes.remove(<computronics:computronics.cipher>);
+recipes.remove(<computronics:computronics.chatBox>);
+recipes.remove(<computronics:computronics.ocParts>);
+recipes.remove(<computronics:computronics.camera>);
+recipes.remove(<OpenComputers:item:4>);
+recipes.remove(<computronics:computronics.tapeReader>);
+recipes.remove(<computronics:computronics.portableTapeDrive>);
 recipes.remove(<TConstruct:Redstone.Landmine:3>);
 recipes.remove(<TConstruct:Redstone.Landmine:2>);
 recipes.remove(<TConstruct:Redstone.Landmine:1>);
@@ -251,6 +301,25 @@ recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpac
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<OpenComputers:item:115>, [[<ore:ingotIron>, null, <ore:ingotIron>], [<ore:oc:circuitChip1>, <ore:oc:wrench>, <ore:oc:circuitChip1>], [<minecraft:iron_ingot>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<OpenComputers:item.forestry>, [[<ore:ingotGold>, <ore:blockGlass>, <ore:ingotGold>], [<ore:oc:circuitChip3>, <Forestry:beealyzer>, <ore:oc:circuitChip3>], [<ore:ingotGold>, <hbm:item.circuit:3>, <ore:ingotGold>]]);
+recipes.addShaped(<opensecurity:opensecurity.DataBlock>, [[null, <ore:oc:dataCard1>, null], [<hbm:item.circuit:3>, null, <ore:oc:circuitChip2>], [null, <ore:oc:cable>, null]]);
+recipes.addShaped(<opensecurity:alarm>, [[null, <ore:dustRedstone>, null], [<hbm:item.circuit:3>, <minecraft:noteblock>, <ore:oc:cable>], [null, <ore:oc:circuitChip2>, null]]);
+recipes.addShaped(<opensecurity:rfidwriter>, [[<ore:oc:circuitChip2>, <ore:oc:ram1>, <ore:oc:circuitChip2>], [<ore:oc:materialTransistor>, <ore:oc:materialCU>, <ore:oc:materialTransistor>], [<hbm:item.circuit:3>, <ore:oc:cable>, null]]);
+recipes.addShaped(<opensecurity:rfidreader>, [[null, <ore:dustRedstone>, null], [<hbm:item.circuit:3>, <opensecurity:opensecurity.rfidReaderCard>, <ore:oc:circuitChip2>], [null, <ore:oc:cable>, null]]);
+recipes.addShaped(<opensecurity:magreader>, [[<ore:oc:circuitChip2>, null, <ore:oc:circuitChip2>], [<ore:oc:materialTransistor>, null, <ore:oc:materialTransistor>], [<hbm:item.circuit:3>, <ore:oc:cable>, null]]);
+recipes.addShaped(<computronics:computronics.ocParts:14>, [[<ore:ingotIron>, <ore:oc:materialTransistor>, <ore:ingotIron>], [<ore:oc:circuitChip2>, <computronics:computronics.speechBox>, <ore:oc:circuitChip2>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.ocParts:13>, [[<ore:obsidian>, <ore:paneGlassColorless>, <ore:obsidian>], [<ore:oc:circuitChip1>, <ore:oc:materialButtonGroup>, <ore:oc:circuitChip1>], [<ore:obsidian>, <hbm:item.circuit:3>, <ore:obsidian>]]);
+recipes.addShaped(<computronics:computronics.ocParts:12>, [[<ore:ingotIron>, <ore:oc:circuitChip1>, <ore:ingotIron>], [<ore:nuggetGold>, <ore:oc:capacitor>, <ore:nuggetGold>], [<ore:obsidian>, <hbm:item.circuit:3>, <ore:obsidian>]]);
+recipes.addShaped(<computronics:computronics.ocParts:11>, [[<ore:dustAnyPropellant>, <ore:oc:circuitChip1>, <ore:dustAnyPropellant>], [<computronics:computronics.ocParts:6>, <minecraft:tnt>, <computronics:computronics.ocParts:6>], [<ore:obsidian>, <hbm:item.circuit:3>, <ore:obsidian>]]);
+recipes.addShaped(<computronics:computronics.ocParts:10>, [[<ore:obsidian>, <minecraft:glass_pane>, <ore:obsidian>], [<OpenComputers:item:24>, <ore:oc:circuitChip2>, <OpenComputers:item:24>], [<ore:obsidian>, <hbm:item.circuit:3>, <ore:obsidian>]]);
+recipes.addShaped(<computronics:computronics.ocParts:7>, [[<ore:oc:chamelium>, <ore:oc:materialTransistor>, <ore:oc:chamelium>], [<ore:oc:circuitChip2>, <computronics:computronics.colorfulLamp>, <ore:oc:circuitChip2>], [<ore:oc:chamelium>, <hbm:item.circuit:3>, <ore:oc:chamelium>]]);
+recipes.addShaped(<computronics:computronics.ocParts:4>, [[<ore:oc:ram2>, <ore:oc:circuitChip2>, <ore:ingotBrick>], [<hbm:item.circuit:3>, <ore:oc:lanCard>, null]]);
+recipes.addShaped(<computronics:computronics.ocParts:2>, [[<ore:ingotGold>, <ore:oc:materialInterweb>, <ore:ingotGold>], [<ore:oc:circuitChip3>, <computronics:computronics.radar>, <ore:oc:circuitChip3>], [<ore:ingotGold>, <hbm:item.circuit:3>, <ore:ingotGold>]]);
+recipes.addShaped(<computronics:computronics.ocParts:1>, [[<ore:ingotIron>, <ore:oc:materialTransistor>, <ore:ingotIron>], [<ore:oc:circuitChip2>, <computronics:computronics.chatBox>, <ore:oc:circuitChip2>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<computronics:computronics.ocParts:0>, [[<ore:ingotIron>, <ore:oc:materialTransistor>, <ore:ingotIron>], [<ore:oc:circuitChip2>, <computronics:computronics.camera>, <ore:oc:circuitChip2>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
+recipes.addShaped(<OpenComputers:item:4>, [[<ore:plateAluminum>], [<ore:oc:materialDisk>], [<hbm:item.plate_polymer>]]);
+recipes.addShaped(<computronics:computronics.portableTapeDrive>, [[<ore:oc:chamelium>, <ore:blockGlassColorless>, <ore:oc:chamelium>], [<ore:oc:materialTransistor>, <computronics:computronics.tapeReader>, <minecraft:iron_bars>], [<ore:oc:chamelium>, <hbm:item.circuit:3>, <ore:oc:chamelium>]]);
 recipes.addShaped(<computronics:computronics.speechBox>, [[<ore:ingotIron>, <ore:oc:cpu2>, <ore:ingotIron>], [<ore:oc:circuitChip3>, <computronics:computronics.speaker>, <minecraft:iron_bars>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
 recipes.addShaped(<computronics:computronics.radar>, [[<ore:ingotIron>, <hbm:item.magnetron>, <ore:ingotIron>], [<ore:oc:circuitChip3>, <ore:oc:motionSensor>, <ore:oc:circuitChip3>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
 recipes.addShaped(<computronics:computronics.cipher>, [[<ore:ingotIron>, <ore:materialEnderPearl>, <ore:ingotIron>], [<ore:oc:circuitChip2>, <ore:oc:dataCard2>, <ore:oc:circuitChip2>], [<ore:ingotIron>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
