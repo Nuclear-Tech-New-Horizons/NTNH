@@ -79,3 +79,5 @@ replay_recordings
 config/replaymod.cfg
 config/replaymod-restrictions.cfg
 mods/McheliOLoaderFixConfigCodeAndRecipeProblems.jar
+mchelilo_extracted.flag
+mods/mchelio
