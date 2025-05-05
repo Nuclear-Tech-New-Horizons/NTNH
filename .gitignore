@@ -81,3 +81,4 @@ config/replaymod-restrictions.cfg
 mods/McheliOLoaderFixConfigCodeAndRecipeProblems.jar
 mchelilo_extracted.flag
 mods/mchelio
+config/mcheli.cfg
