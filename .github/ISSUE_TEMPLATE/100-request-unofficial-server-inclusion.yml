@@ -16,7 +16,7 @@ body:
   attributes:
     label: Whitelist Status
     description: Whether your server has a whitelist, and if yes, where to apply.
-    placeholder: "Example: https://gtnh.miraheze.org/wiki/Server_Information"
+    placeholder: "Example: https://ntnh.miraheze.org/wiki/Server_Information"
   validations:
     required: true
 - type: input
