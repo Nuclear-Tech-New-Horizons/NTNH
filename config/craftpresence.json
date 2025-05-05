@@ -39,6 +39,38 @@
       "mun": {
         "textOverride": "On the {dimension.name}",
         "iconOverride": "mun"
+      },
+      "minmus": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "minmus"
+      },
+      "duna": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "duna"
+      },
+      "moho": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "moho"
+      },
+      "dres": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "dres"
+      },
+      "eve": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "eve"
+      },
+      "ike": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "ike"
+      },
+      "laythe": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "laythe"
+      },
+      "orbit": {
+        "textOverride": "On the {dimension.name}",
+        "iconOverride": "orbit"
       }
     }
   },
@@ -65,7 +97,7 @@
       "textOverride": "Playing on a LAN Server"
     },
     "singleplayerData": {
-      "textOverride": "Playing Singleplayer"
+      "textOverride": "Playing Singleplayer - "
     },
     "realmData": {
       "textOverride": "Playing on {server.motd.raw}"
@@ -130,7 +162,7 @@
       "gameState": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "largeImageKey": "{getFirst(menu.icon, dimension.icon)}",
       "largeImageText": "{getFirst(menu.message, dimension.message)}",
-      "smallImageKey": "{getFirst(server.icon, pack.icon)}",
+      "smallImageKey": "discord",
       "smallImageText": "{getOrDefault(server.message)} {getOrDefault(pack.name)}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",

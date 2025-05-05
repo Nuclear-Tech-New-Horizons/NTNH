@@ -1,0 +1,9 @@
+# In this file, modpack creators can define config options that should NOT get overridden by modpack updates.
+# The values for these options will be restored to what they were before the pack update.
+# The format is the following: FILE/CATEGORY/TYPE:NAME (the TYPE: is optional)
+# If the config file is inside a sub-directory, encase the path inside square brackets, ex. [eirairc/shared.cfg]
+# Categories and sub-categories are split by periods, ex. general.subcategory
+# The type is a single-character just like Forge's configuration type prefix: B, I, S, D; for lists, append <> to the type character
+# Full Example #1: trashslot.cfg/general/trashSlotX
+# Full Example #2: [eirairc/client.cfg]/notifications/notificationSoundVolume
+# Also see the localconfig-example.txt for a collection of presets for commonly used mods.

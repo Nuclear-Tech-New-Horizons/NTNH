@@ -1,0 +1,249 @@
+# This is a big local config file aiming to provide preset definitions for all widely used mods
+# Feel free to contribute by submitting pull requests on this file at https://github.com/GTNewHorizons/Default-Configs
+
+# AgriCraft
+[agricraft/Configuration.cfg]/agricraft/"Enable NEI"
+[agricraft/Configuration.cfg]/agricraft/"Render journal in analyzer"
+
+# Applied Energistics 2
+[AppliedEnergistics2/AppliedEnergistics2.cfg]/client/*
+[AppliedEnergistics2/VersionChecker.cfg]/client/*
+[AppliedEnergistics2/VersionChecker.cfg]/client/*
+
+# Aroma1997Core
+[aroma1997/Aroma1997Core.cfg]/sound/muffleSounds
+[aroma1997/Aroma1997Core.cfg]/sound/soundsToMuffle
+
+# AromaBackup
+[aroma1997/AromaBackup.cfg]/general/compressionRate
+[aroma1997/AromaBackup.cfg]/general/delay
+[aroma1997/AromaBackup.cfg]/general/keep
+[aroma1997/AromaBackup.cfg]/general/location
+[aroma1997/AromaBackup.cfg]/general/onShutdown
+[aroma1997/AromaBackup.cfg]/general/onStartup
+
+# BiblioCraft
+BiblioCraft.cfg/defaultbigbooktextscale/general
+BiblioCraft.cfg/"force fast render"/*
+BiblioCraft.cfg/general/RenderTextShadow
+BiblioCraft.cfg/general/UseTextureSheets
+BiblioCraft.cfg/"text colors"/*
+
+# BiomesOPlenty
+[biomesoplenty/misc.cfg]/"miscellanious settings"/"Enable Biomes O' Plenty Main Menu Panorama"
+[biomesoplenty/misc.cfg]/"hardcoded colors"/"Enable Sky Colors"
+
+# Blood Magic
+AWWayofTime.cfg/clientsettings/*
+
+# Botania
+Botania.cfg/general/baubleRender.enabled
+Botania.cfg/general/blockBreakingParticles.enabled
+Botania.cfg/general/blockBreakingParticlesTool.enabled
+Botania.cfg/general/boundBlock.wireframe.enabled
+Botania.cfg/general/chargeAnimation.enabled
+Botania.cfg/general/elfPortal.particles.enabled
+Botania.cfg/general/flowerParticles.frequency
+Botania.cfg/general/flowerTextures.alt
+Botania.cfg/general/lexicon.enable.justifiedText
+Botania.cfg/general/lexicon.enable.rotatingItems
+Botania.cfg/general/lexicon.render.3D
+Botania.cfg/general/manaSpreaders.silent
+Botania.cfg/general/powerSystem.subtle
+Botania.cfg/general/pylonModel.old
+Botania.cfg/general/references.enabled
+Botania.cfg/general/shaders.enabled
+Botania.cfg/general/vanillaParticleConfig.enabled
+Botania.cfg/general/wandBeam.static
+
+# Chisel
+Chisel.cfg/client/*
+
+# CodeChickenCore
+CodeChickenCore.cfg/tweaks/replaceLavaFX $format=simple
+CodeChickenCore.cfg/tweaks/replaceWaterFX $format=simple
+
+# COFHCore
+[cofh/core/client.cfg]/*/*
+
+# Cooking for Blockheads
+cookingbook.cfg/client/disableItemRender
+
+# Crafting Tweaks
+craftingtweaks.cfg/general/hideButtons
+
+# Draconic Evolution
+DraconicEvolution.cfg/general/"Enable HUD info"
+DraconicEvolution.cfg/general/"HUD Display X pos"
+DraconicEvolution.cfg/general/"HUD Display Y pos"
+DraconicEvolution.cfg/general/InvertDPDSB
+DraconicEvolution.cfg/general/"Show Unlocalized Names"
+
+# EiraIRC
+[eirairc/shared.cfg]/addons/eiramoticons_alwaysShowSubBadge
+[eirairc/shared.cfg]/addons/eiramoticons_twitchNameBadges
+[eirairc/shared.cfg]/general/defaultChat
+[eirairc/shared.cfg]/general/twitchNameColors
+[eirairc/shared.cfg]/network/bindIP
+[eirairc/shared.cfg]/network/proxyHost
+[eirairc/shared.cfg]/network/proxyPassword
+[eirairc/shared.cfg]/network/proxyUsername
+[eirairc/shared.cfg]/network/sslCustomTrustStore
+[eirairc/shared.cfg]/network/sslTrustAllCerts
+[eirairc/shared.cfg]/settings/showNameFlags
+[eirairc/shared.cfg]/theme/*
+[eirairc/client.cfg]/addons/eirairc_enableFancyOverlay
+[eirairc/client.cfg]/addons/eirairc_fancyOverlayLifetime
+[eirairc/client.cfg]/addons/eirairc_fancyOverlayScale
+[eirairc/client.cfg]/general/autoResetChat
+[eirairc/client.cfg]/general/persistentConnection
+[eirairc/client.cfg]/general/terminalStyleInput
+[eirairc/client.cfg]/notifications/*
+[eirairc/client.cfg]/screenshots/*
+
+# EiraMoticons
+eiramoticons.cfg/general/*
+!eiramoticons.cfg/general/twitchSubscriberRegex
+eiramoticons.cfg/packs/*
+eiramoticons.cfg/tweaks/*
+
+# EnderIO
+[enderio/EnderIO.cfg]/"aesthetic settings"/*
+[enderio/EnderIO.cfg]/"farm settings"/B:disableFarmNotifications
+[enderio/EnderIO.cfg]/misc/B:clearGlassConnectToFusedQuartz
+[enderio/EnderIO.cfg]/misc/B:clearGlassSameTexture
+[enderio/EnderIO.cfg]/"personal settings"/*
+![enderio/EnderIO.cfg]/"personal settings"/enderIoMeAccessEnabled
+![enderio/EnderIO.cfg]/"personal settings"/ticBeheadingSkullModifier
+![enderio/EnderIO.cfg]/"personal settings"/vanillaSwordSkullLootingModifier
+
+# EnderZoo
+[enderzoo/EnderZoo.cfg]/"concussion creeper"/concussionCreeperOldTexture
+[enderzoo/EnderZoo.cfg]/"dire wolf"/direWolfHowlVolumeMult
+
+# EnderTech
+[endertech/general.cfg]/rendering/*
+
+# Extra TiC
+ExtraTic.cfg/client/*
+
+# ExtraUtilities
+ExtraUtilities.cfg/client_options/*
+
+# Forestry
+[forestry/common.conf]//performance.particleFX.enabled $format=simple
+[forestry/apiculture.conf]//(render.bees.fancy $format=simple
+
+# Gendustry
+[gendustry/client.config]/*/*
+
+# GraviSuite
+GraviSuite.cfg/"hud settings"/"Display hud"
+GraviSuite.cfg/"hud settings"/hudPosition
+GraviSuite.cfg/"sound settings"/"Disable all sounds"
+
+# Hats
+Hats.cfg/clientonly/*
+
+# IC2
+IC2.ini/misc/enableIc2Audio $format=ini
+IC2.ini/misc/maxAudioSourceCount $format=ini
+IC2.ini/misc/hideSecretRecipes $format=ini
+
+# iChunUtil
+iChunUtil_KeyBinds.cfg/*/*
+iChunUtil_Stats.cfg/stats/statsOptOut
+
+# InventoryTweaks
+InvTweaks.cfg//* $format=simple
+!InvTweaks.cfg//enableServerItemSwap $format=simple
+
+# LogisticsPipes
+LogisticsPipes.cfg/general/HUDRenderDistance
+LogisticsPipes.cfg/general/OpaquePipes
+LogisticsPipes.cfg/general/displayPopup
+LogisticsPipes.cfg/general/easterEggs
+LogisticsPipes.cfg/general/enableParticleFX
+
+# MineFactoryReloaded
+[powercrystals/minefactoryreloaded/client.cfg]/general/*
+
+# MystCraft
+[mystcraft/core.cfg]/general/options.renderLabels
+
+# NEI
+[NEI/client.cfg]/*/* $format=simple
+
+# NEIIntegration
+neiintegration.cfg/tooltips/*
+
+# PortalGun
+PortalGun.cfg/client.*/*
+
+# ProjectRed
+ProjectRed.cfg/general/3Dlogicwires
+ProjectRed.cfg/general/"Logic Sounds"
+
+# Props
+props.cfg/general/displayOutline
+
+# RailCraft
+[railcraft/railcraft.cfg]/general/play.sounds
+
+# RunicDungeons
+[RunicDungeons/RunicDungeons.cfg]/misc/useConnected
+
+# Simply Jetpacks
+simplyjetpacks-client.cfg/*/*
+
+# Steve's Addons
+StevesAddons.cfg/general/waila_integration
+
+# Steve's Carts
+StevesCarts.cfg/settings/useArcadeSounds
+StevesCarts.cfg/settings/useTetrisMobSounds
+
+# ThaumCraft
+Thaumcraft.cfg/general/color_blind
+Thaumcraft.cfg/general/crooked
+Thaumcraft.cfg/general/display_aspects
+Thaumcraft.cfg/general/glowing_taint
+Thaumcraft.cfg/general/shaders
+
+# Thaumic Energistics
+thaumicenergistics.cfg/client/*
+
+# Thaumic Tinkerer
+ThaumicTinkerer.cfg/general/tooltipIndicators.enabled
+
+# Thermal Expansion
+[cofh/thermalexpansion/client.cfg]/Interface.*/*
+[cofh/thermalexpansion/client.cfg]/Machine.*/*
+[cofh/thermalexpansion/client.cfg]/Render/*
+
+# Thermal Foundation
+[cofh/thermalfoundation/client.cfg]/Interface.*/*
+
+# Tinkers Construct
+TinkersConstruct.cfg/looks/"Connected Textures Enabled"
+
+# TrashSlot
+trashslot.cfg/general/*
+
+# ttCore
+[ttCore/ttCore.cfg]/general/disableVoidFog
+[ttCore/ttCore.cfg]/general/showOredictTooltips
+
+# Waila
+Waila.cfg/general/*
+Waila.cfg/modules/*
+
+# Wireless Redstone
+WirelessRedstone.cfg/addon.sniffer.gui/*
+
+# Witchery
+witchery.cfg/general/GUIOnLeft
+witchery.cfg/general/HUDShowVampireTargetBloodText
+witchery.cfg/general/MantrapOpacity
+witchery.cfg/general/Render3dGlintEffect
+
