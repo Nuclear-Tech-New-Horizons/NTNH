@@ -82,3 +82,5 @@ mods/McheliOLoaderFixConfigCodeAndRecipeProblems.jar
 mchelilo_extracted.flag
 mods/mchelio
 config/mcheli.cfg
+config/mobsinfo/MobRecipeLoader.cache
+config/forestry/fluids.cfg

@@ -1175,7 +1175,7 @@
     },
     {
       "inputs": [
-        ["dict","unknownConcrete",2],
+        ["dict","anyConcrete",2],
         ["item","hbm:tile.steel_scaffold",8],
         ["item","hbm:item.plate_polymer",8],
         ["item","hbm:item.coil_copper",4]
@@ -1189,7 +1189,7 @@
     },
     {
       "inputs": [
-        ["dict","unknownConcrete",8],
+        ["dict","anyConcrete",8],
         ["dict","ingotSteel",8],
         ["item","hbm:item.plate_polymer",12],
         ["item","hbm:item.coil_copper",8]
@@ -1217,7 +1217,7 @@
     {
       "inputs": [
         ["dict","plateSteel",16],
-        ["dict","unknownConcrete",64],
+        ["dict","anyConcrete",64],
         ["item","hbm:tile.steel_grate",4],
         ["item","hbm:item.filter_coal",4]
       ],

@@ -1600,7 +1600,7 @@
       "duration": 100
     },
     {
-      "inputItem": ["dict","unknownTar",4],
+      "inputItem": ["dict","anyTar",4],
       "outputFluid": ["CARBONDIOXIDE",1000],
       "outputItem": ["hbm:item.powder_ash",1,4],
       "duration": 40
