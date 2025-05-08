@@ -7,7 +7,6 @@
 #
 Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
 Make sure you have installed a backup mod
-If a machine catches fire, it can explode
 You can bind the quests menu to a key, instead of using the book
 Pam's gardens can be picked up with right-click
 Placing a garden makes it spread
@@ -23,19 +22,18 @@ Adventurer's backpack: integrated crafting grid, bed and fluid storage
 Beware of pollution!
 Found a bug? Report it on GitHub or Discord
 Tinker's smeltery does not double ores
-Look for ore chunksRead the quest book, it explains many mechanics
 You can bookmark items with NEI ("a" by default)
 It's NEI, not JEI. Use it frequently.
 Your pick is not ready
+Also try GT:NH!
 Put the "Mine" back in Minecraft
-#Use /xu_tps to see if the server's lagging. 20 TPS is normal!
 If you aren't lucky enough, try enchanting your lootbags with Fortune III!
 Don't go out at night!
 Abandon all vanilla knowledge all ye who enter here
 Sometimes it's better to flee than fight some mobs
 Sometimes the best combat strategy is "Nigerundayooo!"
 You can power machines by putting a batteries in their energy slots
-Be prepared to take hours to craft a single machine!
+Be prepared to take hours to build a single multiblock machine!
 Oil + Thunder = Fire.
 It's aluminIum, not aluminum
 Press F7 to see spots where mobs can spawn!
@@ -54,7 +52,76 @@ Do you also watch your oven while baking food?
 There's always something else you can do while waiting
 Use F3 + S to reload the sound if it's gone
 Life's all about opening issues, not closing them - Rongmario
-3D-printed Lave 12 is the future - Sampsa
 Visit r/feedthemems!
 I WANT ROCKET I WANT MOON - St4o
-Hello @Bufka2011 why did you copied our (GTNH) rules :kekw:
+Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
+Did you already crafted AE2 system?
+Press O to hide NEI overlay
+Making chamelium in Chemplant is efficient
+Also try GregTech: New Horizons!
+Don't use shaders - it's breaking Darkerer mod
+3.6 Roentegen?
+Factory Must Grow!
+Did you tried Schematica?
+There is a swarm ahead!
+Beware of glyphids
+Hydrogen Bomb VS Coughing Baby
+TODO: create MORE tips
+Say hello to DreamMaster from Bufka2011!
+What? Warden is a hard boss? Pff... Martian Invasion Ship
+This is not a bug, this is an anomaly!
+Did you already got tantalium?
+Not enough hardcore? Enable 528 mode in HBM config!
+Too hard? Well, get outta here
+ZIRNOX going brrrrrr
+Oh no, ZIRNOX going BOOOOOM
+PotatOS is funny :D
+Did you know that you can see Gerald explode from another planet?
+Multiplayer is awful... At least for now.
+Did you checked graphic settings?
+Chunks are loading too slow? We'll try to fix it.
+How many RAM do you have? 6GB fo NT:NH is perfect!
+Balance? Nah, never heard
+Wdym you lost all your inventory?
+Historically accurate! Maybe...
+50% scientific accurate!
+How about to share this modpack with your friends?
+The freaking meteorite landed INSIDE our rock cave!
+Oh no, pollution.
+Do you have radiation protection with you?
+Hello Canada!
+Hello USA!
+Hello Russia! / Привет Россия!
+Hello Ukraine! / Привіт Україно!
+Peace to all! / Всем мира! / Мир усім!
+Be sure to check out if there is a new update!
+The best way to process ore is Acidizer + Centrifuge
+Crystallized ore gives you 2 ingots when smelting
+NTM's Electric Furnaces are must!
+Don't mine coal without breathing protection
+Number One Asbestos Fan
+You can use ingots from different mods in crafting
+She was Nuclear on my Tech until I New Horizons
+Did you already automated food production?
+It's automated, not automized
+Realistic Terrain Generator? Do you mean infinite cascade lag?
+Don't forget to feed your cat!
+Minecraft loading can take a while
+World loading can take a while
+It's better to pregen your world
+You can suggest your ideas on NTNH's GitHub repo
+You need help with NTM? Find SavageVegeta on YouTube!
+If you're russian try watching Ocelot's videos!
+If you're russian try watching Waldemar's videos!
+Do you know math? You'll need it
+2 idiots 1 reactor
+Night is REALLY scary!
+OMGWTF NUCLEAR CREEPER
+Pain-In-The-Ass modpack!
+If you're casual enable LBM mode in hbm.cfg
+If you're real hardcore enjoyer, enable 528 mode in hbm.cfg
+If you're real Pain-In-The-Ass enjoyer, enable 528 mode in hbm.cfg
+Hello HBMTheBobcat!
+Hello DreamMaster!
+Hello JamesH2!
+Hello everyone!

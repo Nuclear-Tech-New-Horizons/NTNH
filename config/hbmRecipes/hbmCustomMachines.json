@@ -1,0 +1,795 @@
+{
+  "recipes": [
+    {
+      "recipeKey": "paperPress",
+      "recipes": [
+        {
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","hbm:item.powder_sawdust"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["minecraft:paper",3,1.0]
+          ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.029999999329447746,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        }
+      ]
+    },
+	{
+      "recipeKey": "beerInator",
+      "recipes": [
+        {
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+			["item","minecraft:wheat"]
+          ],
+          "outputFluids": [
+		    ["MUG",500]
+		  ],
+          "outputItems": [],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.029999999329447746,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+			["item","minecraft:wheat_seeds"],
+			["item","hbm:item.plate_iron"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+		    ["hbm:item.can_mug",5,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.029999999329447746,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        }
+      ]
+    },
+	{
+      "recipeKey": "betonInator",
+      "recipes": [
+        {
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","hbm:item.powder_cement"],
+			["item","minecraft:gravel"],
+			["item","minecraft:sand"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+			["hbm:tile.concrete_smooth",64,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05999999865,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 500
+        },{
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","hbm:item.powder_cement"],
+			["item","minecraft:gravel"],
+			["item","minecraft:sand"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+			["hbm:tile.concrete_smooth",64,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05999999865,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 500
+        },{
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","minecraft:gravel"],
+			["item","hbm:item.powder_cement"],
+			["item","minecraft:sand"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+			["hbm:tile.concrete_smooth",64,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05999999865,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 500
+        },{
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","minecraft:gravel"],
+			["item","minecraft:sand"],
+			["item","hbm:item.powder_cement"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+			["hbm:tile.concrete_smooth",64,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05999999865,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 500
+        },{
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","minecraft:sand"],
+			["item","hbm:item.powder_cement"],
+			["item","minecraft:gravel"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+			["hbm:tile.concrete_smooth",64,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05999999865,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 500
+        },{
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","minecraft:sand"],
+			["item","minecraft:gravel"],
+			["item","hbm:item.powder_cement"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+			["hbm:tile.concrete_smooth",64,1.0]
+		  ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05999999865,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 500
+        }
+      ]
+    },
+	{
+      "recipeKey": "furnaceBlast",
+      "recipes": [
+        {
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Cobalt"],
+			["item","hbm:tile.block_meteor"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_meteorite",1,1.0],
+			["hbm:item.ingot_meteorite",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["item","hbm:tile.block_meteor"],
+			["dict","Cobalt"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_meteorite",1,1.0],
+			["hbm:item.ingot_meteorite",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Tungsten"],
+			["dict","coal"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.neutron_reflector",2,1.0],
+			["hbm:item.neutron_reflector",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","coal"],
+			["dict","Tungsten"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.neutron_reflector",2,1.0],
+			["hbm:item.neutron_reflector",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Tungsten"],
+			["dict","coke"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.neutron_reflector",2,1.0],
+			["hbm:item.neutron_reflector",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","coke"],
+			["dict","Tungsten"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.neutron_reflector",2,1.0],
+			["hbm:item.neutron_reflector",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","oreIron"],
+			["dict","coal"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",2,1.0],
+			["hbm:item.ingot_steel",3,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","coal"],
+			["dict","oreIron"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",2,1.0],
+			["hbm:item.ingot_steel",3,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","oreIron"],
+			["dict","coke"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",4,1.0],
+			["hbm:item.ingot_steel",2,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","coke"],
+			["dict","oreIron"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",4,1.0],
+			["hbm:item.ingot_steel",2,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Nickel"],
+			["dict","Steel"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_stainless",2,1.0],
+			["hbm:item.ingot_stainless",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Steel"],
+			["dict","Nickel"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_stainless",2,1.0],
+			["hbm:item.ingot_stainless",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","plateGold"],
+			["item","hbm:item.plate_mixed"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.plate_paa",2,1.0],
+			["hbm:item.plate_paa",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["item","hbm:item.plate_mixed"],
+			["dict","plateGold"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.plate_paa",2,1.0],
+			["hbm:item.plate_paa",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","ingotIron"],
+			["dict","coke"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",2,1.0],
+			["hbm:item.ingot_steel",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","coke"],
+			["dict","ingotIron"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",2,1.0],
+			["hbm:item.ingot_steel",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Saturnite"],
+			["item","hbm:item.powder_meteorite"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_starmetal",2,1.0],
+			["hbm:item.ingot_starmetal",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["item","hbm:item.powder_meteorite"],
+			["dict","Saturnite"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_starmetal",2,1.0],
+			["hbm:item.ingot_starmetal",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Steel"],
+			["dict","Mingrade"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_advanced_alloy",2,1.0],
+			["hbm:item.ingot_advanced_alloy",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Mingrade"],
+			["dict","Steel"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_advanced_alloy",2,1.0],
+			["hbm:item.ingot_advanced_alloy",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Steel"],
+			["dict","tinyTc99"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_tcalloy",2,1.0],
+			["hbm:item.ingot_tcalloy",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","tinyTc99"],
+			["dict","Steel"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_tcalloy",2,1.0],
+			["hbm:item.ingot_tcalloy",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","ingotIron"],
+			["dict","coal"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",2,1.0],
+			["hbm:item.ingot_steel",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","coal"],
+			["dict","ingotIron"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",2,1.0],
+			["hbm:item.ingot_steel",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","oreIron"],
+			["item","hbm:item.powder_flux"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",3,1.0],
+			["hbm:item.ingot_steel",2,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["item","hbm:item.powder_flux"],
+			["dict","oreIron"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_steel",3,1.0],
+			["hbm:item.ingot_steel",2,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","container1000gasoline"],
+			["dict","slimeball"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.canister_napalm",1,1.0]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","slimeball"],
+			["dict","container1000gasoline"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.canister_napalm",1,1.0]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","Tungsten"],
+			["dict","tinySchrabidium"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_magnetized_tungsten",2,1.0],
+			["hbm:item.ingot_magnetized_tungsten",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        },
+		{
+          "inputFluids": [],
+          "inputItems": [
+            ["dict","tinySchrabidium"],
+			["dict","Tungsten"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["hbm:item.ingot_magnetized_tungsten",2,1.0],
+			["hbm:item.ingot_magnetized_tungsten",1,0.45]
+          ],
+          "duration": 100,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.0,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        }
+      ]
+    },
+	{
+      "recipeKey": "boolkinator",
+      "recipes": [
+        {
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","hbm:item.powder_sawdust"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["minecraft:bread",8,1.0]
+          ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.029999999329447746,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        }
+      ]
+    }
+  ]
+}

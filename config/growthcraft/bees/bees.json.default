@@ -1,0 +1,49 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "Growthcraft\u0027s default bee",
+      "item": {
+        "ore": null,
+        "comment": "Пчела",
+        "mod_id": "Growthcraft|Bees",
+        "name": "grc.bee",
+        "amount": 1,
+        "meta": 0
+      }
+    },
+    {
+      "comment": "From Forestry",
+      "item": {
+        "ore": null,
+        "comment": "Матка",
+        "mod_id": "Forestry",
+        "name": "beeQueenGE",
+        "amount": 32767,
+        "meta": 0
+      }
+    },
+    {
+      "comment": "From Forestry",
+      "item": {
+        "ore": null,
+        "comment": "Drone",
+        "mod_id": "Forestry",
+        "name": "beeDroneGE",
+        "amount": 32767,
+        "meta": 0
+      }
+    },
+    {
+      "comment": "From Forestry",
+      "item": {
+        "ore": null,
+        "comment": "Принцесса",
+        "mod_id": "Forestry",
+        "name": "beePrincessGE",
+        "amount": 32767,
+        "meta": 0
+      }
+    }
+  ]
+}

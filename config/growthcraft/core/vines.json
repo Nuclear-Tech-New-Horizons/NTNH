@@ -1,0 +1,14 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "Лоза",
+      "block": {
+        "comment": "Лоза",
+        "mod_id": "minecraft",
+        "name": "vine",
+        "meta": 32767
+      }
+    }
+  ]
+}

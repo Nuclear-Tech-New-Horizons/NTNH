@@ -1,0 +1,380 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Кожаные ботинки",
+        "mod_id": "minecraft",
+        "name": "leather_boots",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.9,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Кожа",
+        "mod_id": "minecraft",
+        "name": "leather",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Кость",
+        "mod_id": "minecraft",
+        "name": "bone",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 3,
+      "item": {
+        "ore": null,
+        "comment": "Пузырёк воды",
+        "mod_id": "minecraft",
+        "name": "potion",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Нить",
+        "mod_id": "minecraft",
+        "name": "string",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 2,
+      "item": {
+        "ore": null,
+        "comment": "Удочка",
+        "mod_id": "minecraft",
+        "name": "fishing_rod",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.9,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Миска",
+        "mod_id": "minecraft",
+        "name": "bowl",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "ore": null,
+        "comment": "Палка",
+        "mod_id": "minecraft",
+        "name": "stick",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Чернильный мешок",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 5,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Гнилая плоть",
+        "mod_id": "minecraft",
+        "name": "rotten_flesh",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 3,
+      "item": {
+        "ore": null,
+        "comment": "Кувшинка",
+        "mod_id": "minecraft",
+        "name": "waterlily",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Бирка",
+        "mod_id": "minecraft",
+        "name": "name_tag",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Седло",
+        "mod_id": "minecraft",
+        "name": "saddle",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Лук",
+        "mod_id": "minecraft",
+        "name": "bow",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.25,
+      "enchanted": true
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Удочка",
+        "mod_id": "minecraft",
+        "name": "fishing_rod",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.25,
+      "enchanted": true
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Книга",
+        "mod_id": "minecraft",
+        "name": "book",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": true
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 60,
+      "item": {
+        "ore": null,
+        "comment": "Сырая рыба",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 25,
+      "item": {
+        "ore": null,
+        "comment": "Сырой лосось",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 1
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 2,
+      "item": {
+        "ore": null,
+        "comment": "Рыба-клоун",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 2
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 13,
+      "item": {
+        "ore": null,
+        "comment": "Рыба фугу",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 3
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "mineral",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Крюк",
+        "mod_id": "minecraft",
+        "name": "tripwire_hook",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "mineral",
+      "weight": 10,
+      "item": {
+        "ore": null,
+        "comment": "Железный слиток",
+        "mod_id": "minecraft",
+        "name": "iron_ingot",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "mineral",
+      "weight": 5,
+      "item": {
+        "ore": null,
+        "comment": "Золотой самородок",
+        "mod_id": "minecraft",
+        "name": "gold_nugget",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "legendary",
+      "weight": 1,
+      "item": {
+        "ore": null,
+        "comment": "Золотой слиток",
+        "mod_id": "minecraft",
+        "name": "gold_ingot",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "legendary",
+      "weight": 10,
+      "item": {
+        "ore": null,
+        "comment": "Алмаз",
+        "mod_id": "minecraft",
+        "name": "diamond",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    }
+  ]
+}

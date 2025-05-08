@@ -48,7 +48,7 @@
       "fluidInput": [],
       "itemInput": [
         ["item","hbm:tile.ore_oil_sand",16],
-        ["dict","unknownTar"]
+        ["dict","anyTar"]
       ],
       "fluidOutput": [
         ["BITUMEN",1000]
@@ -765,7 +765,7 @@
         ["STEAM",1000]
       ],
       "itemInput": [
-        ["dict","unknownTar"],
+        ["dict","anyTar"],
         ["dict","dustLead"]
       ],
       "fluidOutput": [],
@@ -1331,22 +1331,6 @@
       "fluidOutput": [],
       "itemOutput": [
         ["hbm:tile.deco_rusty_steel",8]
-      ]
-    },
-	{
-      "id": 1488,
-      "name": "CHAMELIUM",
-      "duration": 120,
-      "fluidInput": [
-        ["WATER",100]
-      ],
-      "itemInput": [
-        ["item","minecraft:gravel",8],
-		["item","minecraft:redstone",1]
-      ],
-      "fluidOutput": [],
-      "itemOutput": [
-        ["OpenComputers:item",32,96]
       ]
     }
   ]
