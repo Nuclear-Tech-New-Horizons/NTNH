@@ -86,3 +86,7 @@ config/mobsinfo/MobRecipeLoader.cache
 config/forestry/fluids.cfg
 config/mobsinfo/VillagerTradesLoader.cache
 usercache.json
+optionsshaders.txt
+optionsof.txt
+config/fastcraft.ini
+config/archaicfix.cfg
