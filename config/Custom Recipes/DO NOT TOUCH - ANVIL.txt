@@ -1,0 +1,144 @@
+	{
+      "inputs": [
+        ["item","hbm:tile.deco_titanium"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_titanium",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_red_copper"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_red_copper",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_tungsten"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_tungsten",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_aluminium"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_aluminium",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_steel"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_steel",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_rusty_steel",4]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_steel",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_lead"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_lead",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_beryllium"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_beryllium",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_asbestos",4]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_asbestos",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_stainless"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_stainless",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+	
+	{
+      "inputs": [
+        ["dict","ingotTitanium",4]
+      ],
+      "outputs": [
+        ["hbm:tile.deco_titanium",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotTungsten",4]
+      ],
+      "outputs": [
+        ["hbm:tile.deco_tungsten",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotStainlessSteel",4]
+      ],
+      "outputs": [
+        ["hbm:tile.deco_stainless",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
