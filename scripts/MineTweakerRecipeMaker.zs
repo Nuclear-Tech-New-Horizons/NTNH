@@ -301,6 +301,7 @@ recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpac
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<TConstruct:CraftedSoil:1>, [[<hbm:item.powder_cement>, <hbm:item.powder_cement>], [<hbm:item.powder_cement>, <hbm:item.powder_cement>]]);
 recipes.addShaped(<OpenComputers:item:115>, [[<ore:ingotIron>, null, <ore:ingotIron>], [<ore:oc:circuitChip1>, <ore:oc:wrench>, <ore:oc:circuitChip1>], [<minecraft:iron_ingot>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
 recipes.addShaped(<OpenComputers:item.forestry>, [[<ore:ingotGold>, <ore:blockGlass>, <ore:ingotGold>], [<ore:oc:circuitChip3>, <Forestry:beealyzer>, <ore:oc:circuitChip3>], [<ore:ingotGold>, <hbm:item.circuit:3>, <ore:ingotGold>]]);
 recipes.addShaped(<opensecurity:opensecurity.DataBlock>, [[null, <ore:oc:dataCard1>, null], [<hbm:item.circuit:3>, null, <ore:oc:circuitChip2>], [null, <ore:oc:cable>, null]]);
