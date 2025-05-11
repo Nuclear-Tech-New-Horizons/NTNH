@@ -12,6 +12,10 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<openfm:MemoryCard>);
+recipes.remove(<openfm:RadioTuner>);
+recipes.remove(<openfm:Speaker>);
+recipes.remove(<openfm:Radio>);
 recipes.remove(<ae2fc:fluid_storage4096>);
 recipes.remove(<ae2fc:multi_fluid_storage4>);
 recipes.remove(<ae2fc:multi_fluid_storage16>);
@@ -301,6 +305,10 @@ recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpac
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<openfm:MemoryCard>, [[<hbm:item.wire_fine:2900>], [<OpenComputers:item:4>]]);
+recipes.addShaped(<openfm:RadioTuner>, [[<hbm:item.magnetron>], [<hbm:item.ingot_steel>], [<hbm:item.ingot_steel>]]);
+recipes.addShaped(<openfm:Speaker>, [[<ore:ingotSteel>, <hbm:item.ingot_steel>, <ore:ingotSteel>], [<hbm:item.ingot_steel>, <computronics:computronics.ironNoteBlock>, <hbm:item.ingot_steel>], [<hbm:item.ingot_steel>, <hbm:item.ingot_steel>, <hbm:item.ingot_steel>]]);
+recipes.addShaped(<openfm:Radio>, [[null, <hbm:item.magnetron>, null], [<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:ingotSteel>, <ore:oc:cpu2>, <ore:ingotSteel>]]);
 recipes.addShaped(<TConstruct:CraftedSoil:1>, [[<hbm:item.powder_cement>, <hbm:item.powder_cement>], [<hbm:item.powder_cement>, <hbm:item.powder_cement>]]);
 recipes.addShaped(<OpenComputers:item:115>, [[<ore:ingotIron>, null, <ore:ingotIron>], [<ore:oc:circuitChip1>, <ore:oc:wrench>, <ore:oc:circuitChip1>], [<minecraft:iron_ingot>, <hbm:item.circuit:3>, <ore:ingotIron>]]);
 recipes.addShaped(<OpenComputers:item.forestry>, [[<ore:ingotGold>, <ore:blockGlass>, <ore:ingotGold>], [<ore:oc:circuitChip3>, <Forestry:beealyzer>, <ore:oc:circuitChip3>], [<ore:ingotGold>, <hbm:item.circuit:3>, <ore:ingotGold>]]);
