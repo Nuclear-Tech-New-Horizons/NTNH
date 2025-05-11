@@ -809,7 +809,7 @@
     {
       "inputs": [
         ["item","hbm:item.ingot_firebrick",16],
-        ["dict","plateSteel",4],
+        ["dict","plateTripleSteel",4],
         ["dict","ingotCopper",8]
       ],
       "outputs": [
@@ -850,7 +850,7 @@
       "inputs": [
         ["dict","ingotAnyPlastic",4],
         ["dict","ingotCopper",8],
-        ["dict","plateSteel",8],
+        ["dict","plateTripleSteel",8],
         ["item","hbm:item.coil_tungsten",8],
         ["item","hbm:item.circuit",1,9]
       ],
@@ -865,7 +865,7 @@
       "inputs": [
         ["dict","ingotRubber",4],
         ["dict","ingotCopper",16],
-        ["dict","plateSteel",16],
+        ["dict","plateTripleSteel",16],
         ["dict","ntmpipeSteel",3]
       ],
       "outputs": [
@@ -994,7 +994,7 @@
     {
       "inputs": [
         ["dict","ingotSteel",4],
-        ["dict","plateCopper",16],
+        ["dict","plateTripleCopper",16],
         ["item","hbm:item.plate_polymer",8]
       ],
       "outputs": [
@@ -1231,7 +1231,7 @@
     {
       "inputs": [
         ["item","hbm:item.tank_steel"],
-        ["dict","plateLead",2],
+        ["dict","plateTripleLead",2],
         ["item","hbm:item.nuclear_waste",10]
       ],
       "outputs": [
@@ -1244,7 +1244,7 @@
     {
       "inputs": [
         ["item","hbm:item.tank_steel"],
-        ["dict","plateLead",2],
+        ["dict","plateTripleLead",2],
         ["item","hbm:item.nuclear_waste_vitrified",10]
       ],
       "outputs": [
@@ -2722,81 +2722,12 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.rbmk_rod"]
-      ],
-      "outputs": [
-        ["hbm:tile.rbmk_blank",1.0],
-        ["hbm:item.shell",2,30,1.0]
-      ],
-      "tierLower": 4,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:tile.rbmk_rod_mod"]
-      ],
-      "outputs": [
-        ["hbm:tile.rbmk_rod",1.0],
-        ["hbm:tile.block_graphite",4,1.0],
-        ["hbm:item.nugget_bismuth",4,1.0]
-      ],
-      "tierLower": 4,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:tile.rbmk_boiler"]
-      ],
-      "outputs": [
-        ["hbm:tile.rbmk_blank",1.0],
-        ["hbm:item.pipe",6,2900,1.0],
-        ["hbm:item.shell",2,2900,1.0]
-      ],
-      "tierLower": 4,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:tile.rbmk_cooler"]
-      ],
-      "outputs": [
-        ["hbm:tile.rbmk_blank",1.0],
-        ["hbm:tile.steel_grate",4,1.0],
-        ["hbm:item.plate_polymer",4,1.0]
-      ],
-      "tierLower": 4,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:tile.machine_reactor_small"]
-      ],
-      "outputs": [
-        ["hbm:item.ingot_steel",8,1.0],
-        ["hbm:item.ingot_tcalloy",4,1.0],
-        ["hbm:item.motor_desh",2,1.0],
-        ["hbm:item.ingot_boron",5,1.0],
-        ["hbm:item.plate_lead",8,1.0],
-        ["hbm:item.crt_display",3,1.0],
-        ["hbm:item.circuit",1,9,1.0],
-        ["hbm:item.circuit",1,9,0.5]
-      ],
-      "tierLower": 4,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
         ["item","hbm:item.pile_rod_plutonium"]
       ],
       "outputs": [
         ["hbm:item.billet_pu_mix",2,1.0],
-        ["hbm:item.billet_uranium",1.0],
-        ["hbm:item.plate_iron",2,1.0]
+        ["hbm:item.billet_nuclear_waste",1.0],
+        ["hbm:item.plate_iron",1.0]
       ],
       "tierLower": 2,
       "tierUpper": -1,
@@ -2809,7 +2740,7 @@
       "outputs": [
         ["hbm:item.billet_pu239",1.0],
         ["hbm:item.billet_pu_mix",1.0],
-        ["hbm:item.billet_uranium",1.0],
+        ["hbm:item.billet_nuclear_waste",1.0],
         ["hbm:item.plate_iron",2,1.0]
       ],
       "tierLower": 2,

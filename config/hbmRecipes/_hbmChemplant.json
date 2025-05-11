@@ -251,7 +251,7 @@
       "name": "POLYMER",
       "duration": 100,
       "fluidInput": [
-        ["PETROLEUM",500]
+        ["PETROLEUM",500,1]
       ],
       "itemInput": [
         ["dict","dustAnyCoalCoke",2],
@@ -267,8 +267,8 @@
       "name": "BAKELITE",
       "duration": 100,
       "fluidInput": [
-        ["AROMATICS",500],
-        ["PETROLEUM",500]
+        ["AROMATICS",500,1],
+        ["PETROLEUM",500,1]
       ],
       "itemInput": [],
       "fluidOutput": [],
@@ -281,7 +281,7 @@
       "name": "RUBBER",
       "duration": 100,
       "fluidInput": [
-        ["UNSATURATEDS",500]
+        ["UNSATURATEDS",500,2]
       ],
       "itemInput": [
         ["dict","dustSulfur"],
@@ -314,8 +314,8 @@
       "name": "PC",
       "duration": 100,
       "fluidInput": [
-        ["XYLENE",500],
-        ["PHOSGENE",500]
+        ["XYLENE",500,2],
+        ["PHOSGENE",500,2]
       ],
       "itemInput": [],
       "fluidOutput": [],
@@ -328,8 +328,8 @@
       "name": "PVC",
       "duration": 100,
       "fluidInput": [
-        ["UNSATURATEDS",250],
-        ["CHLORINE",250]
+        ["UNSATURATEDS",250,2],
+        ["CHLORINE",250,2]
       ],
       "itemInput": [
         ["dict","dustCadmium"]
@@ -359,7 +359,7 @@
       "name": "TNT",
       "duration": 150,
       "fluidInput": [
-        ["AROMATICS",500]
+        ["AROMATICS",500,1]
       ],
       "itemInput": [
         ["dict","dustSaltpeter"]
@@ -390,7 +390,7 @@
       "name": "C4",
       "duration": 150,
       "fluidInput": [
-        ["UNSATURATEDS",500]
+        ["UNSATURATEDS",500,1]
       ],
       "itemInput": [
         ["dict","dustSaltpeter"]
@@ -558,7 +558,7 @@
       "name": "SOLID_FUEL",
       "duration": 200,
       "fluidInput": [
-        ["PETROLEUM",200],
+        ["PETROLEUM",200,1],
         ["NITRIC_ACID",100]
       ],
       "itemInput": [
