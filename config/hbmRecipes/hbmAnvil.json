@@ -409,10 +409,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotAluminum"]
+        ["dict","ingotAluminum",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_aluminium",4,1.0]
+        ["hbm:tile.deco_aluminium",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -420,10 +420,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotBeryllium"]
+        ["dict","ingotBeryllium",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_beryllium",4,1.0]
+        ["hbm:tile.deco_beryllium",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -431,10 +431,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotLead"]
+        ["dict","ingotLead",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_lead",4,1.0]
+        ["hbm:tile.deco_lead",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -442,10 +442,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotMingrade"]
+        ["dict","ingotMingrade",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_red_copper",4,1.0]
+        ["hbm:tile.deco_red_copper",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -453,10 +453,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotSteel"]
+        ["dict","ingotSteel",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_steel",4,1.0]
+        ["hbm:tile.deco_steel",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -464,10 +464,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotTitanium"]
+        ["dict","ingotTitanium",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_titanium",4,1.0]
+        ["hbm:tile.deco_titanium",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -475,10 +475,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotTungsten"]
+        ["dict","ingotTungsten",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_tungsten",4,1.0]
+        ["hbm:tile.deco_tungsten",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -486,10 +486,10 @@
     },
     {
       "inputs": [
-        ["dict","ingotStainlessSteel"]
+        ["dict","ingotStainlessSteel",4]
       ],
       "outputs": [
-        ["hbm:tile.deco_stainless",4,1.0]
+        ["hbm:tile.deco_stainless",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2153,10 +2153,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_titanium",4]
+        ["item","hbm:tile.deco_titanium"]
       ],
       "outputs": [
-        ["hbm:item.ingot_titanium",1.0]
+        ["hbm:item.ingot_titanium",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2164,10 +2164,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_red_copper",4]
+        ["item","hbm:tile.deco_red_copper"]
       ],
       "outputs": [
-        ["hbm:item.ingot_red_copper",1.0]
+        ["hbm:item.ingot_red_copper",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2175,10 +2175,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_tungsten",4]
+        ["item","hbm:tile.deco_tungsten"]
       ],
       "outputs": [
-        ["hbm:item.ingot_tungsten",1.0]
+        ["hbm:item.ingot_tungsten",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2186,10 +2186,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_aluminium",4]
+        ["item","hbm:tile.deco_aluminium"]
       ],
       "outputs": [
-        ["hbm:item.ingot_aluminium",1.0]
+        ["hbm:item.ingot_aluminium",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2197,7 +2197,18 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_steel",4]
+        ["item","hbm:tile.deco_steel"]
+      ],
+      "outputs": [
+        ["hbm:item.ingot_steel",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tile.deco_rusty_steel",4]
       ],
       "outputs": [
         ["hbm:item.ingot_steel",1.0]
@@ -2208,10 +2219,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_rusty_steel",8]
+        ["item","hbm:tile.deco_lead"]
       ],
       "outputs": [
-        ["hbm:item.ingot_steel",1.0]
+        ["hbm:item.ingot_lead",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2219,21 +2230,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_lead",4]
+        ["item","hbm:tile.deco_beryllium"]
       ],
       "outputs": [
-        ["hbm:item.ingot_lead",1.0]
-      ],
-      "tierLower": 1,
-      "tierUpper": -1,
-      "overlay": "RECYCLING"
-    },
-    {
-      "inputs": [
-        ["item","hbm:tile.deco_beryllium",4]
-      ],
-      "outputs": [
-        ["hbm:item.ingot_beryllium",1.0]
+        ["hbm:item.ingot_beryllium",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
@@ -2252,10 +2252,10 @@
     },
     {
       "inputs": [
-        ["item","hbm:tile.deco_stainless",4]
+        ["item","hbm:tile.deco_stainless"]
       ],
       "outputs": [
-        ["hbm:item.ingot_stainless",1.0]
+        ["hbm:item.ingot_stainless",2,1.0]
       ],
       "tierLower": 1,
       "tierUpper": -1,
