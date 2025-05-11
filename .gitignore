@@ -90,3 +90,6 @@ optionsshaders.txt
 optionsof.txt
 config/fastcraft.ini
 config/archaicfix.cfg
+updates.html
+coretweaks/out/transformercache_profiler.csv
+coretweaks/cache
