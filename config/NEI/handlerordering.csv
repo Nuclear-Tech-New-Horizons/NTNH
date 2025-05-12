@@ -11,6 +11,17 @@ appeng.integration.modules.NEIHelpers.NEIFacadeRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIGrinderRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIWorldCraftingHandler,0
+binnie.extratrees.nei.NEIHandlerLumbermill,0
+binnie.genetics.nei.AcclimatiserRecipeHandler,0
+binnie.genetics.nei.AnalyserRecipeHandler,0
+binnie.genetics.nei.DatabaseRecipeHandler,0
+binnie.genetics.nei.GenepoolRecipeHandler,0
+binnie.genetics.nei.IncubatorRecipeHandler,0
+binnie.genetics.nei.InoculatorRecipeHandler,0
+binnie.genetics.nei.IsolatorRecipeHandler,0
+binnie.genetics.nei.PolymeriserRecipeHandler,0
+binnie.genetics.nei.SequencerRecipeHandler,0
+binnie.genetics.nei.SplicerRecipeHandler,0
 bq_quest,0
 campfirebackport.campfireRecipe,0
 campfirebackport.campfireStateChanger,0
@@ -99,7 +110,6 @@ com.jaquadro.minecraft.storagedrawers.integration.notenoughitems.UpgradeItemReci
 com.pam.harvestcraft.GardenRecipeHandler,0
 connor135246.campfirebackport.client.compat.nei.NEICampfireRecipeHandler,0
 connor135246.campfirebackport.client.compat.nei.NEICampfireStateChangerHandler,0
-extracells.integration.nei.UniversalTerminalRecipe,0
 forestry.factory.recipes.nei.NEIHandlerBottler,0
 forestry.factory.recipes.nei.NEIHandlerCarpenter,0
 forestry.factory.recipes.nei.NEIHandlerCentrifuge,0
@@ -116,6 +126,8 @@ hellfirepvp.beebetteratbees.client.gui.BBABGuiRecipeTreeHandler,0
 li.cil.oc.integration.nei.CallbackDocHandler,0
 li.cil.oc.integration.nei.ManualUsageHandler,0
 lumien.randomthings.Handler.ModCompability.NEI.ImbuingStationRecipeHandler,0
+mobsinfo.mobhandler,0
+mobsinfo.villagertradeshandler,0
 mrtjp.projectred.core.libmc.recipe.PRShapedRecipeHandler,0
 mrtjp.projectred.core.libmc.recipe.PRShapelessRecipeHandler,0
 neresources.nei.NEIAdvSeedHandler,0
@@ -124,6 +136,7 @@ neresources.nei.NEIEnchantmentHandler,0
 neresources.nei.NEIMobHandler,0
 neresources.nei.NEIOreHandler,0
 neresources.nei.NEIPlantHandler,0
+net.bdew.neiaddons.botany.flowers.FlowerBreedingHandler,0
 net.bdew.neiaddons.forestry.bees.BeeBreedingHandler,0
 net.bdew.neiaddons.forestry.bees.BeeProduceHandler,0
 net.bdew.neiaddons.forestry.butterflies.ButterflyBreedingHandler,0
