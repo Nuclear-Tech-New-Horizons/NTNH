@@ -5,7 +5,7 @@
       "comment": "Growthcraft\u0027s default bee",
       "item": {
         "ore": null,
-        "comment": "Пчела",
+        "comment": "Bee",
         "mod_id": "Growthcraft|Bees",
         "name": "grc.bee",
         "amount": 1,
@@ -16,7 +16,7 @@
       "comment": "From Forestry",
       "item": {
         "ore": null,
-        "comment": "Матка",
+        "comment": "Queen",
         "mod_id": "Forestry",
         "name": "beeQueenGE",
         "amount": 32767,
@@ -38,7 +38,7 @@
       "comment": "From Forestry",
       "item": {
         "ore": null,
-        "comment": "Принцесса",
+        "comment": "Princess",
         "mod_id": "Forestry",
         "name": "beePrincessGE",
         "amount": 32767,

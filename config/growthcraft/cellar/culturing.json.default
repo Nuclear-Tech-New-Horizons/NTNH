@@ -5,14 +5,14 @@
       "comment": "",
       "output_item": {
         "ore": null,
-        "comment": "Закваска",
+        "comment": "Starter Culture",
         "mod_id": "Growthcraft|Milk",
         "name": "grcmilk.StarterCulture",
         "amount": 1,
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Обезжиренное молоко",
+        "comment": "Skim Milk",
         "name": "grcmilk.skimmilk",
         "amount": 250
       },

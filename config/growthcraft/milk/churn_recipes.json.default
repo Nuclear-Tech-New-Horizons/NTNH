@@ -4,18 +4,18 @@
     {
       "comment": "",
       "input_fluid": {
-        "comment": "Сливки",
+        "comment": "Cream",
         "name": "grcmilk.cream",
         "amount": 1000
       },
       "output_fluid": {
-        "comment": "Пахта",
+        "comment": "Butter Milk",
         "name": "grcmilk.buttermilk",
         "amount": 500
       },
       "output_item": {
         "ore": null,
-        "comment": "Масло (Несолёное)",
+        "comment": "Butter (Unsalted)",
         "mod_id": "Growthcraft|Milk",
         "name": "grcmilk.Butter",
         "amount": 2,

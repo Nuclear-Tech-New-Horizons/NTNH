@@ -2,9 +2,9 @@
   "comment": "",
   "data": [
     {
-      "comment": "Лоза",
+      "comment": "Vines",
       "block": {
-        "comment": "Лоза",
+        "comment": "Vines",
         "mod_id": "minecraft",
         "name": "vine",
         "meta": 32767

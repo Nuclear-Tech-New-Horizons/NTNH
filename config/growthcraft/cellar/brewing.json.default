@@ -12,12 +12,12 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Вода",
+        "comment": "Water",
         "name": "water",
         "amount": 1000
       },
       "output_fluid": {
-        "comment": "Реннин",
+        "comment": "Rennet",
         "name": "grcmilk.rennet",
         "amount": 1000
       },
@@ -28,26 +28,26 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Сахар",
+        "comment": "Sugar",
         "mod_id": "minecraft",
         "name": "sugar",
         "amount": 1,
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Обезжиренное молоко",
+        "comment": "Skim Milk",
         "name": "grcmilk.skimmilk",
         "amount": 250
       },
       "output_fluid": {
-        "comment": "Пастеризованное молоко",
+        "comment": "Pasteurized Milk",
         "name": "grcmilk.pasteurizedmilk",
         "amount": 250
       },
       "residue": {
         "pomace": 1.0,
         "ore": null,
-        "comment": "Закваска",
+        "comment": "Starter Culture",
         "mod_id": "Growthcraft|Milk",
         "name": "grcmilk.StarterCulture",
         "amount": 1,
@@ -66,19 +66,19 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Виноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine1",
         "amount": 40
       },
       "output_fluid": {
-        "comment": "Портвейн",
+        "comment": "Port Wine",
         "name": "grc.grapewine5",
         "amount": 40
       },
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -97,19 +97,19 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Вода",
+        "comment": "Water",
         "name": "water",
         "amount": 40
       },
       "output_fluid": {
-        "comment": "Эль",
+        "comment": "Ale Wort",
         "name": "grc.hopale4",
         "amount": 40
       },
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -128,19 +128,19 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Эль",
+        "comment": "Ale Wort",
         "name": "grc.hopale4",
         "amount": 40
       },
       "output_fluid": {
-        "comment": "Эль",
+        "comment": "Ale Wort",
         "name": "grc.hopale0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -159,19 +159,19 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Эль",
+        "comment": "Ale Wort",
         "name": "grc.hopale4",
         "amount": 40
       },
       "output_fluid": {
-        "comment": "Светлое пиво",
+        "comment": "Lager Wort",
         "name": "grc.lager0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.0,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -190,19 +190,19 @@
         "meta": 32767
       },
       "input_fluid": {
-        "comment": "Вода",
+        "comment": "Water",
         "name": "water",
         "amount": 40
       },
       "output_fluid": {
-        "comment": "Сакэ",
+        "comment": "Sake Moromi",
         "name": "grc.ricesake0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.2,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,

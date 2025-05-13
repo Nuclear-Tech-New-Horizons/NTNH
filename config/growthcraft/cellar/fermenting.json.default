@@ -5,7 +5,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "ѕивные дрожжи",
+        "comment": "Brewers Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -22,7 +22,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis0",
         "amount": 1
       },
@@ -32,7 +32,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -49,7 +49,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis0",
         "amount": 1
       },
@@ -76,7 +76,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis1",
         "amount": 1
       },
@@ -103,7 +103,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis1",
         "amount": 1
       },
@@ -130,7 +130,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis2",
         "amount": 1
       },
@@ -157,7 +157,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis2",
         "amount": 1
       },
@@ -167,7 +167,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Ёфирные дрожжи",
+        "comment": "Ethereal Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -184,7 +184,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis3",
         "amount": 1
       },
@@ -194,7 +194,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Ёфирные дрожжи",
+        "comment": "Ethereal Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -211,7 +211,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis3",
         "amount": 1
       },
@@ -221,7 +221,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "ќбыкновенные дрожжи",
+        "comment": "Origin Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -238,7 +238,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis4",
         "amount": 1
       },
@@ -248,7 +248,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "ќбыкновенные дрожжи",
+        "comment": "Origin Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -265,7 +265,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": " умыс",
+        "comment": "Kumis",
         "name": "grcmilk.kumis4",
         "amount": 1
       },
@@ -292,7 +292,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine1",
         "amount": 1
       },
@@ -302,7 +302,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -319,7 +319,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine1",
         "amount": 1
       },
@@ -346,7 +346,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine2",
         "amount": 1
       },
@@ -373,7 +373,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine2",
         "amount": 1
       },
@@ -400,7 +400,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine3",
         "amount": 1
       },
@@ -427,7 +427,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine3",
         "amount": 1
       },
@@ -454,7 +454,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "јмбрози€",
+        "comment": "Ambrosia",
         "name": "grc.grapewine4",
         "amount": 1
       },
@@ -481,7 +481,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "јмбрози€",
+        "comment": "Ambrosia",
         "name": "grc.grapewine4",
         "amount": 1
       },
@@ -508,7 +508,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine6",
         "amount": 1
       },
@@ -535,7 +535,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine6",
         "amount": 1
       },
@@ -562,7 +562,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine1",
         "amount": 1
       },
@@ -589,7 +589,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine2",
         "amount": 1
       },
@@ -616,7 +616,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine3",
         "amount": 1
       },
@@ -643,7 +643,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "јмбрози€",
+        "comment": "Ambrosia",
         "name": "grc.grapewine4",
         "amount": 1
       },
@@ -670,7 +670,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ѕортвейн",
+        "comment": "Port Wine",
         "name": "grc.grapewine5",
         "amount": 1
       },
@@ -697,7 +697,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "¬иноградное вино",
+        "comment": "Grape Wine",
         "name": "grc.grapewine6",
         "amount": 1
       },
@@ -724,7 +724,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale1",
         "amount": 1
       },
@@ -734,7 +734,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -751,7 +751,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale1",
         "amount": 1
       },
@@ -778,7 +778,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale2",
         "amount": 1
       },
@@ -805,7 +805,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale2",
         "amount": 1
       },
@@ -832,7 +832,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale3",
         "amount": 1
       },
@@ -859,7 +859,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale3",
         "amount": 1
       },
@@ -886,7 +886,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale5",
         "amount": 1
       },
@@ -913,7 +913,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale5",
         "amount": 1
       },
@@ -940,7 +940,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale6",
         "amount": 1
       },
@@ -967,7 +967,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale7",
         "amount": 1
       },
@@ -994,7 +994,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale7",
         "amount": 1
       },
@@ -1021,7 +1021,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale8",
         "amount": 1
       },
@@ -1048,7 +1048,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale8",
         "amount": 1
       },
@@ -1075,7 +1075,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale8",
         "amount": 1
       },
@@ -1102,7 +1102,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale8",
         "amount": 1
       },
@@ -1129,7 +1129,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale8",
         "amount": 1
       },
@@ -1156,7 +1156,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ёль",
+        "comment": "Ale",
         "name": "grc.hopale8",
         "amount": 1
       },
@@ -1183,7 +1183,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager1",
         "amount": 1
       },
@@ -1193,7 +1193,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -1210,7 +1210,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager1",
         "amount": 1
       },
@@ -1237,7 +1237,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager2",
         "amount": 1
       },
@@ -1264,7 +1264,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager2",
         "amount": 1
       },
@@ -1291,7 +1291,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager3",
         "amount": 1
       },
@@ -1318,7 +1318,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager3",
         "amount": 1
       },
@@ -1345,7 +1345,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager4",
         "amount": 1
       },
@@ -1372,7 +1372,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager4",
         "amount": 1
       },
@@ -1399,7 +1399,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager5",
         "amount": 1
       },
@@ -1426,7 +1426,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager5",
         "amount": 1
       },
@@ -1453,7 +1453,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager6",
         "amount": 1
       },
@@ -1480,7 +1480,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager6",
         "amount": 1
       },
@@ -1507,7 +1507,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager6",
         "amount": 1
       },
@@ -1534,7 +1534,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager6",
         "amount": 1
       },
@@ -1561,7 +1561,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager6",
         "amount": 1
       },
@@ -1588,7 +1588,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—ветлое пиво",
+        "comment": "Lager",
         "name": "grc.lager6",
         "amount": 1
       },
@@ -1598,7 +1598,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "ѕивные дрожжи",
+        "comment": "Brewers Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -1615,7 +1615,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake1",
         "amount": 1
       },
@@ -1625,7 +1625,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -1642,7 +1642,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake1",
         "amount": 1
       },
@@ -1669,7 +1669,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake2",
         "amount": 1
       },
@@ -1696,7 +1696,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake2",
         "amount": 1
       },
@@ -1723,7 +1723,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake3",
         "amount": 1
       },
@@ -1750,7 +1750,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake3",
         "amount": 1
       },
@@ -1760,7 +1760,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Ёфирные дрожжи",
+        "comment": "Ethereal Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -1777,7 +1777,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ѕожественное сакэ",
+        "comment": "Divine Sake",
         "name": "grc.ricesake4",
         "amount": 1
       },
@@ -1787,7 +1787,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Ёфирные дрожжи",
+        "comment": "Ethereal Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -1804,7 +1804,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ѕожественное сакэ",
+        "comment": "Divine Sake",
         "name": "grc.ricesake4",
         "amount": 1
       },
@@ -1814,7 +1814,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "ќбыкновенные дрожжи",
+        "comment": "Origin Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -1831,7 +1831,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake5",
         "amount": 1
       },
@@ -1841,7 +1841,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "ќбыкновенные дрожжи",
+        "comment": "Origin Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
         "amount": 1,
@@ -1858,7 +1858,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "—акэ",
+        "comment": "Sake",
         "name": "grc.ricesake5",
         "amount": 1
       },
@@ -1886,7 +1886,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead1",
         "amount": 1
       },
@@ -1896,7 +1896,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -1914,7 +1914,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead1",
         "amount": 1
       },
@@ -1941,7 +1941,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead2",
         "amount": 1
       },
@@ -1968,7 +1968,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead2",
         "amount": 1
       },
@@ -1995,7 +1995,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead3",
         "amount": 1
       },
@@ -2022,7 +2022,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead3",
         "amount": 1
       },
@@ -2049,7 +2049,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead4",
         "amount": 1
       },
@@ -2076,7 +2076,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead4",
         "amount": 1
       },
@@ -2103,7 +2103,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead5",
         "amount": 1
       },
@@ -2130,7 +2130,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead5",
         "amount": 1
       },
@@ -2157,7 +2157,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead6",
         "amount": 1
       },
@@ -2184,7 +2184,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead6",
         "amount": 1
       },
@@ -2211,7 +2211,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead6",
         "amount": 1
       },
@@ -2238,7 +2238,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead6",
         "amount": 1
       },
@@ -2265,7 +2265,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead6",
         "amount": 1
       },
@@ -2292,7 +2292,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "ћедовуха",
+        "comment": "Mead",
         "name": "grc.honeymead6",
         "amount": 1
       },
@@ -2319,7 +2319,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider1",
         "amount": 1
       },
@@ -2329,7 +2329,7 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "јдский нарост",
+        "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
         "amount": 1,
@@ -2346,7 +2346,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider1",
         "amount": 1
       },
@@ -2373,7 +2373,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider2",
         "amount": 1
       },
@@ -2400,7 +2400,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider2",
         "amount": 1
       },
@@ -2427,7 +2427,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider3",
         "amount": 1
       },
@@ -2454,7 +2454,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider3",
         "amount": 1
       },
@@ -2481,7 +2481,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Ќежный нектар",
+        "comment": "Silken Nectar",
         "name": "grc.applecider4",
         "amount": 1
       },
@@ -2508,7 +2508,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider5",
         "amount": 1
       },
@@ -2535,7 +2535,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider5",
         "amount": 1
       },
@@ -2562,7 +2562,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider6",
         "amount": 1
       },
@@ -2589,7 +2589,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider6",
         "amount": 1
       },
@@ -2616,7 +2616,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider6",
         "amount": 1
       },
@@ -2643,7 +2643,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider6",
         "amount": 1
       },
@@ -2670,7 +2670,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider6",
         "amount": 1
       },
@@ -2697,7 +2697,7 @@
         "amount": 1
       },
       "output_fluid": {
-        "comment": "яблочный сидр",
+        "comment": "Apple Cider",
         "name": "grc.applecider6",
         "amount": 1
       },
