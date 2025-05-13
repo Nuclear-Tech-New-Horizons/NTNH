@@ -5,21 +5,21 @@
       "comment": "",
       "item": {
         "ore": null,
-        "comment": "Обыкновенный виноград",
+        "comment": "Grapes",
         "mod_id": "Growthcraft|Grapes",
         "name": "grc.grapes",
         "amount": 1,
         "meta": 0
       },
       "fluid": {
-        "comment": "Виноградное вино",
+        "comment": "Grape Juice",
         "name": "grc.grapewine0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
@@ -38,14 +38,14 @@
         "meta": 32767
       },
       "fluid": {
-        "comment": "Яблочный сидр",
+        "comment": "Apple Juice",
         "name": "grc.applecider0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.3,
         "ore": null,
-        "comment": "Костная мука",
+        "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
         "amount": 1,
