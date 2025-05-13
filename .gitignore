@@ -93,3 +93,13 @@ config/archaicfix.cfg
 updates.html
 coretweaks/out/transformercache_profiler.csv
 coretweaks/cache
+config/growthcraft/milk/churn_recipes.json.default
+config/growthcraft/bees/bees.json.default
+config/growthcraft/cellar/brewing.json.default
+config/growthcraft/cellar/culturing.json.default
+config/growthcraft/cellar/fermenting.json.default
+config/growthcraft/cellar/pressing.json.default
+config/growthcraft/core/vines.json.default
+config/growthcraft/fishtrap/baits.json.default
+config/growthcraft/fishtrap/entries.json.default
+craftpresence/
