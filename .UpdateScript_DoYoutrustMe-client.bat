@@ -1,7 +1,6 @@
 echo off
 cls
-echo Do you trust me?
-echo Press for "Yes"
+echo "Do you trust me?"
 PAUSE
 rmdir /s /q config
 rmdir /s /q USDYTM
