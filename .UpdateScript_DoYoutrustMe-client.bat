@@ -12,7 +12,7 @@ del MODLIST.txt
 del icon.png
 del README.md
 del LICENSE
-git clone https://github.com/Nuclear-Tech-New-Horizons/USDYTM.git
+git clone https://github.com/Nuclear-Tech-New-Horizons/NTNH.git
 move "USDYTM\config" "."
 move "USDYTM\mods" "."
 move "USDYTM\scripts" "."
