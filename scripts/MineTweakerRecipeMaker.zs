@@ -12,6 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<ae2fc:part_fluid_export>);
+recipes.remove(<ae2fc:part_fluid_import>);
 recipes.remove(<openfm:MemoryCard>);
 recipes.remove(<openfm:RadioTuner>);
 recipes.remove(<openfm:Speaker>);
@@ -305,6 +307,8 @@ recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpac
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<ae2fc:part_fluid_export>, [[<ore:gemLapis>, <appliedenergistics2:item.ItemMultiMaterial:22>, <ore:gemLapis>], [<ore:ingotSteel>, <ore:craftingPiston>, <ore:ingotSteel>]]);
+recipes.addShaped(<ae2fc:part_fluid_import>, [[<ore:gemLapis>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:gemLapis>], [<ore:ingotSteel>, <ore:craftingPiston>, <ore:ingotSteel>]]);
 recipes.addShaped(<openfm:MemoryCard>, [[<hbm:item.wire_fine:2900>], [<OpenComputers:item:4>]]);
 recipes.addShaped(<openfm:RadioTuner>, [[<hbm:item.magnetron>], [<hbm:item.ingot_steel>], [<hbm:item.ingot_steel>]]);
 recipes.addShaped(<openfm:Speaker>, [[<ore:ingotSteel>, <hbm:item.ingot_steel>, <ore:ingotSteel>], [<hbm:item.ingot_steel>, <computronics:computronics.ironNoteBlock>, <hbm:item.ingot_steel>], [<hbm:item.ingot_steel>, <hbm:item.ingot_steel>, <hbm:item.ingot_steel>]]);

@@ -103,3 +103,4 @@ config/growthcraft/core/vines.json.default
 config/growthcraft/fishtrap/baits.json.default
 config/growthcraft/fishtrap/entries.json.default
 craftpresence/
+config/hbmRecipes/_hbmArcFurnace.json
