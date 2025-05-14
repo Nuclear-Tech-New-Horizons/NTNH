@@ -1,9 +1,8 @@
 echo off
 cls
-echo "Do you trust me?"
+echo "Do you trust me? This script will delete all configs and mods, press any button to continue."
 PAUSE
 rmdir /s /q config
-rmdir /s /q USDYTM
 rmdir /s /q mods
 rmdir /s /q scripts
 rmdir /s /q serverutilities
@@ -22,3 +21,5 @@ move "USDYTM\LICENSE" "."
 move "USDYTM\MODLIST.txt" "."
 move "USDYTM\README.md" "."
 echo "UPDATED SUCCESSFULY! THANK YOU FOR TRUSTING ME!"
+rmdir /s /q NTNH
+PAUSE
