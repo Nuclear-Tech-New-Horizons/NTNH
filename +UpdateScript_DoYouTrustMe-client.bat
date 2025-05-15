@@ -25,8 +25,8 @@ mkdir temp_extract
 :: Распаковка zip-архива во временную папку
 powershell -command "Expand-Archive -Path temp.zip -DestinationPath temp_extract"
 
-:: Определение имени распакованной папки (обычно NTNH-<тег>)
-for /d %%i in (temp_extract\*) do set EXTRACTED_FOLDER=%%i
+:: Поиск папки, начинающейся с NTNH- в temp_extract
+for /d %%i in (temp_extract\NTNH-*) do set EXTRACTED_FOLDER=%%i
 
 :: Перемещение необходимых папок и файлов в текущую директорию
 move "%EXTRACTED_FOLDER%\config" "."
