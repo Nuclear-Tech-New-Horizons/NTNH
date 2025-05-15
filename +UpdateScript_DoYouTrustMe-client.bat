@@ -1,7 +1,9 @@
-echo off
+@echo off
 cls
 echo "Do you trust me? This script will delete all configs and mods, press any button to continue."
 PAUSE
+
+:: Удаление существующих файлов и папок
 rmdir /s /q config
 rmdir /s /q mods
 rmdir /s /q scripts
@@ -10,16 +12,36 @@ del MODLIST.txt
 del icon.png
 del README.md
 del LICENSE
-git clone https://github.com/Nuclear-Tech-New-Horizons/NTNH.git
-move "USDYTM\config" "."
-move "USDYTM\mods" "."
-move "USDYTM\scripts" "."
-move "USDYTM\serverutilities" "."
-move "USDYTM\CODEOWNERS" "."
-move "USDYTM\icon.png" "."
-move "USDYTM\LICENSE" "."
-move "USDYTM\MODLIST.txt" "."
-move "USDYTM\README.md" "."
-echo "UPDATED SUCCESSFULY! THANK YOU FOR TRUSTING ME!"
-rmdir /s /q NTNH
+
+:: Получение имени последнего тега через GitHub API с помощью PowerShell
+for /f "delims=" %%i in ('powershell -command "(Invoke-RestMethod https://api.github.com/repos/Nuclear-Tech-New-Horizons/NTNH/tags).name | Select-Object -First 1"') do set LATEST_TAG=%%i
+
+:: Загрузка zip-архива последней версии
+powershell -command "Invoke-WebRequest -Uri https://github.com/Nuclear-Tech-New-Horizons/NTNH/archive/refs/tags/%LATEST_TAG%.zip -OutFile temp.zip"
+
+:: Создание временной папки для распаковки
+mkdir temp_extract
+
+:: Распаковка zip-архива во временную папку
+powershell -command "Expand-Archive -Path temp.zip -DestinationPath temp_extract"
+
+:: Определение имени распакованной папки (обычно NTNH-<тег>)
+for /d %%i in (temp_extract\*) do set EXTRACTED_FOLDER=%%i
+
+:: Перемещение необходимых папок и файлов в текущую директорию
+move "%EXTRACTED_FOLDER%\config" "."
+move "%EXTRACTED_FOLDER%\mods" "."
+move "%EXTRACTED_FOLDER%\scripts" "."
+move "%EXTRACTED_FOLDER%\serverutilities" "."
+move "%EXTRACTED_FOLDER%\CODEOWNERS" "."
+move "%EXTRACTED_FOLDER%\icon.png" "."
+move "%EXTRACTED_FOLDER%\LICENSE" "."
+move "%EXTRACTED_FOLDER%\MODLIST.txt" "."
+move "%EXTRACTED_FOLDER%\README.md" "."
+
+:: Удаление временных файлов и папок
+del temp.zip
+rmdir /s /q temp_extract
+
+echo "UPDATED SUCCESSFULLY! THANK YOU FOR TRUSTING ME!"
 PAUSE
