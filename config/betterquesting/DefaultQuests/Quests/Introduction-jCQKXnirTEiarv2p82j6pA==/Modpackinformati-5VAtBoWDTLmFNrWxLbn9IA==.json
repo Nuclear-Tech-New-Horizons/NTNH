@@ -14,7 +14,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Modpack Information",
+      "name:8": "Modpack information",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -25,8 +25,8 @@
       "visibility:8": "ALWAYS"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 7,
+  "questIDHigh:4": -1922987534854173511,
+  "questIDLow:4": -8847684645341758176,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
