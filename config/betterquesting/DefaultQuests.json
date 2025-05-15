@@ -10,7 +10,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -101,7 +101,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -139,7 +139,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -214,7 +214,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -265,7 +265,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -316,7 +316,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -356,7 +356,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -443,7 +443,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -520,7 +520,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -604,7 +604,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -679,7 +679,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -730,7 +730,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -782,7 +782,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -821,7 +821,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -905,7 +905,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -956,7 +956,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1007,7 +1007,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1095,7 +1095,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1146,7 +1146,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1197,7 +1197,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1250,7 +1250,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1321,7 +1321,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1372,7 +1372,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1410,7 +1410,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1461,7 +1461,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1512,7 +1512,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1565,7 +1565,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1616,7 +1616,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1667,7 +1667,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1770,7 +1770,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1837,7 +1837,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1888,7 +1888,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1939,7 +1939,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -1990,7 +1990,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2058,7 +2058,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2111,7 +2111,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2162,7 +2162,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2213,7 +2213,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2264,7 +2264,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2315,7 +2315,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2366,7 +2366,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2423,7 +2423,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2487,7 +2487,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2540,7 +2540,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2619,7 +2619,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2670,7 +2670,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2724,7 +2724,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2788,7 +2788,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2839,7 +2839,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2896,7 +2896,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -2978,7 +2978,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3030,7 +3030,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3081,7 +3081,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3165,7 +3165,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3234,7 +3234,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3322,7 +3322,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3385,7 +3385,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3444,7 +3444,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3496,7 +3496,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3547,7 +3547,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3598,7 +3598,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3650,7 +3650,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3701,7 +3701,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3752,7 +3752,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3809,7 +3809,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3861,7 +3861,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3914,7 +3914,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -3984,7 +3984,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4035,7 +4035,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4086,7 +4086,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4124,7 +4124,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4175,7 +4175,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4227,7 +4227,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4278,7 +4278,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4329,7 +4329,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4380,7 +4380,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4431,7 +4431,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4482,7 +4482,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4534,7 +4534,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4602,7 +4602,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4660,7 +4660,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4711,7 +4711,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4762,7 +4762,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4814,7 +4814,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4865,7 +4865,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4922,7 +4922,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -4973,7 +4973,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5024,7 +5024,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5075,7 +5075,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5127,7 +5127,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5210,7 +5210,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5279,7 +5279,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5331,7 +5331,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5399,7 +5399,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5451,7 +5451,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5502,7 +5502,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5554,7 +5554,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5612,7 +5612,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5681,7 +5681,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5732,7 +5732,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5783,7 +5783,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5837,7 +5837,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5891,7 +5891,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -5966,7 +5966,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6018,7 +6018,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6069,7 +6069,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6121,7 +6121,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6174,7 +6174,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6229,7 +6229,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6297,7 +6297,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6350,7 +6350,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6425,7 +6425,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6477,7 +6477,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6528,7 +6528,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6598,7 +6598,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6649,7 +6649,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6701,7 +6701,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6755,7 +6755,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6807,7 +6807,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6859,7 +6859,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6910,7 +6910,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -6961,7 +6961,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7031,7 +7031,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7098,7 +7098,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7149,7 +7149,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7202,7 +7202,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7286,7 +7286,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7338,7 +7338,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7389,7 +7389,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7444,7 +7444,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7515,7 +7515,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7626,7 +7626,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7677,7 +7677,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7728,7 +7728,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7780,7 +7780,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7833,7 +7833,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7890,7 +7890,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -7945,7 +7945,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8035,7 +8035,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8093,7 +8093,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8147,7 +8147,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8266,7 +8266,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8317,7 +8317,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8369,7 +8369,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8420,7 +8420,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8471,7 +8471,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8527,7 +8527,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8578,7 +8578,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8636,7 +8636,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8687,7 +8687,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8745,7 +8745,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8796,7 +8796,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8847,7 +8847,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8899,7 +8899,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8952,7 +8952,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -8992,7 +8992,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9044,7 +9044,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9096,7 +9096,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9147,7 +9147,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9199,7 +9199,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9252,7 +9252,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9304,7 +9304,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9355,7 +9355,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9407,7 +9407,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9458,7 +9458,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9522,7 +9522,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9575,7 +9575,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9629,7 +9629,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9697,7 +9697,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9753,7 +9753,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9804,7 +9804,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9861,7 +9861,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9912,7 +9912,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -9963,7 +9963,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10002,7 +10002,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10054,7 +10054,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10105,7 +10105,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10157,7 +10157,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10209,7 +10209,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10260,7 +10260,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
@@ -10313,7 +10313,7 @@
         "betterquesting:10": {
           "snd_complete:8": "minecraft:entity.player.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "ALWAYS",
+          "visibility:8": "UNLOCKED",
           "isMain:1": 0,
           "simultaneous:1": 0,
           "icon:10": {
