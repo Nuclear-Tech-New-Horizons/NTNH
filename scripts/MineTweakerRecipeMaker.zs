@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<minecraft:flint_and_steel>);
 recipes.remove(<ae2fc:part_fluid_export>);
 recipes.remove(<ae2fc:part_fluid_import>);
 recipes.remove(<openfm:MemoryCard>);
@@ -303,6 +304,7 @@ mods.forestry.Carpenter.addRecipe(<Forestry:treealyzer>, [[<ore:ingotCopper>, <o
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<minecraft:flint_and_steel>, [<ore:ingotSteel>, <minecraft:flint>]);
 recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpack:backpackComponent:7>, <hbm:item.motor>, <hbm:item.turbine_titanium>]);
 
 // ================================================================================
