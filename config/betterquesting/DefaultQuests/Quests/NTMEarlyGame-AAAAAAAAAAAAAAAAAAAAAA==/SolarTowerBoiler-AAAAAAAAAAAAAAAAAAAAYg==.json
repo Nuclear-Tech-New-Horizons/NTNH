@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Solar Tower Boiler uses the heat of the sun to boil water to make steam, and as such will only work in the daytime. Heliostat Mirrors will be needed to divert the sunlight into the Boiler Tower.\n\nThe Steam engine is the first machine which uses steam to produce electricity.",
+      "desc:8": "The Solar Tower Boiler uses the heat of the sun to boil water to make steam, and as such will only work in the daytime. Heliostat Mirrors will be needed to divert the sunlight into the Boiler Tower.\n\nThe Steam engine is the first machine which uses steam to produce electricity.\n\n(Notice that boiler requires at least 13 solar mirror to start generate any steam)",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -49,7 +49,7 @@
           "id:8": "hbm:tile.machine_solar_boiler"
         },
         "1:10": {
-          "Count:3": 1,
+          "Count:3": 13,
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:tile.solar_mirror"
