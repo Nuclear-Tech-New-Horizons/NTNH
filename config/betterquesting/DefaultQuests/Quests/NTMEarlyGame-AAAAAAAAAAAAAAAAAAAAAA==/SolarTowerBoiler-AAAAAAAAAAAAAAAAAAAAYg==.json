@@ -49,13 +49,13 @@
           "id:8": "hbm:tile.machine_solar_boiler"
         },
         "1:10": {
-          "Count:3": 1,
+          "Count:3": 13,
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:tile.solar_mirror"
         },
         "2:10": {
-          "Count:3": 13,
+          "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:item.mirror_tool"
