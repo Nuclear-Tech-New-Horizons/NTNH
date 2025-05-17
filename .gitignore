@@ -105,3 +105,8 @@ config/growthcraft/fishtrap/entries.json.default
 craftpresence/
 config/hbmRecipes/_hbmArcFurnace.json
 config/JustEnoughCalculation/record.json
+config/betterquesting/betterquesting.zip
+config/xaeroworldmap.txt
+mods/.index/advanced-xray.pw.toml
+config/fgtXray.cfg
+mods/fgtXray-1.7.10-1.0.8.jar
