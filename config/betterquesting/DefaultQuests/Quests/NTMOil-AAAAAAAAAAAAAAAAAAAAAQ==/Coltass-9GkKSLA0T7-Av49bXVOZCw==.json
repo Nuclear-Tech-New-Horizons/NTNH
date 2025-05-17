@@ -2,36 +2,28 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 34
-    },
-    "1:10": {
-      "questIDHigh:4": -835124948590374977,
-      "questIDLow:4": -9169452693732484853
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 26
-    },
-    "3:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 43
+      "questIDLow:4": 29
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Tantalium is a material needed for the creation of some items, most importantly Capacitor Boards. Tantalium Polycrystal production requires Coltan which can be located by the use of a Coltass.\n\nColtan Processing at its early stage can provide Niobium needed for Catalytic Cracking Towers.\n",
+      "desc:8": "Coltass can help you to find coltan ore.\n\nColtan ore is spawning in ~500 radius from the center (where coltass is pointing). Coltass ore is spawning like a regular ore, not like a giant blob.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:item.gem_tantalium"
+        "id:8": "hbm:item.coltan_tool",
+        "tag:10": {
+          "colX:3": -2316,
+          "colZ:3": 971
+        }
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Tantalium",
+      "name:8": "Coltass",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -39,18 +31,18 @@
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
       "taskLogic:8": "AND",
-      "visibility:8": "NORMAL"
+      "visibility:8": "UNLOCKED"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 139,
+  "questIDHigh:4": -835124948590374977,
+  "questIDLow:4": -9169452693732484853,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
       "requiredItems:9": {
@@ -58,7 +50,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:item.gem_tantalium"
+          "id:8": "hbm:item.coltan_tool"
         }
       },
       "taskID:8": "bq_standard:retrieval"
