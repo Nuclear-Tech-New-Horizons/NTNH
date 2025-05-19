@@ -2,25 +2,24 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 35,
-      "type:1": 1
+      "questIDLow:4": 9
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Survey Scanner is used to locate bedrock ores aswell as other materials underground.",
+      "desc:8": "The Crowbar is used to open crates for loot such as food and ammunition found in various structures.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:item.survey_scanner"
+        "id:8": "hbm:item.crowbar"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Survey Scanner",
+      "name:8": "The Crowbar",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -32,7 +31,7 @@
     }
   },
   "questIDHigh:4": 0,
-  "questIDLow:4": 96,
+  "questIDLow:4": 8,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -47,7 +46,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:item.survey_scanner"
+          "id:8": "hbm:item.crowbar"
         }
       },
       "taskID:8": "bq_standard:retrieval"
