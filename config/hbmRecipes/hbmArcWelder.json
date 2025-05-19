@@ -2,6 +2,278 @@
   "recipes": [
     {
       "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,35],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemBasicStorageCell.1k"],
+      "duration": 200,
+      "consumption": 125000
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,36],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemBasicStorageCell.4k"],
+      "duration": 250,
+      "consumption": 400000
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,37],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemBasicStorageCell.16k"],
+      "duration": 300,
+      "consumption": 1333333
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,38],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemBasicStorageCell.64k"],
+      "duration": 350,
+      "consumption": 2857142
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,57],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
+      ],
+      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.256k"],
+      "duration": 400,
+      "consumption": 12500000
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,58],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
+      ],
+      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.1024k"],
+      "duration": 450,
+      "consumption": 44444444
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,59],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
+      ],
+      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.4096k"],
+      "duration": 500,
+      "consumption": 100000000
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,60],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
+      ],
+      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.16384k"],
+      "duration": 550,
+      "consumption": 125000000
+    },
+    {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,38],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
+      ],
+      "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Container",1],
+      "duration": 350,
+      "consumption": 2857142
+    },
+     {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,32],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemSpatialStorageCell.2Cubed"],
+      "duration": 250,
+      "consumption": 400000
+    },
+     {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,33],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemSpatialStorageCell.16Cubed"],
+      "duration": 300,
+      "consumption": 1333333
+    },
+     {
+      "inputs": [
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,34],
+        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
+      ],
+      "output": ["appliedenergistics2:item.ItemSpatialStorageCell.128Cubed"],
+      "duration": 350,
+      "consumption": 2857142
+    },
+    {
+      "inputs": [
+      ["item","appliedenergistics2:item.ItemAdvancedStorageCell.16384k"],
+      ["item","hbm:item.singularity_spark"]
+      ],
+      "fluid": ["STELLAR_FLUX",1000],
+      "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Universe",1],
+      "duration": 600,
+      "consumption": 20000000
+    },
+    {
+      "inputs": [
+      ["item","appliedenergistics2:item.ItemExtremeStorageCell.Quantum",1],
+      ["item","hbm:item.singularity_spark"]
+      ],
+      "fluid": ["STELLAR_FLUX",1000],
+      "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Singularity",1],
+      "duration": 600,
+      "consumption": 20000000
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,0],
+        ["item","ae2fc:fluid_part",1,0]
+      ],
+      "output": ["ae2fc:fluid_storage1"],
+      "duration": 200,
+      "consumption": 125000
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,0],
+        ["item","ae2fc:fluid_part",1,1]
+      ],
+      "output": ["ae2fc:fluid_storage4"],
+      "duration": 250,
+      "consumption": 400000
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,0],
+        ["item","ae2fc:fluid_part",1,2]
+      ],
+      "output": ["ae2fc:fluid_storage16"],
+      "duration": 300,
+      "consumption": 1333333
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,0],
+        ["item","ae2fc:fluid_part",1,3]
+      ],
+      "output": ["ae2fc:fluid_storage64"],
+      "duration": 350,
+      "consumption": 2857142
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,1],
+        ["item","ae2fc:fluid_part",1,4]
+      ],
+      "output": ["ae2fc:fluid_storage256"],
+      "duration": 400,
+      "consumption": 12500000
+    },
+    {
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,1],
+        ["item","ae2fc:fluid_part",1,5]
+      ],
+      "output": ["ae2fc:fluid_storage1024"],
+      "duration": 450,
+      "consumption": 44444444
+    },
+    {
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,1],
+        ["item","ae2fc:fluid_part",1,6]
+      ],
+      "output": ["ae2fc:fluid_storage4096"],
+      "duration": 500,
+      "consumption": 100000000
+    },
+    {
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,1],
+        ["item","ae2fc:fluid_part",1,7]
+      ],
+      "output": ["ae2fc:fluid_storage16384"],
+      "duration": 550,
+      "consumption": 125000000
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,2],
+        ["item","ae2fc:fluid_part",1,0]
+      ],
+      "output": ["ae2fc:multi_fluid_storage1"],
+      "duration": 200,
+      "consumption": 125000
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,2],
+        ["item","ae2fc:fluid_part",1,1]
+      ],
+      "output": ["ae2fc:fluid_storage4"],
+      "duration": 250,
+      "consumption": 400000
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,2],
+        ["item","ae2fc:fluid_part",1,2]
+      ],
+      "output": ["ae2fc:multi_fluid_storage16"],
+      "duration": 300,
+      "consumption": 1333333
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,2],
+        ["item","ae2fc:fluid_part",1,3]
+      ],
+      "output": ["ae2fc:multi_fluid_storage64"],
+      "duration": 350,
+      "consumption": 2857142
+    },
+	{
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,3],
+        ["item","ae2fc:fluid_part",1,4]
+      ],
+      "output": ["ae2fc:multi_fluid_storage256"],
+      "duration": 400,
+      "consumption": 12500000
+    },
+    {
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,3],
+        ["item","ae2fc:fluid_part",1,5]
+      ],
+      "output": ["ae2fc:multi_fluid_storage1024"],
+      "duration": 450,
+      "consumption": 44444444
+    },
+    {
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,3],
+        ["item","ae2fc:fluid_part",1,6]
+      ],
+      "output": ["ae2fc:fluid_storage4096"],
+      "duration": 500,
+      "consumption": 100000000
+    },
+    {
+      "inputs": [
+        ["item","ae2fc:fluid_storage_housing",1,3],
+        ["item","ae2fc:fluid_part",1,7]
+      ],
+      "output": ["ae2fc:multi_fluid_storage16384"],
+      "duration": 550,
+      "consumption": 125000000
+    },
+    {
+      "inputs": [
         ["dict","plateIron",2],
         ["item","hbm:item.coil_copper"],
         ["item","hbm:item.coil_copper_torus"]
@@ -473,278 +745,6 @@
       "output": ["hbm:tile.machine_xenon_thruster"],
       "duration": 200,
       "consumption": 50000
-    },
-	{
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,35],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemBasicStorageCell.1k"],
-      "duration": 200,
-      "consumption": 125000
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,36],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemBasicStorageCell.4k"],
-      "duration": 250,
-      "consumption": 400000
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,37],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemBasicStorageCell.16k"],
-      "duration": 300,
-      "consumption": 1333333
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,38],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemBasicStorageCell.64k"],
-      "duration": 350,
-      "consumption": 2857142
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,57],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
-      ],
-      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.256k"],
-      "duration": 400,
-      "consumption": 12500000
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,58],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
-      ],
-      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.1024k"],
-      "duration": 450,
-      "consumption": 44444444
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,59],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
-      ],
-      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.4096k"],
-      "duration": 500,
-      "consumption": 100000000
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,60],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
-      ],
-      "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.16384k"],
-      "duration": 550,
-      "consumption": 125000000
-    },
-    {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,38],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,61]
-      ],
-      "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Container",1],
-      "duration": 350,
-      "consumption": 2857142
-    },
-     {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,32],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemSpatialStorageCell.2Cubed"],
-      "duration": 250,
-      "consumption": 400000
-    },
-     {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,33],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemSpatialStorageCell.16Cubed"],
-      "duration": 300,
-      "consumption": 1333333
-    },
-     {
-      "inputs": [
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,34],
-        ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
-      ],
-      "output": ["appliedenergistics2:item.ItemSpatialStorageCell.128Cubed"],
-      "duration": 350,
-      "consumption": 2857142
-    },
-    {
-      "inputs": [
-      ["item","appliedenergistics2:item.ItemAdvancedStorageCell.16384k"],
-      ["item","hbm:item.singularity_spark"]
-      ],
-      "fluid": ["STELLAR_FLUX",1000],
-      "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Universe",1],
-      "duration": 600,
-      "consumption": 20000000
-    },
-    {
-      "inputs": [
-      ["item","appliedenergistics2:item.ItemExtremeStorageCell.Quantum",1],
-      ["item","hbm:item.singularity_spark"]
-      ],
-      "fluid": ["STELLAR_FLUX",1000],
-      "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Singularity",1],
-      "duration": 600,
-      "consumption": 20000000
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,0],
-        ["item","ae2fc:fluid_part",1,0]
-      ],
-      "output": ["ae2fc:fluid_storage1"],
-      "duration": 200,
-      "consumption": 125000
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,0],
-        ["item","ae2fc:fluid_part",1,1]
-      ],
-      "output": ["ae2fc:fluid_storage4"],
-      "duration": 250,
-      "consumption": 400000
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,0],
-        ["item","ae2fc:fluid_part",1,2]
-      ],
-      "output": ["ae2fc:fluid_storage16"],
-      "duration": 300,
-      "consumption": 1333333
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,0],
-        ["item","ae2fc:fluid_part",1,3]
-      ],
-      "output": ["ae2fc:fluid_storage64"],
-      "duration": 350,
-      "consumption": 2857142
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,1],
-        ["item","ae2fc:fluid_part",1,4]
-      ],
-      "output": ["ae2fc:fluid_storage256"],
-      "duration": 400,
-      "consumption": 12500000
-    },
-    {
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,1],
-        ["item","ae2fc:fluid_part",1,5]
-      ],
-      "output": ["ae2fc:fluid_storage1024"],
-      "duration": 450,
-      "consumption": 44444444
-    },
-    {
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,1],
-        ["item","ae2fc:fluid_part",1,6]
-      ],
-      "output": ["ae2fc:fluid_storage4096"],
-      "duration": 500,
-      "consumption": 100000000
-    },
-    {
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,1],
-        ["item","ae2fc:fluid_part",1,7]
-      ],
-      "output": ["ae2fc:fluid_storage16384"],
-      "duration": 550,
-      "consumption": 125000000
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,2],
-        ["item","ae2fc:fluid_part",1,0]
-      ],
-      "output": ["ae2fc:multi_fluid_storage1"],
-      "duration": 200,
-      "consumption": 125000
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,2],
-        ["item","ae2fc:fluid_part",1,1]
-      ],
-      "output": ["ae2fc:fluid_storage4"],
-      "duration": 250,
-      "consumption": 400000
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,2],
-        ["item","ae2fc:fluid_part",1,2]
-      ],
-      "output": ["ae2fc:multi_fluid_storage16"],
-      "duration": 300,
-      "consumption": 1333333
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,2],
-        ["item","ae2fc:fluid_part",1,3]
-      ],
-      "output": ["ae2fc:multi_fluid_storage64"],
-      "duration": 350,
-      "consumption": 2857142
-    },
-	{
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,3],
-        ["item","ae2fc:fluid_part",1,4]
-      ],
-      "output": ["ae2fc:multi_fluid_storage256"],
-      "duration": 400,
-      "consumption": 12500000
-    },
-    {
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,3],
-        ["item","ae2fc:fluid_part",1,5]
-      ],
-      "output": ["ae2fc:multi_fluid_storage1024"],
-      "duration": 450,
-      "consumption": 44444444
-    },
-    {
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,3],
-        ["item","ae2fc:fluid_part",1,6]
-      ],
-      "output": ["ae2fc:fluid_storage4096"],
-      "duration": 500,
-      "consumption": 100000000
-    },
-    {
-      "inputs": [
-        ["item","ae2fc:fluid_storage_housing",1,3],
-        ["item","ae2fc:fluid_part",1,7]
-      ],
-      "output": ["ae2fc:multi_fluid_storage16384"],
-      "duration": 550,
-      "consumption": 125000000
     }
   ]
 }
