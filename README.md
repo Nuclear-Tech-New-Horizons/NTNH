@@ -6,8 +6,6 @@ Key Mods:
 
 • HBM's Nuclear Tech Mod
 
-• BuildCraft
-
 • Forestry
 
 • AE2
@@ -27,8 +25,6 @@ Nuclear Tech: New Horizons — это масштабный модпак, кот�
 Основные моды:
 
 • HBM's Nuclear Tech Mod
-
-• BuildCraft
 
 • Forestry
 
