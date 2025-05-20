@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+mods.forestry.Carpenter.removeRecipe(<Forestry:flutterlyzer>);
 recipes.remove(<ProjRed|Expansion:projectred.expansion.machine2:11>);
 recipes.remove(<minecraft:flint_and_steel>);
 recipes.remove(<ae2fc:part_fluid_export>);
@@ -295,6 +296,7 @@ recipes.removeShaped(<minecraft:fire>, [[<ore:cobblestone>, null, null], [<ore:c
 
 // ================================================================================
 //#MARKER ADD
+mods.forestry.Carpenter.addRecipe(<Forestry:flutterlyzer>, [[<ore:ingotBronze>, <ore:paneGlass>, <ore:ingotBronze>], [<ore:ingotBronze>, <ore:paneGlass>, <ore:ingotBronze>], [<hbm:item.circuit:1>, <hbm:item.circuit:9>, <hbm:item.circuit:1>]], 128, null);
 mods.forestry.Carpenter.addRecipe(<Forestry:solderingIron>, [[<ore:ingotLead>, <ore:ingotLead>, null], [null, <ore:ingotLead>, null], [null, <ore:ingotAnyRubber>, null]], 60, null);
 mods.forestry.Carpenter.addRecipe(<Forestry:chipsets:0>, [[<ore:dustRedstone>, <hbm:item.circuit:6>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:ingotTin>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:6>, <ore:dustRedstone>]], 60, null);
 mods.forestry.Carpenter.addRecipe(<Forestry:chipsets:1>, [[<ore:dustRedstone>, <hbm:item.circuit:8>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:ingotBronze>, <ore:dustRedstone>], [<ore:dustRedstone>, <hbm:item.circuit:8>, <ore:dustRedstone>]], 120, null);
