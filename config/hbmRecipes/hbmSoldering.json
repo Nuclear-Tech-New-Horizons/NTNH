@@ -2,444 +2,6 @@
   "recipes": [
     {
       "toppings": [
-        ["item","hbm:item.circuit",3],
-        ["item","hbm:item.circuit",2,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",4,3]
-      ],
-      "solder": [
-        ["dict","wireFineLead",4]
-      ],
-      "output": ["hbm:item.circuit",1,8],
-      "duration": 100,
-      "consumption": 100
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4,6]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",4,3]
-      ],
-      "solder": [
-        ["dict","wireFineLead",4]
-      ],
-      "output": ["hbm:item.circuit",1,9],
-      "duration": 200,
-      "consumption": 250
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",8,3],
-        ["dict","ingotRubber",2]
-      ],
-      "solder": [
-        ["dict","wireFineLead",8]
-      ],
-      "fluid": ["SULFURIC_ACID",1000],
-      "output": ["hbm:item.circuit",1,10],
-      "duration": 300,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",3,2]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",1,3]
-      ],
-      "solder": [
-        ["dict","wireFineLead",3]
-      ],
-      "fluid": ["PEROXIDE",250],
-      "output": ["hbm:item.circuit",1,11],
-      "duration": 200,
-      "consumption": 300
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4,7],
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",24,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",12,3],
-        ["dict","ingotAnyHardPlastic",2]
-      ],
-      "solder": [
-        ["dict","wireFineLead",12]
-      ],
-      "fluid": ["SOLVENT",1000],
-      "output": ["hbm:item.circuit",1,12],
-      "duration": 400,
-      "consumption": 10000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",3,6]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",1,10],
-        ["dict","ingotRubber",4]
-      ],
-      "solder": [
-        ["dict","wireFineLead",4]
-      ],
-      "output": ["hbm:item.circuit",1,13],
-      "duration": 300,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",3,6]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",1,9],
-        ["item","hbm:item.nugget_hafnium"]
-      ],
-      "solder": [
-        ["dict","wireFineLead",4]
-      ],
-      "output": ["hbm:item.circuit",1,14],
-      "duration": 300,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4,19],
-        ["item","hbm:item.circuit",16,7],
-        ["item","hbm:item.circuit",4,21]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",16,3],
-        ["dict","ingotAnyHardPlastic",4]
-      ],
-      "solder": [
-        ["dict","wireFineLead",16]
-      ],
-      "fluid": ["HELIUM4",1000],
-      "output": ["hbm:item.circuit",1,18],
-      "duration": 400,
-      "consumption": 100000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",32,6],
-        ["item","hbm:item.circuit",32,1],
-        ["item","hbm:item.circuit",16,2]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",1,15],
-        ["item","hbm:item.upgrade_speed_1"]
-      ],
-      "solder": [
-        ["dict","wireFineLead",16]
-      ],
-      "fluid": ["PERFLUOROMETHYL",1000],
-      "output": ["hbm:item.circuit",1,16],
-      "duration": 400,
-      "consumption": 15000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,7],
-        ["item","hbm:item.circuit",48,2],
-        ["item","hbm:item.circuit",32,22]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",1,15],
-        ["item","hbm:item.upgrade_speed_3"]
-      ],
-      "solder": [
-        ["dict","wireFineLead",24]
-      ],
-      "fluid": ["PERFLUOROMETHYL",4000],
-      "output": ["hbm:item.circuit",1,17],
-      "duration": 600,
-      "consumption": 25000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,19],
-        ["item","hbm:item.circuit",48,7],
-        ["item","hbm:item.circuit",8,21]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",2,17],
-        ["item","hbm:item.upgrade_overdrive_1"]
-      ],
-      "solder": [
-        ["dict","wireFineLead",32]
-      ],
-      "fluid": ["PERFLUOROMETHYL_COLD",6000],
-      "output": ["hbm:item.circuit",1,20],
-      "duration": 600,
-      "consumption": 250000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",2,6]
-      ],
-      "pcb": [
-        ["item","hbm:item.circuit",16,3]
-      ],
-      "solder": [
-        ["dict","wireFineMingrade",4]
-      ],
-      "output": ["hbm:item.hard_drive"],
-      "duration": 200,
-      "consumption": 250
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4],
-        ["item","hbm:item.circuit",1,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustMingrade",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_speed_1"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4],
-        ["item","hbm:item.circuit",1,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustEmerald",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_effect_1"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4],
-        ["item","hbm:item.circuit",1,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustGold",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_power_1"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4],
-        ["item","hbm:item.circuit",1,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustNiobium",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_fortune_1"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4],
-        ["item","hbm:item.circuit",1,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustTungsten",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_afterburn_1"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustGlowstone",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_radius"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",4,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_template"],
-        ["dict","dustLithium",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_health"],
-      "duration": 200,
-      "consumption": 1000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",8,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_speed_1"],
-        ["dict","ingotAnyPlastic",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_speed_2"],
-      "duration": 300,
-      "consumption": 10000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",16,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_speed_2"],
-        ["dict","ingotRubber",4]
-      ],
-      "solder": [],
-      "fluid": ["SOLVENT",500],
-      "output": ["hbm:item.upgrade_speed_3"],
-      "duration": 400,
-      "consumption": 25000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",8,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_effect_1"],
-        ["dict","ingotAnyPlastic",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_effect_2"],
-      "duration": 300,
-      "consumption": 10000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",16,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_effect_2"],
-        ["dict","ingotRubber",4]
-      ],
-      "solder": [],
-      "fluid": ["SOLVENT",500],
-      "output": ["hbm:item.upgrade_effect_3"],
-      "duration": 400,
-      "consumption": 25000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",8,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_power_1"],
-        ["dict","ingotAnyPlastic",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_power_2"],
-      "duration": 300,
-      "consumption": 10000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",16,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_power_2"],
-        ["dict","ingotRubber",4]
-      ],
-      "solder": [],
-      "fluid": ["SOLVENT",500],
-      "output": ["hbm:item.upgrade_power_3"],
-      "duration": 400,
-      "consumption": 25000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",8,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_fortune_1"],
-        ["dict","ingotAnyPlastic",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_fortune_2"],
-      "duration": 300,
-      "consumption": 10000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",16,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_fortune_2"],
-        ["dict","ingotRubber",4]
-      ],
-      "solder": [],
-      "fluid": ["SOLVENT",500],
-      "output": ["hbm:item.upgrade_fortune_3"],
-      "duration": 400,
-      "consumption": 25000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",8,6],
-        ["item","hbm:item.circuit",4,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_afterburn_1"],
-        ["dict","ingotAnyPlastic",4]
-      ],
-      "solder": [],
-      "output": ["hbm:item.upgrade_afterburn_2"],
-      "duration": 300,
-      "consumption": 10000
-    },
-    {
-      "toppings": [
-        ["item","hbm:item.circuit",16,6],
-        ["item","hbm:item.circuit",16,1]
-      ],
-      "pcb": [
-        ["item","hbm:item.upgrade_afterburn_2"],
-        ["dict","ingotRubber",4]
-      ],
-      "solder": [],
-      "fluid": ["SOLVENT",500],
-      "output": ["hbm:item.upgrade_afterburn_3"],
-      "duration": 400,
-      "consumption": 25000
-    },
-	{
-      "toppings": [
         ["item","minecraft:redstone",1],
         ["item","hbm:item.ingot_polymer",1],
         ["item","hbm:item.nugget_silicon",1]
@@ -967,7 +529,7 @@
       "toppings": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",8,10],
         ["item","hbm:item.plate_polymer",16],
-        ["item","hbm:item.nugget_technetium",8]
+        ["item","hbm:item.ingot_tcalloy",1]
       ],
       "pcb": [],             
       "solder": [
@@ -1135,7 +697,7 @@
       "toppings": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",8,9],
         ["item","hbm:item.plate_polymer",16],
-        ["item","hbm:item.nugget_technetium",8]
+        ["item","hbm:item.nugget_technetium",2]
       ],
       "pcb": [],             
       "solder": [
@@ -1177,7 +739,7 @@
       "toppings": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",8,10],
         ["item","hbm:item.plate_polymer",16],
-        ["item","hbm:item.nugget_desh",8]
+        ["item","hbm:item.ingot_desh",1]
       ],
       "pcb": [],             
       "solder": [
@@ -1284,6 +846,444 @@
       "output": ["ae2fc:fluid_part",1,7],
       "duration": 100,
       "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",3],
+        ["item","hbm:item.circuit",2,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",4,3]
+      ],
+      "solder": [
+        ["dict","wireFineLead",4]
+      ],
+      "output": ["hbm:item.circuit",1,8],
+      "duration": 100,
+      "consumption": 100
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4,6]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",4,3]
+      ],
+      "solder": [
+        ["dict","wireFineLead",4]
+      ],
+      "output": ["hbm:item.circuit",1,9],
+      "duration": 200,
+      "consumption": 250
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",8,3],
+        ["dict","ingotRubber",2]
+      ],
+      "solder": [
+        ["dict","wireFineLead",8]
+      ],
+      "fluid": ["SULFURIC_ACID",1000],
+      "output": ["hbm:item.circuit",1,10],
+      "duration": 300,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",3,2]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",1,3]
+      ],
+      "solder": [
+        ["dict","wireFineLead",3]
+      ],
+      "fluid": ["PEROXIDE",250],
+      "output": ["hbm:item.circuit",1,11],
+      "duration": 200,
+      "consumption": 300
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4,7],
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",24,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",12,3],
+        ["dict","ingotAnyHardPlastic",2]
+      ],
+      "solder": [
+        ["dict","wireFineLead",12]
+      ],
+      "fluid": ["SOLVENT",1000],
+      "output": ["hbm:item.circuit",1,12],
+      "duration": 400,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",3,6]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",1,10],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [
+        ["dict","wireFineLead",4]
+      ],
+      "output": ["hbm:item.circuit",1,13],
+      "duration": 300,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",3,6]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",1,9],
+        ["item","hbm:item.nugget_hafnium"]
+      ],
+      "solder": [
+        ["dict","wireFineLead",4]
+      ],
+      "output": ["hbm:item.circuit",1,14],
+      "duration": 300,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4,19],
+        ["item","hbm:item.circuit",16,7],
+        ["item","hbm:item.circuit",4,21]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",16,3],
+        ["dict","ingotAnyHardPlastic",4]
+      ],
+      "solder": [
+        ["dict","wireFineLead",16]
+      ],
+      "fluid": ["HELIUM4",1000],
+      "output": ["hbm:item.circuit",1,18],
+      "duration": 400,
+      "consumption": 100000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",32,6],
+        ["item","hbm:item.circuit",32,1],
+        ["item","hbm:item.circuit",16,2]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",1,15],
+        ["item","hbm:item.upgrade_speed_1"]
+      ],
+      "solder": [
+        ["dict","wireFineLead",16]
+      ],
+      "fluid": ["PERFLUOROMETHYL",1000],
+      "output": ["hbm:item.circuit",1,16],
+      "duration": 400,
+      "consumption": 15000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,7],
+        ["item","hbm:item.circuit",48,2],
+        ["item","hbm:item.circuit",32,22]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",1,15],
+        ["item","hbm:item.upgrade_speed_3"]
+      ],
+      "solder": [
+        ["dict","wireFineLead",24]
+      ],
+      "fluid": ["PERFLUOROMETHYL",4000],
+      "output": ["hbm:item.circuit",1,17],
+      "duration": 600,
+      "consumption": 25000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,19],
+        ["item","hbm:item.circuit",48,7],
+        ["item","hbm:item.circuit",8,21]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",2,17],
+        ["item","hbm:item.upgrade_overdrive_1"]
+      ],
+      "solder": [
+        ["dict","wireFineLead",32]
+      ],
+      "fluid": ["PERFLUOROMETHYL_COLD",6000],
+      "output": ["hbm:item.circuit",1,20],
+      "duration": 600,
+      "consumption": 250000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",2,6]
+      ],
+      "pcb": [
+        ["item","hbm:item.circuit",16,3]
+      ],
+      "solder": [
+        ["dict","wireFineMingrade",4]
+      ],
+      "output": ["hbm:item.hard_drive"],
+      "duration": 200,
+      "consumption": 250
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4],
+        ["item","hbm:item.circuit",1,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustMingrade",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_speed_1"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4],
+        ["item","hbm:item.circuit",1,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustEmerald",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_effect_1"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4],
+        ["item","hbm:item.circuit",1,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustGold",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_power_1"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4],
+        ["item","hbm:item.circuit",1,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustNiobium",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_fortune_1"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4],
+        ["item","hbm:item.circuit",1,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustTungsten",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_afterburn_1"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustGlowstone",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_radius"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",4,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_template"],
+        ["dict","dustLithium",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_health"],
+      "duration": 200,
+      "consumption": 1000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",8,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_speed_1"],
+        ["dict","ingotAnyPlastic",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_speed_2"],
+      "duration": 300,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",16,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_speed_2"],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [],
+      "fluid": ["SOLVENT",500],
+      "output": ["hbm:item.upgrade_speed_3"],
+      "duration": 400,
+      "consumption": 25000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",8,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_effect_1"],
+        ["dict","ingotAnyPlastic",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_effect_2"],
+      "duration": 300,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",16,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_effect_2"],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [],
+      "fluid": ["SOLVENT",500],
+      "output": ["hbm:item.upgrade_effect_3"],
+      "duration": 400,
+      "consumption": 25000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",8,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_power_1"],
+        ["dict","ingotAnyPlastic",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_power_2"],
+      "duration": 300,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",16,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_power_2"],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [],
+      "fluid": ["SOLVENT",500],
+      "output": ["hbm:item.upgrade_power_3"],
+      "duration": 400,
+      "consumption": 25000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",8,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_fortune_1"],
+        ["dict","ingotAnyPlastic",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_fortune_2"],
+      "duration": 300,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",16,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_fortune_2"],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [],
+      "fluid": ["SOLVENT",500],
+      "output": ["hbm:item.upgrade_fortune_3"],
+      "duration": 400,
+      "consumption": 25000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",8,6],
+        ["item","hbm:item.circuit",4,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_afterburn_1"],
+        ["dict","ingotAnyPlastic",4]
+      ],
+      "solder": [],
+      "output": ["hbm:item.upgrade_afterburn_2"],
+      "duration": 300,
+      "consumption": 10000
+    },
+    {
+      "toppings": [
+        ["item","hbm:item.circuit",16,6],
+        ["item","hbm:item.circuit",16,1]
+      ],
+      "pcb": [
+        ["item","hbm:item.upgrade_afterburn_2"],
+        ["dict","ingotRubber",4]
+      ],
+      "solder": [],
+      "fluid": ["SOLVENT",500],
+      "output": ["hbm:item.upgrade_afterburn_3"],
+      "duration": 400,
+      "consumption": 25000
     }
   ]
 }

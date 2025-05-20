@@ -1,6 +1,9 @@
 {
   "info": "This file can be edited ingame using the /ntmserver command.",
+  "CRATE_KEEP_CONTENTS": true,
+  "CRATE_OPEN_HELD": true,
   "DAMAGE_COMPATIBILITY_MODE": false,
+  "ITEM_HAZARD_DROP_TICKRATE": 2,
   "MINE_AP_DAMAGE": 10.0,
   "MINE_HE_DAMAGE": 35.0,
   "MINE_NAVAL_DAMAGE": 60.0,

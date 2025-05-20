@@ -2,6 +2,18 @@
   "comment": "Ingot/block/ore -> dust recipes are generated in post and can therefore not be changed with the config. Non-auto recipes do not use ore dict.",
   "recipes": [
     {
+      "input": ["minecraft:wheat"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,4]
+    },
+    {
+      "input": ["minecraft:ender_pearl"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,46]
+    },
+    {
+      "input": ["appliedenergistics2:tile.BlockSkyStone"],
+      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,45]
+    },
+    {
       "input": ["hbm:item.crystal_fluorite"],
       "output": ["hbm:item.fluorite",8]
     },
@@ -2224,18 +2236,6 @@
     {
       "input": ["minecraft:skull"],
       "output": ["hbm:item.biomass",4]
-    },
-	{
-      "input": ["minecraft:wheat"],
-      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,4]
-    },
-    {
-      "input": ["minecraft:ender_pearl"],
-      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,46]
-    },
-    {
-      "input": ["appliedenergistics2:tile.BlockSkyStone"],
-      "output": ["appliedenergistics2:item.ItemMultiMaterial",1,45]
     }
   ]
 }
