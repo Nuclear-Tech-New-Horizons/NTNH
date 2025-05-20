@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<ProjRed|Expansion:projectred.expansion.machine2:11>);
 recipes.remove(<minecraft:flint_and_steel>);
 recipes.remove(<ae2fc:part_fluid_export>);
 recipes.remove(<ae2fc:part_fluid_import>);

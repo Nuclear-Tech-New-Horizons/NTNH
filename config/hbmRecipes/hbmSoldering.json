@@ -529,7 +529,7 @@
       "toppings": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",8,10],
         ["item","hbm:item.plate_polymer",16],
-        ["item","hbm:item.nugget_technetium",8]
+        ["item","hbm:item.ingot_tcalloy",1]
       ],
       "pcb": [],             
       "solder": [
@@ -697,7 +697,7 @@
       "toppings": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",8,9],
         ["item","hbm:item.plate_polymer",16],
-        ["item","hbm:item.nugget_technetium",8]
+        ["item","hbm:item.nugget_technetium",2]
       ],
       "pcb": [],             
       "solder": [
@@ -739,7 +739,7 @@
       "toppings": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",8,10],
         ["item","hbm:item.plate_polymer",16],
-        ["item","hbm:item.nugget_desh",8]
+        ["item","hbm:item.ingot_desh",1]
       ],
       "pcb": [],             
       "solder": [
