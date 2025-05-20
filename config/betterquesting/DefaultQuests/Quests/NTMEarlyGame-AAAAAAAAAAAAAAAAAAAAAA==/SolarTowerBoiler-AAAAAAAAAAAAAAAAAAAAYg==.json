@@ -59,12 +59,6 @@
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:item.mirror_tool"
-        },
-        "3:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:tile.machine_steam_engine"
         }
       },
       "taskID:8": "bq_standard:retrieval"

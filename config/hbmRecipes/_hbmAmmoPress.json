@@ -1204,6 +1204,34 @@
         ["dict","plateSteel",4],
         null
       ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",16,90],
+      "input": [
+        null,
+        ["dict","ingotSteel"],
+        null,
+        null,
+        ["dict","ntmpipeSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null
+      ]
+    },
+    {
+      "output": ["hbm:item.ammo_standard",4,91],
+      "input": [
+        null,
+        ["dict","ingotAnyHighexplosive",4],
+        null,
+        null,
+        ["dict","ntmpipeSteel"],
+        null,
+        null,
+        ["dict","dustAnySmokeless"],
+        null
+      ]
     }
   ]
 }
