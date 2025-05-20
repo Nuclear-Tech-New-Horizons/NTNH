@@ -1,11 +1,11 @@
-    {
+{
       "inputs": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,35],
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
       ],
       "output": ["appliedenergistics2:item.ItemBasicStorageCell.1k"],
       "duration": 200,
-      "consumption": 125000
+      "consumption": 1250
     },
     {
       "inputs": [
@@ -14,7 +14,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemBasicStorageCell.4k"],
       "duration": 250,
-      "consumption": 400000
+      "consumption": 2000
     },
     {
       "inputs": [
@@ -23,7 +23,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemBasicStorageCell.16k"],
       "duration": 300,
-      "consumption": 1333333
+      "consumption": 4500
     },
     {
       "inputs": [
@@ -32,7 +32,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemBasicStorageCell.64k"],
       "duration": 350,
-      "consumption": 2857142
+      "consumption": 8000
     },
     {
       "inputs": [
@@ -41,7 +41,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.256k"],
       "duration": 400,
-      "consumption": 12500000
+      "consumption": 10000
     },
     {
       "inputs": [
@@ -50,7 +50,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.1024k"],
       "duration": 450,
-      "consumption": 44444444
+      "consumption": 12000
     },
     {
       "inputs": [
@@ -59,7 +59,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.4096k"],
       "duration": 500,
-      "consumption": 100000000
+      "consumption": 15000
     },
     {
       "inputs": [
@@ -68,7 +68,7 @@
       ],
       "output": ["appliedenergistics2:item.ItemAdvancedStorageCell.16384k"],
       "duration": 550,
-      "consumption": 125000000
+      "consumption": 20000
     },
     {
       "inputs": [
@@ -77,34 +77,34 @@
       ],
       "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Container",1],
       "duration": 350,
-      "consumption": 2857142
+      "consumption": 50000
     },
-     {
+    {
       "inputs": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,32],
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
       ],
       "output": ["appliedenergistics2:item.ItemSpatialStorageCell.2Cubed"],
       "duration": 250,
-      "consumption": 400000
+      "consumption": 2000
     },
-     {
+    {
       "inputs": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,33],
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
       ],
       "output": ["appliedenergistics2:item.ItemSpatialStorageCell.16Cubed"],
       "duration": 300,
-      "consumption": 1333333
+      "consumption": 4500
     },
-     {
+    {
       "inputs": [
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,34],
         ["item","appliedenergistics2:item.ItemMultiMaterial",1,39]
       ],
       "output": ["appliedenergistics2:item.ItemSpatialStorageCell.128Cubed"],
       "duration": 350,
-      "consumption": 2857142
+      "consumption": 8000
     },
     {
       "inputs": [
@@ -114,7 +114,7 @@
       "fluid": ["STELLAR_FLUX",1000],
       "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Universe",1],
       "duration": 600,
-      "consumption": 20000000
+      "consumption": 50000
     },
     {
       "inputs": [
@@ -124,7 +124,7 @@
       "fluid": ["STELLAR_FLUX",1000],
       "output": ["appliedenergistics2:item.ItemExtremeStorageCell.Singularity",1],
       "duration": 600,
-      "consumption": 20000000
+      "consumption": 70000
     },
 	{
       "inputs": [
@@ -133,7 +133,7 @@
       ],
       "output": ["ae2fc:fluid_storage1"],
       "duration": 200,
-      "consumption": 125000
+      "consumption": 1250
     },
 	{
       "inputs": [
@@ -142,7 +142,7 @@
       ],
       "output": ["ae2fc:fluid_storage4"],
       "duration": 250,
-      "consumption": 400000
+      "consumption": 2000
     },
 	{
       "inputs": [
@@ -151,7 +151,7 @@
       ],
       "output": ["ae2fc:fluid_storage16"],
       "duration": 300,
-      "consumption": 1333333
+      "consumption": 4500
     },
 	{
       "inputs": [
@@ -160,7 +160,7 @@
       ],
       "output": ["ae2fc:fluid_storage64"],
       "duration": 350,
-      "consumption": 2857142
+      "consumption": 8000
     },
 	{
       "inputs": [
@@ -169,7 +169,7 @@
       ],
       "output": ["ae2fc:fluid_storage256"],
       "duration": 400,
-      "consumption": 12500000
+      "consumption": 10000
     },
     {
       "inputs": [
@@ -178,7 +178,7 @@
       ],
       "output": ["ae2fc:fluid_storage1024"],
       "duration": 450,
-      "consumption": 44444444
+      "consumption": 12000
     },
     {
       "inputs": [
@@ -187,7 +187,7 @@
       ],
       "output": ["ae2fc:fluid_storage4096"],
       "duration": 500,
-      "consumption": 100000000
+      "consumption": 15000
     },
     {
       "inputs": [
@@ -196,7 +196,7 @@
       ],
       "output": ["ae2fc:fluid_storage16384"],
       "duration": 550,
-      "consumption": 125000000
+      "consumption": 20000
     },
 	{
       "inputs": [
@@ -205,7 +205,7 @@
       ],
       "output": ["ae2fc:multi_fluid_storage1"],
       "duration": 200,
-      "consumption": 125000
+      "consumption": 1250
     },
 	{
       "inputs": [
@@ -214,7 +214,7 @@
       ],
       "output": ["ae2fc:fluid_storage4"],
       "duration": 250,
-      "consumption": 400000
+      "consumption": 2000
     },
 	{
       "inputs": [
@@ -223,7 +223,7 @@
       ],
       "output": ["ae2fc:multi_fluid_storage16"],
       "duration": 300,
-      "consumption": 1333333
+      "consumption": 4000
     },
 	{
       "inputs": [
@@ -232,7 +232,7 @@
       ],
       "output": ["ae2fc:multi_fluid_storage64"],
       "duration": 350,
-      "consumption": 2857142
+      "consumption": 8000
     },
 	{
       "inputs": [
@@ -241,7 +241,7 @@
       ],
       "output": ["ae2fc:multi_fluid_storage256"],
       "duration": 400,
-      "consumption": 12500000
+      "consumption": 10000
     },
     {
       "inputs": [
@@ -250,7 +250,7 @@
       ],
       "output": ["ae2fc:multi_fluid_storage1024"],
       "duration": 450,
-      "consumption": 44444444
+      "consumption": 12000
     },
     {
       "inputs": [
@@ -259,7 +259,7 @@
       ],
       "output": ["ae2fc:fluid_storage4096"],
       "duration": 500,
-      "consumption": 100000000
+      "consumption": 15000
     },
     {
       "inputs": [
@@ -268,5 +268,5 @@
       ],
       "output": ["ae2fc:multi_fluid_storage16384"],
       "duration": 550,
-      "consumption": 125000000
+      "consumption": 20000
     },
