@@ -13,10 +13,10 @@ if exist current_version.txt (
     ) else (
         echo Updating script to version %LATEST_TAG%...
         :: Скачивание новой версии скрипта
-        powershell -command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/Nuclear-Tech-New-Horizons/NTNH/%LATEST_TAG%/update.bat -OutFile update.bat.new"
-        if exist update.bat.new (
+        powershell -command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/Nuclear-Tech-New-Horizons/NTNH/%LATEST_TAG%/+UpdateScript_DoYouTrustMe-client.bat -OutFile +UpdateScript_DoYouTrustMe-client.bat.new"
+        if exist +UpdateScript_DoYouTrustMe-client.bat.new (
             :: Замена текущего скрипта
-            move /y update.bat.new update.bat
+            move /y +UpdateScript_DoYouTrustMe-client.bat.new +UpdateScript_DoYouTrustMe-client.bat
             echo Script updated. Restarting...
             :: Перезапуск скрипта
             start "" cmd /c "%~f0" %*

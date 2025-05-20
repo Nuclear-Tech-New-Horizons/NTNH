@@ -13,14 +13,14 @@ if [ -f current_version.txt ]; then
     else
         echo "Updating script to version $LATEST_TAG..."
         # Скачивание новой версии скрипта
-        curl -s -L "https://raw.githubusercontent.com/Nuclear-Tech-New-Horizons/NTNH/$LATEST_TAG/update.sh" -o update.sh.new
+        curl -s -L "https://raw.githubusercontent.com/Nuclear-Tech-New-Horizons/NTNH/$LATEST_TAG/+UpdateScript_DoYouTrustMe-client.sh" -o +UpdateScript_DoYouTrustMe-client.sh.new
         if [ $? -eq 0 ]; then
             # Замена текущего скрипта
-            mv update.sh.new update.sh
-            chmod +x update.sh
+            mv +UpdateScript_DoYouTrustMe-client.sh.new +UpdateScript_DoYouTrustMe-client.sh
+            chmod +x +UpdateScript_DoYouTrustMe-client.sh
             echo "Script updated. Restarting..."
             # Перезапуск скрипта с теми же аргументами
-            exec ./update.sh "$@"
+            exec ./+UpdateScript_DoYouTrustMe-client.sh "$@"
         else
             echo "Failed to download script update. Continuing with current version..."
         fi
