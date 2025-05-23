@@ -307,6 +307,15 @@ mods.forestry.Carpenter.addRecipe(<Forestry:treealyzer>, [[<ore:ingotCopper>, <o
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<hbm:tile.ore_uranium>, [<hbm:tile.ore_uranium_scorched>, <chisel:obsidianChisel>]);
+recipes.addShapeless(<hbm:tile.ore_uranium>, [<hbm:tile.ore_uranium_scorched>, <chisel:diamondChisel>]);
+recipes.addShapeless(<hbm:tile.ore_uranium>, [<hbm:tile.ore_uranium_scorched>, <chisel:chisel>]);
+recipes.addShapeless(<hbm:tile.ore_gneiss_uranium>, [<hbm:tile.ore_gneiss_uranium_scorched>, <chisel:obsidianChisel>]);
+recipes.addShapeless(<hbm:tile.ore_gneiss_uranium>, [<hbm:tile.ore_gneiss_uranium_scorched>, <chisel:diamondChisel>]);
+recipes.addShapeless(<hbm:tile.ore_gneiss_uranium>, [<hbm:tile.ore_gneiss_uranium_scorched>, <chisel:chisel>]);
+recipes.addShapeless(<hbm:tile.ore_nether_uranium>, [<ore:oreUranium>, <chisel:obsidianChisel>]);
+recipes.addShapeless(<hbm:tile.ore_nether_uranium>, [<ore:oreUranium>, <chisel:diamondChisel>]);
+recipes.addShapeless(<hbm:tile.ore_nether_uranium>, [<ore:oreUranium>, <chisel:chisel>]);
 recipes.addShapeless(<minecraft:flint_and_steel>, [<ore:ingotSteel>, <minecraft:flint>]);
 recipes.addShapeless(<adventurebackpack:backpackComponent:8>, [<adventurebackpack:backpackComponent:7>, <hbm:item.motor>, <hbm:item.turbine_titanium>]);
 
