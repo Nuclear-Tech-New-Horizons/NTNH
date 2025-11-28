@@ -1,0 +1,13 @@
+name = "Nuclear Tech: New Horizons"
+author = "Bufka2011"
+version = "2.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "174634f271b5729837e76c558f65f2a8f1199d4b257936d6a2da829fb0478fd5"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"
