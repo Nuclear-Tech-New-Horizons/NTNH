@@ -1,153 +1,20 @@
-# 2.3.0 Release
-### This is a big one, make sure to backup your worlds before updating!
+# X.X.X Release
+### Test
 
 ## What's changed?
 **Added**
-- New fusion reactor
-   └ More dynamic system with more components to choose from
-   └ Models and GUIs that are less eye-bleeding
-   └ Plasmas are now represented as a recipe selector instead of dedicated fluids, making the entire thing fully configurable
-   └ Despite being recipe based, fusion reactors will still burn fuel at a steady rate
-   └ Comes with load-balancing, if the solenoid power or fuel supply drops, the reaction will slow down
-      └ This ensures that supply below maximum demand doesn't cause "flickering" due to constantly running out of fuel
-   └ Comes with many juicy parts
-      └ The plasma vessel is where the magic happens, has four connectors for other parts
-      └ Klystron is used to ignite the plasma
-      └ Breeding chamber uses the plasma's output flux to do irradiation recipes
-      └ Collector increases byproduct yield
-      └ Boiler turns water into SDS
-      └ MHD turbine makes power out of the plasma directly at greater efficiency
-      └ Coupler turns plasma output energy into usable klystron energy, allowing one reactor to be powered by another, creating a multi-torus setup
-   └ Also has full QMAW documentation, if the tooltips aren't enough
-- Boxcables
-   └ Like boxducts, but for power
-- Animated orbital transfers for all rockets, not just orbital stations!
-   └ Sun occlusion is now calculated using the eclipse solver, no more random darkness during transfers!
-   └ Improvements to the orbital transfer animations for more ⊹₊ ˚‧︵‿₊୨ realisme ୧₊‿︵‧ ˚ ₊⊹ are planned
-      └ Fuel calculations are already accurate though, using derived dV based on Hohmann transfers
-- Oxygen-Rich Air - found on Earth and Laythe
-   └ All your setups will automatically use this fluid instead of compressed air, where applicable
-- Minmus mint icecream and delicious Aussie Mint Slice biscuits
-   └ Mint plants will spawn in the same places strawberries do
-- Orbital station launching port
-   └ Allows you to construct and launch rockets from orbital stations
-    The terrestial VAB and rocket launch pad no longer function in orbit
-- Tekto bedrock oil
-   └ Avoid collecting this near your base, the fracking damage is a fair bit more pronounced than other bedrock deposits!
-- Synthetic leather/pleather
-   └ Very useful for Martian playthroughs
+- New test
+   └ Just test
 
 **Fixed**
-- Fixed arc furnace only allowing electrodes to be inserted when the lid is down instead of up
-- Fixed issue where the amounts tracker wasn't being used correctly when using a custom acidizer config, preventing the acidizer partitioner from working
-- Fixed multi fluid ID search potentially not working on systems with a non-latin locale
-- Fixed particle accelerator source working even if not cooled
-- Fixed foundry channels being overly laggy in certain setups
-- Fixed potential mod incompatibilities with world generation mods that use outdated forge hooks
-- Fixed the buzzsaw not properly replanting trees using the leaves2 block type
-- Fixed creepers regaining their exploding AI task upon relog, if defused
-- Fixed assembly and chemical factories not properly saving their recipe fluid buffers
-- Fixed light blue and light gray dyes not working when dyeing cables
-- Fixed bismuth armor not having a valid repair material
-- Fixed compressors needing at least one mB of fluid more to process a recipe than necessary
-- Fixed many NTM structure spawn conditions being hardcoded (again) preventing them from spawning in modded biomes that would otherwise be a fit
-- Fixed spawn offset for some structures which caused them to float in the air
-- Fixed icons in the QMAW title bar often times being too dark when rendered with a 3D model
-- Fixed rocket artillery modes having incorrect tooltips
-- Player models now tilt with rockets, no more feet sticking out during gravity turns
-- Worldgen performance was poo poo, now it is 14x less poo poo (that's 28x less poo with RTG installed!)
-- Crash with certain malformed rideable rockets
-- Celestial world providers extended the wrong class, breaking oregen in GT
-- Meteors spawning in non-surface modded dimensions (like AE2 spatial cells)
-- Insane thunder spam when a dimension with no atmosphere is loaded
-- Attempt at fixing station thrusters remaining "on"
-- Fixed ore acidizer recipe config just straight up not working with ore dictionary keys
-- Fixed logistic network nodes disabled via redstone not re-enabling when redstone is cut
-- Added provisional emergency brake to drone pathfinding, pathfinding will simply fail if it goes on for too long
-- Fixed ore acidizer partitioner freezing the game
-- Fixed ore acidizer partitioner trash slots not being accessible via automation
-
 
 
 **Changed**
-- **REWORKED WHOLE QUESTBOOK** (thank you \_SkippyPlaysMC_!)
-- Added completely new crash reportation system
-- Debuffed mobs
-   └ Now there are no Bosses (Infernal Mobs)
-- Rebalanced food system
-   └ Now snacks, meals meaty meals are giving you way more saturation
-   └ But raw vegetables are not that good now
-- Updated chinese localization
-- Updated meteors
-   └ Meteors will now punch through weak blocks like leaves instead of getting stuck on trees
-   └ Meteor impacts now have new visuals
-   └ Falling meteors will produce a sound instead of stealthily blowing people up
-   └ Fallen meteors will now be placed deeper into the actual crater instead of hovering awkwardly over the hole
-- Added QMAW pages for the particle accelerator parts along with a PA overview page and a simple step by step construction tutorial
-- Increased the acidizer partitioner's input limit from 9 to 45 slots
-- Ammo containers are now functional again
-   └ Each gun has a fixed "default ammo" that will be given
-   └ Grants ammo for up to three held guns, selected randomly
-   └ Ammo given does not respect caliber conversion mods
-   └ Amount of ammo given depends on the mag size and type of ammo
-      └ Most pistols and low capacity rifles will get two reloads worth of ammo
-      └ High capacity rifles will typically get only one magazine
-      └ Rocket launchers typically only get a small amount of rockets
-      └ The fat man only gets a single nuke
-      └ Certain legendaries do not give ammo at all, they are omitted when three randomly held guns are selected
-- Ammo containers are now found in more itempools
-- The arc furnace input queue can now be moved into the recipe grid if the lid is at least slightly open instead of requiring a fully opened lid
-   └ This means that in system with slow input, the time window when items can be added to the arc furance is now more forgiving
-- Pipe anchors now have a look overlay showing the currently configured fluid type
-- Removed ammo duping using nitra, instead, four large piles can now be combined into an ammo container
-   └ Ammo containers crafted from nitra cannot give "expensive" ammo types
-   └ This mainly excludes mini nukes and .35
-   └ Comes in a distinct blue color instead of military green
-   └ Makeshift containers also yield only half as much ammo as regular ones
-- Using a defuser, creepers can now be rendered harmless manually
-- Defusing creepers now also works if the creeper hasn't lit its fuse yet
-- Defused creepers are now permanently harmless, they can no longer be manually re-ignited at all
-- Manual defusers now also affect big man johnson
-   └ Defusing only works if the timer is active
-   └ The glpyhid will explode instantly, but only about as powerful as a conventional rocket, not destroying blocks
-   └ Doing so will also drop one usable demolition mini nuke
-- The painsaw ability no longer plays the blood splash particle effect
-   └ Instead, it will outright gib the target
-- Pile plutonium rods can now be reprocessed in the PUREX in addition to the old anvil recipes
-   └ The recipes require 100mB of sulfuric acid and 100HE/t, the lowest requirement for all reprocessing recipes
-   └ The recipes are part of a shared auto switch group, meaning that even if different rod types are produced, only one PUREX is necessary
-- Grass is no longer a valid paint block for paintable cables and ducts
-- Multiblocks are no longer affected by collapses caused by nuclear explosions
-- The old NITAN powder chests have been removed
-   └ In their place, there's now a different, more useful structure with similar but not identical spawn rules
-- ROR controller torches can now set the threshold of particle accelerator dipoles
-- Removed the legacy recipes from the terra drills
-- Slag can now be cast into ingots
-- Re-solidifcation of bedrock ore crumbs now requires ore slop instead of nitric acid
-   └ Due to ore slop being only obtainable from processing raw bedrock ore, this places a hard cap on how many times a single ore can be re-solidified out of crumbs
-   └ This approach means that crumb yields don't have to be nerfed, and prevents that issue from popping up again should there ever be a new, more efficient processing path
-- Rewrote the ore layer generator (hematite, bauxite) to be way more performant during worldgen
-- The mining laser can now be stopped by applying a redstone signal to one of the ports
-- Ionized particles can no longer be liquefacted into helium-4, helium is now a direct liquid byproduct of several fusion reactor recipes
-- Adjusted schrabidic acid recipe to account for higher ionized particle yield
-- Increased the ICF's stellar flux output by a factor of four
-- Air intake is no longer decorative, can create compressed air
-        Will consume air inside pressurized rooms and convert it into compressed air at a 1:100 ratio
-        This means a klystron will consume 25mB/t of oxygen if used in an orbital station, just a tad more than the old fusion reactor consumed
-- Entanglement kits now use krypton instead of xenon, which can be acquired on Earth after stainless steel
-- T-51 armor can now be used as a spacesuit
-- Minor circuit rework
-   └ Avionics chip added
-   └ Existing avionics chip renamed to astrionics unit
-   └ Cheaper military grade chips on Tekto!
-- Murky wings can now descend properly when used in orbit
-- Removed the old ZOMG beams, negative energy type explosions now use DFC-like effects instead
-- Removed the old multitool (it sucked)
-- Stages now decouple in two steps, with the engine shroud decoupling shortly after the prior stage
 
 
 
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.2.0...2.3.0)
+
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.2.0...X.X.X)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.3.0)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/X.X.X)
