@@ -20,7 +20,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Vacuum Refinery is an oil refinery which processes Pressurized/Desulfurized Crude Oil into 4 liquid products. The Vacuum Refinery is a good way to make High-Performance Solvent by using Reformate Gas and Chlorine Gas in an Industrial Mixer.\nCompressors are needed for the oil to be inserted inside the Vacuum Refinery.",
+      "desc:8": "The §3Vacuum Refinery§r is an oil refinery which processes §bPressurized/Desulfurized Crude Oil§r into 4 liquid products. It is a good way to make §bHigh-Performance Solvent§r by using §bReformate Gas§r and §bChlorine Gas§r in an §3Industrial Mixer§r.\n\n§2Compressors are needed for the oil to be inserted inside the Vacuum Refinery.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -28,7 +28,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_vacuum_distill"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Vacuum Refinery",
@@ -44,21 +44,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 147,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

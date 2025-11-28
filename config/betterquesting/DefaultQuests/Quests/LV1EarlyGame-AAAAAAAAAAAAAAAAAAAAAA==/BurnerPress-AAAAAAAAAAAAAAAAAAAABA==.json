@@ -1,14 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7668713233961733844,
-      "questIDLow:4": -8186258255035639237
+      "questIDHigh:4": 0,
+      "questIDLow:4": 1
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Presses are machines that can be used to make plates, wires, or circuits as well as compressing non-smeltable powders back into their normal form and the production of certain types of bullets. The Presses require stamps to work, which can be made from the basic Flat Stamp and a Template Folder. A preheater can be placed next to the Burner Press to increase its speed.",
+      "desc:8": "The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r and a §6Template Folder§r. \n\n§2A preheater can be placed next to the Burner Press to increase its speed.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_press"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Burner Press",
@@ -32,21 +32,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 4,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 1,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

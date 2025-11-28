@@ -28,7 +28,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Watz Powerplant is a fission reactor which can produce Poisonous Mud, important for making CMB Steel. Although the reactor is not really powerful in terms of energy output, the Watz Powerplant can be stacked ontop of eachother for increased mud and power production.\n\nIf the poisonous mud buffer reaches its maximum, the reactor will melt down and explode, irradiating a wide area around it and causing fallout to fall in a small area around it. As well as this, it will spew poisonous mud in a very wide area which will then corrode any blocks that it comes in contact with, similar to corium.",
+      "desc:8": "The §3Watz§r powerplant is a fission reactor which can produce §bPoisonous Mud§r, an important component of §6CMB Steel§r. Although the reactor is not really powerful in terms of energy output, it can be stacked ontop of eachother for increased mud and power production.\n\nIf the poisonous mud buffer reaches its maximum, the reactor will melt down and explode, irradiating a wide area around it and causing fallout to fall in a small area around it. As well as this, it will spew poisonous mud in a very wide area which will then corrode any blocks that it comes in contact with, similar to corium.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -36,7 +36,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.watz"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Watz Powerplant",
@@ -60,16 +60,11 @@
       "rewards:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 3,
+          "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag",
+          "id:8": "amazingtrophies:trophy",
           "tag:10": {
-            "ench:9": {
-              "0:10": {
-                "id:2": 35,
-                "lvl:2": 3
-              }
-            }
+            "trophyID:8": "watz"
           }
         }
       }

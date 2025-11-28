@@ -1,0 +1,32 @@
+recipes.remove(<ae2fc:fluid_storage.quantum>);
+recipes.remove(<ae2fc:fluid_storage.singularity>);
+recipes.remove(<ae2fc:part_fluid_export>);
+recipes.remove(<ae2fc:part_fluid_import>);
+recipes.remove(<ae2fc:fluid_storage4096>);
+recipes.remove(<ae2fc:multi_fluid_storage4>);
+recipes.remove(<ae2fc:multi_fluid_storage16>);
+recipes.remove(<ae2fc:fluid_storage1024>);
+recipes.remove(<ae2fc:fluid_storage256>);
+recipes.remove(<ae2fc:multi_fluid_storage64>);
+recipes.remove(<ae2fc:multi_fluid_storage256>);
+recipes.remove(<ae2fc:fluid_storage64>);
+recipes.remove(<ae2fc:multi_fluid_storage1024>);
+recipes.remove(<ae2fc:fluid_storage16>);
+recipes.remove(<ae2fc:multi_fluid_storage4096>);
+recipes.remove(<ae2fc:fluid_storage4>);
+recipes.remove(<ae2fc:fluid_storage1>);
+recipes.remove(<ae2fc:multi_fluid_storage16384>);
+recipes.remove(<ae2fc:multi_fluid_storage1>);
+recipes.remove(<ae2fc:fluid_storage16384>);
+recipes.remove(<ae2fc:fluid_part:7>);
+recipes.remove(<ae2fc:fluid_part:6>);
+recipes.remove(<ae2fc:fluid_part:5>);
+recipes.remove(<ae2fc:fluid_part:4>);
+recipes.remove(<ae2fc:fluid_part:3>);
+recipes.remove(<ae2fc:fluid_part:2>);
+recipes.remove(<ae2fc:fluid_part:1>);
+recipes.remove(<ae2fc:fluid_part>);
+
+
+recipes.addShaped(<ae2fc:part_fluid_export>, [[<ore:gemLapis>, <appliedenergistics2:item.ItemMultiMaterial:22>, <ore:gemLapis>], [<ore:ingotSteel>, <ore:craftingPiston>, <ore:ingotSteel>]]);
+recipes.addShaped(<ae2fc:part_fluid_import>, [[<ore:gemLapis>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:gemLapis>], [<ore:ingotSteel>, <ore:craftingPiston>, <ore:ingotSteel>]]);

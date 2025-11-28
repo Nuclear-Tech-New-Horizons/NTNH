@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Heavy Magnetic Storage Tank can store dangerous fluids such as Antimatter and Antischrabidium. It will be particularly useful when making gerald, as he will need very large quantities of Stellar Flux.",
+      "desc:8": "The §3Heavy Magnetic Storage Tank§r is a large version of the §3Magnetic Antimatter Container§r. It will be particularly useful when making §6Gerald§r, as he will need very large quantities of §bStellar Flux§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_orbus"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Heavy Magnetic Storage Tank",
@@ -36,21 +36,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 144,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

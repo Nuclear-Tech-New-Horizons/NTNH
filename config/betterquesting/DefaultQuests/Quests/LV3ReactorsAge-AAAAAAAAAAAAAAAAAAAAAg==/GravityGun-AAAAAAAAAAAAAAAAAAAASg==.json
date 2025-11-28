@@ -5,8 +5,8 @@
       "questIDLow:4": 32
     },
     "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 69
+      "questIDHigh:4": -4323201697992913312,
+      "questIDLow:4": -6878916538940468111
     },
     "2:10": {
       "questIDHigh:4": 0,
@@ -16,7 +16,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Gravity Gun is an advanced tool which can lift and throw blocks. It is particularly useful for moving highly hazardous blocks, such as Corium from a reactor meltdown, or throwing explosives.\n\nThe Gravity Gun can be supercharged in a Cyclotron using Ionized Particles, further increasing its range and power.",
+      "desc:8": "The §6Gravity Gun§r is an advanced tool which can lift and throw blocks. It is particularly useful for moving highly hazardous blocks, such as corium from a reactor meltdown, or throwing explosives.\n\n§2The gravity gun can be supercharged in a Cyclotron using Ionized Particles, further increasing its range and power.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

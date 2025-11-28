@@ -1,6 +1,10 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": -2494767301009522045,
+      "questIDLow:4": -5019016907289366985
+    },
+    "1:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 55
     }
@@ -8,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Yharonite Billet is created in a tungsten crate that has polonium billets in it while being shot from a DFC Emitter. This is the final material obtained in the mod.",
+      "desc:8": "The §6Yharonite Billet§r is created in a tungsten crate that has §6Polonium Billets§r in it while being shot from a §3DFC Emitter§r. This is the final material obtained in the mod.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,11 +20,11 @@
         "OreDict:8": "",
         "id:8": "hbm:item.billet_yharonite"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Yharonite Billet",
-      "questLogic:8": "AND",
+      "questLogic:8": "OR",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,

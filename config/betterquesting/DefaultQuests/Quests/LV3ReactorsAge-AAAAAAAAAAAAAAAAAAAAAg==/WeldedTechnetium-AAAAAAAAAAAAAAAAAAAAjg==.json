@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Welded Technetium/Cadmium Steel Plate is the welded varient of the Technetium/Cadmium Steel Cast Plate and is used in many recipes that require strong materials. \n\nMake sure to have good energy generation and storage infrastructure as each plate costs 1.2 Billion HE.",
+      "desc:8": "The §6Welded Technetium/Cadmium Steel Plate§r is the welded varient of the cast technetium/cadmium steel plate and is used in some recipes that require strong materials. \n\n§2Make sure to have good energy generation and storage infrastructure as each plate costs 1.2 Billion HE.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "plateSextupleAnyResistantAlloy",
         "id:8": "hbm:item.plate_welded"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Welded Technetium/Cadmium Steel Plate",
@@ -32,21 +32,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 142,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

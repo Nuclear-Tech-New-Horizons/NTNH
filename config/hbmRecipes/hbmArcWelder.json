@@ -738,16 +738,6 @@
     },
     {
       "inputs": [
-        ["dict","plateCMBSteel",2],
-        ["dict","ingotUranium238"]
-      ],
-      "fluid": ["NEON",2000],
-      "output": ["hbm:item.insert_cmb"],
-      "duration": 600,
-      "consumption": 50000
-    },
-    {
-      "inputs": [
         ["item","hbm:item.sat_base"],
         ["item","hbm:item.sat_head_mapper"]
       ],
@@ -842,6 +832,25 @@
       "output": ["hbm:item.rp_f_20_12"],
       "duration": 250,
       "consumption": 60000
+    },
+    {
+      "inputs": [
+        ["dict","plateCMBSteel",2],
+        ["dict","ingotUranium238"]
+      ],
+      "fluid": ["NEON",2000],
+      "output": ["hbm:item.insert_cmb"],
+      "duration": 600,
+      "consumption": 50000
+    },
+    {
+      "inputs": [
+        ["dict","plateTripleAluminum",2],
+        ["item","hbm:item.circuit",2,14]
+      ],
+      "output": ["hbm:item.circuit",1,13],
+      "duration": 250,
+      "consumption": 25000
     }
   ]
 }

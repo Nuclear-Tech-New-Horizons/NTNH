@@ -11,12 +11,16 @@
     "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 6
+    },
+    "3:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 139
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Exposure Chamber is a machine in which many materials can be created by exposing ingots to certain particles, most important of which being Dineutronium.",
+      "desc:8": "The §3Exposure Chamber§r is a machine in which many materials can be created by exposing ingots to certain particles, most important of which being §6Dineutronium§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 317
+      "questIDHigh:4": -857699006552061645,
+      "questIDLow:4": -7999532394621744742
     },
     "1:10": {
       "questIDHigh:4": 0,
@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Hard Plastic/PCV Bars are very durable plastics needed for many advanced recipes. Both the Hard Plastic and PCV Bars can be used in the same recipes.",
+      "desc:8": "§6Hard Plastic/PVC Bars§r are very durable plastics needed for many late game recipes. \n\n§2Both can be used in the same recipes.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +20,7 @@
         "OreDict:8": "ingotAnyHardPlastic",
         "id:8": "hbm:item.ingot_pvc"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Hard Plastic/PVC Bars",
@@ -36,21 +36,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 52,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Leviathan steam turbine is a massive machine capable of processing gargantuan amounts of steam at once, only hindered by the fluid system\u0027s transfer rate. It is significantly more powerful than even the Industrial Steam Turbine in terms of raw steam processing power. This turbine runs on 85% Efficiency, so it is recommended that only 1-2 are used for very large reactors.",
+      "desc:8": "The §3Leviathan Steam Turbine§r is a massive turbine capable of processing gargantuan amounts of §bSteam§r at once, only hindered by the fluid system\u0027s transfer rate. It is significantly more powerful than even the §3Industrial Steam Turbine§r in terms of raw steam processing power. This turbine runs on §e85%§r Efficiency, so it is recommended that only 1-2 are used for very large reactors.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_chungus"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Leviathan Steam Turbine",

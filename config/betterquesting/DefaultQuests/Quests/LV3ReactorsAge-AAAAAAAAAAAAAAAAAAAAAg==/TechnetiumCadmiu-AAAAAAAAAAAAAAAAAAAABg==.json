@@ -1,18 +1,19 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -3101135346629000022,
-      "questIDLow:4": -6053254246765017146
+      "questIDHigh:4": -8603960035130193895,
+      "questIDLow:4": -6517325018119370583
     },
     "1:10": {
-      "questIDHigh:4": -5853491650673032917,
-      "questIDLow:4": -4865800775618781097
+      "questIDHigh:4": -857699006552061645,
+      "questIDLow:4": -7999532394621744742,
+      "type:1": 1
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Technetium/Cadmium Steel are important materials needed for most of the recipes ahead, most notably the Welded Technetium/Cadmium Steel Plates, the Vacuum Refinery and the Exposure Chamber.",
+      "desc:8": "§6Technetium/Cadmium Steel§r is a steel based alloy mixed with technetium-99/Cadmium which has extreme corrosion resistance. It is frequently used in the late-game and acts as one of the main material gates of the §3Fusion§r and §3Watz§r powerplant.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +21,7 @@
         "OreDict:8": "ingotAnyResistantAlloy",
         "id:8": "hbm:item.ingot_tcalloy"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Technetium/Cadmium Steel",
@@ -36,21 +37,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 6,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

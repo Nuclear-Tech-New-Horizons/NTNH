@@ -1,10 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": -1086585241531956692,
+      "questIDLow:4": -8648126724092189131
+    },
+    "1:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 252
     },
-    "1:10": {
+    "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 253
     }
@@ -12,7 +16,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Spark Laser Crystal unlocks new and exclusive recipes, most importantly it is used to create Osmiridium.",
+      "desc:8": "The §6Spark Laser Crystal§r unlocks new recipes, most importantly it is used to create §6Osmiridium§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +24,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.laser_crystal_dnt"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Spark Laser Crystal",

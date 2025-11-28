@@ -1,22 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 80
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 114
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 10
+      "questIDHigh:4": 687731528747535133,
+      "questIDLow:4": -8048369294660925893
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "An upgraded version of the anvil, [T4], which unlocks additional recipes.",
+      "desc:8": "An upgraded version of the §3Anvil§r, [T4], which unlocks additional recipes.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -24,11 +16,11 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.anvil_ferrouranium"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Ferrouranium Anvil",
-      "questLogic:8": "OR",
+      "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,

@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "BTX is a high-grade powerful fuel which generates a lot of power when burnt. An important use of BTX is in the creation of Crystalline Fullerite and Hard Plastic Bars. BTX can be obtained from a Hydrotreater, but it is more efficient to use Reformate from a Vacuum Refinery.",
+      "desc:8": "§bBTX§r is a high-grade powerful fuel which generates a lot of power when burnt. An important use of BTX is in the creation of §6Crystalline Fullerite§r and §6Hard Plastic Bars§r. BTX can be obtained from a §3Hydrotreater§r, but it is more efficient to use §bReformate§r from a §3Vacuum Refinery§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.fluid_icon"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "BTX",
@@ -32,21 +32,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 158,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

@@ -9,8 +9,8 @@
       "questIDLow:4": 261
     },
     "2:10": {
-      "questIDHigh:4": -1776253950113594041,
-      "questIDLow:4": -5589709826954235063
+      "questIDHigh:4": 0,
+      "questIDLow:4": 277
     },
     "3:10": {
       "questIDHigh:4": 0,
@@ -20,7 +20,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The FenSU is the ultimate energy storage block, being able to store 9.22EHE.\n\n[F1] For more information.",
+      "desc:8": "The §3FenSU§r is the ultimate energy storage block, being able to store 9.22EHE.\n\n[F1] For more information.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -28,7 +28,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_fensu"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "FEnSU",
@@ -58,12 +58,6 @@
           "tag:10": {
             "trophyID:8": "fensu"
           }
-        },
-        "1:10": {
-          "Count:3": 1,
-          "Damage:2": 5,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
         }
       }
     }

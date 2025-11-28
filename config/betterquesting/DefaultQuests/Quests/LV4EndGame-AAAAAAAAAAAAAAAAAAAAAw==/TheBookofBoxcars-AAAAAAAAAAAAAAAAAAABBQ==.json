@@ -1,14 +1,9 @@
 {
-  "preRequisites:9": {
-    "0:10": {
-      "questIDHigh:4": 2684400583788414695,
-      "questIDLow:4": -8757218352635818979
-    }
-  },
+  "preRequisites:9": {},
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Book of Boxcars is an item which allows the crafting of many special items. The book can be found inside Meteorite Dungeons found randomly in the wilderness, indicated by either skulls on the ground of a black pillar.",
+      "desc:8": "The §6Book of Boxcars§r is an item which allows the crafting of many special items. The book can be found inside §eMeteorite Dungeons§r found randomly in the wilderness on extra-terrestial bodies, indicated by a black pillar, or in §eRed Rooms§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +11,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.book_of_"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "The Book of Boxcars",
@@ -32,29 +27,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 261,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 5,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag",
-          "tag:10": {
-            "ench:9": {
-              "0:10": {
-                "id:2": 35,
-                "lvl:2": 3
-              }
-            }
-          }
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

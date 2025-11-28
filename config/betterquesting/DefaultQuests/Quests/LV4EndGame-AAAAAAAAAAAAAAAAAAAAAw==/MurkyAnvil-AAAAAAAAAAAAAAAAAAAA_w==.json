@@ -1,6 +1,10 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": -1086585241531956692,
+      "questIDLow:4": -8648126724092189131
+    },
+    "1:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 254
     }
@@ -8,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Murkey Anvil is the ultimate version of the anvil, having all recipes unlocked.",
+      "desc:8": "The§3 Murky Anvil§r is the ultimate version of the §3Anvil§r, having all recipes unlocked.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

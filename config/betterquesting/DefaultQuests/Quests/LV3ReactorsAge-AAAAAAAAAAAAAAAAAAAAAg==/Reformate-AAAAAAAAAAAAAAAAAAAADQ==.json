@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Reformate is a product of Crude Oil obtained via a Vacuum Refinery or from processing Naptha in a Hydrotreater.\n\nThis step can be skipped if making Jet Fuel and BTX using a Hydrotreater.\n",
+      "desc:8": "§bReformate§r is a product of §bCrude Oil§r obtained via a §3Vacuum Refinery§r or from processing §bNaptha§r in a §3Hydrotreater§r.\n\n§2This step can be skipped if making Jet Fuel and BTX using a Hydrotreater.\n",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.fluid_icon"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Reformate",

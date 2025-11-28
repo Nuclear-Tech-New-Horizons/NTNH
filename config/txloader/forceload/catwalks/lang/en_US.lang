@@ -1,0 +1,15 @@
+item.blowtorch.name=Blowtorch
+item.rope_light.name=Rope Light
+item.caution_tape.name=Caution Tape
+item.steel_grate.name=Steel Grate
+
+tile.catwalk.name=Catwalk
+tile.caged_ladder.name=Caged Ladder
+tile.scaffold.name=Scaffold
+tile.scaffold.builder.name=Builder's Scaffold
+tile.support_column.name=Support Column
+tile.sturdy_rail.name=Sturdy Rail
+tile.sturdy_booster_rail.name=Sturdy Powered Rail
+tile.sturdy_activator_rail.name=Sturdy Activator Rail
+tile.sturdy_detector_rail.name=Sturdy Detector Rail
+itemGroup.catwalks=Catwalks

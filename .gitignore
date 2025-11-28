@@ -56,3 +56,12 @@ config/iChunUtil.cfg
 config/shaders.properties
 config/gliby_vc/ClientSettings.ini
 settings.rtg
+config/identity
+*.errored
+*.tmp
+local/crash_assistant
+config/crash_assistant/problematic_mods_config.json
+
+*.so
+
+icon.png

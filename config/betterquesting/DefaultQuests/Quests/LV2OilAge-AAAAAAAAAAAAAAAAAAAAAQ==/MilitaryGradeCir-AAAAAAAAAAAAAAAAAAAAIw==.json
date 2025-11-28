@@ -5,14 +5,14 @@
       "questIDLow:4": 64
     },
     "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 30
+      "questIDHigh:4": 3300935411432441238,
+      "questIDLow:4": -5423491499164788343
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Military Grade Circuit Board is an advanced Circuit Board used in more complicated machines, such as the Gas Centrifuge.",
+      "desc:8": "The §6Military Grade Circuit Board§r is an advanced Circuit Board used in more complicated machines, such as the §3Gas Centrifuge§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.circuit"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Military Grade Circuit Board",

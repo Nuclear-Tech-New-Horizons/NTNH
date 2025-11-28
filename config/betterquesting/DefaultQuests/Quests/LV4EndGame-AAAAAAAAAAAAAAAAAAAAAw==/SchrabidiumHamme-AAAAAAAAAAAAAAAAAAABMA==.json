@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Schrabidium Hammer is the most powerful weapon in the mod, being able to one-shot everything.",
+      "desc:8": "The §6Schrabidium Hammer§r is the most powerful weapon in the mod, being able to one-shot everything.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.schrabidium_hammer"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Schrabidium Hammer",

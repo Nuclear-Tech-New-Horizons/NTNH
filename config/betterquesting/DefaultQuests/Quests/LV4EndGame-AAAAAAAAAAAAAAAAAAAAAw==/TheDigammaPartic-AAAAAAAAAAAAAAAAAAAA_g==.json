@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Digamma Particle is created by colliding a Sparkticle capsule with a Higgs Boson capsule in a Particle Accelerator. This Particle is deady so it is adviced to be prepared.\n\nThe Digamma Particle emits a different kind of radiation, DRX, which currently can only be counter by the use of digamma medication, most notably Enteramine Pills, which provide full immunity against DRX for 10 minutes. After the DFC, Fau armor can be crafted which provides full resistance against DRX.",
+      "desc:8": "The §c§r§4§r§6Digamma Particle§r is created by colliding a §6Sparkticle Capsule§r with a §6Higgs Boson Capsule§r in a §3Particle Accelerator§r. Making it in the particle accelerator will require §6Chlorophyte Coils§r and momentum of 70,000.\n\nThe digamma particle emits a different kind of radiation, §4DRX§r, which currently can only be countered by the use of digamma medication, most notably §6Enteramine Pills§r, which provide full immunity against DRX for 10 minutes. After the §3DFC§r, Fau armor can be crafted which provides full resistance against DRX.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.particle_digamma"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "The Digamma Particle",
@@ -54,6 +54,57 @@
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.digamma_diagnostic"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.xanax"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "3:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 3,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.five_htp"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

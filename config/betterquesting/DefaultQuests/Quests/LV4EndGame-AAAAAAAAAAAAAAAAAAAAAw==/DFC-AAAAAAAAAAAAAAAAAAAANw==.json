@@ -2,21 +2,21 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 289
+      "questIDLow:4": 277
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 277
+      "questIDLow:4": 39
     },
     "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 39
+      "questIDHigh:4": -4212680820990655932,
+      "questIDLow:4": -5738584656499982622
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The DFC is the last reactor of the mod and as such is very expensive to craft. Apart from the DFC parts, two catalysts are needed for the reactor to work.",
+      "desc:8": "The §3DFC§r is the last reactor of the mod and as such is very expensive to craft. Apart from the DFC parts, two §6Catalysts§r are needed for the reactor to work.\n\nIt is recommended that the wiki is checked out.\n\n[url]https://nucleartech.wiki/wiki/DFC[/url]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -24,7 +24,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.dfc_emitter"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "DFC",
@@ -40,7 +40,24 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 55,
-  "rewards:9": {},
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "amazingtrophies:trophy",
+          "tag:10": {
+            "trophyID:8": "dfc"
+          }
+        }
+      }
+    }
+  },
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

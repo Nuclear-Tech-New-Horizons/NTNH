@@ -2,7 +2,8 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 240
+      "questIDLow:4": 240,
+      "type:1": 1
     },
     "1:10": {
       "questIDHigh:4": 0,
@@ -16,7 +17,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Euphemium is a precious material obtained from either depleted reactor fuel or by colliding Dark Matter and Plutonium in an Exposure Chamber.",
+      "desc:8": "§6Euphemium§r is a fictional material which serves as one of the mod\u0027s most endgame materials. It\u0027s extremely expensive to produce in large amounts and you will need great advancement through the mod to use it effectively.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -24,7 +25,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.nugget_euphemium"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Euphemium",

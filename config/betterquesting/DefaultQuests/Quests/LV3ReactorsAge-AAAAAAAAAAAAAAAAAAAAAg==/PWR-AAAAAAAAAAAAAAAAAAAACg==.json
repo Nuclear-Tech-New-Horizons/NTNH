@@ -2,21 +2,21 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 82
+      "questIDLow:4": 32
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 68
+      "questIDLow:4": 82
     },
     "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 60
+      "questIDHigh:4": -5975608864161641094,
+      "questIDLow:4": -6251019688253981844
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The PWR is a modular fission reactor. It is more limited than the RBMK in terms of capability and fuel types but it is much safer and easier to use due to it melting down more gently and being far more stable in its operation.\n\nThis quest demands the most essential parts of a PWR, and does not represent the amount needed for a functioning reactor. There are also many other types of PWR Components that can be used.\n\nTo obtain power from this reactor, a heat exchanger with a boiler is needed.",
+      "desc:8": "The §2§3PWR§r is a modular fission reactor. It is more limited than the §3RBMK§r in terms of capability and fuel types but it is much safer and easier to use due to it melting down more gently and being far more stable in its operation.\n\nDue to the complex and expansive nature of the PWR, it is highly recommend that the wiki is checked out as it provides more information.\n\n[url]https://nucleartech.wiki/wiki/PWR[/url]\n\n§2This quest demands the most essential parts of a PWR, and does not represent the amount needed for a functioning reactor. There are also many other types of PWR Components that can be used.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -24,7 +24,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.pwr_controller"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "PWR",
@@ -48,9 +48,12 @@
       "rewards:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 5,
+          "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
+          "id:8": "amazingtrophies:trophy",
+          "tag:10": {
+            "trophyID:8": "pwr"
+          }
         }
       }
     }
@@ -87,24 +90,23 @@
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:tile.pwr_neutron_source"
-        },
-        "4:10": {
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
           "id:8": "hbm:tile.heater_heatex"
-        },
-        "5:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:tile.pwr_heatex"
-        },
-        "6:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:tile.pwr_channel"
         }
       },
       "taskID:8": "bq_standard:retrieval"

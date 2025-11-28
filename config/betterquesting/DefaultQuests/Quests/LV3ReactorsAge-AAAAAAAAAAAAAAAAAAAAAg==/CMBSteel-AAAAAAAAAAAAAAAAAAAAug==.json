@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "CMB Steel is an alloy made from Watz Mud and Magnetized Tunsten in a Crucible. This Alloy is used in endgame machinery,such as the DFC and ICF.",
+      "desc:8": "§6CMB Steel§r is an alloy made from §6Poisonous Mud§r and §6Magnetized Tunsten§r in a §3Crucible§r. This alloy is used in endgame machinery, such as the §3ICF§r and §3DFC§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.ingot_combine_steel"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "CMB Steel",

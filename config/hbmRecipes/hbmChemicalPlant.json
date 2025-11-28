@@ -1,6 +1,6 @@
 {
   "recipes": [
-    { 
+    {
       "name": "chem.sponge",
       "inputItem": [
         ["dict","ingotAnyRubber",4]
@@ -14,7 +14,7 @@
       "duration": 100,
       "power": 100
     },
-	{ 
+	{
       "name": "chem.certus",
       "inputItem": [
         ["item","hbm:item.powder_quartz",1],
@@ -664,13 +664,13 @@
         ["item","hbm:item.pellet_charged"]
       ],
       "inputFluid": [
-        ["SAS3",8000],
-        ["PEROXIDE",6000]
+        ["SAS3",2000],
+        ["PEROXIDE",2000]
       ],
       "outputFluid": [
-        ["SCHRABIDIC",16000]
+        ["SCHRABIDIC",2000]
       ],
-      "duration": 100,
+      "duration": 60,
       "power": 5000
     },
     {
@@ -939,6 +939,20 @@
       "icon": ["hbm:item.fluid_icon",1,41]
     },
     {
+      "name": "chem.dhc",
+      "inputFluid": [
+        ["DEUTERIUM",500],
+        ["REFORMGAS",250],
+        ["SYNGAS",250]
+      ],
+      "outputFluid": [
+        ["DHC",500]
+      ],
+      "duration": 400,
+      "power": 500,
+      "icon": ["hbm:item.fluid_icon",1,210]
+    },
+    {
       "name": "chem.osmiridiumdeath",
       "inputItem": [
         ["item","hbm:item.powder_paleogenite"],
@@ -1014,7 +1028,8 @@
         ["HYDRAZINE",800]
       ],
       "duration": 250,
-      "power": 1000
+      "power": 1000,
+      "icon": ["hbm:item.canister_full",1,86]
     },
     {
       "name": "chem.ammonia",
@@ -1038,7 +1053,8 @@
         ["BLOODGAS",1000]
       ],
       "duration": 250,
-      "power": 1000
+      "power": 1000,
+      "icon": ["hbm:item.canister_full",1,87]
     },
     {
       "name": "chem.hcl",
@@ -1125,6 +1141,98 @@
       "power": 100
     },
     {
+      "name": "chem.minmusicecream",
+      "inputItem": [
+        ["item","hbm:item.butter",4],
+        ["item","hbm:tile.minmus_smooth",2],
+        ["item","hbm:tile.minmus_stone",2]
+      ],
+      "inputFluid": [
+        ["CREAM",1000]
+      ],
+      "outputItem": [
+        ["single",["hbm:item.min_cream",4]]
+      ],
+      "duration": 150,
+      "power": 100
+    },
+    {
+      "name": "chem.minmussmoothstone",
+      "inputItem": [
+        ["item","minecraft:ice",4],
+        ["item","hbm:item.mint_leaves",2],
+        ["item","hbm:tile.minmus_smooth",2]
+      ],
+      "inputFluid": [
+        ["MILK",350],
+        ["EMILK",250]
+      ],
+      "outputItem": [
+        ["single",["hbm:tile.minmus_smooth",4]]
+      ],
+      "duration": 200,
+      "power": 1000
+    },
+    {
+      "name": "chem.menthol",
+      "inputItem": [
+        ["item","hbm:item.mint_leaves",4]
+      ],
+      "inputFluid": [
+        ["STEAM",350]
+      ],
+      "outputItem": [
+        ["single",["hbm:item.ingot_menthol",2]]
+      ],
+      "duration": 50,
+      "power": 100
+    },
+    {
+      "name": "chem.mentholfromminmus",
+      "inputItem": [
+        ["item","hbm:tile.minmus_smooth",40]
+      ],
+      "inputFluid": [
+        ["STEAM",350],
+        ["SULFURIC_ACID",500]
+      ],
+      "outputItem": [
+        ["single",["hbm:item.ingot_menthol",15]]
+      ],
+      "duration": 50,
+      "power": 300
+    },
+    {
+      "name": "chem.mintslice",
+      "inputItem": [
+        ["item","hbm:item.billet_menthol",3],
+        ["item","hbm:tile.minmus_stone"],
+        ["item","minecraft:sugar",6]
+      ],
+      "inputFluid": [
+        ["MILK",350]
+      ],
+      "outputItem": [
+        ["single",["hbm:item.chocolate_mint_billet",3]]
+      ],
+      "duration": 50,
+      "power": 100
+    },
+    {
+      "name": "chem.minmusstone",
+      "inputItem": [
+        ["item","hbm:tile.minmus_smooth",2]
+      ],
+      "inputFluid": [
+        ["SULFURIC_ACID",500]
+      ],
+      "outputItem": [
+        ["single",["hbm:tile.minmus_stone",2]]
+      ],
+      "duration": 300,
+      "power": 500
+    },
+    {
       "name": "chem.soil",
       "inputItem": [
         ["item","hbm:item.ammonium_nitrate"],
@@ -1161,7 +1269,8 @@
         ["NITRIC_ACID",1000]
       ],
       "duration": 50,
-      "power": 1000
+      "power": 1000,
+      "named": true
     },
     {
       "name": "chem.hydrapiss",
@@ -1175,7 +1284,24 @@
         ["HYDRAZINE",800]
       ],
       "duration": 250,
-      "power": 1000
+      "power": 1000,
+      "icon": ["hbm:item.canister_full",1,86],
+      "named": true
+    },
+    {
+      "name": "chem.synleather",
+      "inputItem": [
+        ["dict","ingotAnyPlastic"],
+        ["item","minecraft:string",4]
+      ],
+      "inputFluid": [
+        ["PEROXIDE",250]
+      ],
+      "outputItem": [
+        ["single",["minecraft:leather"]]
+      ],
+      "duration": 200,
+      "power": 500
     }
   ]
 }

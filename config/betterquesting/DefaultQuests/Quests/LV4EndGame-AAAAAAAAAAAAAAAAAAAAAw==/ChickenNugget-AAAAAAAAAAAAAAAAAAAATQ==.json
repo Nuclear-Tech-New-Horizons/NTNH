@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Chicken Nugget is the best food item in the mod, completely filling up both hunger and saturation. It is made by colliding 2 raw chickens in a Particle Accelerator.",
+      "desc:8": "The §6Chicken Nugget§r is the best food item in the mod, completely filling up both hunger and saturation. It is made by colliding 2 raw chickens in a §3Particle Accelerator§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.nugget"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Chicken Nugget",

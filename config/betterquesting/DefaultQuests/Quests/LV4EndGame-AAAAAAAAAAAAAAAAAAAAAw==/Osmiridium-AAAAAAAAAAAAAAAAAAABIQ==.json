@@ -6,21 +6,13 @@
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 135
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 103
-    },
-    "3:10": {
-      "questIDHigh:4": 0,
       "questIDLow:4": 287
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Osmiridium is the second most expensive material and is used primarely in the DFC and Euphemium Compound Plates.\n\nWelded Osmiridium Plates cost 120 Billion HE to produce, so good energy generation and storage infrastructure is needed.",
+      "desc:8": "§6Osmiridium§r is the second most expensive material and is used primarely in the §3DFC§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -28,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.ingot_osmiridium"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Osmiridium",

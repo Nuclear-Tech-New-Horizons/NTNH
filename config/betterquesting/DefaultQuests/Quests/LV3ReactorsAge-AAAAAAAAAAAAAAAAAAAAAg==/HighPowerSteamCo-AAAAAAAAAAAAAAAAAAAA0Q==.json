@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The High-Power Steam Condenser is the strongest version of the steam condenser which runs on electricity.",
+      "desc:8": "The §3High-Power Steam Condenser§r is the a steam condenser which runs on electricity. It processes up to 60 mB/t of §bLow-Pressure Steam§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

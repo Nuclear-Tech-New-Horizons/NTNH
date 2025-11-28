@@ -6,21 +6,17 @@
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 99
+      "questIDLow:4": 184
     },
     "2:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 109
-    },
-    "3:10": {
-      "questIDHigh:4": 5975597782730295733,
-      "questIDLow:4": -4830628123016588045
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The ICF Reactor is a very expensive and powerful reactor, which can produce a substantial amount of energy. Apart from the multiblock itself, ICF Lasers must be constructed for the reactor to work. Stellar Flux will be produced during its operation which is needed to craft Gerald. Consider making use of Liquid Lead as it is a very efficient coolant for the ICF.",
+      "desc:8": "The §3ICF§r reactor is a very expensive and powerful reactor, which can produce a substantial amount of energy. Apart from the multiblock itself, §3ICF Lasers§r must be constructed for the reactor to work. §bStellar Flux§r will be produced during its operation which is needed to craft §6Gerald§r. Consider making use of §bLiquid Lead§r as it is a very efficient coolant for the ICF.\n\nIt is recommended that the wiki is checked out as it has built-in calculators for the laser power consumption and the amount of hot coolant it produces.\n\n[url]https://nucleartech.wiki/wiki/Inertial_Confinement_Fusion_Reactor[/url]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -28,7 +24,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.icf"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "ICF",

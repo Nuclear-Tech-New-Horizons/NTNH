@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "In this modpack, AE2 has been changed in order to fit in more with NTM. Many components have been changed to include NTM materials and some machines, like the Grinder and Inscriber, have had their functions moved to the Shredder and Press. The Meteors have also been removed, but skystone can still be crafted for building purposes.\n\nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.",
+      "desc:8": "In this modpack, §dApplied Energistics 2§r has been changed to fit in more with §dNTM§r. Many components have been changed to include NTM materials and some machines, like the §3Grinder§r and §3Inscriber§r, have had their functions moved to the §3Shredder§r and §3Press§r. The meteors have also been removed, but §6Skystone§r can still be crafted for building purposes.\n\nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.\n\n[url]https://ftbwiki.org/Applied_Energistics_2[/url]\n\n§2NTM fluids dont work with AE2.\n",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.concrete_colored_ext"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "AE2 Changes",

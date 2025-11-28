@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Incase of an RBMK meltdown, Fuel Chunks will be thrown near the reactor. The Liquidator Medal is an armor modification which passively reduces radiation, making it very useful when handling radioactive items or venturing into irradiated areas.",
+      "desc:8": "Incase of an §3RBMK§r meltdown, §6Fuel Chunks§r will be thrown near the reactor. The §6Liquidator Medal§r is an armor modification which passively reduces radiation, making it very useful when handling radioactive items or venturing into irradiated areas.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

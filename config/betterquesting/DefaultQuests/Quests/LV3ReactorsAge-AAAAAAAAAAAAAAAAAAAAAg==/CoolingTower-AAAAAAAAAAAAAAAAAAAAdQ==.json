@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Cooling Tower is a larger version of the Auxilary Cooling Tower, able to process more Low-Pressure Steam into Water.",
+      "desc:8": "The §3Cooling Tower§r is a larger version of the §3Auxiliary Cooling Tower§r§r, able to process up to 500 mB/t of §bLow-Pressure Steam§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

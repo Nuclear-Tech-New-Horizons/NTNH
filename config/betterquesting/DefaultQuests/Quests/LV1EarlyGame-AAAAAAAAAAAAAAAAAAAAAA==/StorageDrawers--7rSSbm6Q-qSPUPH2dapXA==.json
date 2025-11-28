@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Storage Drawers are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity aswell as other abilities, such as voiding. Drawers can also be chiseled to change their wood type.\n\nNote that many drawers may cause lag.",
+      "desc:8": "Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity aswell as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.\n\n§2Many drawers may cause lag.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -3,16 +3,12 @@
     "0:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 20
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 36
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Chemical Plant is a machine needed for several processes, turning fluids into other fluids, synthesis of different compounds, ect.",
+      "desc:8": "The §3Chemical Plant§r is a machine needed for several processes, turning fluids into other fluids, synthesis of different compounds, ect. Like the §3Assembly Machine§r, recipes can be selected entirely within the GUI.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_chemical_plant"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Chemical Plant",
@@ -50,12 +46,6 @@
           "tag:10": {
             "trophyID:8": "chemplant"
           }
-        },
-        "1:10": {
-          "Count:3": 1,
-          "Damage:2": 2,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
         }
       }
     }

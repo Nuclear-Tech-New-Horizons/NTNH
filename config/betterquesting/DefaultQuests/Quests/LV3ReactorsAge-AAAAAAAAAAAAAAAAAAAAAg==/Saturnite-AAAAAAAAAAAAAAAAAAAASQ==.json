@@ -2,13 +2,9 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 104
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
       "questIDLow:4": 61
     },
-    "2:10": {
+    "1:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 62
     }
@@ -16,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Saturnite is a very durable, heat-resistant and corrosion-resistant alloy that is commonly used for making stronger gun parts. It is also used to make Starmetal and is an important component of the Watz Reactor.",
+      "desc:8": "§6Saturnite§r is a very durable, heat-resistant and corrosion-resistant alloy that is commonly used for making stronger gun parts. It is also used to make §6Starmetal§r and is an important component of the §3Watz§r reactor.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -24,7 +20,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.ingot_saturnite"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Saturnite",
@@ -40,21 +36,7 @@
   },
   "questIDHigh:4": 0,
   "questIDLow:4": 73,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 3,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

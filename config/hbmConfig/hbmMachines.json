@@ -229,5 +229,8 @@
     "I:solutionRequired": 10,
     "I:delay": 20,
     "I:destructionRange": 75
+  },
+  "mhd-turbine": {
+    "L:minimumPlasma": 5000000
   }
 }

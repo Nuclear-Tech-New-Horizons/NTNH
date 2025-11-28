@@ -6,13 +6,17 @@
     },
     "1:10": {
       "questIDHigh:4": 0,
+      "questIDLow:4": 139
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
       "questIDLow:4": 79
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Quantum Computer is the most powerful out of any other control unit. It is primarely used as of now for Gerald.",
+      "desc:8": "The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r. \n\n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -20,7 +24,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.circuit"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Quantum Computer",
