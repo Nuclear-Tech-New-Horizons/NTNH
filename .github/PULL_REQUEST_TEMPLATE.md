@@ -2,15 +2,15 @@
 ⚠️ IMPORTANT: This PR requires review and approval from the @admin team before merging
 -->
 
-## What was changed?
+## What is changed?
 <!-- Detailed description of changes made -->
 
 ## Why is this needed?
 <!-- Explain the purpose and business value of these changes -->
 
 ## Have you tested it?
-- [] Yes
-- [] No
+- [ ] Yes
+- [ ] No
 
 ## Related Issues
 <!-- Link to related GitHub issues (if any) -->
