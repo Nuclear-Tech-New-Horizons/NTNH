@@ -1,0 +1,13 @@
+name = "GTNH's Forgelin"
+filename = "forgelin-2.0.3-GTNH.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6e1863c3eecb644a3f778717240148be13215a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7252077
+project-id = 1390158

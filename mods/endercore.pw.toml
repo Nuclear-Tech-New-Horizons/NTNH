@@ -1,0 +1,13 @@
+name = "EnderCore"
+filename = "EnderCore-1.7.10-0.2.0.40_beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8fd9953d5dacc7ec684221157e8a4066d1960af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671288
+project-id = 231868
