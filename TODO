@@ -1,0 +1,1 @@
+To implement packwiz, we need to go through all the GitHub and Modrinth mods and manually generate and edit .toml files for them. It's best to do this as soon as possible, but if we need to implement packwiz immediately, it's already ready to use.
