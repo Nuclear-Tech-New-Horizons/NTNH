@@ -1,3 +1,4 @@
+recipes.remove(<openfm:MemoryCard>);
 recipes.remove(<OpenComputers:item:19>);
 recipes.remove(<OpenComputers:item:115>);
 recipes.remove(<OpenComputers:item:32>);
