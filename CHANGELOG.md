@@ -34,6 +34,7 @@
 - Fixed afterburn resistance on HEV not working
 - Fixed Floppy Disk recipe
 - Fixed Memory Card recipe
+- Fixed #62
 
 
 
