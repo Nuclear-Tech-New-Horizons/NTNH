@@ -20,6 +20,15 @@
    └ Can have up to two display panels per block
 - Redstone-over-Radio Graph 
    └ Similar to the numerical display, but instead of showing the number, it logs it every half second and displays it on a graph
+- New grenades
+   └ Universal system where there's only one grenade item
+   └ A grenade is composed of a shell, filling and fuze, which can be mixed and matched as needed
+   └ Instead of having dedicated grenades with impact or long timers, the desired fuze can simply be put into any grenade configuration
+   └ Comes with proper 3D models and animations
+   └ Grenade max stacksize has been drastically reduced (and now depends on the shell used)
+- Atmospheres are now visible from other planets/orbit
+- All planets/moons now generate flat in superflat worlds
+- TheVitya2127 bobblehead
    
 
 
@@ -35,6 +44,18 @@
 - Fixed Floppy Disk recipe
 - Fixed Memory Card recipe
 - Fixed #62
+- Fixed euphemium compound plate recipe not yielding four items as it should in the plasma forge
+- Fixed NTM rare item drops ignoring the mob loot gamerule
+- Fixed flamethrowers not properly igniting entities on direct hit, only via lingering fire
+- Fixed PWR RoR components not properly showing the possible values/functions when connected to ports
+- Fixed missing ports on the plasma forge
+- Fixed wrong texture being bound in the crucible for the molten metal gauge
+- Fixed RoR panels having no hardness at all
+- Undid the change to the crucible where using no recipe would fill up the recipe stack anyway because people would NOT STOP smelting stuff then setting the recipe after the fact which DOES NOT WORK.
+   └ This change however introduced yet another inconsistency with external pouring behavior that I simply cannot be assed to fix, so we are just rolling all that back
+   └ If you're still too dumb, bald or irradiated to use the crucible correctly, please bother LITERALLY ANOYNE EXCEPT ME.
+   └ This basically fixes the aforementioned inconsistency
+- Fixed meteorite sword progression having some issues ever since the fusion reactor rework
 
 
 
@@ -50,6 +71,39 @@
 - The plinking sound played when a drill cannot break a block now only plays once for the entire AoE instead of once for every single block that couldn't be broken
 - Fluid barrels now have a sideways connector when hooked up to pipes, bridging the two pixel gap
 - Redstone over radio panels now render with their unique parts in the inventory, making the items easier to tell apart
+- Updated russian and chinese localization
+- Removed the euphemium and DNT compound plate recipes from the anvil, they are now plasma forge exclusive
+- More RoR integration
+   └ PWRs can now output the control rod position
+   └ Industrial turbines and leviathans can now output their current energy production
+   └ Industrial turbines can output their current flywheel speed in %
+   └ The ZIRNOX now outputs its heat and pressure
+   └ The CCGT can output the turbine setting in percent, the turbine's RPM and the produced energy
+   └ The fusion reactor plasma vessel can output its output plasma energy and fuel consumption in percent
+- Cast plate foundry molds now have a triple variant
+- Zombies now have a chance to drop copper, aluminium and titanium ingots (1:200 each)
+- The burner press now has nine additional storage slots for things like stamps and reserve fuel
+- Crucible recipes no longer require templates, instead featuring a recipe selector 
+   └ This means that the template folder has been fully deprecated
+   └ The item still exists solely for providing the icon for the recipe selector
+- Improved minigun muzzleflash
+   └ The flash is now faster and larger
+   └ Moved the origin up to be at the firing barrel instead of the center of the rotor
+- RoR implicit addition as well as RoR display components now support 64 bit integer numbers (~9 quintillion) instead of just 32 bits (~2 billion)
+- Antischrabidium can no longer be made via cyclotron, it is now exclusively post particle accelerator
+- Reduced the cost of armor batteries to compensate for the new capacitor recipes
+- Quadrupled the amount of polymer created by recipe
+   └ Petroleum gas required has been doubled
+- Cadmium and fish oil to rubber recipe now needs more fish oil and outputs 16 rubber at once
+- Redesigned StarDar GUI
+- Improved StarDar OC compat
+- Planet icons tweaked for better tiling when rotating 
+   └ Urlum and moons added, can't be visited yet though
+   └ Same with Plock & Karen
+- Invasion waves now use the boss health bar
+- Distant planets are now (more) visible through scopes/zooming
+- Flour, butter, cheese, strawberries, and icecreams are now oredicted
+- More Laythe generation tweaks (ancient roots found deep underground)
 
 
 
