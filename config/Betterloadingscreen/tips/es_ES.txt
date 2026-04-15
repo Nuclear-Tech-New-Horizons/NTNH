@@ -1,92 +1,92 @@
-#Tips for the loading screen
-#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#Consejos para la pantalla de carga
+#Gracias a 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
 #
-#Maximal characters for a tip: 77 (more can go out of the screen)
-#The line below, including the "#" are 77 chars
+#Caracteres máximos para un consejo: 77 (más pueden salir de la pantalla)
+#La siguiente línea, incluyendo el "#" son 77 caracteres
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
-You can bind the quests menu to a key, instead of using the book
-Be sure to check out what you can do with Mouse Tweaks
-Literally flint and steel!
-Adventurer's backpack: integrated crafting grid, bed and fluid storage
-Beware of pollution!
-Found a bug? Report it on GitHub or Discord
-You can bookmark items with NEI ("a" by default)
-It's NEI, not JEI. Use it frequently.
-Your pick is not ready
-Also try GT:NH!
-Put the "Mine" back in Minecraft
-Don't go out at night!
-Abandon all vanilla knowledge all ye who enter here
-Sometimes it's better to flee than fight some mobs
-Be prepared to take hours to build a single multiblock machine!
-Press F7 to see spots where mobs can spawn!
-Press F9 to see chunk borders!
-Microcrafting is love, microcrafting is life
-How many circuits have you crafted in your life?
-XAERO's WORLD MAP: PRESS[M]
-sqrt(-1) loves you!
-(MultiMC > Curse) && (Technic > Curse): true
-All you had to do was tho follow the damn quest line, CJ!
-Click on an item in the quest book to show its recipe in NEI
-Why not visit Nuclear Tech? We have... hydrogen bombs
-If it's too tedious you're doing it wrong
-Do you also watch your oven while baking food?
-There's always something else you can do while waiting
-Use F3 + S to reload the sound if it's gone
-Life's all about opening issues, not closing them - Rongmario
-Visit r/feedthemems!
-I WANT ROCKET I WANT MOON - St4o
-Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
-Did you already crafted AE2 system?
-Press O to hide NEI overlay
-Also try GregTech: New Horizons!
-3.6 Roentegen?
-Factory Must Grow!
-Have you tried Schematica?
-There is a swarm ahead!
-Beware of glyphids
-Hydrogen Bomb VS Coughing Baby
-Say hello to DreamMaster from Bufka2011!
-What? Warden is a hard boss? Pfft... Martian Invasion Ship
-This is not a bug, this is an anomaly!
-ZIRNOX going brrrrrr
-Oh no, ZIRNOX going BOOOOOM
-PotatOS is funny :D
-Did you checked graphics settings?
-How much RAM do you have? 6GB fo NT:NH is perfect!
-Do not ragequit
-Historically accurate! Maybe...
-50% scientific accurate!
-How about to share this modpack with your friends?
-The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
-Do you have radiation protection with you?
-Be sure to check out if there is a new update!
-The best way to process ore is Acidizer + Centrifuge
-Crystallized ore gives you 2 ingots when smelting
-NTM's Electric Furnaces are must!
-Don't mine coal without breathing protection
-Number One Asbestos Fan
-She was 'Nuclear' on my 'Tech' until I 'New Horizons'
-Did you already automated food production?
-It's automated, not automized
-Don't forget to feed your cat!
-Minecraft loading can take a while
-World loading can take a while
-You can suggest your ideas on NTNH's GitHub repo!
-You can suggest your ideas on NTNH's Discord!
-You need help with NTM? Find SavageVegeta on YouTube!
-Do you know math? You'll need it
-2 idiots 1 reactor
-Night is REALLY scary!
-OMGWTF NUCLEAR CREEPER
-Pain-In-The-Ass modpack!
-Hello Mellow!
-Hello HBMTheBobcat!
-Hello DreamMaster!
+¿Tienes alguna pregunta? Únete a nuestro servidor de Discord: discord.gg/wtNVzeE5QB
+Puedes vincular el menú de misiones a una clave, en lugar de usar el libro
+Asegúrate de revisar lo que puedes hacer con los ajustes del ratón
+¡Literalmente pedernal y acero!
+Mochila del aventurero: cuadrícula de fabricación, cama y almacenamiento de líquidos integrados
+¡Cuidado con la contaminación!
+¿Encontraste un error? Infórmelo en GitHub o Discord
+Puede marcar artículos con NEI ("a" por defecto)
+Es NEI, no JEI. Utilícelo con frecuencia.
+Tu elección no está lista
+¡Prueba también GT:NH!
+Vuelve a colocar la "Mina" en Minecraft
+¡No salgas por la noche!
+Abandonar todos los conocimientos y esperanzas de vainilla todos vosotros los que entréis aquí
+A veces es mejor huir que luchar contra algunos mobs
+¡Prepárate para tardar horas en construir una sola máquina multibloque!
+¡Presiona F7 para ver los lugares donde los mobs pueden aparecer!
+¡Presiona F9 para ver bordes de chunk!
+El microcrafteo es el amor, El  microcrafteo es vida
+¿Cuántos circuitos has creado en su vida?
+XAERO's WORLD MAP: Presiona "M"
+sqrt(-1) ¡te ama!
+(MultiMC > Curse) && (Technic > Curse): Verdadero
+Todo lo que tenías que hacer era seguir el maldito Questbook, ¡CJ!
+Haz clic en un objeto del libro de misiones para mostrar su receta en NEI
+¿Por qué no visitar Nuclear Tech? Tenemos una... Bombas de hidrógeno
+Si es demasiado tedioso es que lo estás haciendo mal
+¿También observas tu horno mientras cocinas tu comida?
+Siempre hay algo que puedes hacer mientras esperas
+Usa F3 + S para recargar el sonido si se ha ido
+La visa se trata de generar problemas, no solucionarlos - Rongmario
+¡Visita r/feedthemems!
+¡QUIERO MI COHETE! ¡QUIERO IR A LA LUNA! - St4o
+Hola @Bufka2011 por qué copiaste nuestras reglas (GTNH) :kekwhat:
+¿Ya ha fabricado un sistema de AE2?
+Presiona O para ocultar la capa NEI
+Prueba también GregTech: ¡Nuevos Horizones! 
+¿3.6 Roentgen? Nada malo, nada bueno. (Dijo alguien en Chernóbil)
+¡La Fábrica debe Crecer!
+¿Has probado Esquematica?
+¡Cuidado, LA HORDA SE APROXIMA!!!!
+¡Ten cuidado de los Glífidos
+Bomba de Hidrógeno VS Bebé tosiendo
+¡Di hola a DreamMaster de Bufka2011!
+¿Qué? ¿El Warden es un jefe duro? Facilito Nave de invasión Marciana
+Esto no es un error, ¡es una anomalía!
+El reactor ZIRNOX va FIUUMMMMMMM
+Oh no, ZIRNOX va hablar en Taliban!!!!
+PotatOS es gracioso :D
+¿Ha comprobado los ajustes de los gráficos?
+¿Cuánta memoria RAM tienes? 6 GB de ram para NT:NH es perfecto!
+Por favor, no se rinda, ni rompa su PC de Frustración
+¡Históricamente correcto! Tal vez...
+¡Un 50% de precisión científica!
+¿Qué te parece compartir este modpack con tus amigos?
+¡El extraño meteorito aterrizó ADENTRO nuestra cueva de roca!
+¡Yaaay, contaminación! >:D
+Oh, no, la contaminación. :(
+¿Tienes protección contra la radiación contigo?
+¡Asegúrate de revisar si hay una nueva actualización!
+La mejor manera de procesar el mineral es Acidificación + Centrifugado
+El mineral cristallizado te da 2 lingotes al fundirlo
+¡Los Hornos Eléctricos de NTM son NECESARIOS!
+No extraiga carbón sin protección respiratoria
+Fan Número 1 del Asbesto
+Ella era «Nuclear» en mi «Tech» hasta que yo «New Horizons»
+¿Ya has automatizado la producción de alimentos?
+Es Automático, no Auto Maniático
+¡No olvide alimentar a tu gato!
+La carga de Minecraft puede tomar un rato
+La carga del mundo puede tomar un rato
+¡Puedes sugerir tus ideas en el repositorio GitHub de NTNH!
+¡Puedes sugerir tus ideas sobre el Discord de NTNH!
+¿Necesitas ayuda con NTM? ¡Encuentra SavageVegeta en YouTube!
+¿Sabes de matemática? La vas a necesitar.
+2 idiotas 1 reactor y 3 bananas
+¡La noche es aterradora!
+OH DIOS MIO EL CREEPER NUCLEAR ES VERDADERO. SAQUENME UNA FOTO CON EL.
+¡Es un dolor de huevo este Modpack!
+¡Hola Mellow!
+¡Hola HBMTheBobcat!
+¡Hola DreamMaster!
 Hello JamesH2!
 Hello everyone!
 Explore structures like antennas for early resources  
