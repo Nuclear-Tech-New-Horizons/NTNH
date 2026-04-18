@@ -591,5 +591,16 @@
       <Biome name="Ocean" />
     </Cloud>
 
+    <StandardGen name="FluoriteOcean"
+      block="<hbm:tile.ore_fluorite>">
+      <Setting name="Size" avg=":= 14 * oreSize" />
+      <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
+      <Setting name="Height" avg="24" range="12" />
+      <Biome name="Desert" />
+      <Biome name="DesertHills" />
+      <Biome name="Desert M" />
+      <ReplacesOre block="stone" />
+    </StandardGen>
+
   </ConfigSection>
 </Config>
