@@ -596,9 +596,8 @@
       <Setting name="Size" avg=":= 14 * oreSize" />
       <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
       <Setting name="Height" avg="24" range="12" />
-      <Biome name="Desert" />
-      <Biome name="DesertHills" />
-      <Biome name="Desert M" />
+      <Biome name="Deep Ocean" />
+      <Biome name="Ocean" />
       <ReplacesOre block="stone" />
     </StandardGen>
 
