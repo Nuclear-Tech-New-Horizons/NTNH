@@ -784,42 +784,42 @@ betterquesting.quest.3fvMK3HASiaG4E0wg7MTrA.desc=§6Пластина из ста
 
 # Quest: Industrial Greenhouse
 betterquesting.quest.4HLGI5HyQtSw1G-iuwI0kg.name=Промышленная теплица
-betterquesting.quest.4HLGI5HyQtSw1G-iuwI0kg.desc=The §3Industrial Greenhouse§r converts §bCarbon Dioxide§r into §bOxygen§r via crop growth. The greenhouse can also be supplied with §6Fertilizer§r for faster growing.
+betterquesting.quest.4HLGI5HyQtSw1G-iuwI0kg.desc=§3Промышленная теплица§r преобразует §bУглекислый газ§r в §bКислород§r посредством роста культур. Теплицу также можно снабжать §6Удобрением§r для ускорения роста.
 
 # Quest: Cryogenic Distillation Machine
 betterquesting.quest.7kkbpR6rS4CsUTUFQ5wd7g.name=Криогенный дистиллятор
-betterquesting.quest.7kkbpR6rS4CsUTUFQ5wd7g.desc=The §3Cryogenic Distillation Machine§r can split atmospheric gases into 4 useful fractions, like for example, taking trace amounts of §bNitrogen§r out of the Dunaian atmosphere to produce soil for planting crops.
+betterquesting.quest.7kkbpR6rS4CsUTUFQ5wd7g.desc=§3Криогенный дистиллятор§r может разделять атмосферные газы на 4 полезные фракции - например, извлекая следовые количества §bАзота§r из атмосферы Дюны для получения почвы под посадку культур.
 
 # Quest: Teleporter
 betterquesting.quest.8j7JCxPeSaaBqlOTrRGtCg.name=Телепорт
-betterquesting.quest.8j7JCxPeSaaBqlOTrRGtCg.desc=The §3Teleporter§r can be used to teleport players, and entities in general, to a specific location.%n%nRight-click a block with the §6Telelinker§r to set the desired exit position, then shift-click the teleporter with the telelinker to configure the teleporter.%n%n§2The teleporter is a one way trip so it is advised that multiple are made.%n%nInterdimensional teleportation using teleporters requires a very expensive type of fuel, so it is recommended that other teleportations methods are used, such as AE2 Spatial.
+betterquesting.quest.8j7JCxPeSaaBqlOTrRGtCg.desc=§3Телепортер§r можно использовать для телепортации игроков и других существ в определённое место.%n%nНажмите правой кнопкой мыши на блок с помощью §6Телелинкера§r, чтобы задать желаемую точку выхода, затем нажмите Shift + правая кнопка мыши на телепортер с телесвязующим для его настройки.%n%n§2Телепортер работает только в одну сторону, поэтому рекомендуется создавать несколько штук.%n%nМеждуизмеренческая телепортация с помощью телепортеров требует очень дорогостоящего вида топлива, поэтому рекомендуется использовать другие методы телепортации, например AE2 Spatial.
 
 # Quest: Occasionally Heavy Boots
-betterquesting.quest.9S1Tw8UTRbi8Z9wq7frVJA.name=Occasionally Heavy Boots
-betterquesting.quest.9S1Tw8UTRbi8Z9wq7frVJA.desc=Temporarily increases gravity on low gravity worlds when holding crouch.
+betterquesting.quest.9S1Tw8UTRbi8Z9wq7frVJA.name=Ботинки управляемой гравитации
+betterquesting.quest.9S1Tw8UTRbi8Z9wq7frVJA.desc=Временно увеличивает гравитацию на мирах с низкой гравитацией при удержании кнопки приседания.
 
 # Quest: Steam Radiator
 betterquesting.quest.AB-0K2UoQF-7uQ9XiO8mqw.name=Паровой радиатор
-betterquesting.quest.AB-0K2UoQF-7uQ9XiO8mqw.desc=The §3Steam Radiator§r is a steam condenser that works in the vacuum of space.
+betterquesting.quest.AB-0K2UoQF-7uQ9XiO8mqw.desc=§3Паровой радиатор§r - это паровой конденсатор, работающий в вакууме космоса.
 
 # Quest: Tectonic Missile
 betterquesting.quest.CRR3Op6SQMefJL6r8uAfrA.name=Тектоническая ракета
-betterquesting.quest.CRR3Op6SQMefJL6r8uAfrA.desc=When a §6Tectonic Missile§r hits, it creates a volcano that immediately starts to splash volcanic lava everywhere. Which is what you need to get the volcanic gem!
+betterquesting.quest.CRR3Op6SQMefJL6r8uAfrA.desc=Когда §6Тектоническая ракета§r попадает в цель, она создаёт вулкан, который немедленно начинает разбрызгивать вулканическую лаву повсюду. Именно это нужно для получения вулканического самоцвета!
 
 # Quest: Gallium Arsenide
 betterquesting.quest.DeOqQyXwQRq5RNcDa5l0ug.name=Арсенид галлия
-betterquesting.quest.DeOqQyXwQRq5RNcDa5l0ug.desc=§6Gallium Arsenide§r is made from mixing §6Gallium§r, which can be procured by processing rich mineral deposits from §eMoho§r or §eIke§r, and §6Arsenic§r which is found on Ike in bedrock ore, or on §eEarth§r via dirt and stone that has been damaged by hydraulic fracking.
+betterquesting.quest.DeOqQyXwQRq5RNcDa5l0ug.desc=§6Арсенид галлия§r получается путём смешивания §6Галлия§r, который можно добыть при переработке богатых минеральных месторождений с §eМохо§r или §eАйка§r, и §6Мышьяка§r, который находится на Айке в коренных рудах, или на §eЗемле§r в виде грязи и камня, повреждённых гидравлическим гидроразрывом.
 
 # Quest: Gas Giant Harvester
-betterquesting.quest.EE3856t_QVu_cAG6P033_Q.name=Gas Giant Harvester
-betterquesting.quest.EE3856t_QVu_cAG6P033_Q.desc=The §3Gas Giant Harvester Station§r is a device for collecting atmospheric air samples from gas giants.%n%nThe concept is quite simple: on a planet that is a satellite of the giant (for example, to fly to the green giant Jool, you need to go to Laythe), the station is set up. After refueling with §bLiquid Oxygen§r and §bHydrogen§r, the §3harvester rocket§r is sent for air. In one trip, it delivers 16,000 mB§r. As you can understand, the harvester's§r functionality is completely analogous to the operation of §3MiningModules§r.
+betterquesting.quest.EE3856t_QVu_cAG6P033_Q.name=Газовый комбайн
+betterquesting.quest.EE3856t_QVu_cAG6P033_Q.desc=§3Станция газового гиганта§r - это устройство для сбора образцов атмосферного воздуха с газовых гигантов.%n%nКонцепция довольно проста: на планете, являющейся спутником гиганта (например, чтобы добраться до зелёного гиганта Джула, нужно отправиться на Лэйт), устанавливается станция. После заправки §bЖидким кислородом§r и §bВодородом§r §3ракета-сборщик§r отправляется за воздухом. За один рейс она доставляет 16 000 mB§r. Как можно понять, функциональность §rсборщика полностью аналогична работе §3Модулей добычи§r.
 
 # Quest: Mun Cow?!
 betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.name=Лунная корова?!
 betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.desc=Это что-то новенькое; не задавайте вопросов о том, как корова выживает на Луне без еды или где она взяла модуль PLSS. Дело в том, что они чувствуют себя на Луне довольно хорошо, а из-за вакуума молоко внутри них свернулось.
 
 # Quest: Vacuum Solderer
-betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.name=Vacuum Solderer
+betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.name=Вакуумный паяльщик
 betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.desc=The §3Vacuum Solderer§r is a machine that can only function in a vacuum, and produces vacuum circuits. They can be placed into the §3Drive Processor§r to enable it to process higher tier planetary drives.
 
 # Quest: Space Equipment
