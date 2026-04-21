@@ -9,3 +9,15 @@ shaped=
     oredictionary:dustFluix fluixCrystal oredictionary:dustFluix,
     ae2:BlockQuartzGlass cable ae2:BlockQuartzGlass
     -> ae2:BlockSpatialPylon
+
+shaped=
+    ae2:BlockSpatialPylon ae2:ItemMaterial.Wireless ae2:BlockSpatialPylon,
+    cable ae2:BlockChest cable,
+    cable ae2:ItemMaterial.Cell128SpatialPart cable
+    -> ae2:BlockSpatialLinkChamber
+
+shaped=
+    ae2:ItemMaterial.EngProcessor ae2:ItemMaterial.Wireless ae2:ItemMaterial.EngProcessor,
+    oredictionary:ingotIron ae2:ItemMaterial.PurifiedFluixCrystal oredictionary:ingotIron,
+    cable oredictionary:ingotIron cable
+    -> ae2:BlockSpatialNetworkRelay

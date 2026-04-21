@@ -32,7 +32,21 @@
   },
   "questIDHigh:4": 2688782006671067092,
   "questIDLow:4": -8585709469103528141,
-  "rewards:9": {},
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 16,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.cap_nuka"
+        }
+      }
+    }
+  },
   "tasks:9": {
     "0:10": {
       "damageType:8": "",

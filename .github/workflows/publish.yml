@@ -1,0 +1,33 @@
+name: Publish Modpack
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download release assets
+        run: |
+          gh release download "${{ github.ref_name }}" \
+            --pattern "NTNH-*-CurseForge.zip"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to CurseForge
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          curseforge-id: 1406133
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          curseforge-files: "NTNH-*-CurseForge.zip"
+
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+          loaders: forge
+          game-versions: 1.7.10

@@ -6,3 +6,4 @@ recipes.addShapeless(<matter-manipulator:metaitem>, [<hbm:item.blueprint_folder>
 
 recipes.addShaped(<matter-manipulator:metaitem:5>, [[<hbm:item.part_generic:5>, <hbm:item.part_generic:5>], [<hbm:item.part_generic:5>, <hbm:item.part_generic:5>]]);
 recipes.addShaped(<matter-manipulator:metaitem:4>, [[<ore:plateSteel>, null, <ore:plateSteel>], [<ore:plateSteel>, null, <ore:plateSteel>], [<ore:Steel>, <ore:plateSteel>, <ore:Steel>]]);
+recipes.addShaped(<matter-manipulator:metaitem:10>, [[<ore:billetCo60>], [<matter-manipulator:metaitem:5>], [<ore:billetCobalt>]]);

@@ -1,126 +1,154 @@
-# 2.8.0 Release
-## This release has breaking changes for existing RBMKs! Shut down your reactor, make a backup, and read the changelog carefully before updating!
+# 2.8.1 Release
+### All of the changes are related to AE2
 
 ## What's changed?
 **Added**
-- LagGoggles - allows you to check what impacts your performance
-   └ https://www.youtube.com/watch?v=2ALrIvw1S4I
-- Reasim RBMK control rods
-   └ Come in manual and auto variants, but not moderated
-   └ The same as standard control rods, except they need 5kHE/t
-   └ Have only a single cable connection at the bottom
-   └ Replace standard RBMK control rods when 528 mode is enabled
-- New RBMK fuels
-   └ UZrH
-      └ Made from MEU, zirconium and hydrogen in the PUREX
-      └ More efficient than MEU but with less durability
-      └ Has a new thermal coefficient mechanic, once the core heat exceeds 1000°C, reactivity drops down
-      └ Very high diffusion, meaning the core is considerably colder than on most fuels
-- RBMK Display panel
-   └ Single block that shows a 7x7 view of a linked RBMK
-   └ Doesn't have a GUI or tooltips or anything, only acts as a monitor
-   └ Ideal for >15x15 reactor monitoring, since the displays are tileable
-- Added default server list that will update automatically
-- Added default key options
-- Added Matter Manipulator recipes up to Matter Manipulator MKI
+- Universal GUI in WirelessCraftingTerminal
+- Added keybinds for every universal terminal
+- Added "fluix" to wireless connector tooltip
+- Added a "Nodes and one Channel" mode
+- Added Universal GUI for all terminals (Wireless Crafting, Processing, Pattern, etc.)
+- Added CPU Sorting buttons and enhancements
+- Added Color Selector GUI for the Color Applicator with color pickup
+- Added Crafting Complete Notification Popup
+- Added Pattern Repeater
+- Added Spatial Link Chamber and Spatial Network Relay
+- Added Stack Type API
+- Added Preview Blocks
+- Added storage interceptor & locking card support
+- Added creative-like pick block with withdrawal from AE system
+- Added info tooltip for Pins Button and tooltips for creative energy blocks
+- Added level emitter button to control detection mode on empty filter
+- Added backhand support for the color applicator
+- Allow bind terminal to wireless access point
+- Allow network-to-network exotic stack transfer
+- Allow viewing crafting and usage of the pattern main output
+- Allow input-only pattern to be encoded as a Tunnel pattern
+- Allow using inverter card on fluid cells
+- Allow block containers to disable facades based on metadata
+- View Cell now supports all stack types
+- Show requester on active crafting CPU crafts
+- Use pylon dimension for SpatialTransition instead of IO-Port
+- Enhanced Network Status Bar
+- Enhanced Stuck Overlay (red tint on stuck interfaces)
+- Improve terminal interaction with type filter
 
 
 
 **Fixed**
-- Fixed experience bar black background if there is an item in the hotbar
-- Fixed translucent particles becoming very dark with Complementary shaders enabled (e.g. cooling tower steam particles from Hbm's NTM)
-- Fixed crash when rendering gun
-- Fixed #20
-- Fixed NBTStack serialization omitting the stack size most of the time, preventing deserialization (mainly in the precision assembler config)
-- Fixed precision assembler not being listed in the creative inventory
-- Fixed OpenComputers integration for the CCGT
-- Fixed tool abilities switching when clicking on a block with a special interaction
-- Fixed outdated info on the QMAW pages involving AA and BSCCO due to the fusion reactor update
-- Fixed ammo container giving 9mm instead of .22 for the akimbo target pistols
-- Fixed RBMK control rods incorrectly showing up in the red group when no group is set
-- Fixed fluid output direction being incorrect on boilers, causing them to break with pipe anchors
-- Fixed an issue where the industrial turbine's tendency to round up the possible operation counter would cause it to use up steam it doesn't actually have
-- Fixed yet another issue with the settings tool when copying automatic control rod settings
-- Fixed quad rocket launcher steering not working right
-- Fixed standard and industrial boilers not respecting the heating efficiency value of the fluid trait
-- Fixed copy tool integration for RBMK automatic control rods (again)
-- Fixed RBMK fuel channel RoR not being properly parseable due to not being integers
-- Potentially fixed a dupe regarding safes
-- Moved the flow control pump's GUI code out of the block class which should hopefully fix an issue where spigot servers crash instantly when placed down
-- Fixed RBMKs melting down when removing the covers from fuel channels with hot fuel in them
-- Fixed Backhand integration and resolved block placement issues with certain mods
-- Fixed bibliocraft clipboard skipping a page
-- Fixed offhand attack dealing 1 damage
-- Fixed offhand item switching animations
-- Fixed sponge recipe
+- Fixed armor slot index and duplicated tooltip in WirelessCraftingTerminal
+- Fixed container interaction tooltip in WirelessCraftingTerminal
+- Fixed multible bugs related to AE2
+- [Memory-opti:fix leak] Fix world leak
+- Fixed universal terminal mode switch in baubles
+- Fixed multiple bugs
+- Fixed discretizier crash
+- Fixed primary gui
+- Fixed draining simulation actually perform drain
+- Fixed import/export bus issues
+- Fixed replenisher void
+- Fixed stock replenisher item voiding
+- Fixed some typos
+- Fixed storage name on exp
+- Fixed storage name fluid emitter
+- Fix crash when trying to open wireless magnet filter when terminal in baubles
+- Fixed alt-type storage bus unable to read subnet
+- Fixed null key in legacy craftable map
+- Fixed storage bus crash on empty container
+- Fixed storage bus crash and item NBT disappearance
+- Fixed fill containers interaction
+- Fixed fluid cell interaction and amount-to-send calculation for fluids
+- Fixed essentia not being pushed to network via interface
+- Fixed bi-directional filters with storage bus + interface subnet
+- Fixed item buses not updating redstone mode when GUI changes
+- Fixed crafting results being voided when unable to inject into network
+- Fixed crafting GUI transition and opening in non-hand slot
+- Fixed Universal Terminal not loading pattern when changing pattern output slot
+- Fixed pattern optimizer crash and crash on patterns with unsupported types
+- Fixed wrong substitutes used in crafting calculation
+- Fixed processing terminal buttons position
+- Fixed performance regression when requesting new crafts
+- Fixed crafting status tooltip
+- Fixed negative amount button
+- Fixed colored +/- amount buttons not updating value when colored
+- Fixed tooltip showing previously hovered item details instead of current one
+- Fixed color applicator GUI not reporting colors properly
+- Fixed optimizer GUI not opening; fixed fluids not displayed in optimizer GUI
+- Fixed partition button not working on Cell Workbench
+- Fixed highlight interface not working sometimes
+- Fixed Network Status GUI not opening
+- Fixed multi-interface smart blocking (smart UAAL automation)
+- Fixed config copy for IO Bus, Storage Bus, and Level Emitter via memory card
+- Fixed interface terminal search refocus
+- Fixed Interface Terminal crashes and improvements
+- Fixed item name localization on dedicated server
+- Fixed NPE in DualityInterface#addDrops and in AEFluidStackType#drainStackFromContainer
+- Fixed server crash introduced by PR#1089
+- Fixed crash without AE2FC
+- Fixed encoded pattern overwrite
+- Fixed fake slot and pin slot ghost items
+- Fixed standard search not being standard
+- Fixed ME Chest
+- Fixed Security Terminal GUI
+- Fixed primary GUI and slot rendering (items not appearing while dragging)
+- Fixed NEI Cell View stack size rendering
+- Fixed AE Follow Craft client disconnect
+- Fixed keyBindPickBlock in terminals
+- Fixed materials order in NEI
+- Fixed level emitter watcher not tracking fluids
+- Fixed crafting mode for processing pattern terminal
+- Fixed storage search chat names localization
+- Fixed null filter sync to client in GUI
+- Fixed NPE on addon
+- Fixed toggle focus
 
 
 
 **Changed**
-- Updated the main menu music
-- Conserve crate can now be bought via Bobmazon
-- Fixed the interface overload, now it is much more comfortable to use
-- Updated RBMK visuals
-   └ The indentations on most RBMK passive elements have been removed, heavily reducing tri count and allowing face culling, making RBMKs render much more efficiently
-   └ The caps no longer render as part of the TESR and instead use much more performant ISBRH rendering
-   └ Due to most passive elements no longer needing TESRs for their caps, most parts no longer use any TESRs at all
-   └ This should fix various issues regarding lower-end hardware (especially Pojav) as well as issues with TESRs getting skipped due to the sheer number of things to render
-   └ Control rods now show their set color as part of the model
-- Improved buzzsaw tree detection
-   └ Instead of just clearing a pillar, it now tries to detect branches
-   └ The max size of trees that can be successfully harvested is now way bigger
-   └ This means that things like 2x2 jungle trees can now be automated
-- Annihilating radioactive items now creates that item's radiation value x5 as chunk radiation
-   └ The maximum per tick is a 1000 RAD/s increase to prevent world-destroying radiation levels from annihilating demon cores
-- The water door now has a skin that isn't rusted with less contrast
-- The containment door now has a lead-colored skin with a trefoil on it
-- Using a screwdriver on a beamline now toggles a window which flashes if a particle passes
-- Particles now start slowly and accelerate, instead of passing a fixed 10 components per tick, particles only do 1 component per tick, which increases by 1 every 1,000 momentum
-- RBMK absorber columns now heat up when exposed to neutrons
-   └ The type of neutron does not matter, only the quantity
-   └ 20 flux equals 1°C heatup
-- RBMK passive cooling has changed
-   └ The default value is now 2.5°C/t instead of 1
-   └ This value only applies to rods that have exposed sides, i.e. the edges of a reactor
-   └ There is now a second passive cooling variable used for rods on the inside (dialPassiveCoolingInner, 0.1°C/t by default)
-   └ The effective passive cooling value is scaled smoothly depending on how many sides are exposed, using dialPassiveCoolingInner with no exposed sides and dialPassiveCooling for rods with four exposed sides
-   └ Simply put, spindly RBMKs are now way less desirable, structural columns no longer just debuff the reactor and reactors that actually look like reactors are now more powerful
-- Changed the way RBMK coolers work
-   └ Instead of using cryogel, coolers use 50mB of cold PFM per tick and return an equal amount of warm PFM
-   └ In a 5x5 square around the cooler, all components are cooled down by 200°C per tick, down to a minimum of 20°C
-   └ This renders that section of the reactor unsuitable for boiling water, however it means very high heat fuels can be used
-   └ Cold PFM is used up at a steady rate, even if the reactor is already cold
-- The RBMK structural column recipe now uses only half as many metal plates, and rubber instead of insulator
-- Changed the way reasim RBMK fuel channels work
-   └ Instead of six randomized neutron streams, reasim rods now use eight 75% strength streams in an even star pattern
-   └ The pattern is rotated in a random multiple of 9° (i.e. four possible angle variations)
-- RBMK steam channels now spawn steam particles if water is voided due to the steam buffer not being emptied in time
-- Rebalanced 528 mode
-   └ Increased the chance for most precision assembler recipes to succeed
-   └ Increased the chance for items to be salvaged by recycling
-      └ In expensive mode, the chances have been increased drastically compared to the old values
-- Added RoR functionality to some RBMK columns
-   └ Manual control rods can have their target height set, allowing them to be remote controlled without a console
-   └ All fuel channels can now provide values such as column heat, fuel skin heat, depletion and xenon poison
-- RBMK consoles and displays no longer show the temperature value of control rods as a red gradient, instead they show the control rods' color grouping
-- RBMK fuel rods can no longer be removed by hand if the skin temp exceeds 200°C
-- RBMK fuel rods can no longer be cycled via autoloader if the skin temp exceeds 1,000°C 
-   └ For fully automated high powered reactors, it may now be necessary to read the depletion via RoR and then throttle the reactor with control rods
-   └ RBMK cranes can still remove any fuel, no matter how hot it is
-- RBMK fuel channels will now undergo meltdown if it is broken when a fuel rod is still loaded with a heat temperature of at least 1,500°C
-- The annihilator now creates pollution when destroying fluids, with a 200% pollution modifier
-- MOX fuel now uses plutonium-239 instead of RGP, and more uranium-238
-   └ This makes it a decent option for pu239 from the chicago pile without having to use HEP239
-- Updated russian localization
-- Safes now properly use the inventorytweaks API, allowing slot sorting via GUI
-- The meltdown disabling dial now also affects meldown caused by breaking fuel channels while hot
-- The dots on the grpahite moderator columns are now a lot darker to tell them apart from fuel channels much more easily
-- Increased the maximum stacksize per slot in a food containers (lunch bag and lunchbox)
-- Updated Discord RPC (status/activity)
+- Don't strip logs when holding healing axe in offhand
+- Updated Super Stock Replenisher block texture
+- Allow using inverter card on fluid cells
+- Fixed Level Maintainer FCGuiLineField and texture
+- Fix NPE when trying to drain a tank in a tank tower
+- Changed Artificial Universe Fluid Cell to 63 Types
+- Added priority in fluid storage bus tooltip
+- Removed essentia terminal from ultra terminal recipe
+- Adjusted pixels in Gui Terminal
+- Hide all colored wireless variant from NEI 
+- Improve colors, localisation and add configuration for render overlay
+- Terminal performance fixes
+- Improved NetworkInventoryHandler performance
+- Added getTile cache and optimized ASM integration
+- Cached pattern output stack and Enum.values() calls
+- Cached invalid pattern flag in NBT
+- Packed interface stuck state with other client flags (tick on client only)
+- Reduced updates when recoloring cables
+- Fixed performance regression when requesting new crafts
+- Made crafting tree search more exhaustive
+- Fixed fluid transfer IO port speed
+- Changed Matter Condenser default entry state to Singularity Mode
+- Changed cable sorting
+- Changed ME Drive rendering to color the chassis instead of cells
+- Changed Level Type Tooltip to include Fluid
+- Renamed interface in Interface Terminal
+- Removed pattern refill card
+- Improved clarity of container interactions
+- Improved Storage Bus slot fadeout when OreDict card is present
+- Improved pattern info tooltip (more universal)
+- Reduced interface GUI textures
+- Move AE2 pick-block block select logic to client-side
+- Adjusts ME Pick Block to prefer PickBlockEvent when appropriate
+- Implement simulateAdd for ItemIO
+- Localization updates (Ukrainian, Portuguese, Amount elements)
+- Less random Meteorite generation
+- Do not push items in inactive interface
+- Don't add items to pattern with shift-click on Pattern Terminal
+- Restrict multi-parts in cable with bus
+- Optimized images / textures
 
 
 
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.7.0...2.8.0)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.8.0...2.8.1)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.8.0)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.8.1)
