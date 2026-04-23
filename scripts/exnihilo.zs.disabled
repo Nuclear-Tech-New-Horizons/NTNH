@@ -1,0 +1,155 @@
+// ============================================================
+//  remove_exnihilo_ores.zs
+//  Removes all Ex Nihilo recipes involving:
+//    - Broken ores  (gravel-stage)
+//    - Crushed ores (sand-stage)
+//    - Powdered ores (dust-stage)
+//  Covers: Hammer, Sieve, and Furnace recipe systems.
+// ============================================================
+
+
+// ------------------------------------------------------------
+//  HAMMER RECIPES — Ore blocks → Broken ore
+// ------------------------------------------------------------
+
+// Vanilla ores
+mods.exnihilo.Hammer.removeRecipe(<minecraft:iron_ore>, <exnihilo:exnihilo.iron_broken>);
+mods.exnihilo.Hammer.removeRecipe(<minecraft:gold_ore>, <exnihilo:exnihilo.gold_broken>);
+
+// HBM ore variants (wildcard metadata)
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_iron:*>, <exnihilo:exnihilo.iron_broken>);
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_gold:*>, <exnihilo:exnihilo.gold_broken>);
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_copper:*>, <exnihilo:exnihilo.copper_broken>);
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_lead:*>, <exnihilo:exnihilo.lead_broken>);
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_aluminium:*>, <exnihilo:exnihilo.aluminum_broken>);
+
+// HBM Gneiss ore variants
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_gneiss_iron>, <exnihilo:exnihilo.iron_broken>);
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_gneiss_copper>, <exnihilo:exnihilo.copper_broken>);
+mods.exnihilo.Hammer.removeRecipe(<hbm:tile.ore_gneiss_gold>, <exnihilo:exnihilo.gold_broken>);
+
+// Project Red ores
+mods.exnihilo.Hammer.removeRecipe(<ProjRed|Exploration:projectred.exploration.ore:3>, <exnihilo:exnihilo.copper_broken>);
+mods.exnihilo.Hammer.removeRecipe(<ProjRed|Exploration:projectred.exploration.ore:4>, <exnihilo:exnihilo.tin_broken>);
+mods.exnihilo.Hammer.removeRecipe(<ProjRed|Exploration:projectred.exploration.ore:5>, <exnihilo:exnihilo.silver_broken>);
+
+// Netherlicious ores
+mods.exnihilo.Hammer.removeRecipe(<netherlicious:NetherIronOre>, <exnihilo:exnihilo.iron_broken>);
+mods.exnihilo.Hammer.removeRecipe(<netherlicious:NetherGoldOre>, <exnihilo:exnihilo.gold_broken>);
+
+
+// ------------------------------------------------------------
+//  HAMMER RECIPES — Gravel → Crushed ore
+// ------------------------------------------------------------
+
+// Overworld gravel variants
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:iron_gravel>,     <exnihilo:exnihilo.iron_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:gold_gravel>,     <exnihilo:exnihilo.gold_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:copper_gravel>,   <exnihilo:exnihilo.copper_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:tin_gravel>,      <exnihilo:exnihilo.tin_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:silver_gravel>,   <exnihilo:exnihilo.silver_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:lead_gravel>,     <exnihilo:exnihilo.lead_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:nickel_gravel>,   <exnihilo:exnihilo.nickel_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:aluminum_gravel>, <exnihilo:exnihilo.aluminum_crushed>);
+
+// Nether gravel variants
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:nether_iron_gravel>,   <exnihilo:exnihilo.iron_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:nether_gold_gravel>,   <exnihilo:exnihilo.gold_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:nether_copper_gravel>, <exnihilo:exnihilo.copper_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:nether_nickel_gravel>, <exnihilo:exnihilo.nickel_crushed>);
+
+// Ender gravel variants
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:ender_lead_gravel>,   <exnihilo:exnihilo.lead_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:ender_silver_gravel>, <exnihilo:exnihilo.silver_crushed>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:ender_tin_gravel>,    <exnihilo:exnihilo.tin_crushed>);
+
+
+// ------------------------------------------------------------
+//  HAMMER RECIPES — Sand → Powdered ore
+// ------------------------------------------------------------
+
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:iron_sand>,     <exnihilo:exnihilo.iron_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:gold_sand>,     <exnihilo:exnihilo.gold_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:copper_sand>,   <exnihilo:exnihilo.copper_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:tin_sand>,      <exnihilo:exnihilo.tin_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:silver_sand>,   <exnihilo:exnihilo.silver_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:lead_sand>,     <exnihilo:exnihilo.lead_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:nickel_sand>,   <exnihilo:exnihilo.nickel_powdered>);
+mods.exnihilo.Hammer.removeRecipe(<exnihilo:aluminum_sand>, <exnihilo:exnihilo.aluminum_powdered>);
+
+
+// ------------------------------------------------------------
+//  SIEVE RECIPES — Gravel → Broken ore (overworld)
+// ------------------------------------------------------------
+
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.iron_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.gold_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.copper_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.tin_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.silver_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.lead_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.nickel_broken>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.aluminum_broken>);
+
+
+// ------------------------------------------------------------
+//  SIEVE RECIPES — Nether Gravel → Nether Broken ore
+// ------------------------------------------------------------
+
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_iron_broken>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_gold_broken>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_copper_broken>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_nickel_broken>);
+
+
+// ------------------------------------------------------------
+//  SIEVE RECIPES — Ender Gravel → Ender Broken ore
+// ------------------------------------------------------------
+
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_ender>, <exnihilo:exnihilo.ender_tin_broken>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_ender>, <exnihilo:exnihilo.ender_silver_broken>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_ender>, <exnihilo:exnihilo.ender_lead_broken>);
+
+
+// ------------------------------------------------------------
+//  SIEVE RECIPES — Sand → Crushed ore
+// ------------------------------------------------------------
+
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.iron_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.gold_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.copper_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.tin_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.silver_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.lead_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.nickel_crushed>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.aluminum_crushed>);
+
+
+// ------------------------------------------------------------
+//  SIEVE RECIPES — Dust → Powdered ore
+// ------------------------------------------------------------
+
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.iron_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.gold_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.copper_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.tin_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.silver_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.lead_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.nickel_powdered>);
+mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.aluminum_powdered>);
+
+
+
+// ------------------------------------------------------------
+//  FURNACE RECIPES
+//
+//  Ex Nihilo in this pack does NOT register the broken/crushed/
+//  powdered ores as vanilla furnace recipes — confirmed by the
+//  "No furnace recipes for" warnings on /mt reload.
+//  No furnace.remove calls are needed here.
+//
+//  If you ever need to remove a smelting recipe for a specific
+//  ingot, hold the ingot in-game and run /mt hand to get its
+//  exact registry name, then add:
+//    furnace.remove(<modid:item.ingot_name>, <exnihilo:...>);
+// ------------------------------------------------------------

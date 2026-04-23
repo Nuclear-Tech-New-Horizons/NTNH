@@ -29,6 +29,32 @@
 - Atmospheres are now visible from other planets/orbit
 - All planets/moons now generate flat in superflat worlds
 - TheVitya2127 bobblehead
+- Redstone-over-radio lever
+   └ Big breaker switches
+   └ Up to two per module, side by side
+   └ Can send different RoR values based on the lever's position
+- Redstone-over-radio indicator lights
+   └ Colored indicator light panels with labels on them
+   └ Up to six lights per module
+   └ Will light up when an RoR signal falls within the configured threshold
+- Redstone-over-radio pager
+   └ Item that receives RoR signals and displays them on the HUD info system
+   └ Info contains the channel name, a shortened timestamp to tell apart equal signals sent on different ticks, and the actual signal
+   └ Useful in various situations: 
+      └ Usable for remote monitoring, allowing critical things like reactor temperature and coolant flow to be checked even if not on-site
+      └ Using RoR transmitters that are set to polling, it's now very easy to figure out if the chunk the transmitter is in is loaded
+      └ An automated message system for various general alerts, easily doable by using an RoR transmitter with custom mappings (do mind the character limit, longer alerts may have to be sent sequentially)
+      └ A simple way of getting live feedback from the RoR system, in order to detect when or if a system sends a signal, since other RoR receivers do not have a way of telling apart repeated identical signals
+- Satellite orbit and cosmetic modification
+      └ Satellites can now be modified via a GUI that is accessed via crouch + right click
+      └ They now store additional info that defines how they move in the sky
+      └ Holding a satellite will show you a preview of what their final trajectory in the sky will be
+      └ You can configure them to blink too
+- Freecam (default key: F4)
+- ExNihilo
+      └ Allows to get stuff in early game
+      └ Currently it is very raw
+      └ There will be future changes in loots
    
 
 
@@ -56,6 +82,12 @@
    └ If you're still too dumb, bald or irradiated to use the crucible correctly, please bother LITERALLY ANOYNE EXCEPT ME.
    └ This basically fixes the aforementioned inconsistency
 - Fixed meteorite sword progression having some issues ever since the fusion reactor rework
+- Fixed the grenade crafting handler not checking if a shell/filling combination is even valid, allowing weird combos
+- Fixed dispenser fired laser grenades crashing the game
+- Fixed schrabidium grenade being obscenely powerful for no reason
+- Fixed annihilator recipe config throwing an error about the recipe list being empty, even though the recipe list should indeed be empty on purpose
+- Fixed barrel connectors appearing between barrels even though they have different fluid types
+- Crash on Tekto with Angelica installed
 
 
 
@@ -104,6 +136,23 @@
 - Distant planets are now (more) visible through scopes/zooming
 - Flour, butter, cheese, strawberries, and icecreams are now oredicted
 - More Laythe generation tweaks (ancient roots found deep underground)
+- All RoR panels now have basic item descriptions informing about the screwdriver requirement for configuration
+- EMP grenades now deal 5x damage against anything with powered armor
+   └ Decreased base damage to compensate
+- EMP grenades now destroy machines in a small radius like an EMP missile would
+- Grenades are no longer affected by nuclear blasts or other grenade explosions
+- Players no longer receive the starting guide book on first spawn since it's now very outdated
+- All RoR panels now have QMAW integration
+- Legacy plasma heater and plasma heater hatches which are still found in crashed space ships can now be dismantled into steel pipes, copper pipes and analog circuits
+- Removed legacy plasma block
+- RoR panels now have OpenComputers integration, allowing otherwise fixed parameters like gauge thresholds, channels, and button commands to be adjusted on the fly
+- Solinium blasts now use the new higher poly sphere model and frame interpolation, making the expansion smoother
+- Using a defuser on paintable cables/pipes/tubes that already have a paint applied will toggle the overlay, makng the cable/pipe/tube blend in perfectly
+- Mufflers installed on force fields now disable the loud spark noise caused by impacts
+- RoR readers can now read neutron flux from fuel channels and the fill state of boilers and heat exchangers
+- Canned recursion can now be crafted from canned recursion
+- Soldering recipes are now prioritized over anvil recipes in the NEI listing
+- Paintable blocks now have tooltips explaining all the tools that can be used
 
 
 
