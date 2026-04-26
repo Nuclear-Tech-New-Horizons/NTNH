@@ -6,9 +6,12 @@
   "advanced": {
     "use_vertex_array_objects": true,
     "use_chunk_multidraw": true,
+    "multi_draw_mode": "DIRECT",
     "use_particle_culling": true,
     "allow_direct_memory_access": true,
-    "ignore_driver_blacklist": false
+    "ignore_driver_blacklist": false,
+    "streaming_upload_strategy": "MAP_BUFFER_RANGE",
+    "enable_deferred_batching": true
   },
   "performance": {
     "chunk_builder_threads": 6,
@@ -23,6 +26,6 @@
     "use_compact_vertex_format": true,
     "translucency_sorting": true,
     "use_render_pass_optimization": true,
-    "cpu_render_ahead_limit": 5
+    "cpu_render_ahead_limit": 0
   }
 }

@@ -1,4 +1,6 @@
 # 2.9.0 Release
+## KEYBOARD WIZARD WAS TEMPORARILY DISABLED
+## BECAUSE OF THE CONTROLLING INCOMPATIBILITY
 
 ## What's changed?
 **Added**
@@ -55,6 +57,9 @@
       └ Allows to get stuff in early game
       └ Currently it is very raw
       └ There will be future changes in loots
+- Distant Horizons shader support 🥳
+- New colored texts system
+- Added the missing music discs
    
 
 
@@ -88,6 +93,33 @@
 - Fixed annihilator recipe config throwing an error about the recipe list being empty, even though the recipe list should indeed be empty on purpose
 - Fixed barrel connectors appearing between barrels even though they have different fluid types
 - Crash on Tekto with Angelica installed
+- Fixed Adventure jetpacks not working
+- Fixed adventure backpack GUI closing on double-click merging item stacks in inventory
+- Fixed storage bus not read fluid in configurated dual interface
+- Fixed world server memory leak
+- AE2 Crash Fix in Anglica (https://github.com/GTNewHorizons/Angelica/pull/1684)
+- Fixed some issues someone was having with nixos
+- Fixed two world client memory leaks in Angelica
+- Various fixes by @mitchej123 in Angelica
+- Shader fixes
+- Fixed crash with fancy block particles
+- Fixed modded enchant glints not being animated
+- Fixed mob's eyes from z-fighting
+- Fixed no reward crash in quests
+- Fixed server leak in BetterQuesting
+- Fixed ctm of concrete block in Chisel
+- Fixed world client memory leaks caused by block renderers
+- Fixed double slabs dropping full block instead of 2 single slabs with silk touch
+- Fixed Matter Manipulator does not move wireless hubs and wireless connectors correctly
+- Many GUI fixes in AE2
+- Fixed bookmark recipe item order being inconsistent
+- Fixed Collapsed Recipes in Bookmarks
+- Fixed client -> server sync in creative gui
+- Fixed hang glider not usable from offhand
+- Fixed compact chat messing up the grave message
+- Fixed riding issue with hang glider
+- **AND MANY MORE VARIOUS FIXES**
+      └ I am too lazy to list them all
 
 
 
@@ -103,7 +135,7 @@
 - The plinking sound played when a drill cannot break a block now only plays once for the entire AoE instead of once for every single block that couldn't be broken
 - Fluid barrels now have a sideways connector when hooked up to pipes, bridging the two pixel gap
 - Redstone over radio panels now render with their unique parts in the inventory, making the items easier to tell apart
-- Updated russian and chinese localization
+- Updated russian, german and chinese localization
 - Removed the euphemium and DNT compound plate recipes from the anvil, they are now plasma forge exclusive
 - More RoR integration
    └ PWRs can now output the control rod position
@@ -153,6 +185,18 @@
 - Canned recursion can now be crafted from canned recursion
 - Soldering recipes are now prioritized over anvil recipes in the NEI listing
 - Paintable blocks now have tooltips explaining all the tools that can be used
+- Restore previous spawn when using Sleeping Bag from Backpack placed in world
+- Removed Villager backpack trade from Villagers
+- Added tooltip to equip/unequip button in Adventure Backpacks GUIs
+- Hiden all colored wireless variant from NEI
+- Implemented compact ctm in Angelica
+- Better horse support
+- Make fog controls work with BoP fog
+- Added concrete slabs and stairs in Chisel
+- Localization of gui title of the ticket machine in Computronics
+- Improve Recipe Badge
+- Added recipe chance to bookmarks
+- Controlling now ships built-in key combo support
 
 
 
