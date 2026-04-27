@@ -2,97 +2,97 @@
 
 
 ## Quest Line: And So, It Begins...
-betterquesting.questline.jCQKXnirTEiarv2p82j6pA.name=And So, It Begins...
-betterquesting.questline.jCQKXnirTEiarv2p82j6pA.desc=Introduction to this huge modpack!
+betterquesting.questline.jCQKXnirTEiarv2p82j6pA.name=所以，在开始的时候……
+betterquesting.questline.jCQKXnirTEiarv2p82j6pA.desc=这个庞大的modpack介绍！
 
 # Quest: A Feast of Variety
-betterquesting.quest.XGormKIQQp--gquphvky7A.name=A Feast of Variety
-betterquesting.quest.XGormKIQQp--gquphvky7A.desc=§cImportant!§r In this modpack, you get hungry much faster than in vanilla Minecraft - and you can't survive on the same food forever. Eating nothing but carrots (or any single food) won't cut it!%n%nInstead,§a §lvariety is your lifeline§r. The more diverse your diet - trying new ingredients and unique dishes - the more your §lmaximum health will increase§r. On the flip side, eating the same foods over and over reduces your saturation and holds you back.%n%n§lFarming is the foundation of survival.%n§rUse an iron hoe or better to till soil near water, creating fertile farmland where you can grow crops. You can obtain seeds by right-clicking grass blocks with a hoe. Thanks to §lPam's HarvestCraft§r, you'll have access to dozens of new crops and delicious, nutritious recipes—from humble vegetables to gourmet meals.%n%nKeep track of your culinary journey with the §r§lFood Book§r (crafted with a book and a carrot). It shows which foods you've eaten and which ones you should try next to keep your diet balanced.%n%nDon't forget your §lLunch Bag (or Lunchbox)§r!  %nFill it with a variety of meals, close it (Shift + Right-Click), and it will automatically feed you the right foods at the right time—perfect for maintaining a healthy, diverse diet on the go.%n%n§lDiversify your meals to thrive!§r The wider your menu, the stronger you become.
+betterquesting.quest.XGormKIQQp--gquphvky7A.name=变量特效
+betterquesting.quest.XGormKIQQp--gquphvky7A.desc=§cImportant！§r 在这个模组包里，你比原版Minecraft更快感到饥饿——而且你不可能永远靠同样的食物生存。只吃胡萝卜（或任何单一食物）是不够的！%n%n相反，§a §l多样性是你的生命线§r。你的饮食越多样化——尝试新食材和独特菜肴——你的§l最大生命值就越高§r。反过来，反复吃同样的食物会降低你的饱和度，限制你的前进。%n%n§l农业是生存的基础。%n§r用铁锄或更好的工具耕作靠近水源的土壤，创造肥沃的农田，种植作物。你可以通过用锄头右键点击草块来获得种子。多亏了§lPam的HarvestCraft§r，你将能接触到数十种新作物和美味营养的食谱——从朴素的蔬菜到美食佳肴。%n%n通过§r§l食物手册（用书和胡萝卜制作）记录你的烹饪旅程。它显示你吃过哪些食物，以及接下来应该尝试哪些以保持饮食均衡。%n%n别忘了你的§l午餐袋（或午餐盒）§r！%n装满各种餐点，关闭它（Shift+右键），它会自动在正确的时间给你正确的食物——非常适合随时保持健康多样的饮食。%n%n§l多样化你的餐食，茁壮成长！§r 菜单越丰富，你就越强大。
 
 # Quest: Give Me My Hand Back!
-betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.name=Give Me My Hand Back!
-betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.desc=Backhand backports minecraft's off-hand. Use your off-hand to hold torches, or even food while mining. 
+betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.name=给我回来吧！
+betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.desc=背手背包矿工手持。在采矿过程中使用你的手持手持火炬，甚至是食物。 
 
 # Quest: Help Me Find It!
-betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.name=Help Me Find It!
-betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.desc=FindIt allows one to find any item stored in their storage area. Hover over the item of choice in NEI and press T. The container will become outlined.
+betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.name=帮助我找到它！
+betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.desc=查找任何存储在其存储区域中的物品。 在NEI中悬停选项，然后按T. 键。容器将被概述。
 
 # Quest: Numbers in the Corner?
-betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.name=Numbers in the Corner?
-betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.desc=What's with the numbers in the corner? That is the In-Game Info (IGI) mod. Some of the info it gives is useful right away, some of it shines later on in progression.%n%nIf you want to hide it, type "/igi disable" in the chat. Type "/igi enable" if you want to turn it back on.%n%nThe command "/igi config" opens the configuration window to control its position, scale, and size.%n%nIf you need suggestions on solving TPS problems, feel free to ask for help in the NTNH Discord.
+betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.name=角落中的数字？
+betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.desc=数字在角落是什么？游戏内信息(IGI)就是这样的。 它提供的一些信息是有用的，有些信息后来仍在继续。%n%n如果您想要隐藏它，请在聊天中输入“/igi 禁用”。 如果您想要重新打开它，请输入“/igi 启用”。%n%n命令“/igi config”打开配置窗口以控制其位置、大小和大小。%n%n如果您需要解决TPS问题的建议，请随时在NTNH Discord中寻求帮助。
 
 # Quest: Blood Moon
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Blood Moon
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=RandomThings adds Blood Moons, semi-rare events where mob spawning is increased and the player cant sleep. Blood Moons can be quite useful, if one is prepared, as rare mob drops such as Launch Codes and Geiger Counters can be obtained early on.
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=血月
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=随机物品增加了血月球，半罕见的事件，增加了生物产量和玩家睡觉。 如果准备好血液月亮，血液月亮是很有用的。 像罕见的暴民掉落，如发射码和大地计数器可以早日获得。
 
 # Quest: §LLet's Start our Journey!
-betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.name=§LLet's Start our Journey!
-betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.desc=§8*go to the LV1 - Early Game questline*
+betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.name=§让我们开始我们的旅程！
+betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.desc=§8*去到 LV1 - 游戏早期探索线*
 
 
 ## Quest Line: Tips and Tricks
-betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.name=Tips and Tricks
-betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.desc=Tips and Tricks. It does what it says.
+betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.name=使用技巧
+betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.desc=提示和积木。它做它所说的。
 
 # Quest: Infinite Water Sources
-betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=Infinite Water Sources
-betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Tired of using buckets to give water to your machines? Try using water pumps or infinite water tanks!%n%nInfinite Water Tank will give 50mb/t%nEnhanced Infinite Water Tank will give 500mb/t%nPump will give 1000mb/t but requires steam to operate.
+betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=无尽水源
+betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=很难使用水桶给你的机器给水吗？尝试使用水泵或无限水罐！%n%n无限水箱将给出50mb/t%n增强无限水箱将给出500mb/t%n泵将给出1000mb/t 但需要蒸汽才能运行。
 
 
 ## Quest Line: LV1 - Early Game
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=LV1 - Early Game
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=This is the beginning of HBM's Nuclear Tech mod. In this chapter you will learn about the basic mechanics of the mod, aswell as tips and tricks to help you progress.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=LV1 - 早期游戏
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=这是六溴代二苯核技术模型的开始。 在本章中，您将学习模型的基本机械学，还要学习帮助您取得进展的技巧和技巧。
 
 # Quest: Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity aswell as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=储物抽屉
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=储物抽屉§r是一种简单且廉价的存储大量物品的方式。它们可以进一步升级以增加储物容量以及其他功能，比如空壳。它们也可以被雕刻§r来改变木材类型。%n%n§2许多抽屉可能会造成延迟。
 
 # Quest: Stirling Engine
-betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Stirling Engine
-betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=The §3Stirling Engine§r uses heat from a §3Heating Oven§r or a §3§r§3Firebox§r to produce power. If a Heating Oven is used to heat a Stirling engine, it will likely over-speed and damage it, sending the main gear flying. The heavy Stirling engine does not have this issue.%n%nA firebox running on coal with a stirling engine produces §e2kHE/s§r, while a heating oven with a heavy stirling engine produces §e10kHE/s§r.
+betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=斯特林发电机
+betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3斯特林发电机§r使用了来自§3 热箱§r或§3§r§3 火箱§r的热量来产生电力。 如果加热炉被用来加热斯特林引擎，它可能会超速并损坏，会将主齿轮弹飞。 重型斯特林引擎没有这个问题。%n%n斯特林发电机用一台燃烧煤炭的燃烧室加热可以产生§e2kHE/s§r，而重型斯特林发电机用加热炉可以产生§e10kHE/s§r。
 
 # Quest: Steam Engine
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Steam Engine
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Surbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=蒸汽引擎
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Steam Engine§r 是一个将§bSteam§r变成能量的早期游戏方法。 它需要一个外部源来提供蒸汽和一个倾倒或重新处理它生产的 §bLow-Pressure Steam§r 的方法。 %n%nSteam引擎的能效为 §e85%%§r, 使它比§3斯特林发电机§r更好。 然而，它的吞吐量仍然有限制，因为它只能维持到2000毫米。 它的最大处理速度是 2000 mB/t，产生了一个相当大的 §e3400 HE/t§r 或 §e68 kHE/s§r. 因此它是在§3汽轮机§r之前可用的最好的生成器。%n%n锅炉用加热器加热后会产生§e17kHE/sr。
 
 # Quest: Batteries
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batteries
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=电池
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=电池座可以装电池或电容.%n%n电池有更多的能量存储，但是放电时间较长 意味着只能向网格输送少量存储电源。 另一方面，%n%n电容器的能量存储量较少，但排放时间较快。
 
 # Quest: Cable Network Analysis Tool
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Cable Network Analysis Tool
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=电缆网络分析工具
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=The §6Cable Network Analysis Tool§r is used to check the integrity of power grids and analyze their main functional components. To perform a test, right-click the analyzer on wires or mechanisms in the power grid. The device displays the following data:%n%n§eLinks§r - these include wires and mechanisms that can conduct energy (e.g., energy storage units, utility poles).%n%n§cProviders§r - all mechanisms capable of producing energy and/or feeding it into the grid (energy storage units in "§agreen§r" and "§6orange§r" modes, turbines, etc.).%n%n§9Receivers§r - everything that absorbs energy from the grid (energy storage units in "§9blue§r" mode, grinders, and other mechanisms).%n%n§2The analyzer not only displays the above components but also counts them. Each grid is assigned a unique code.%n%nParticles only spawn in a 20 block radius!
 
 # Quest: Pipe Anchors
-betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=Pipe Anchors
-betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Pipe Anchors§r are non solid fluid ducts which can be used instead of normal ducts.
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=管道锚点
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Pipe Anchors§r 是非固体液管，可用来代替正常的流管。
 
 # Quest: Automatic Buzz Saw
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Automatic Buzz Saw
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=自动Buzz 锯子
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing pushing range.
 
 # Quest: Industrial Mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Industrial Mixer
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=工业混合器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
 
 # Quest: NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM：导言
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=这是§dHBM的核技术模块§r的科技树的乞讨。 在继续操作之前，建议您先储备一些材料，如§6铁丝网§r, §6Coal§r, §6Copper§r 和 §6Redstone§r。%n%n§2可以从遍布世界各地的结构中抢救一些先进的机械。 例如在沙漠中发现的被遗弃的核电厂产生的离心器或诸如大地测量站等稀有暴民滴产生的离心器。%n%nMartian模式在世界创建屏幕上也可用。
 
 # Quest: Template Folder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=Template Folder
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=模板文件夹
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=The §6Template Folder§r is an item that will allow one to create schematics for crafting purposes. The first thing one creates with it are §6Molds§r needed in the §3Burner Press§r. Simply make a §6Flat Stamp§r out of any available material and then select the specific mold from the template folder.
 
 # Quest: Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r are a tiered crafting station that allows for the creation of various machines, structures, and items in some cases. There are multiple tiers of anvils with greater anvil tier primarily corresponding to a greater quantity of recipes being available.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=铁砧
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r 是一个分层的制造厂, 允许在某些情况下创建各种机器, 结构和物品。 有多种层次的魔鬼，其级别更大，主要与可获得的配方数量更多。
 
 # Quest: Burner Press
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Burner Press
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=燃烧器按下
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r and a §6Template Folder§r. %n%n§2A preheater can be placed next to the Burner Press to increase its speed.
 
 # Quest: Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Blast Furnace
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=高炉
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r, §6Steel§r and §6Advanced Alloy§r, which is a combination of the former.%n%nAdvanced alloy can be used to construct very durable tools that come with vein mining.%n%nA separate block, the §3Blast Furnace Extension§r, can be placed on top of the blast furnace to make it operate faster. Without the extension, it smelts items at about half the rate of a furnace, the extension triples that rate. Fuel consumption remains constant, meaning the extension also triples the efficiency of fuel consumption. %n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.
 
 # Quest: Trench Mask
@@ -100,8 +100,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.%n%n§2String can be easily obtained by harvesting Hemp, found in the wild.
 
 # Quest: Hazmat Suits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=Hazmat Suits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r provide protection against many hazards, mainly radiation. §6Hazmat Cloth§r can be further strengthened to create more resistant hazmat suits.%n%nTo provide additional protection against environmental dangers, a §6Gas Mask Filter§r is needed, which can be equiped by right-clicking while holding it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=防化服
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r 提供保护以防许多危险,主要是辐射. §6Hazmat Cloth§r可以进一步加强,以产生更耐用的烟雾套装.%n%n要提供额外的保护免受环境危险，需要一个 §6气体掩码过滤器§r，这可以在按住它时通过右键点击来装备它。
 
 # Quest: Energy Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Energy Cables
@@ -176,7 +176,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=Rotary Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=The §3Rotary Furnace§r is a large furnace which is powered by both §bSteam§r and §6§rsolid fuel. §rIt outputs molten material which can be cast similarly to the outputs of the §3Crucible§r and §3Arc Furnace§r. The Rotary Furnace is the only machine that can produce §6Saturnite§r and §6Weapon Steel§r.
 
 # Quest: Boiler and Steam Condenser
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=Boiler and Steam Condenser
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=锅炉和蒸汽冷凝器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=The §3Boiler§r, when receiving heat from below, heats up fluids. Two important uses of the boiler are for §bSteam§r and §bOil§r processing which will come later on. The Boiler can explode if its output is full.%n%nSteam, when used by machines, such as reactors sending steam through §3Turbines§r or §3Chemical Factories§r produce §bLow-Pressure Steam§r. The low-pressure steam can be recycled back to retrieve 100%% of the water by using a §3Steam Condenser§r. Closed water loops are recommended for reactors.
 
 # Quest: Solar Tower Boiler
