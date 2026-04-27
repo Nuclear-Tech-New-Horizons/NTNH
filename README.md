@@ -29,7 +29,7 @@
 <!-- CONTRIBUTORS_START -->
 <div align="center">
   <h2>🌟 Our Amazing Contributors 🌟</h2>
-  <a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius:50%;margin:5px;" title="Bufka2011 (2175 contributions)"></a><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;" title="BufkaSecond (380 contributions)"></a><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" height="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;" title="AniviaFlome (92 contributions)"></a><a href="https://github.com/Rt194646"><img src="https://avatars.githubusercontent.com/u/209053148?v=4" width="50" height="50" alt="Rt194646" style="border-radius:50%;margin:5px;" title="Rt194646 (31 contributions)"></a><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" height="50" alt="Rerserder" style="border-radius:50%;margin:5px;" title="Rerserder (25 contributions)"></a><a href="https://github.com/bocan225"><img src="https://avatars.githubusercontent.com/u/209335201?v=4" width="50" height="50" alt="bocan225" style="border-radius:50%;margin:5px;" title="bocan225 (20 contributions)"></a><a href="https://github.com/intelcore13900k"><img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" height="50" alt="intelcore13900k" style="border-radius:50%;margin:5px;" title="intelcore13900k (2 contributions)"></a><a href="https://github.com/Xekitan"><img src="https://avatars.githubusercontent.com/u/84423252?v=4" width="50" height="50" alt="Xekitan" style="border-radius:50%;margin:5px;" title="Xekitan (2 contributions)"></a><a href="https://github.com/ShamansJackal"><img src="https://avatars.githubusercontent.com/u/74203576?v=4" width="50" height="50" alt="ShamansJackal" style="border-radius:50%;margin:5px;" title="ShamansJackal (1 contributions)"></a><a href="https://github.com/MrHome655"><img src="https://avatars.githubusercontent.com/u/193831595?v=4" width="50" height="50" alt="MrHome655" style="border-radius:50%;margin:5px;" title="MrHome655 (1 contributions)"></a>
+  <a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" height="50" alt="Bufka2011" style="border-radius:50%;margin:5px;" title="Bufka2011 (2177 contributions)"></a><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" height="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;" title="BufkaSecond (380 contributions)"></a><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" height="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;" title="AniviaFlome (92 contributions)"></a><a href="https://github.com/Rt194646"><img src="https://avatars.githubusercontent.com/u/209053148?v=4" width="50" height="50" alt="Rt194646" style="border-radius:50%;margin:5px;" title="Rt194646 (31 contributions)"></a><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" height="50" alt="Rerserder" style="border-radius:50%;margin:5px;" title="Rerserder (25 contributions)"></a><a href="https://github.com/bocan225"><img src="https://avatars.githubusercontent.com/u/209335201?v=4" width="50" height="50" alt="bocan225" style="border-radius:50%;margin:5px;" title="bocan225 (20 contributions)"></a><a href="https://github.com/intelcore13900k"><img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" height="50" alt="intelcore13900k" style="border-radius:50%;margin:5px;" title="intelcore13900k (2 contributions)"></a><a href="https://github.com/Xekitan"><img src="https://avatars.githubusercontent.com/u/84423252?v=4" width="50" height="50" alt="Xekitan" style="border-radius:50%;margin:5px;" title="Xekitan (2 contributions)"></a><a href="https://github.com/ShamansJackal"><img src="https://avatars.githubusercontent.com/u/74203576?v=4" width="50" height="50" alt="ShamansJackal" style="border-radius:50%;margin:5px;" title="ShamansJackal (1 contributions)"></a><a href="https://github.com/MrHome655"><img src="https://avatars.githubusercontent.com/u/193831595?v=4" width="50" height="50" alt="MrHome655" style="border-radius:50%;margin:5px;" title="MrHome655 (1 contributions)"></a>
 </div>
 <!-- CONTRIBUTORS_END -->
 
@@ -105,13 +105,11 @@
         <sub><b>758 words</b></sub>
       </td>
       <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/probogdan88"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/15116263/medium/e381ad2a54f8104adf22cada864a8c1b.jpeg" />
+        <a href="https://crowdin.com/profile/Axeleron"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/15116263/medium/e381ad2a54f8104adf22cada864a8c1b.jpeg" />
           <br />
-          <sub><b>Axeleron playTM</b></sub>
-          <br />
-          <sub><b>(probogdan88)</b></sub></a>
+          <sub><b>Axeleron</b></sub></a>
         <br />
-        <sub><b>416 words</b></sub>
+        <sub><b>589 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/NKVDshni"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17283930/medium/b6f99536a90f590e689101c777aa3e48.jpg" />
@@ -128,6 +126,15 @@
           <sub><b>(SYBAUpls)</b></sub></a>
         <br />
         <sub><b>52 words</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/samnothere25"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17680980/medium/7a93c4773a995d6bf8f7fe252c23dfa0.jpeg" />
+          <br />
+          <sub><b>samuel buček</b></sub>
+          <br />
+          <sub><b>(samnothere25)</b></sub></a>
+        <br />
+        <sub><b>11 words</b></sub>
       </td>
     </tr>
   </tbody>
