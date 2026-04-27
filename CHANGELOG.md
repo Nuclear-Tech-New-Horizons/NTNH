@@ -197,6 +197,7 @@
 - Improve Recipe Badge
 - Added recipe chance to bookmarks
 - Controlling now ships built-in key combo support
+- No more shrooms in caves
 
 
 
