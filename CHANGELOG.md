@@ -1,6 +1,6 @@
 # 2.9.0 Release
 ## KEYBOARD WIZARD WAS TEMPORARILY DISABLED
-## BECAUSE OF THE CONTROLLING INCOMPATIBILITY
+## BECAUSE OF THE CONTROLLING MOD INCOMPATIBILITY
 
 ## What's changed?
 **Added**
@@ -135,7 +135,7 @@
 - The plinking sound played when a drill cannot break a block now only plays once for the entire AoE instead of once for every single block that couldn't be broken
 - Fluid barrels now have a sideways connector when hooked up to pipes, bridging the two pixel gap
 - Redstone over radio panels now render with their unique parts in the inventory, making the items easier to tell apart
-- Updated russian, german and chinese localization
+- Updated russian, spanish, polish, ukrainian, german and chinese localization
 - Removed the euphemium and DNT compound plate recipes from the anvil, they are now plasma forge exclusive
 - More RoR integration
    └ PWRs can now output the control rod position
