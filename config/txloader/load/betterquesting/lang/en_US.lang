@@ -11,7 +11,7 @@ betterquesting.quest.XGormKIQQp--gquphvky7A.desc=§cImportant!§r In this modpac
 
 # Quest: Give Me My Hand Back!
 betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.name=Give Me My Hand Back!
-betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.desc=Backhand backports minecraft's off-hand. Use your off-hand to hold torches, or even food while mining. 
+betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.desc=Backhand backports minecraft's off-hand. Use your off-hand to hold torches, or even food while mining.
 
 # Quest: Help Me Find It!
 betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.name=Help Me Find It!
@@ -141,7 +141,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=The §3Arc Welder§r is a machi
 
 # Quest: Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
 
 # Quest: Chemical Plant
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Chemical Plant
@@ -211,6 +211,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=The §6Machine Upgrade Template
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Drainage Pipe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=The §3Drainage Pipe§r allows the dumping of fluids and gasses into the environment at the cost of pollution.
 
+# Quest: Do a Barrel!
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.name=Do a Barrel!
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Barrels§r are storage blocks that can hold both fluids and solid blocks. Wooden barrels will leak liquids over time and burn down if filled with lava, so use a stone barrel for those recipes.%n%nBarrels placed under open sky will collect rainwater during downfall.%n%nWhen filled with organic material, a barrel will begin composting once completely full. After roughly 100 seconds it produces a dirt block, ejected by right-clicking. Dirt left near mycelium will slowly convert into a mycelium block, no Silk Touch needed.%n%nA wooden barrel filled with §bWater§r placed next to cobblestone will slowly convert it into mossy cobblestone, costing §e100 mB§r per block. The surrounding blocks must be unaffected by rain. Placing a barrel on mycelium converts its water into §5Witch Water§r, though the barrel itself may disappear in the process. Water flowing above a barrel filled with lava transforms into obsidian.%n%nStone barrels can spawn creatures when tapped with a doll: a barrel of lava with an Angry Doll summons a Blaze, and a barrel of §5Witch Water§r with a Creepy Doll summons an Enderman.%n%nBarrels can convert items using fluids: §5Witch Water§r turns sand into soul sand, lava turns redstone into netherrack or glowstone dust into end stone, and §bWater§r can turn dust into clay, milk into slime balls, or mushroom stew into §5Witch Water§r.%n%n§2Hoppers can be used to insert and eject items from barrels, making composting easy to automate.§r
+
+# Quest: Sieving
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Sieving
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=No Description
+
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=The §6Charm of Protection§r diverts meteorites away from the player and prevents them from destoying blocks. It is recommended that one is obtained as soon as possible as to prevent costly damages in the future.
@@ -251,6 +259,10 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=The §6Multi Fluid Identifier§
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.desc=§cNTNH§r is a modular modpack, so you are free to add/remove/modify config/mods if it works!%n%n§dNTM§r offers a very modular config file, which also comes with additional modes one can activate. These can be enabled in the hbm.cfg file.%n%n§2Expensive Mode§r makes everything more expensive by requiring not only more resourses, but also new components. The quest book will not reflect the changes in progression if its enabled.%n%n§2528 Mode§r introduces gates in the form of templates which are unlocked by destroying a certain amount of items in an §3Annihilator§r. Additionally, some items, mainly circuits, are percentage based now to be crafted. Along with that, theres also more changes that make the game harder, such as §6Tantalum§r generating in a certain area, landmines spawning more frequently and all §dAE2§r blocks §4EXPLODE§r when used.%n%nMany recycling probabilities of the §3Precision Assembler§r are massively lowered with expensive mode enabled, increasing effective cost massively.%n%n§2Rampant Mode§r makes glyphids a very big threat as pollution now makes them way stronger and more aggresive. New more destructive types of glyphids will also become more common. If high enough pollution has been reached, glyphid scouts can spawn passively, which makes automated defense systems necessary as to prevent new hives from being created.%n%n§2For modes with recipe changes, the modpack's recipes have to be inserted again after a new hbmrecipes folder has been created and modes enabled.§r %n
 
+# Quest: Charging Station
+betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.name=Charging Station
+betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.desc=The §3Charging Station§r will charge electric tools aswell as electric suits when standing near it. Placing more next to eachother will increase the speed at which items are being recharged.
+
 # Quest: Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.name=Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.desc=The §6Packing Tape§r allows one to break and move drawers without all the items falling on the floor.
@@ -279,6 +291,10 @@ betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3He
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.desc=Now, as you have a better anvil, you can start §erecycling§r some stuff you may found in dungeons.
 
+# Quest: Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+
 # Quest: Dairy Processing Tank
 betterquesting.quest.fkSdZg90QZ6gAvDWMSZbbQ.name=Dairy Processing Tank
 betterquesting.quest.fkSdZg90QZ6gAvDWMSZbbQ.desc=The §3Dairy Processing Tank§r, while it can be crafted earlier, is very useful on Minmus because of the infinite §bMilk§r production from §3Pumps§r. It can be used to process milk into different liquids, which can then be used to make food items.
@@ -301,11 +317,15 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an in
 
 # Quest: Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r. 
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
 
 # Quest: Long Distance Energy Transportation
 betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.name=Long Distance Energy Transportation
 betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=For greater distances, and improved aesthetics, a new distribution node is available, the §3Large Electricity Pylon§r.%n%n§3Substations§r are needed to step up/down the voltage that the line carries.%n%nThese Pylons can prove useful as favorable §eBedrock Ore§r or §eOil deposits§r may be located far away from the main base.%n
+
+# Quest: Primitive Crucible
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=No Description
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Industrial Hemp & Mustard Willow
@@ -335,6 +355,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=The §3Cyclotron§r is a machin
 # Quest: Desh Servo Set
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
+
+# Quest: M1TTY Environment Suit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs aswell as fast swimming speed.
 
 # Quest: Antimatter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=Antimatter
@@ -378,7 +402,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=The §3Catalytic Cracking Tower
 
 # Quest: Desh Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.name=Desh Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.%n%nAlternatively, the §3Desh Anvil§r can be skipped by making a §3Ferrouranium Anvil§r, [T4], from scavanged §e§r§6Uranium-238§r found in structures.
 
 # Quest: Industrial Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=Industrial Boiler
@@ -398,7 +422,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up 
 
 # Quest: Industrial Steam Turbine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Industrial Steam Turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has a §e100MHE§r internal power buffer, a 512,000 MB input buffer, and a 10,240,000 MB output buffer, and can process 102,400 MB per tick at the most. It is also the only turbine that operates at §e100%%§r efficiency.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has an efficiency of §e100%%§r and energy output slowly ramps up as §bSteam§r is supplied and slowly goes down as steam cuts out.
 
 # Quest: Coker Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Coker Unit
@@ -476,6 +500,10 @@ betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.desc=§6Semtex§r is an explosive th
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.name=Microchip
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Microchips§r are one of the most important components of future circuits and will be used in bulk throughout progression.
 
+# Quest: Fiberglass
+betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.name=Fiberglass
+betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.desc=Sand in an §3Ore Acidizer§r can be turned into §6Fiberglass§r, which provides more than §e4x§r the amount of §6Silicon§r in an §3Arc Furnace§r. Additionally, it provides a great recipe for insulators.
+
 # Quest: Powered Drill
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.name=Powered Drill
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.desc=The §6Powered Drill§r is a modular mining device which can make resourse gathering and excavation much faster than normal pickaxes. %n%nVarious modifications can be attached in the §3Weapon Modification Table§r, such as new drillbits for a larger mining radious or even new engines, which let it run on electricity.
@@ -520,6 +548,10 @@ betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=The §3Mining Laser§r is a las
 ## Quest Line: LV3 - Reactors Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Reactors Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=As energy needs increase, more powerful energy sources will be needed. This chapter covers Nuclear Reactors aswell as other advanced machines needed to produce ever stronger materials.
+
+# Quest: Plasma Forge
+betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=Plasma Forge
+betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.desc=The §3Plasma Forge§r is a large and advanced assembler that requires a running fusion reactor to work. It can weld plates at twice the speed of a normal welder. It does not accept upgrades, however, it can use up otherwise useless fission fragments and unstable isotopes to gain a temporary §ex4§r speed bonus with no penalty.
 
 # Quest: Gas Centrifuge
 betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.name=Gas Centrifuge
@@ -641,6 +673,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=The §3Cooling Tower§r is a la
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=Ionized Particles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=§6Ionized Particles§r are the main product of the §3Fusion Reactor§r and are used in making §6Ferric Scrabidate§r, aswell as some particle capsules needed in the §3Particle Accelerator§r.%n%n§2Ionized Particles can be infinitely produced by utilizing Ionic Gel.
 
+# Quest: HEV Mark IV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=HEV Mark IV
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=The §6HEV Mark IV§r is a strong electric armor set, with the intent of keeping the user safe primarely from dangerous hazards, such as high levels of radiation, fire, certain air particles and more. The suit comes equiped with an §6Geiger Counter§r and custom hud.
+
 # Quest: Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=§6Bismuth§r is an important material needed in many advanced crafting recipes. Bismuth can be obtained from either §3RBMK§r fuel depletion and processing though a §3FEL§r and §3SILEX§r, or from bedrock ore processing using §bHigh-Performance Solvent§r. %n%n§6Arsenic§r will require an additional §bOre Acidizer§r aswell as access to high-performance solvent.%n%n§2Due to the lack of bismuth bedrock ore available on earth and the amount of time it takes to process RBMK fuels, it is recommended that some arsenic is used instead of bismuth.
@@ -701,6 +737,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bHigh-Performance Solvent§r 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.name=Radiation-Powered Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.desc=The §3Radiation-Powered Engine§r turns nuclear waste into decayed waste while also making energy in the process and giving guaranteed consistent decay times.%n%n§2Blueprints can be found in structures or purchased from Bobmazon.
 
+# Quest: PWR powered Steel Furnace
+betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.name=PWR powered Steel Furnace
+betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.desc=Instead of using the §bHot Coolant§r for power, one can use it to make the §3Steel Furnace§r go at ludicrous speeds.
+
 # Quest: Uranium-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=Uranium-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Uranium-238§r is the most common uranium isotope in the game. %n%nThis material has many uses, some of which are: §6Ferrouranium§r, MOX fuel, depleted uranium ammunition, absorber Pellets for the §3Watz§r powerplant and can also be turned into §6Schrabidium§r later on in the §3Exposure Chamber§r.
@@ -708,6 +748,10 @@ betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Uranium-238§r is the most c
 # Quest: Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=The §3Fusion Reactor Coupler§r turns outgoing plasma energy from a torus into usable §eKyE§r which can then be used to power another torus. Some fuel combinations require this, as the minimum §eKyE§r energy needed to ignite the plasma exceeds what four §3Klystrons§r could deliver.%n%nThe §3Fusion Reactor Breeding Chamber§r uses neutron flux from a torus to in order to process materials. It can perform any recipe from an §3RBMK irradiation channel§r, with some additional recipes aswell. The neutron flux is not affected by port sharing rules, and the output level is the same on any side.%n%nThe §3Fusion Reactor Collection Chamber§r increases the byproduct production rate by §e50%%§r.
+
+# Quest: Desh Stamps
+betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh Stamps
+betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Desh Stamps§r have infinite durability, perfect for automation.
 
 # Quest: High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=High-Performance Solvent Bedrock Ore Processing
@@ -749,6 +793,10 @@ betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Technetium-99§r is a common
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Satellite Launching
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satelites in NTM space can be launched from either a Souyz or a custom rocket.
 
+# Quest: Ferrouranium
+betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ferrouranium
+betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.desc=§6Ferrouranium§r is an alloy of §6Uranium-238§r and §6Steel§r.
+
 # Quest: Heat Exchanging Heater
 betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.name=Heat Exchanging Heater
 betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.desc=The §4§3Heat Exchanging Heater§r is used to cool down coolants used in reactors while also genearting §eTU§r. A §3Boiler§r can be placed ontop of it to heat up other fluids, such as §bSteam§r, to be used in §3Steam Turbines§r.
@@ -760,6 +808,10 @@ betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=With access to §6Tantalium§r 
 # Quest: Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6Arsenic§r is a substitute of §6Bismuth§r which can be made from acidizing §6Oily Dirt§r, found near §ebedrock oil deposits§r or from the environmental damage the §3Fracking Tower§r does, with §bHigh-Performance Solvent§r.
+
+# Quest: Deuterium Extraction Tower
+betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.name=Deuterium Extraction Tower
+betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.desc=The §3Deuterium Extraction Tower§r is a much larger version of the Deuterium Extractor, making it an easy and viable way of making cheap fuel for the §b§r§3Fusion Reactor§r.%n%n§2A Ferrouranium Anvil is required.§r
 
 
 ## Quest Line: LV3.5 - Space Age
@@ -971,6 +1023,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=Delve into Impossible Physi
 betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.name=ICF Fuels
 betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.desc=The §3ICF§r can process different combinations of fuels at different laser power levels. A cheap and renewable fuel that can be used to gather the §bStellar Flux§r needed for §6Gerald§r and make decent power is §bHelium-4 - Hydrogen§r.%n%nApplying a Muon Particle to a fuel pellet will decrease the power that is needed to run it.
 
+# Quest: Dineurtom amrr
+betterquesting.quest.6PZEF2npTwy_exs-JQAKYg.name=Dineurtom amrr
+betterquesting.quest.6PZEF2npTwy_exs-JQAKYg.desc=Increasus damge takn by 5x tims%nBestest armr in da wurld!!!!!!1!!1!!%n%nStaje of da gaim - Brayn Partiklz%nProtekshun levl - Funtastick%nFeetchurs - Yoor Btes Chois
+
 # Quest: Particle Capsules
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Particle Capsules
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Particles are important items required to create exotic materials which are needed for most of the endgame content.
@@ -982,6 +1038,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=The §6Quantum Computer§r is t
 # Quest: Solid State Quantum Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=Solid State Quantum Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=The §6Solid State Quantum Processor§r is the first quantum circuit related component needed to make §6Quantum Processing Units§r and §6Quantum Computers§r.
+
+# Quest: DNT Nanosuit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.name=DNT Nanosuit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.desc=The §6DNT Nanosuit§r is final goal of the mod. By crafting this armor you have reached the end of progression.%n%n§5Thanks for playing!
 
 # Quest: DFC
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=DFC
@@ -1063,6 +1123,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=The §6Crucible§r is a weapon 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=Schrabidium Hammer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=The §6Schrabidium Hammer§r is the most powerful weapon in the mod, being able to one-shot everything.
 
+# Quest: Magnetohydrodynamic Turbines
+betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.name=Magnetohydrodynamic Turbines
+betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.desc=§3Magnetohydrodynamic Turbines§r are advanced components of the fusion reactor that make electricity out of the plasma energy directly without needing additional turbines. While more expensive and requiring §bPerfluoromethyl§r cooling, they have a §e+35%%§r convertion bonus from §eTU§r to §eHE§r. In addition, the MDH turbine requires a minimum input of%n§e5MTU/t§r of plasma energy to operate normally, otherwise efficiency will be halved.
+
 # Quest: Done
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cDone
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Are you okay? Go touch some grass.
@@ -1097,12 +1161,16 @@ betterquesting.quest.q0Q4S7F-QlCzGWDkdOBMqw.desc=The Martian Invasion Ship is a 
 
 # Quest: Welded Osmiridium Plate
 betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.name=Welded Osmiridium Plate
-betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r cost 120 Billion HE to produce, so good energy generation and storage infrastructure is needed.
+betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r cost 300 Billion §eHE§r to produce, so good energy generation and storage infrastructure is needed.
 
 
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Improve your builds by using Chisel, Architecturecraft and Better Builder's Wands.
+
+# Quest: Auto Chisel
+betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.name=Auto Chisel
+betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.desc=The §3Auto Chisel§r allows for automated chiseling of blocks. Simply insert any chisel in the machine and the block that will act as the template.
 
 # Quest: Chisel
 betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.name=Chisel
@@ -1131,100 +1199,6 @@ betterquesting.quest.p7NNm2NvRgWz37LQO6yraw.desc=§dArchitectureCraft§r introdu
 # Quest: Sign Pictures
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.name=Sign Pictures
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=The §dSignPicture§r mod allows one to put any image on a sign, opening the door to many unique building designs. Press \ to get started.
-
-
-## Quest Line: Getting around...
-betterquesting.questline.IMaxzqn6SPe41eVHumcKhA.name=Getting around...
-betterquesting.questline.IMaxzqn6SPe41eVHumcKhA.desc=No Description
-
-# Quest: Builder's Jetpack
-betterquesting.quest.KcnpD14US-azBrJ6lnxtwg.name=Builder's Jetpack
-betterquesting.quest.KcnpD14US-azBrJ6lnxtwg.desc=Unlike the regular jetpack, pressing the Spacebar allows you to rise and levitate in the air (without holding Spacebar). Pressing Shift lowers the player down, and the "C" button allows you to turn the jetpack on and off.%n%nVelocity - 0.4-0.2m/1t%nFuel consumption - 5-10t/1mb%nFuel type - Kerosene
-
-# Quest: Vectored Jetpack
-betterquesting.quest.Lx52eHSxTHmRRHtJ0f8J8g.name=Vectored Jetpack
-betterquesting.quest.Lx52eHSxTHmRRHtJ0f8J8g.desc=I AM A SONIC NOW! YES, FLYING SONIC!
-
-# Quest: Jetpack
-betterquesting.quest.c0PT-cJUTjmDXA1SpDFsGw.name=Jetpack
-betterquesting.quest.c0PT-cJUTjmDXA1SpDFsGw.desc=The Jetpack is an armor attachment that can also be worn directly instead of a chestplate.%n%nVelocity - 0.4m/1t%nFuel consumption - 5t/1mb%nFuel type - Kerosene
-
-# Quest: Jetpack Reserve Fuel Tank
-betterquesting.quest.wOUqQNzITt27w1u__S7Pcw.name=Jetpack Reserve Fuel Tank
-betterquesting.quest.wOUqQNzITt27w1u__S7Pcw.desc=Jetpack Reserve Fuel Tank is a consumable for refueling jetpacks that use kerosene. Using one tank refills the jetpack's fuel supply by 1000 mB of kerosene. The consumable only refueled the jetpack that was equipped. Activation of the consumable by pressing the right mouse button.
-
-
-## Quest Line: ...without dying.
-betterquesting.questline.WLHEIErFRHCSoNQ7qL4YwA.name=...without dying.
-betterquesting.questline.WLHEIErFRHCSoNQ7qL4YwA.desc=No Description
-
-# Quest: Cobalt Armor Set
-betterquesting.quest.-kqA6DeiTJqePIBzJpf0uQ.name=Cobalt Armor Set
-betterquesting.quest.-kqA6DeiTJqePIBzJpf0uQ.desc=Mostly used as an crafting ingridient for starmetal armor, which is mostly used as an crafting ingridient for other cool armors.
-
-# Quest: Casual Armor Set
-betterquesting.quest.2L-E-PL5SDWjrfvWn_zC_w.name=Casual Armor Set
-betterquesting.quest.2L-E-PL5SDWjrfvWn_zC_w.desc=Pretty good and cheap armor. Except for boots - they're a little bit harder to make.%n%n[note]Here is a tip: use latex for the early game.[/note]
-
-# Quest: Bismuth Armor Set
-betterquesting.quest.3JpvYLTfTOO9kEK28DaW8w.name=Bismuth Armor Set
-betterquesting.quest.3JpvYLTfTOO9kEK28DaW8w.desc=VERY cool armor, gives you ability to dash [note](hmm... reminds me of some game...)[/note]
-
-# Quest: Diesel-Powered Armor Set
-betterquesting.quest.6WXPMWrES4OaDu1YsXq5Gg.name=Diesel-Powered Armor Set
-betterquesting.quest.6WXPMWrES4OaDu1YsXq5Gg.desc=Ever wanted to look like a bunny girl? Well... Umm... This is for you.
-
-# Quest: CMB Armor Set
-betterquesting.quest.EDtE6paOTrOrW6rox2ql4g.name=CMB Armor Set
-betterquesting.quest.EDtE6paOTrOrW6rox2ql4g.desc=Not really armor, but gives you haste III, speed III and strength V, so it's good for mining.
-
-# Quest: Titanium Armor Set
-betterquesting.quest.EyUDpma5Qb6VKA2y0yeAaQ.name=Titanium Armor Set
-betterquesting.quest.EyUDpma5Qb6VKA2y0yeAaQ.desc=Titanium armor is mostly used as early game armor or as crafting ingridient for few other armors, such as HEV Mk IV and T45.
-
-# Quest: AJR Power Armor Set
-betterquesting.quest.HRllUs4uTFOv2ElWs207gg.name=AJR Power Armor Set
-betterquesting.quest.HRllUs4uTFOv2ElWs207gg.desc=A stylish version of the Steel Rangers armor.
-
-# Quest: Euphemium Armor Set
-betterquesting.quest.KeDR9WCZR_2FQ1dkZhyaIg.name=Euphemium Armor Set
-betterquesting.quest.KeDR9WCZR_2FQ1dkZhyaIg.desc=It's just protects you from everything. Except for Digamma.
-
-# Quest: T45 Power Armor
-betterquesting.quest.MC-Fx_ATQw2H5EPDqWBtEg.name=T45 Power Armor
-betterquesting.quest.MC-Fx_ATQw2H5EPDqWBtEg.desc=Pretty good armor for combat, but I'll recommend you to craft Steel Ranger instead.
-
-# Quest: Lunar Armor Set
-betterquesting.quest.WeGg9_yRTAewpvKItMnnaw.name=Lunar Armor Set
-betterquesting.quest.WeGg9_yRTAewpvKItMnnaw.desc=Very good armor. Gives satiety, speed, jumping ability, thermal visor, fall protection and much more.%n%nIf you put it on uncharged, you will die.%n%nYou can also add wings to the armor and get built-in elytra and an ion jetpack.
-
-# Quest: Starmetal Armor Set
-betterquesting.quest.a_2oKgZDTe6qca5hlK721A.name=Starmetal Armor Set
-betterquesting.quest.a_2oKgZDTe6qca5hlK721A.desc=Mostly used as an crafting ingridient for other cool armors, such as Lunar Armor and Fau armor.
-
-# Quest: Steel Ranger Armor Set
-betterquesting.quest.e6pftbb6TAuGpoS0O7_RjQ.name=Steel Ranger Armor Set
-betterquesting.quest.e6pftbb6TAuGpoS0O7_RjQ.desc=Steel Ranger Armor is very similar in characteristics to T45 armor, but it is still better in protecting against physical damage, explosions, radiation and other, and also gives the effect of a jump boost in addition to strength.
-
-# Quest: Steel Armor Set
-betterquesting.quest.kNHV1YpNQDSENgcRY251NQ.name=Steel Armor Set
-betterquesting.quest.kNHV1YpNQDSENgcRY251NQ.desc=Steel armor set is almost useless, but used in crafting in a few other armors.
-
-# Quest: Fau Armor
-betterquesting.quest.n-D5ZzNnQ_ux3u0yFXZ1qQ.name=Fau Armor
-betterquesting.quest.n-D5ZzNnQ_ux3u0yFXZ1qQ.desc=The strongest armor, capable of protecting even against Digamma. It ignores nearly all types of damage, but DNT would be more convenient.%n%nTo craft the chestplate, you need ancient fragments from the basement of the concrete pyramid.  %n§c[There is A TON of radiation down there, be careful]
-
-# Quest: Remnants Power Armor
-betterquesting.quest.wOQm2yjgR9mYmJZ1cXlxOA.name=Remnants Power Armor
-betterquesting.quest.wOQm2yjgR9mYmJZ1cXlxOA.desc=You've lost an expensive piece of army-issue equipment! That suit is going to come out of your §cpay§r, and you will remain in this mans army until you are §cfive hundred and ten years old§r, which is the number of years it will take for you to pay for a Mark II Powered Combat Armor you have lost! Report to the armory and have a new suit issued to you, then report back to me, private! §cDismissed!
-
-# Quest: Advanced Alloy Armor Set
-betterquesting.quest.x6BH5qVCRc-lUMqwC5oxeA.name=Advanced Alloy Armor Set
-betterquesting.quest.x6BH5qVCRc-lUMqwC5oxeA.desc=This is the first REALLY GOOD armor you can get early in the game. It's not the coolest in the modpack, but it's better than diamond.
-
-# Quest: Steam Suit
-betterquesting.quest.xU7jtFxOQR-4ccpcXT3W2A.name=Steam Suit
-betterquesting.quest.xU7jtFxOQR-4ccpcXT3W2A.desc=Ever wanted an power armor that is not using electricity power? Here it is, steam-powered power armor!%n%nSlows you down a little bit but gives you Haste V.
 
 
 ## Quest Line: Dimensional Adventures
@@ -1662,7 +1636,7 @@ betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You 
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. 
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Time to Kill (Silverfish)
@@ -1671,16 +1645,6 @@ betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.desc=Be wary, they like to disguise 
 # Quest: Time to Kill (Wither)
 betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.name=Time to Kill (Wither)
 betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.desc=After collecting a couple of those wither skeleton heads, you feel like you could use some more action. So why not kill a wither?
-
-
-## Quest Line: Hardcore Challenges
-betterquesting.questline.9ZY-Ej-RTUWqgCVPkvTdVQ.name=Hardcore Challenges
-betterquesting.questline.9ZY-Ej-RTUWqgCVPkvTdVQ.desc=For hardcore fans!
-
-
-## Quest Line: Secrets of this world
-betterquesting.questline.Kxnm-96zR0mXUMUYAs0sBw.name=Secrets of this world
-betterquesting.questline.Kxnm-96zR0mXUMUYAs0sBw.desc=...
 
 
 ### Quests in multiple quest lines ###
@@ -1705,10 +1669,6 @@ betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.desc=§cWelcome to Nuclear Tech: New
 betterquesting.quest.5kMp0VQpS621jGrQSHbZGQ.name=The End Resources
 betterquesting.quest.5kMp0VQpS621jGrQSHbZGQ.desc=The End is where you'll find the resources you need for high-level crafting. To get it, craft an Eye of Ender like you would in regular Minecraft to find a fortress with an End Portal.%n%nThe dragon boss fight has been reworked and is now a much more challenging encounter with new obstacles to overcome before defeating the dragon.%n%nIn the End, you can collect Dragon Essence by killing the dragon, Ender Powder from ore scattered across the islands, and Stardust found in the far reaches of the distant End Islands.
 
-# Quest: Dineurtom amrr
-betterquesting.quest.6PZEF2npTwy_exs-JQAKYg.name=Dineurtom amrr
-betterquesting.quest.6PZEF2npTwy_exs-JQAKYg.desc=Increasus damge takn by 5x tims%nBestest armr in da wurld!!!!!!1!!1!!%n%nStaje of da gaim - Brayn Partiklz%nProtekshun levl - Funtastick%nFeetchurs - Yoor Btes Chois
-
 # Quest: Dyson Anatmogenesis Terraformer
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.name=Dyson Anatmogenesis Terraformer
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.desc=The §3Dyson Anatmogenesis Terraformer§r provides the most utility out of all the currently available §3Dyson converters§r, accepting a beam from a receiver and providing a direct energy to mass conversion, producing planetary scale atmospheric gases, terraforming any planet or moon as a player sees fit.%n%nBy default it will release oxygen into an atmosphere, making it breathable once it crosses the 0.1atm threshold for breathing. A fluid identifier can be used to switch the gas emitted, and a screwdriver can switch it between emitting or extracting gases from the atmosphere.%n%nIf powered with §e150THE/s§r power from a swarm (equivalent to a swarm size of 1,024), it will take 8 hours to reach 0.1atm of pressure.
@@ -1721,18 +1681,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Glyphids§r are large insect
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Useful Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=There are many tools which will help you progress through the mod, the most important ones being:%n%n§6Tungsten Reachers§r, which reduce the radiation the player gets exposed to from items in their inventory, aswell as allowing them to hold some very hot items.%n%nThe §6Crowbar§r, which is used to open crates for loot such as food and ammunition found in various structures.
 
-# Quest: M1TTY Environment Suit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs aswell as fast swimming speed.
-
-# Quest: DNT Nanosuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.name=DNT Nanosuit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.desc=The §6DNT Nanosuit§r is final goal of the mod. By crafting this armor you have reached the end of progression.%n%n§5Thanks for playing!
-
-# Quest: HEV Mark IV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=HEV Mark IV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=The §6HEV Mark IV§r is a strong electric armor set, with the intent of keeping the user safe primarely from dangerous hazards, such as high levels of radiation, fire, certain air particles and more. The suit comes equiped with an §6Geiger Counter§r and custom hud.
-
 # Quest: Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material needed for the creation of some items, most importantly §6Capacitor Boards§r. Tantalium Polycrystal production requires §6Coltan§r which can be located by the use of a §6Coltass§r. Coltan can also be obtained by using the mining drill in a §eBedrock Ore Coltan Deposit§r located randomly on planet Dres. Tantalum can also be obtained via §3Watz Reactor§r.%n%n§2Coltan Processing at its early stage can provide Niobium needed for Catalytic Cracking Towers.
@@ -1740,6 +1688,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material n
 # Quest: Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=The §6Red Key§r is able to open any container that requires a regular key, regardless of the pin configuration of the lock, and it is one of the only two keys capable of opening the keyhole found on strange stone, in order to open a §eRed Room§r. The key has no durability, and can be reused indefinitely.%n%n
+
+# Quest: Ore generation
+betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.name=Ore generation
+betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.desc=§4[warn]Ore generation in NT:NH has been changed.[/warn]%n%n§fОre is now generated in a more realistic manner in veins and strata. It is also distributed across biomes and in order to get a specific ore, you will have to travel. For more information on which biomes, at what altitude, and how often ore is found, see the table below.%n%n§6English version: §9[url]https://docs.google.com/spreadsheets/d/1KayyJUUNZorZVQM-iK6vzE_nZjC9YsTl/edit?usp=sharing&ouid=108915218043328005607&rtpof=true&sd=true[/url]%n%n§f§6Russian version: §9[url]https://docs.google.com/spreadsheets/d/1E1tHN_gIRkAO1Kb0RPSR-QzfUFW6F_7f/edit?usp=sharing&ouid=108915218043328005607&rtpof=true&sd=true[/url]
 
 # Quest: Safes and lockpicking
 betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.name=Safes and lockpicking
