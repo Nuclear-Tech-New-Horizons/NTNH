@@ -61,6 +61,7 @@
 - New colored texts system
 - Added the missing music discs
 - Lodestone craft
+- Added a few more new quests
    
 
 

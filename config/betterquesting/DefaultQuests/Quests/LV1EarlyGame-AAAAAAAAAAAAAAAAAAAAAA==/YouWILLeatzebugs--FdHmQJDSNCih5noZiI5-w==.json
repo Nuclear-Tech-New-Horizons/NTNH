@@ -1,41 +1,25 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 195
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 261
-    },
-    "2:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 277
-    },
-    "3:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 39
-    },
-    "4:10": {
-      "questIDHigh:4": -2605986321132862176,
-      "questIDLow:4": -6530016429603008347
+      "questIDHigh:4": -3894422327576932604,
+      "questIDLow:4": -8870866079077399040
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §3FenSU§r is the ultimate energy storage block, being able to store 9.22EHE.\n\n[F1] For more information.",
+      "desc:8": "Congratulations. You have done it. You have actually done it.\n\nWhile the rest of the world clung desperately to their beef and their bread, you - yes, YOU - reached into your inventory, pulled out a §6Silkworm§r, and thought: \"yes. This is food now.\" Klaus is proud. Klaus is, in fact, emotional. Somewhere in a Swiss\nchalet, a single tear rolls down his turtleneck. You will own nothing. You will have no hunger bar. Und you will be happy.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_battery_redd"
+        "id:8": "exnihilo:silkworm_cooked"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "FEnSU",
+      "name:8": "You WILL eat ze bugs!",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -43,11 +27,11 @@
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
       "taskLogic:8": "AND",
-      "visibility:8": "NORMAL"
+      "visibility:8": "COMPLETED"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 278,
+  "questIDHigh:4": -551893706836064048,
+  "questIDLow:4": -6735245494284305925,
   "rewards:9": {
     "0:10": {
       "ignoreDisabled:1": 0,
@@ -58,16 +42,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "amazingtrophies:trophy",
-          "tag:10": {
-            "trophyID:8": "fensu"
-          }
-        },
-        "1:10": {
-          "Count:3": 1,
-          "Damage:2": 5,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag"
+          "id:8": "exnihilo:silkworm_cooked"
         }
       }
     }
@@ -77,15 +52,15 @@
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
-      "index:3": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:tile.machine_battery_redd"
+          "id:8": "exnihilo:silkworm_cooked"
         }
       },
       "taskID:8": "bq_standard:retrieval"

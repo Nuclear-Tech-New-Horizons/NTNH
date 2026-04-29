@@ -1,5 +1,10 @@
 {
-  "preRequisites:9": {},
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 1
+    }
+  },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
@@ -36,7 +41,14 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
-      "requiredItems:9": {},
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "exnihilo:barrel"
+        }
+      },
       "taskID:8": "bq_standard:retrieval"
     }
   }
