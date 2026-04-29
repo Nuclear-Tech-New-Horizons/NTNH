@@ -60,6 +60,7 @@
 - Distant Horizons shader support 🥳
 - New colored texts system
 - Added the missing music discs
+- Lodestone craft
    
 
 
