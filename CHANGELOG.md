@@ -1,154 +1,220 @@
-# 2.8.1 Release
-### All of the changes are related to AE2
+# 2.9.0 Release
+## KEYBOARD WIZARD WAS TEMPORARILY DISABLED
+## BECAUSE OF THE CONTROLLING MOD INCOMPATIBILITY
 
 ## What's changed?
 **Added**
-- Universal GUI in WirelessCraftingTerminal
-- Added keybinds for every universal terminal
-- Added "fluix" to wireless connector tooltip
-- Added a "Nodes and one Channel" mode
-- Added Universal GUI for all terminals (Wireless Crafting, Processing, Pattern, etc.)
-- Added CPU Sorting buttons and enhancements
-- Added Color Selector GUI for the Color Applicator with color pickup
-- Added Crafting Complete Notification Popup
-- Added Pattern Repeater
-- Added Spatial Link Chamber and Spatial Network Relay
-- Added Stack Type API
-- Added Preview Blocks
-- Added storage interceptor & locking card support
-- Added creative-like pick block with withdrawal from AE system
-- Added info tooltip for Pins Button and tooltips for creative energy blocks
-- Added level emitter button to control detection mode on empty filter
-- Added backhand support for the color applicator
-- Allow bind terminal to wireless access point
-- Allow network-to-network exotic stack transfer
-- Allow viewing crafting and usage of the pattern main output
-- Allow input-only pattern to be encoded as a Tunnel pattern
-- Allow using inverter card on fluid cells
-- Allow block containers to disable facades based on metadata
-- View Cell now supports all stack types
-- Show requester on active crafting CPU crafts
-- Use pylon dimension for SpatialTransition instead of IO-Port
-- Enhanced Network Status Bar
-- Enhanced Stuck Overlay (red tint on stuck interfaces)
-- Improve terminal interaction with type filter
-
+- Plasma forge
+   └ Plasma-powered assembly machine
+   └ Used to produce lategame items that until now were regular assembler recipes
+   └ Can pass on plasma, 25% of the plasma energy that passes through a plasma forge is consumed
+   └ This allows plasma forges to be chained, or unused residue energy to be used in turbines
+   └ Parts that interact with the fusion reactor directly, like the collector chambers, are not compatible
+   └ Like all assembler-type machines, features custom animations (i spent a lot of time on those, please look at them for prolonged periods of time, ideally without blinking)
+   └ Base production rates for plasma forge exclusive recipes are very slow
+   └ Does not accept upgrades, however, can use up otherwise useless fission fragments and unstable isotopes to gain a temporary x4 speed bonus with no penalty
+   └ Can also assemble fusion reactor vessels, which are cheaper but need quantum circuits
+- Blank Redstone-over-Radio Panel
+   └ A cheap way of extending the size of RoR control consoles without needing unconfigured button or gauge panels
+   └ Now used to craft the other RoR panel variants
+- Redstone-over-Radio numeric display 
+   └ Shows integer RoR values as numbers
+   └ Can have up to two display panels per block
+- Redstone-over-Radio Graph 
+   └ Similar to the numerical display, but instead of showing the number, it logs it every half second and displays it on a graph
+- New grenades
+   └ Universal system where there's only one grenade item
+   └ A grenade is composed of a shell, filling and fuze, which can be mixed and matched as needed
+   └ Instead of having dedicated grenades with impact or long timers, the desired fuze can simply be put into any grenade configuration
+   └ Comes with proper 3D models and animations
+   └ Grenade max stacksize has been drastically reduced (and now depends on the shell used)
+- Atmospheres are now visible from other planets/orbit
+- All planets/moons now generate flat in superflat worlds
+- TheVitya2127 bobblehead
+- Redstone-over-radio lever
+   └ Big breaker switches
+   └ Up to two per module, side by side
+   └ Can send different RoR values based on the lever's position
+- Redstone-over-radio indicator lights
+   └ Colored indicator light panels with labels on them
+   └ Up to six lights per module
+   └ Will light up when an RoR signal falls within the configured threshold
+- Redstone-over-radio pager
+   └ Item that receives RoR signals and displays them on the HUD info system
+   └ Info contains the channel name, a shortened timestamp to tell apart equal signals sent on different ticks, and the actual signal
+   └ Useful in various situations: 
+      └ Usable for remote monitoring, allowing critical things like reactor temperature and coolant flow to be checked even if not on-site
+      └ Using RoR transmitters that are set to polling, it's now very easy to figure out if the chunk the transmitter is in is loaded
+      └ An automated message system for various general alerts, easily doable by using an RoR transmitter with custom mappings (do mind the character limit, longer alerts may have to be sent sequentially)
+      └ A simple way of getting live feedback from the RoR system, in order to detect when or if a system sends a signal, since other RoR receivers do not have a way of telling apart repeated identical signals
+- Satellite orbit and cosmetic modification
+      └ Satellites can now be modified via a GUI that is accessed via crouch + right click
+      └ They now store additional info that defines how they move in the sky
+      └ Holding a satellite will show you a preview of what their final trajectory in the sky will be
+      └ You can configure them to blink too
+- Freecam (default key: F4)
+- ExNihilo
+      └ Allows to get stuff in early game
+      └ Currently it is very raw
+      └ There will be future changes in loots
+- Distant Horizons shader support 🥳
+- New colored texts system
+- Added the missing music discs
+- Lodestone craft
+- Added a few more new quests
+- Added [Improving Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/improving-minecraft-fork)
+   └ Adds some funny stuff
+   └ Changes the stone age gameplay
+- Added [Smart Tree Falling Mod](https://www.curseforge.com/minecraft/mc-mods/smart-tree-felling)
+- Added [Re: Chests Mod](https://www.curseforge.com/minecraft/mc-mods/rechests)
+- Added [An Extra Touch Mod](https://www.curseforge.com/minecraft/mc-mods/an-extra-touch)
+- Added some more resourcepacks
+   
 
 
 **Fixed**
-- Fixed armor slot index and duplicated tooltip in WirelessCraftingTerminal
-- Fixed container interaction tooltip in WirelessCraftingTerminal
-- Fixed multible bugs related to AE2
-- [Memory-opti:fix leak] Fix world leak
-- Fixed universal terminal mode switch in baubles
-- Fixed multiple bugs
-- Fixed discretizier crash
-- Fixed primary gui
-- Fixed draining simulation actually perform drain
-- Fixed import/export bus issues
-- Fixed replenisher void
-- Fixed stock replenisher item voiding
-- Fixed some typos
-- Fixed storage name on exp
-- Fixed storage name fluid emitter
-- Fix crash when trying to open wireless magnet filter when terminal in baubles
-- Fixed alt-type storage bus unable to read subnet
-- Fixed null key in legacy craftable map
-- Fixed storage bus crash on empty container
-- Fixed storage bus crash and item NBT disappearance
-- Fixed fill containers interaction
-- Fixed fluid cell interaction and amount-to-send calculation for fluids
-- Fixed essentia not being pushed to network via interface
-- Fixed bi-directional filters with storage bus + interface subnet
-- Fixed item buses not updating redstone mode when GUI changes
-- Fixed crafting results being voided when unable to inject into network
-- Fixed crafting GUI transition and opening in non-hand slot
-- Fixed Universal Terminal not loading pattern when changing pattern output slot
-- Fixed pattern optimizer crash and crash on patterns with unsupported types
-- Fixed wrong substitutes used in crafting calculation
-- Fixed processing terminal buttons position
-- Fixed performance regression when requesting new crafts
-- Fixed crafting status tooltip
-- Fixed negative amount button
-- Fixed colored +/- amount buttons not updating value when colored
-- Fixed tooltip showing previously hovered item details instead of current one
-- Fixed color applicator GUI not reporting colors properly
-- Fixed optimizer GUI not opening; fixed fluids not displayed in optimizer GUI
-- Fixed partition button not working on Cell Workbench
-- Fixed highlight interface not working sometimes
-- Fixed Network Status GUI not opening
-- Fixed multi-interface smart blocking (smart UAAL automation)
-- Fixed config copy for IO Bus, Storage Bus, and Level Emitter via memory card
-- Fixed interface terminal search refocus
-- Fixed Interface Terminal crashes and improvements
-- Fixed item name localization on dedicated server
-- Fixed NPE in DualityInterface#addDrops and in AEFluidStackType#drainStackFromContainer
-- Fixed server crash introduced by PR#1089
-- Fixed crash without AE2FC
-- Fixed encoded pattern overwrite
-- Fixed fake slot and pin slot ghost items
-- Fixed standard search not being standard
-- Fixed ME Chest
-- Fixed Security Terminal GUI
-- Fixed primary GUI and slot rendering (items not appearing while dragging)
-- Fixed NEI Cell View stack size rendering
-- Fixed AE Follow Craft client disconnect
-- Fixed keyBindPickBlock in terminals
-- Fixed materials order in NEI
-- Fixed level emitter watcher not tracking fluids
-- Fixed crafting mode for processing pattern terminal
-- Fixed storage search chat names localization
-- Fixed null filter sync to client in GUI
-- Fixed NPE on addon
-- Fixed toggle focus
+- **FIXED ORE GENERATION**
+- Fixed size 15 dual kerosene thruster not rendering at all
+- Fixed HUD/jetpack toggle popup not working at all on multiplayer servers
+- Fixed assembly machine NEI handler not being able to handle all thirteen inputs at once
+- Fixed RBMK fuel channels playing the meltdown sound when broken while hot with meltdowns disabled
+- Fixed destroyer and crate minecarts having the same entity IDs, causing them to turn into each other when loading a save
+- Fixed GL state leak for ICF lasers
+- Fixed broken localization on some armor resistances
+- Fixed afterburn resistance on HEV not working
+- Fixed Floppy Disk recipe
+- Fixed Memory Card recipe
+- Fixed #62
+- Fixed euphemium compound plate recipe not yielding four items as it should in the plasma forge
+- Fixed NTM rare item drops ignoring the mob loot gamerule
+- Fixed flamethrowers not properly igniting entities on direct hit, only via lingering fire
+- Fixed PWR RoR components not properly showing the possible values/functions when connected to ports
+- Fixed missing ports on the plasma forge
+- Fixed wrong texture being bound in the crucible for the molten metal gauge
+- Fixed RoR panels having no hardness at all
+- Undid the change to the crucible where using no recipe would fill up the recipe stack anyway because people would NOT STOP smelting stuff then setting the recipe after the fact which DOES NOT WORK.
+   └ This change however introduced yet another inconsistency with external pouring behavior that I simply cannot be assed to fix, so we are just rolling all that back
+   └ If you're still too dumb, bald or irradiated to use the crucible correctly, please bother LITERALLY ANOYNE EXCEPT ME.
+   └ This basically fixes the aforementioned inconsistency
+- Fixed meteorite sword progression having some issues ever since the fusion reactor rework
+- Fixed the grenade crafting handler not checking if a shell/filling combination is even valid, allowing weird combos
+- Fixed dispenser fired laser grenades crashing the game
+- Fixed schrabidium grenade being obscenely powerful for no reason
+- Fixed annihilator recipe config throwing an error about the recipe list being empty, even though the recipe list should indeed be empty on purpose
+- Fixed barrel connectors appearing between barrels even though they have different fluid types
+- Crash on Tekto with Angelica installed
+- Fixed Adventure jetpacks not working
+- Fixed adventure backpack GUI closing on double-click merging item stacks in inventory
+- Fixed storage bus not read fluid in configurated dual interface
+- Fixed world server memory leak
+- AE2 Crash Fix in Anglica (https://github.com/GTNewHorizons/Angelica/pull/1684)
+- Fixed some issues someone was having with nixos
+- Fixed two world client memory leaks in Angelica
+- Various fixes by @mitchej123 in Angelica
+- Shader fixes
+- Fixed crash with fancy block particles
+- Fixed modded enchant glints not being animated
+- Fixed mob's eyes from z-fighting
+- Fixed no reward crash in quests
+- Fixed server leak in BetterQuesting
+- Fixed ctm of concrete block in Chisel
+- Fixed world client memory leaks caused by block renderers
+- Fixed double slabs dropping full block instead of 2 single slabs with silk touch
+- Fixed Matter Manipulator does not move wireless hubs and wireless connectors correctly
+- Many GUI fixes in AE2
+- Fixed bookmark recipe item order being inconsistent
+- Fixed Collapsed Recipes in Bookmarks
+- Fixed client -> server sync in creative gui
+- Fixed hang glider not usable from offhand
+- Fixed compact chat messing up the grave message
+- Fixed riding issue with hang glider
+- Fixed red room bug related to armor
+- **AND MANY MORE VARIOUS FIXES**
+      └ I am too lazy to list them all
 
 
 
 **Changed**
-- Don't strip logs when holding healing axe in offhand
-- Updated Super Stock Replenisher block texture
-- Allow using inverter card on fluid cells
-- Fixed Level Maintainer FCGuiLineField and texture
-- Fix NPE when trying to drain a tank in a tank tower
-- Changed Artificial Universe Fluid Cell to 63 Types
-- Added priority in fluid storage bus tooltip
-- Removed essentia terminal from ultra terminal recipe
-- Adjusted pixels in Gui Terminal
-- Hide all colored wireless variant from NEI 
-- Improve colors, localisation and add configuration for render overlay
-- Terminal performance fixes
-- Improved NetworkInventoryHandler performance
-- Added getTile cache and optimized ASM integration
-- Cached pattern output stack and Enum.values() calls
-- Cached invalid pattern flag in NBT
-- Packed interface stuck state with other client flags (tick on client only)
-- Reduced updates when recoloring cables
-- Fixed performance regression when requesting new crafts
-- Made crafting tree search more exhaustive
-- Fixed fluid transfer IO port speed
-- Changed Matter Condenser default entry state to Singularity Mode
-- Changed cable sorting
-- Changed ME Drive rendering to color the chassis instead of cells
-- Changed Level Type Tooltip to include Fluid
-- Renamed interface in Interface Terminal
-- Removed pattern refill card
-- Improved clarity of container interactions
-- Improved Storage Bus slot fadeout when OreDict card is present
-- Improved pattern info tooltip (more universal)
-- Reduced interface GUI textures
-- Move AE2 pick-block block select logic to client-side
-- Adjusts ME Pick Block to prefer PickBlockEvent when appropriate
-- Implement simulateAdd for ItemIO
-- Localization updates (Ukrainian, Portuguese, Amount elements)
-- Less random Meteorite generation
-- Do not push items in inactive interface
-- Don't add items to pattern with shift-click on Pattern Terminal
-- Restrict multi-parts in cable with bus
-- Optimized images / textures
+- Doubled bismuth and tantalum yields from high-performance solvent bedrock ore processing
+- Hoppers and buckets can now be made out of steel
+- RoR gauges now show the lowest and highest configured value on the actual gauge
+- The steel sword now looks like a medieval broad sword with the appropriate scale
+- All remaining items have been removed from the template folder, siren tracks and plate stamps are now made in the anvil
+- Gerald assembly now requires stellar flux
+- The DFC parts are now made in the plasma forge, with the recipes being more expensive
+- The restrictions for firing Folly (using the scope, waiting for the startup) no longer apply to NPCs (which can never fulfill them anyway), allowing them to actually use it
+- The plinking sound played when a drill cannot break a block now only plays once for the entire AoE instead of once for every single block that couldn't be broken
+- Fluid barrels now have a sideways connector when hooked up to pipes, bridging the two pixel gap
+- Redstone over radio panels now render with their unique parts in the inventory, making the items easier to tell apart
+- Updated russian, spanish, polish, ukrainian, german and chinese localization
+- Removed the euphemium and DNT compound plate recipes from the anvil, they are now plasma forge exclusive
+- More RoR integration
+   └ PWRs can now output the control rod position
+   └ Industrial turbines and leviathans can now output their current energy production
+   └ Industrial turbines can output their current flywheel speed in %
+   └ The ZIRNOX now outputs its heat and pressure
+   └ The CCGT can output the turbine setting in percent, the turbine's RPM and the produced energy
+   └ The fusion reactor plasma vessel can output its output plasma energy and fuel consumption in percent
+- Cast plate foundry molds now have a triple variant
+- Zombies now have a chance to drop copper, aluminium and titanium ingots (1:200 each)
+- The burner press now has nine additional storage slots for things like stamps and reserve fuel
+- Crucible recipes no longer require templates, instead featuring a recipe selector 
+   └ This means that the template folder has been fully deprecated
+   └ The item still exists solely for providing the icon for the recipe selector
+- Improved minigun muzzleflash
+   └ The flash is now faster and larger
+   └ Moved the origin up to be at the firing barrel instead of the center of the rotor
+- RoR implicit addition as well as RoR display components now support 64 bit integer numbers (~9 quintillion) instead of just 32 bits (~2 billion)
+- Antischrabidium can no longer be made via cyclotron, it is now exclusively post particle accelerator
+- Reduced the cost of armor batteries to compensate for the new capacitor recipes
+- Quadrupled the amount of polymer created by recipe
+   └ Petroleum gas required has been doubled
+- Cadmium and fish oil to rubber recipe now needs more fish oil and outputs 16 rubber at once
+- Redesigned StarDar GUI
+- Improved StarDar OC compat
+- Planet icons tweaked for better tiling when rotating 
+   └ Urlum and moons added, can't be visited yet though
+   └ Same with Plock & Karen
+- Invasion waves now use the boss health bar
+- Distant planets are now (more) visible through scopes/zooming
+- Flour, butter, cheese, strawberries, and icecreams are now oredicted
+- More Laythe generation tweaks (ancient roots found deep underground)
+- All RoR panels now have basic item descriptions informing about the screwdriver requirement for configuration
+- EMP grenades now deal 5x damage against anything with powered armor
+   └ Decreased base damage to compensate
+- EMP grenades now destroy machines in a small radius like an EMP missile would
+- Grenades are no longer affected by nuclear blasts or other grenade explosions
+- Players no longer receive the starting guide book on first spawn since it's now very outdated
+- All RoR panels now have QMAW integration
+- Legacy plasma heater and plasma heater hatches which are still found in crashed space ships can now be dismantled into steel pipes, copper pipes and analog circuits
+- Removed legacy plasma block
+- RoR panels now have OpenComputers integration, allowing otherwise fixed parameters like gauge thresholds, channels, and button commands to be adjusted on the fly
+- Solinium blasts now use the new higher poly sphere model and frame interpolation, making the expansion smoother
+- Using a defuser on paintable cables/pipes/tubes that already have a paint applied will toggle the overlay, makng the cable/pipe/tube blend in perfectly
+- Mufflers installed on force fields now disable the loud spark noise caused by impacts
+- RoR readers can now read neutron flux from fuel channels and the fill state of boilers and heat exchangers
+- Canned recursion can now be crafted from canned recursion
+- Soldering recipes are now prioritized over anvil recipes in the NEI listing
+- Paintable blocks now have tooltips explaining all the tools that can be used
+- Restore previous spawn when using Sleeping Bag from Backpack placed in world
+- Removed Villager backpack trade from Villagers
+- Added tooltip to equip/unequip button in Adventure Backpacks GUIs
+- Hiden all colored wireless variant from NEI
+- Implemented compact ctm in Angelica
+- Better horse support
+- Make fog controls work with BoP fog
+- Added concrete slabs and stairs in Chisel
+- Localization of gui title of the ticket machine in Computronics
+- Improve Recipe Badge
+- Added recipe chance to bookmarks
+- Controlling now ships built-in key combo support
+- No more shrooms in caves
+- Minimized interface, cleaned it
+- Removed armor swap
 
 
 
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.8.0...2.8.1)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.8.1...2.9.0)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.8.1)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.9.0)
