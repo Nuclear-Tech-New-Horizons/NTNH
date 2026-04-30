@@ -971,7 +971,7 @@
 
     <Veins name="Tecto_Lithium"
       block="hbm:tile.ore_lithium:10" inherits="PresetTecto">
-      <Setting name="MotherlodeHeight" avg="40" range="10" />
+      <Setting name="MotherlodeHeight" avg="39" range="10" />
     </Veins>
     
     <Veins
