@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "This is the begining of the tech tree of §dHBM\u0027s Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.\n\n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.\n\nMartian Mode is also available in the world creation screen.",
+      "desc:8": "This is the begining of the tech tree of §dHBM\u0027s Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.\n\nBut before that you have to make your first tools made of flint (wooden tools are no workie anymore).\n\n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.\n\nMartian Mode is also available in the world creation screen.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -59,8 +59,27 @@
   },
   "tasks:9": {
     "0:10": {
-      "index:3": 0,
-      "taskID:8": "bq_standard:checkbox"
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "imc:item_flint_pick"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "imc:item_flint_hatchet"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
     }
   }
 }

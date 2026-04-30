@@ -34,10 +34,6 @@ betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.desc=§8*go to the LV1 - Early Game 
 betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.name=Tips and Tricks
 betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.desc=Tips and Tricks. It does what it says.
 
-# Quest: Ore generation
-betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.name=Ore generation
-betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.desc=§4[warn]Ore generation in NT:NH has been changed.[/warn]%n%n§fОre is now generated in a more realistic manner in veins and strata. It is also distributed across biomes and in order to get a specific ore, you will have to travel. For more information on which biomes, at what altitude, and how often ore is found, see the table below.%n%n§6English version: §9[url]https://docs.google.com/spreadsheets/d/1KayyJUUNZorZVQM-iK6vzE_nZjC9YsTl/edit?usp=sharing&ouid=108915218043328005607&rtpof=true&sd=true[/url]%n%n§f§6Russian version: §9[url]https://docs.google.com/spreadsheets/d/1E1tHN_gIRkAO1Kb0RPSR-QzfUFW6F_7f/edit?usp=sharing&ouid=108915218043328005607&rtpof=true&sd=true[/url]
-
 # Quest: Infinite Water Sources
 betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=Infinite Water Sources
 betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Tired of using buckets to give water to your machines? Try using water pumps or infinite water tanks!%n%nInfinite Water Tank will give 50mb/t%nEnhanced Infinite Water Tank will give 500mb/t%nPump will give 1000mb/t but requires steam to operate.
@@ -51,6 +47,10 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=This is the beginning of HB
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Storage Drawers
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity aswell as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
 
+# Quest: You WILL eat ze bugs!
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=You WILL eat ze bugs!
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Congratulations. You have done it. You have actually done it.%n%nWhile the rest of the world clung desperately to their beef and their bread, you - yes, YOU - reached into your inventory, pulled out a §6Silkworm§r, and thought: "yes. This is food now." Klaus is proud. Klaus is, in fact, emotional. Somewhere in a Swiss%nchalet, a single tear rolls down his turtleneck. You will own nothing. You will have no hunger bar. Und you will be happy.
+
 # Quest: Stirling Engine
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Stirling Engine
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=The §3Stirling Engine§r uses heat from a §3Heating Oven§r or a §3§r§3Firebox§r to produce power. If a Heating Oven is used to heat a Stirling engine, it will likely over-speed and damage it, sending the main gear flying. The heavy Stirling engine does not have this issue.%n%nA firebox running on coal with a stirling engine produces §e2kHE/s§r, while a heating oven with a heavy stirling engine produces §e10kHE/s§r.
@@ -62,6 +62,10 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an ea
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
+
+# Quest: Nailed It!
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Nailed It!
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers —%nwood through diamond — and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.%n§2Check JEI for the full crushing chain of any block.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Cable Network Analysis Tool
@@ -81,7 +85,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a
 
 # Quest: NTM: Introduction
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%nBut before that you have to make your first tools made of flint (wooden tools are no workie anymore).%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
 
 # Quest: Template Folder
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=Template Folder
@@ -215,6 +219,14 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=The §6Machine Upgrade Template
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Drainage Pipe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=The §3Drainage Pipe§r allows the dumping of fluids and gasses into the environment at the cost of pollution.
 
+# Quest: Do a Barrel!
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.name=Do a Barrel!
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Barrels§r are storage blocks that can hold both fluids and solid blocks. Wooden barrels will leak liquids over time and burn down if filled with lava, so use a stone barrel for those recipes.%n%nBarrels placed under open sky will collect rainwater during downfall.%n%nWhen filled with organic material, a barrel will begin composting once completely full. After roughly 100 seconds it produces a dirt block, ejected by right-clicking. Dirt left near mycelium will slowly convert into a mycelium block, no Silk Touch needed.%n%nA wooden barrel filled with §bWater§r placed next to cobblestone will slowly convert it into mossy cobblestone, costing §e100 mB§r per block. The surrounding blocks must be unaffected by rain. Placing a barrel on mycelium converts its water into §5Witch Water§r, though the barrel itself may disappear in the process. Water flowing above a barrel filled with lava transforms into obsidian.%n%nStone barrels can spawn creatures when tapped with a doll: a barrel of lava with an Angry Doll summons a Blaze, and a barrel of §5Witch Water§r with a Creepy Doll summons an Enderman.%n%nBarrels can convert items using fluids: §5Witch Water§r turns sand into soul sand, lava turns redstone into netherrack or glowstone dust into end stone, and §bWater§r can turn dust into clay, milk into slime balls, or mushroom stew into §5Witch Water§r.%n%n§2Hoppers can be used to insert and eject items from barrels, making composting easy to automate.§r
+
+# Quest: Sieving
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Sieving
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.%n%nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.%n%nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r — unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.%n%n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.%n§2The Sieve can be automated with any machine that simulates a right-click.
+
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=The §6Charm of Protection§r diverts meteorites away from the player and prevents them from destoying blocks. It is recommended that one is obtained as soon as possible as to prevent costly damages in the future.
@@ -255,6 +267,10 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=The §6Multi Fluid Identifier§
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.desc=§cNTNH§r is a modular modpack, so you are free to add/remove/modify config/mods if it works!%n%n§dNTM§r offers a very modular config file, which also comes with additional modes one can activate. These can be enabled in the hbm.cfg file.%n%n§2Expensive Mode§r makes everything more expensive by requiring not only more resourses, but also new components. The quest book will not reflect the changes in progression if its enabled.%n%n§2528 Mode§r introduces gates in the form of templates which are unlocked by destroying a certain amount of items in an §3Annihilator§r. Additionally, some items, mainly circuits, are percentage based now to be crafted. Along with that, theres also more changes that make the game harder, such as §6Tantalum§r generating in a certain area, landmines spawning more frequently and all §dAE2§r blocks §4EXPLODE§r when used.%n%nMany recycling probabilities of the §3Precision Assembler§r are massively lowered with expensive mode enabled, increasing effective cost massively.%n%n§2Rampant Mode§r makes glyphids a very big threat as pollution now makes them way stronger and more aggresive. New more destructive types of glyphids will also become more common. If high enough pollution has been reached, glyphid scouts can spawn passively, which makes automated defense systems necessary as to prevent new hives from being created.%n%n§2For modes with recipe changes, the modpack's recipes have to be inserted again after a new hbmrecipes folder has been created and modes enabled.§r %n
 
+# Quest: Charging Station
+betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.name=Charging Station
+betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.desc=The §3Charging Station§r will charge electric tools aswell as electric suits when standing near it. Placing more next to eachother will increase the speed at which items are being recharged.
+
 # Quest: Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.name=Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.desc=The §6Packing Tape§r allows one to break and move drawers without all the items falling on the floor.
@@ -283,6 +299,10 @@ betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3He
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.desc=Now, as you have a better anvil, you can start §erecycling§r some stuff you may found in dungeons.
 
+# Quest: Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+
 # Quest: Dairy Processing Tank
 betterquesting.quest.fkSdZg90QZ6gAvDWMSZbbQ.name=Dairy Processing Tank
 betterquesting.quest.fkSdZg90QZ6gAvDWMSZbbQ.desc=The §3Dairy Processing Tank§r, while it can be crafted earlier, is very useful on Minmus because of the infinite §bMilk§r production from §3Pumps§r. It can be used to process milk into different liquids, which can then be used to make food items.
@@ -310,6 +330,14 @@ betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline
 # Quest: Long Distance Energy Transportation
 betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.name=Long Distance Energy Transportation
 betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=For greater distances, and improved aesthetics, a new distribution node is available, the §3Large Electricity Pylon§r.%n%n§3Substations§r are needed to step up/down the voltage that the line carries.%n%nThese Pylons can prove useful as favorable §eBedrock Ore§r or §eOil deposits§r may be located far away from the main base.%n
+
+# Quest: Primitive Crucible
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check JEI for all valid heat sources and their melt rates.
+
+# Quest: Silkworm
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted — the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Industrial Hemp & Mustard Willow
@@ -484,6 +512,10 @@ betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.desc=§6Semtex§r is an explosive th
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.name=Microchip
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Microchips§r are one of the most important components of future circuits and will be used in bulk throughout progression.
 
+# Quest: Fiberglass
+betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.name=Fiberglass
+betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.desc=Sand in an §3Ore Acidizer§r can be turned into §6Fiberglass§r, which provides more than §e4x§r the amount of §6Silicon§r in an §3Arc Furnace§r. Additionally, it provides a great recipe for insulators.
+
 # Quest: Powered Drill
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.name=Powered Drill
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.desc=The §6Powered Drill§r is a modular mining device which can make resourse gathering and excavation much faster than normal pickaxes. %n%nVarious modifications can be attached in the §3Weapon Modification Table§r, such as new drillbits for a larger mining radious or even new engines, which let it run on electricity.
@@ -528,6 +560,10 @@ betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=The §3Mining Laser§r is a las
 ## Quest Line: LV3 - Reactors Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Reactors Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=As energy needs increase, more powerful energy sources will be needed. This chapter covers Nuclear Reactors aswell as other advanced machines needed to produce ever stronger materials.
+
+# Quest: Plasma Forge
+betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=Plasma Forge
+betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.desc=The §3Plasma Forge§r is a large and advanced assembler that requires a running fusion reactor to work. It can weld plates at twice the speed of a normal welder. It does not accept upgrades, however, it can use up otherwise useless fission fragments and unstable isotopes to gain a temporary §ex4§r speed bonus with no penalty.
 
 # Quest: Gas Centrifuge
 betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.name=Gas Centrifuge
@@ -725,6 +761,10 @@ betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Uranium-238§r is the most c
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=The §3Fusion Reactor Coupler§r turns outgoing plasma energy from a torus into usable §eKyE§r which can then be used to power another torus. Some fuel combinations require this, as the minimum §eKyE§r energy needed to ignite the plasma exceeds what four §3Klystrons§r could deliver.%n%nThe §3Fusion Reactor Breeding Chamber§r uses neutron flux from a torus to in order to process materials. It can perform any recipe from an §3RBMK irradiation channel§r, with some additional recipes aswell. The neutron flux is not affected by port sharing rules, and the output level is the same on any side.%n%nThe §3Fusion Reactor Collection Chamber§r increases the byproduct production rate by §e50%%§r.
 
+# Quest: Desh Stamps
+betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh Stamps
+betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Desh Stamps§r have infinite durability, perfect for automation.
+
 # Quest: High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.desc=§bHigh-Performance Solvent§r is the best tier of solvent which can be used in bedrock ore processing, yielding many rare materials such as§6 Bismuth§r and §6Technetium-99§r.%n%n§2These materials are not available from earth bedrock ores.
@@ -764,6 +804,10 @@ betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Technetium-99§r is a common
 # Quest: Satellite Launching
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Satellite Launching
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satelites in NTM space can be launched from either a Souyz or a custom rocket.
+
+# Quest: Ferrouranium
+betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ferrouranium
+betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.desc=§6Ferrouranium§r is an alloy of §6Uranium-238§r and §6Steel§r.
 
 # Quest: Heat Exchanging Heater
 betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.name=Heat Exchanging Heater
@@ -1091,6 +1135,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABLw.desc=The §6Crucible§r is a weapon 
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.name=Schrabidium Hammer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABMA.desc=The §6Schrabidium Hammer§r is the most powerful weapon in the mod, being able to one-shot everything.
 
+# Quest: Magnetohydrodynamic Turbines
+betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.name=Magnetohydrodynamic Turbines
+betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.desc=§3Magnetohydrodynamic Turbines§r are advanced components of the fusion reactor that make electricity out of the plasma energy directly without needing additional turbines. While more expensive and requiring §bPerfluoromethyl§r cooling, they have a §e+35%%§r convertion bonus from §eTU§r to §eHE§r. In addition, the MDH turbine requires a minimum input of%n§e5MTU/t§r of plasma energy to operate normally, otherwise efficiency will be halved.
+
 # Quest: Done
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cDone
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Are you okay? Go touch some grass.
@@ -1131,6 +1179,10 @@ betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r 
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Improve your builds by using Chisel, Architecturecraft and Better Builder's Wands.
+
+# Quest: Auto Chisel
+betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.name=Auto Chisel
+betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.desc=The §3Auto Chisel§r allows for automated chiseling of blocks. Simply insert any chisel in the machine and the block that will act as the template.
 
 # Quest: Chisel
 betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.name=Chisel
@@ -1648,6 +1700,10 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material n
 # Quest: Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=The §6Red Key§r is able to open any container that requires a regular key, regardless of the pin configuration of the lock, and it is one of the only two keys capable of opening the keyhole found on strange stone, in order to open a §eRed Room§r. The key has no durability, and can be reused indefinitely.%n%n
+
+# Quest: Ore generation
+betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.name=Ore generation
+betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.desc=§4[warn]Ore generation in NT:NH has been changed.[/warn]%n%n§fОre is now generated in a more realistic manner in veins and strata. It is also distributed across biomes and in order to get a specific ore, you will have to travel. For more information on which biomes, at what altitude, and how often ore is found, see the table below.%n%n§6English version: §9%n[url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?gid=1716778763#gid=1716778763[/url]%n[url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?gid=1059351263#gid=1059351263[/url]%n%n§f§6Russian version: §*§9%n[url]https://docs.google.com/spreadsheets/d/1XbuwxSowueN8-ziliHIomzp3VDNsibHy5jMUVeSAFY8/edit?usp=sharing[url]%n[/url]https://docs.google.com/spreadsheets/d/1TaNiTfIwLop8hyBH6kX7iJdmxmkeWLH6Ni2T1OidOCg/edit?usp=sharing[/url]
 
 # Quest: Safes and lockpicking
 betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.name=Safes and lockpicking

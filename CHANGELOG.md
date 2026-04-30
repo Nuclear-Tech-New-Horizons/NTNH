@@ -62,10 +62,18 @@
 - Added the missing music discs
 - Lodestone craft
 - Added a few more new quests
+- Added [Improving Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/improving-minecraft-fork)
+   └ Adds some funny stuff
+   └ Changes the stone age gameplay
+- Added [Smart Tree Falling Mod](https://www.curseforge.com/minecraft/mc-mods/smart-tree-felling)
+- Added [Re: Chests Mod](https://www.curseforge.com/minecraft/mc-mods/rechests)
+- Added [An Extra Touch Mod](https://www.curseforge.com/minecraft/mc-mods/an-extra-touch)
+- Added some more resourcepacks
    
 
 
 **Fixed**
+- **FIXED ORE GENERATION**
 - Fixed size 15 dual kerosene thruster not rendering at all
 - Fixed HUD/jetpack toggle popup not working at all on multiplayer servers
 - Fixed assembly machine NEI handler not being able to handle all thirteen inputs at once
@@ -120,6 +128,7 @@
 - Fixed hang glider not usable from offhand
 - Fixed compact chat messing up the grave message
 - Fixed riding issue with hang glider
+- Fixed red room bug related to armor
 - **AND MANY MORE VARIOUS FIXES**
       └ I am too lazy to list them all
 
@@ -200,6 +209,8 @@
 - Added recipe chance to bookmarks
 - Controlling now ships built-in key combo support
 - No more shrooms in caves
+- Minimized interface, cleaned it
+- Removed armor swap
 
 
 
