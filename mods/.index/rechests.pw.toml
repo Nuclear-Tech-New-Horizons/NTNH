@@ -1,0 +1,16 @@
+filename = 'rechests-1.0.1.jar'
+name = 'Re: Chests'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.7.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c390ddaeb3955dc7f76a36794bd6a9bb378bdd1d5dde18c85aa32edfab4790d08a7d91e66522851e598075ee4acde6b7178584017774f744ce08a49a40666c86'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PXYl4o0a/versions/u8E2hqTw/rechests-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'PXYl4o0a'
+version = 'u8E2hqTw'

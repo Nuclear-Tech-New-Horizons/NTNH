@@ -6,8 +6,8 @@ lighting:true
 colours:0
 loadChunks:true
 updateChunks:true
-terrainSlopes:2
-terrainDepth:true
+terrainSlopes:0
+terrainDepth:false
 footsteps:false
 flowers:true
 compression:false
