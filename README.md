@@ -31,11 +31,11 @@
 
 <h2 style="text-align:center">🌟 Our Amazing Contributors 🌟</h2>
 
-<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>2219 🏆</span></td>
-<td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>383 🏆</span></td>
+<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>2248 🏆</span></td>
+<td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>386 🏆</span></td>
 <td align="center"><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AniviaFlome</b></sub><br/><span>92 🏆</span></td>
+<td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>41 🏆</span></td>
 <td align="center"><a href="https://github.com/Rt194646"><img src="https://avatars.githubusercontent.com/u/209053148?v=4" width="50" alt="Rt194646" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rt194646</b></sub><br/><span>31 🏆</span></td>
-<td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>25 🏆</span></td>
 <td align="center"><a href="https://github.com/bocan225"><img src="https://avatars.githubusercontent.com/u/209335201?v=4" width="50" alt="bocan225" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>bocan225</b></sub><br/><span>20 🏆</span></td>
 <td align="center"><a href="https://github.com/intelcore13900k"><img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" alt="intelcore13900k" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>intelcore13900k</b></sub><br/><span>2 🏆</span></td></tr>
 <tr><td align="center"><a href="https://github.com/Xekitan"><img src="https://avatars.githubusercontent.com/u/84423252?v=4" width="50" alt="Xekitan" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Xekitan</b></sub><br/><span>2 🏆</span></td>
@@ -99,6 +99,15 @@
         <sub><b>964 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/Aftobus01"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17417268/medium/e9c84f6ebc8f556b18993c7a5b1d8d78.jpeg" />
+          <br />
+          <sub><b>Aftobus01</b></sub></a>
+        <br />
+        <sub><b>842 words</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/liamdamianlc"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17661920/medium/57974a2732c0aa9e8be92407e026a8b5.gif" />
           <br />
           <sub><b>Dorito Loco</b></sub>
@@ -107,21 +116,12 @@
         <br />
         <sub><b>658 words</b></sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/Aftobus01"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17417268/medium/e9c84f6ebc8f556b18993c7a5b1d8d78.jpeg" />
-          <br />
-          <sub><b>Aftobus01</b></sub></a>
-        <br />
-        <sub><b>821 words</b></sub>
-      </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Axeleron"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/15116263/medium/e381ad2a54f8104adf22cada864a8c1b.jpeg" />
           <br />
           <sub><b>Axeleron</b></sub></a>
         <br />
-        <sub><b>589 words</b></sub>
+        <sub><b>595 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/NKVDshni"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17283930/medium/b6f99536a90f590e689101c777aa3e48.jpg" />
