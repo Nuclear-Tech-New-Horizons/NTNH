@@ -89,16 +89,16 @@ OMGWTF NUCLEAR CREEPER
 Привіт DreamMaster!
 Доброго дня, JamesH2!
 Привіт усім!
-Explore structures like antennas for early resources  
-Build multiple furnaces to speed up alloy production  
-Sirens going UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro this RBMK is so hot... Nevermind
-Turrets are doing RATATATATATA
-Brother. The darkness is coming.
-Use HE to RF converters!
-Use RF to HE converters!
-Check the mod’s wiki for detailed information
-Experiment with machine upgrades to increase efficiency
+Досліджуйте такі структури, як антени для початкових ресурсів  
+Побудуйте кілька печей, щоб пришвидшити виробництво сплавів  
+Сирени роблять УУУУУУУУАААААААААААУУУУУУУУАААААААААААУУУУУУУУ
+Бро цей РБМК дуже гарячий... Неважливо
+Турелі  роблять РАТАТАТАТАТАТТАТА
+Брат. Темрява наближається!
+Використовуйте HE до RF конвертори!
+Використовуйте RF до HE конвертори!
+Використовуйте вікі моду для докладної інформації
+Експеримент з покращенням машини для підвищення ефективності
 Account for pollution mechanics - they impact gameplay
 Control pollution to avoid problems with these cockroaches
 Use soot towers to reduce pollution

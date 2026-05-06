@@ -85,7 +85,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a
 
 # Quest: NTM: Introduction
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%nBut before that you have to make your first tools made of flint (wooden tools are no workie anymore).%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
 
 # Quest: Template Folder
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=Template Folder
@@ -1703,7 +1703,7 @@ betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=The §6Red Key§r is able to op
 
 # Quest: Ore generation
 betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.name=Ore generation
-betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.desc=§4[warn]Ore generation in NT:NH has been changed.[/warn]%n%n§fОre is now generated in a more realistic manner in veins and strata. It is also distributed across biomes and in order to get a specific ore, you will have to travel. For more information on which biomes, at what altitude, and how often ore is found, see the table below.%n%n§6English version: §9[url]https://docs.google.com/spreadsheets/d/1KayyJUUNZorZVQM-iK6vzE_nZjC9YsTl/edit?usp=sharing&ouid=108915218043328005607&rtpof=true&sd=true[/url]%n%n§f§6Russian version: §9[url]https://docs.google.com/spreadsheets/d/1E1tHN_gIRkAO1Kb0RPSR-QzfUFW6F_7f/edit?usp=sharing&ouid=108915218043328005607&rtpof=true&sd=true[/url]
+betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.desc=§4[warn]Ore generation in NT:NH has been changed.[/warn]%n%n§fОre is now generated in a more realistic manner in veins and strata. It is also distributed across biomes and in order to get a specific ore, you will have to travel. For more information on which biomes, at what altitude, and how often ore is found, see the table below.%n%n§6English version: §9%n[url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?gid=1716778763#gid=1716778763[/url]%n[url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?gid=1059351263#gid=1059351263[/url]%n%n§f§6Russian version: §*§9%n[url]https://docs.google.com/spreadsheets/d/1XbuwxSowueN8-ziliHIomzp3VDNsibHy5jMUVeSAFY8/edit?usp=sharing[url]%n[/url]https://docs.google.com/spreadsheets/d/1TaNiTfIwLop8hyBH6kX7iJdmxmkeWLH6Ni2T1OidOCg/edit?usp=sharing[/url]
 
 # Quest: Safes and lockpicking
 betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.name=Safes and lockpicking
