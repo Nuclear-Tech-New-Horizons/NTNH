@@ -3,6 +3,7 @@
 ## What's changed?
 **Added**
 - New background images for the loading screen and the main menu
+- Lobotomy
    
 
 
@@ -16,6 +17,7 @@
    └ Can be enabled back in anextratouch.cfg
 - Main menu backgrounds are now randomized
 - Updated the website link in the main menu
+- Replaced CoroUtil Library mod with BetterCrashes mod
 
 
 
