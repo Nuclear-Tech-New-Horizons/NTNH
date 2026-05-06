@@ -7,7 +7,7 @@
 
 
 **Fixed**
-- 
+- Fixed various quiks related to clouds, water and textures when using shaders
 
 
 
