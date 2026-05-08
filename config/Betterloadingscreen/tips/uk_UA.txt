@@ -99,23 +99,23 @@ OMGWTF NUCLEAR CREEPER
 Використовуйте RF до HE конвертори!
 Використовуйте вікі моду для докладної інформації
 Експеримент з покращенням машини для підвищення ефективності
-Account for pollution mechanics - they impact gameplay
-Control pollution to avoid problems with these cockroaches
+Не забувайте за механіку забруднення - вона впливає на геймплей
+Контролюйте забруднення щоб уникнути проблеми з тарганами
 Use soot towers to reduce pollution
 Have fun and experiment - NTM offers endless possibilities
-Creepers are TERRIFYING in here
-Also try S.T.A.L.K.E.R. Anomaly GAMMA!
-Also try Factorio!
-Call your mom, make her happy
-NEI recipe lookup: hover + R
-Standard boilers may explode when running full.
+Кріпери тут ДУЖЕ страшні
+Також спробуйте S.T.A.L.K.E.R. Anomaly ГАММА!
+Також спробуйте Factorio!
+Зателефонуйте своїй мамі, зробіть її щасливою
+Щоб шукати рецепті в NEi наведіться на річ + R
+Стандартні бойлери можуть вибухнути коли заповняться.
 Fluids can be voided with a drainage pipe.
 Drainage pipe may not be too good for the environment.
 Foundry casts can be removed with a screwdriver.
 It's all about the game
-Craft flippers to swim faster.
-GregTech 6 is peak.
-Supersymmetry is peak.
+Зробіть ласти щоб плавати швидше
+GregTech 6 найкращий
+Supersymmetry найкращий
 bob pls port to 1.20
 1.8.9 port is happening soon trust me guys.
 There's meteors. Build a roof. (#1)
