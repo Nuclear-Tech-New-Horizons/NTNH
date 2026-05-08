@@ -57,7 +57,7 @@
     -->
     <!-- Large, thin coal seams used in hills and swamps -->
     <CloudPreset name="PresetCoalSeamCloud">
-      <Setting name="DistributionFrequency" avg=":= 0.012 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.006 * oreFreq" />
       <Setting name="CloudRadius" avg=":= 42 * oreSize" range=":= 10 * oreSize" />
       <Setting name="CloudThickness" avg=":= 1.3 * oreSize" range=":= 0.5 * oreSize" />
       <Setting name="CloudHeight" avg="40" range="20" type="normal" scaleTo="sealevel" />
@@ -156,7 +156,12 @@
       <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
       <ReplacesOre block="cobblstone" />
     </CloudPreset>
-
+    
+    <Substitute name="OreRareNo"
+      block="stone">
+      <Replaces block="hbm:tile.ore_rare" />
+      <IfCondition Condition="dimension == 0" />
+    </Substitute>
 
     <!-- === HILLS / MOUNTAINS: rare hard-rock ores and coal seams === -->
     <Cloud
@@ -579,7 +584,7 @@
     <StandardGen name="UraniumOcean"
       block="hbm:tile.ore_uranium">
       <Setting name="Size" avg=":= 24 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
+      <Setting name="Frequency" avg=":= 0.15 * oreFreq" />
       <Setting name="Height" avg="18" range="10" />
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
