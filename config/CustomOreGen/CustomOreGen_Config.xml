@@ -57,7 +57,7 @@
     -->
     <!-- Large, thin coal seams used in hills and swamps -->
     <CloudPreset name="PresetCoalSeamCloud">
-      <Setting name="DistributionFrequency" avg=":= 0.012 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.006 * oreFreq" />
       <Setting name="CloudRadius" avg=":= 42 * oreSize" range=":= 10 * oreSize" />
       <Setting name="CloudThickness" avg=":= 1.3 * oreSize" range=":= 0.5 * oreSize" />
       <Setting name="CloudHeight" avg="40" range="20" type="normal" scaleTo="sealevel" />
@@ -67,9 +67,24 @@
       <ReplacesOre block="stone" />
     </CloudPreset>
 
-    <!-- Small, common biome cloud.  Used for forest redstone, zinc, lead etc. -->
+    <!-- Very small biome cloud. -->
+    <CloudPreset name="PresetBiomeCloudVerySmall">
+      <Setting name="DistributionFrequency" avg=":= 0.06 * oreFreq" />
+      <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
+      <Setting name="CloudRadius" avg=":=10 * oreSize" range=":= 8 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 10 * oreSize" range=":= 4 * oreSize" />
+      <Setting name="CloudSizeNoise" avg="0.1" />
+      <Setting name="CloudHeight" avg="32" range="16" type="normal" scaleTo="sealevel" />
+      <Setting name="CloudInclination" avg="0" range="0.25" />
+      <Setting name="OreRadiusMult" avg="1" range="0.1" />
+      <Setting name="OreDensity" avg="0.05" />
+      <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
+      <ReplacesOre block="stone" />
+    </CloudPreset>
+
+    <!-- Small biome cloud. -->
     <CloudPreset name="PresetBiomeCloudSmall">
-      <Setting name="DistributionFrequency" avg=":= 0.02 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.04 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":= 16 * oreSize" range=":= 8 * oreSize" />
       <Setting name="CloudThickness" avg=":= 10 * oreSize" range=":= 4 * oreSize" />
@@ -82,7 +97,7 @@
       <ReplacesOre block="stone" />
     </CloudPreset>
 
-    <!-- Medium-sized biome cloud.  Used for most copper, iron and savanna deposits. -->
+    <!-- Medium biome cloud. -->
     <CloudPreset name="PresetBiomeCloudMedium">
       <Setting name="DistributionFrequency" avg=":= 0.02 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
@@ -97,7 +112,7 @@
       <ReplacesOre block="stone" />
     </CloudPreset>
 
-    <!-- Large biome cloud.  Used for large iron seams in plains and savanna. -->
+    <!-- Large biome cloud. -->
     <CloudPreset name="PresetBiomeCloudLarge">
       <Setting name="DistributionFrequency" avg=":= 0.01 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
@@ -141,7 +156,12 @@
       <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
       <ReplacesOre block="cobblstone" />
     </CloudPreset>
-
+    
+    <Substitute name="OreRareNo"
+      block="stone">
+      <Replaces block="hbm:tile.ore_rare" />
+      <IfCondition Condition="dimension == 0" />
+    </Substitute>
 
     <!-- === HILLS / MOUNTAINS: rare hard-rock ores and coal seams === -->
     <Cloud
@@ -196,38 +216,26 @@
     </StandardGen>
 
     <!-- === DESERT: nitrates and sparse technical ores === -->
-    <StandardGen name="NiterDesert"
-      block="hbm:tile.ore_niter">
-      <Setting name="Size" avg=":= 32 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.22 * oreFreq" />
-      <Setting name="Height" avg="52" range="16" />
+    <Cloud name="NiterDesert"
+      block="hbm:tile.ore_niter" inherits="PresetBiomeCloudSmall">
       <Biome name="Desert" />
       <Biome name="DesertHills" />
       <Biome name="Desert M" />
-      <ReplacesOre block="stone" />
-    </StandardGen>
+    </Cloud>
 
-    <StandardGen name="TitaniumDesert"
-      block="hbm:tile.ore_titanium">
-      <Setting name="Size" avg=":= 20 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.06 * oreFreq" />
-      <Setting name="Height" avg="26" range="12" />
+    <Cloud name="TitaniumDeser"
+      block="hbm:tile.ore_titanium" inherits="PresetBiomeCloudVerySmall">
       <Biome name="Desert" />
       <Biome name="DesertHills" />
       <Biome name="Desert M" />
-      <ReplacesOre block="stone" />
-    </StandardGen>
+    </Cloud>
 
-    <StandardGen name="GoldDesert"
-      block="minecraft:gold_ore">
-      <Setting name="Size" avg=":= 14 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
-      <Setting name="Height" avg="24" range="12" />
+    <Cloud name="GoldDesert"
+      block="minecraft:gold_ore" inherits="PresetBiomeCloudVerySmall">
       <Biome name="Desert" />
       <Biome name="DesertHills" />
       <Biome name="Desert M" />
-      <ReplacesOre block="stone" />
-    </StandardGen>
+    </Cloud>
 
     <!-- === MESA: lithium, sulfur, titanium and gold concentrated here === -->
     <StandardGen name="LithiumMesa"
@@ -246,7 +254,7 @@
     <StandardGen name="SulfurMesa"
       block="hbm:tile.ore_sulfur">
       <Setting name="Size" avg=":= 20 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.12 * oreFreq" />
+      <Setting name="Frequency" avg=":= 0.30 * oreFreq" />
       <Setting name="Height" avg="36" range="14" />
       <Biome name="Mesa" />
       <Biome name="Mesa Plateau" />
@@ -256,31 +264,24 @@
       <ReplacesOre block="stone" />
     </StandardGen>
 
-    <StandardGen name="TitaniumMesa"
-      block="hbm:tile.ore_titanium">
-      <Setting name="Size" avg=":= 28 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.08 * oreFreq" />
-      <Setting name="Height" avg="28" range="14" />
-      <Biome name="Mesa" />
-      <Biome name="Mesa Plateau" />
-      <Biome name="Mesa Plateau F" />
-      <Biome name="Mesa Plateau F M" />
-      <Biome name="Mesa Plateau M" />
-      <ReplacesOre block="stone" />
-    </StandardGen>
 
-    <StandardGen name="GoldMesa"
-      block="minecraft:gold_ore">
-      <Setting name="Size" avg=":= 24 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.12 * oreFreq" />
-      <Setting name="Height" avg="28" range="14" />
+    <Cloud name="TitaniumMesa"
+      block="hbm:tile.ore_titanium" inherits="PresetBiomeCloudVerySmall">
       <Biome name="Mesa" />
       <Biome name="Mesa Plateau" />
       <Biome name="Mesa Plateau F" />
       <Biome name="Mesa Plateau F M" />
       <Biome name="Mesa Plateau M" />
-      <ReplacesOre block="stone" />
-    </StandardGen>
+    </Cloud>
+  
+    <Cloud name="GoldMesa"
+      block="minecraft:gold_ore" inherits="PresetBiomeCloudVerySmall">
+      <Biome name="Mesa" />
+      <Biome name="Mesa Plateau" />
+      <Biome name="Mesa Plateau F" />
+      <Biome name="Mesa Plateau F M" />
+      <Biome name="Mesa Plateau M" />
+    </Cloud>
 
     <Cloud name="RedstoneCloudMesa"
       block="minecraft:redstone_ore" inherits="PresetBiomeCloudMedium">
@@ -522,7 +523,8 @@
       <ReplacesOre block="stone" />
     </StandardGen>
 
-    <!-- === JUNGLE: aluminium and coltan specialization with some gold --> --> <StandardGen name="AluminiumJungle"
+    <!-- === JUNGLE: aluminium and coltan specialization with some gold -->  
+     <StandardGen name="AluminiumJungle"
       block="hbm:tile.ore_aluminium">
       <Setting name="Size" avg=":= 34 * oreSize" />
       <Setting name="Frequency" avg=":= 0.30 * oreFreq" />
@@ -582,7 +584,7 @@
     <StandardGen name="UraniumOcean"
       block="hbm:tile.ore_uranium">
       <Setting name="Size" avg=":= 24 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
+      <Setting name="Frequency" avg=":= 0.15 * oreFreq" />
       <Setting name="Height" avg="18" range="10" />
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
