@@ -36,6 +36,7 @@
 - MCHeli third person broken due to rocket third person changes
 - Rocket launch pad does not connect with OC cables
 - Lodestar renders in the wrong position with broken alpha
+- Fixed missing Enf Portal craft
 
 
 
