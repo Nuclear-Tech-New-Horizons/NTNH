@@ -22,9 +22,9 @@
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_fog_occlusion": false,
-    "use_block_face_culling": true,
+    "use_block_face_culling": false,
     "use_compact_vertex_format": true,
-    "translucency_sorting": true,
+    "translucency_sorting": false,
     "use_render_pass_optimization": true,
     "cpu_render_ahead_limit": 0
   }
