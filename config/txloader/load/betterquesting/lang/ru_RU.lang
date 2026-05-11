@@ -820,19 +820,19 @@ betterquesting.quest.EVr_kBsgS2Wb6Knw0wuihw.desc=Это что-то новень
 
 # Quest: Vacuum Solderer
 betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.name=Вакуумный паяльщик
-betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.desc=The §3Vacuum Solderer§r is a machine that can only function in a vacuum, and produces vacuum circuits. They can be placed into the §3Drive Processor§r to enable it to process higher tier planetary drives.
+betterquesting.quest.G3Em4SXiQee1Yu-Rd0yGaA.desc=§3Вакуумный паяльщик§r — это устройство, которое может работать только в вакууме и производит вакуумные схемы. Их можно поместить в §3Процессор приводов§r, чтобы он мог обрабатывать планетарные приводы более высокого ранга.
 
 # Quest: Space Equipment
 betterquesting.quest.HvPzivF4SWWIDt5syO87xA.name=Космическое снаряжение
-betterquesting.quest.HvPzivF4SWWIDt5syO87xA.desc=The §6PLSS§r is an armor modification which will allow you to breathe in space. It will only work on airtight sealed suits.%n%nThe §6Heavy Boots§r can be used to quickly descend down in low-gravity environments.
+betterquesting.quest.HvPzivF4SWWIDt5syO87xA.desc=§6PLSS§r - это модификация брони, которая позволит вам дышать в космосе. Она работает только на герметичных костюмах.%n%n§6Тяжёлые сапоги§r можно использовать для быстрого спуска в условиях низкой гравитации.
 
 # Quest: Ike
 betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.name=Айк
 betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.desc=§eIke§r, the sole moon of §eDuna§r, has hints of a past as a significant hazardous waste dump, with large spires and pyramids reminiscent of potential designs on Earth for warning future civilizations of great danger in relation to nuclear waste. §eMeteor dungeons§r spawn more frequently here, and pools of §bAlkyl Bromide§r can be found on the surface.%n
 
 # Quest: Armospheric Liquefaction Tower
-betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.name=Armospheric Liquefaction Tower
-betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.desc=The Air Liquefaction Tower is intended for obtaining liquid nitrogen from compressed air.
+betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.name=Башня сжижения воздуха
+betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.desc=Башня сжижения воздуха предназначена для получения жидкого азота из сжатого воздуха.
 
 # Quest: Drive Processor Tier 3
 betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.name=Drive Processor Tier 3
@@ -840,19 +840,19 @@ betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.desc=The §3Drive Processor Tier 3§
 
 # Quest: Atmospheric Scanner
 betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.name=Сканер атмосферы
-betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.desc=The §6Atmospheric Scanner§r shows the atmospheric consistency of planets. Useful for when terraforming.
+betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.desc=§6Атмосферный сканер§r показывает состав атмосферы планет. Полезен при терраформировании.
 
 # Quest: Mobile Orbital Station
 betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.name=Мобильная орбитальная станция
-betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.desc=By having an orbital station have an §3Orbital Station Computer§r and §3Drop Pods§r, one can move their station to any destination they wish, massively cutting down on material costs needed to make new rockets.
+betterquesting.quest.NBDAp_kvThGG5C4yE0SiPA.desc=Установив на орбитальную станцию §3Орбитальный компьютер§r и §3Десантные капсулы§r, вы можете переместить свою станцию в любую желаемую точку, значительно сокращая затраты ресурсов на создание новых ракет.
 
 # Quest: Drop Pod
 betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.name=Десантная капсула
-betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.desc=With a §3Drop pod§r, one can access their space station without needing to build new rockets. They can also be used to land on other planets once the station has reached them.%n%n§2Make sure to keep spare drives.§r
+betterquesting.quest.Ou1Dd0LTTgqox9lIWWOLNg.desc=С помощью §3Десантной капсулы§r можно попасть на свою космическую станцию без необходимости строить новые ракеты. Их также можно использовать для посадки на другие планеты, как только станция достигнет их.%n%n§2Убедитесь, что у вас есть запасные приводы.§r
 
 # Quest: Stainless Steel
 betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.name=Нержавеющая сталь
-betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.desc=§6Stainless Steel§r is an alloy made of §6Steel§r and §6Nickel§r.
+betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.desc=§6Нержавеющая сталь§r — это сплав из §6Стали§r и §6Никеля§r.
 
 # Quest: Drive Processor Tier 2
 betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.name=Drive Processor Tier 2
@@ -884,7 +884,7 @@ betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.desc=§bBrine§r, which is found in 
 
 # Quest: Rocket Preparations
 betterquesting.quest.XFyuo3SLQbmHtU7FcYdZ1g.name=Подготовка ракет
-betterquesting.quest.XFyuo3SLQbmHtU7FcYdZ1g.desc=Due to the expansive nature of rocket assembly, it is highly recommend that the wiki is checked out as it provides more information.%n%n[url]https://nucleartech.wiki/wiki/Vehicle_Assembly_Base_(NTM:_Space)[/url]
+betterquesting.quest.XFyuo3SLQbmHtU7FcYdZ1g.desc=Из-за обширности процесса сборки ракет настоятельно рекомендуется заглянуть в вики, где представлено больше информации.%n%n[url]https://nucleartech.wiki/wiki/Vehicle_Assembly_Base_(NTM:_Space)[/url]
 
 # Quest: The Mun is Cheese...
 betterquesting.quest.XzMOPvBIS9uEkD5JEXBvUw.name=Луна это сыр...
@@ -1000,8 +1000,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=Куриный наггетс
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=The §6Chicken Nugget§r is the best food item in the mod, completely filling up both hunger and saturation. It is made by colliding 2 raw chickens in a §3Particle Accelerator§r.
 
 # Quest: Exposure Chamber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Exposure Chamber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=The §3Exposure Chamber§r is a machine in which many materials can be created by exposing ingots to certain particles, most important of which being §6Dineutronium§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Камера облучения
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=§3Камера облучения§r — это устройство, в котором можно создавать множество материалов, подвергая слитки воздействию определённых частиц. Наиболее важным из них является §6Динeйтроний§r.
 
 # Quest: Euphemium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=Эвфемий
@@ -1053,7 +1053,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate
 
 # Quest: Gerald the Construction Android
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Строительный андроид Геральд
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=§6Gerald the Construction Android§r is the most powerful weapon in the mod. Using this has the side effect of setting the world on fire but also getting tektite, which contains §6Osmiridium§r.%n%nGerald is the hardest recipe of the mod requiring hundreds of thousands of items, mainly circuit related.%n%nVast quantities of §6Bismuth§r, §6Tantalium§r and §6Silicon§r are needed, so dont hold back on bedrock ore processing and parallelisation of many processes. If you havent already used §dAE2§r, it is highly recommended at this stage of the game.%n%nLaunching Gerald will result in a global firestorm that will decimate all life, including all trees and grass. Make sure to keep a backup of your world before launching him.%n%n§2Blueprints for Gerald and the Orbital Module can be found in structures or purchased from Bobmazon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=§6Геральд, Строительный Андроид§r — самое мощное оружие в моде. Его использование вызывает побочный эффект в виде поджога всего мира, но также позволяет добыть тектит, содержащий §6Осмиридий§r.%n%nГеральд обладает самым сложным рецептом в моде, требующим сотен тысяч предметов, в основном связанных со схемами.%n%nПотребуются огромные количества §6Висмута§r, §6Тантала§r и §6Кремния§r, так что не сдерживайте себя в переработке бедроковой руды и распараллеливании многих процессов. Если вы ещё не использовали §dAE2§r, на данном этапе игры это настоятельно рекомендуется.%n%nЗапуск Геральда приведёт к глобальному огненному шторму, который уничтожит всё живое, включая все деревья и траву. Обязательно сделайте резервную копию своего мира перед его запуском.%n%n§2Чертежи для Геральда и Орбитального модуля можно найти в структурах или купить у Бобмазона.
 
 # Quest: Osmiridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Осмиридий
