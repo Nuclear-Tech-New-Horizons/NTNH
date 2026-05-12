@@ -118,7 +118,7 @@ GregTech 6 найкращий
 Supersymmetry найкращий
 bob pls port to 1.20
 1.8.9 port is happening soon trust me guys.
-There's meteors. Build a roof. (#1)
+Тут є метеори. Збудуйте дах. (#1)
 The blast furnace extension increases speed with the same fuel consumption. (#2)
 Don't want to use buckets for water? Use an infinite barrel instead. (#3)
 Iron furnaces are more fuel efficient, and don't burn while idle. (#4)
