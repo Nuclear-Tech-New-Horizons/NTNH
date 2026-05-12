@@ -6,7 +6,7 @@
   },
   "model": {
     "type": "item",
-    "registryName": "hbm:tile.machine_fensu",
+    "registryName": "hbm:tile.machine_battery_redd",
     "scale": 0.70
   }
 }

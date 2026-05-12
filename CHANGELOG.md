@@ -38,10 +38,13 @@
 - Lodestar renders in the wrong position with broken alpha
 - Fixed missing Enf Portal craft
 - Fixed some issues with shaders
+- Ore generation fixes
+- Updated fensu trophy
 
 
 
 **Changed**
+- BIG early game quest rework (there will be more in future)
 - Disabled armor sounds while walking
    └ Can be enabled back in anextratouch.cfg
 - Main menu backgrounds are now randomized
@@ -114,6 +117,10 @@
 - Certain planet acid requirements will override regular bedrock ore extraction requirements
 - Gas, brine, and Tekto oil blocks now drop empty versions of themselves when mined
 - Demeter is affixed
+- No more volcanos
+- Disabled Exploration Module in Project Red
+- Replaced Rails of War with Zora no Densha
+- Increased P2P packet rate from 50 to 1024!
    
 
 
