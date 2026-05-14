@@ -101,7 +101,7 @@ OMGWTF NUCLEAR CREEPER
 Експеримент з покращенням машини для підвищення ефективності
 Не забувайте за механіку забруднення - вона впливає на геймплей
 Контролюйте забруднення щоб уникнути проблеми з тарганами
-Use soot towers to reduce pollution
+Використовуй димову трубу для того щоб зменшити забруднення
 Have fun and experiment - NTM offers endless possibilities
 Кріпери тут ДУЖЕ страшні
 Також спробуйте S.T.A.L.K.E.R. Anomaly ГАММА!
@@ -109,17 +109,17 @@ Have fun and experiment - NTM offers endless possibilities
 Зателефонуйте своїй мамі, зробіть її щасливою
 Щоб шукати рецепті в NEi наведіться на річ + R
 Стандартні бойлери можуть вибухнути коли заповняться.
-Fluids can be voided with a drainage pipe.
-Drainage pipe may not be too good for the environment.
-Foundry casts can be removed with a screwdriver.
+Рідини можна анігілювати за допомогою стічних труб
+Стічні труби можуть бути шкідливими для середовищя
+Формочки ливальні можна зняти за допомогою  викрутки
 It's all about the game
 Зробіть ласти щоб плавати швидше
 GregTech 6 найкращий
 Supersymmetry найкращий
-bob pls port to 1.20
-1.8.9 port is happening soon trust me guys.
+Bob будь ласка запортуй 1.20
+Порт 1.8.9 скоро буде
 Тут є метеори. Збудуйте дах. (#1)
-The blast furnace extension increases speed with the same fuel consumption. (#2)
+Доповнення вибухової печі збільшує швидкість плавління (#2)
 Don't want to use buckets for water? Use an infinite barrel instead. (#3)
 Iron furnaces are more fuel efficient, and don't burn while idle. (#4)
 Press F1 for help. (#5)
