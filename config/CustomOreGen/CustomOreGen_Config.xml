@@ -14,7 +14,7 @@
     </OptionDisplayGroup>
 
     <!-- Controls overall frequency of ore deposits.  Range 0–5; default 1 -->
-    <OptionNumeric name="oreFreq" default="1" min="0" max="5" displayState="shown"
+    <OptionNumeric name="oreFreq" default="2" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
     <!-- Controls overall size of ore deposits.  Range 0–5; default 1 -->
@@ -57,7 +57,7 @@
     -->
     <!-- Large, thin coal seams used in hills and swamps -->
     <CloudPreset name="PresetCoalSeamCloud">
-      <Setting name="DistributionFrequency" avg=":= 0.006 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.004 * oreFreq" />
       <Setting name="CloudRadius" avg=":= 42 * oreSize" range=":= 10 * oreSize" />
       <Setting name="CloudThickness" avg=":= 1.3 * oreSize" range=":= 0.5 * oreSize" />
       <Setting name="CloudHeight" avg="40" range="20" type="normal" scaleTo="sealevel" />
@@ -69,24 +69,24 @@
 
     <!-- Very small biome cloud. -->
     <CloudPreset name="PresetBiomeCloudVerySmall">
-      <Setting name="DistributionFrequency" avg=":= 0.1 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.3" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
-      <Setting name="CloudRadius" avg=":=3 * oreSize" range=":= 8 * oreSize" />
+      <Setting name="CloudRadius" avg=":=4 * oreSize" range=":= 8 * oreSize" />
       <Setting name="CloudThickness" avg=":= 7 * oreSize" range=":= 4 * oreSize" />
-      <Setting name="CloudSizeNoise" avg="0.1" />
+      <Setting name="CloudSizeNoise" avg="0.2" />
       <Setting name="CloudHeight" avg="20" range="20" type="normal" scaleTo="sealevel" />
       <Setting name="CloudInclination" avg="0.05" range="0.9" />
       <Setting name="OreRadiusMult" avg="1" range="0.1" />
-      <Setting name="OreDensity" avg="0.05" />
+      <Setting name="OreDensity" avg="0.09" />
       <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
       <ReplacesOre block="stone" />
     </CloudPreset>
 
     <!-- Small biome cloud. -->
     <CloudPreset name="PresetBiomeCloudSmall">
-      <Setting name="DistributionFrequency" avg=":= 0.04 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.2" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
-      <Setting name="CloudRadius" avg=":= 16 * oreSize" range=":= 8 * oreSize" />
+      <Setting name="CloudRadius" avg=":= 8 * oreSize" range=":= 8 * oreSize" />
       <Setting name="CloudThickness" avg=":= 10 * oreSize" range=":= 4 * oreSize" />
       <Setting name="CloudSizeNoise" avg="0.2" />
       <Setting name="CloudHeight" avg="32" range="16" type="normal" scaleTo="sealevel" />
@@ -99,9 +99,9 @@
 
     <!-- Medium biome cloud. -->
     <CloudPreset name="PresetBiomeCloudMedium">
-      <Setting name="DistributionFrequency" avg=":= 0.02 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.02" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
-      <Setting name="CloudRadius" avg=":= 25 * oreSize" range=":= 10 * oreSize" />
+      <Setting name="CloudRadius" avg=":= 16 * oreSize" range=":= 10 * oreSize" />
       <Setting name="CloudThickness" avg=":= 14 * oreSize" range=":= 6 * oreSize" />
       <Setting name="CloudSizeNoise" avg="0.2" />
       <Setting name="CloudHeight" avg="32" range="16" type="normal" scaleTo="sealevel" />
@@ -114,9 +114,9 @@
 
     <!-- Large biome cloud. -->
     <CloudPreset name="PresetBiomeCloudLarge">
-      <Setting name="DistributionFrequency" avg=":= 0.01 * oreFreq" />
+      <Setting name="DistributionFrequency" avg=":= 0.005" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
-      <Setting name="CloudRadius" avg=":= 34 * oreSize" range=":= 12 * oreSize" />
+      <Setting name="CloudRadius" avg=":= 32 * oreSize" range=":= 12 * oreSize" />
       <Setting name="CloudThickness" avg=":= 16 * oreSize" range=":= 7 * oreSize" />
       <Setting name="CloudSizeNoise" avg="0.2" />
       <Setting name="CloudHeight" avg="34" range="18" type="normal" scaleTo="sealevel" />
@@ -148,7 +148,7 @@
 
     <Cloud
       name="CloudVerySmalltungsten"
-      block="hbm:tile.ore_tungsten" inherits="PresetBiomeCloudVerySmall">
+      block="hbm:tile.ore_tungsten" inherits="PresetBiomeCloudSmall">
       <Biome name="Extreme Hills" />
       <Biome name="Extreme Hills M" />
       <Biome name="Extreme Hills+" />
@@ -204,7 +204,7 @@
     <!-- === MESA: lithium, sulfur, titanium and gold concentrated here === -->
 
     <Cloud name="LithiumMesa"
-      block="hbm:tile.ore_lithium" inherits="PresetBiomeCloudVerySmall">
+      block="hbm:tile.ore_lithium" inherits="PresetBiomeCloudSmall">
       <Biome name="Mesa" />
       <Biome name="Mesa Plateau" />
       <Biome name="Mesa Plateau F" />
@@ -230,17 +230,9 @@
       <Biome name="Mesa Plateau M" />
     </Cloud>
 
-    <Cloud name="GoldMesa"
-      block="minecraft:gold_ore" inherits="PresetBiomeCloudVerySmall">
-      <Biome name="Mesa" />
-      <Biome name="Mesa Plateau" />
-      <Biome name="Mesa Plateau F" />
-      <Biome name="Mesa Plateau F M" />
-      <Biome name="Mesa Plateau M" />
-    </Cloud>
 
     <Cloud name="RedstoneCloudMesa"
-      block="minecraft:redstone_ore" inherits="PresetBiomeCloudMedium">
+      block="minecraft:redstone_ore" inherits="PresetBiomeCloudVerySmall">
       <Biome name="Mesa" />
       <Biome name="Mesa Plateau" />
       <Biome name="Mesa Plateau F" />
@@ -274,7 +266,7 @@
     </Cloud>
 
     <Cloud name="RedstoneCloudSavanna"
-      block="minecraft:redstone_ore" inherits="PresetBiomeCloudVerySmall">
+      block="minecraft:redstone_ore" inherits="PresetBiomeCloudSmall">
       <Biome name="Savanna" />
       <Biome name="Savanna Plateau" />
       <Biome name="Savanna M" />
@@ -285,8 +277,8 @@
     <StandardGen name="LigniteSwampland"
       block="hbm:tile.ore_lignite">
       <Setting name="Size" avg=":= 60 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.1 * oreFreq" />
-      <Setting name="Height" avg="60" range="14" />
+      <Setting name="Frequency" avg=":= 0.3 * oreFreq" />
+      <Setting name="Height" avg="40" range="14" />
       <Biome name="Swampland" />
       <Biome name="Swampland M" />
       <ReplacesOre block="stone" />
@@ -295,8 +287,8 @@
     <StandardGen name="SulfurSwampland"
       block="hbm:tile.ore_sulfur">
       <Setting name="Size" avg=":= 22 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.14 * oreFreq" />
-      <Setting name="Height" avg="40" range="15" />
+      <Setting name="Frequency" avg=":= 0.5 * oreFreq" />
+      <Setting name="Height" avg="30" range="20" />
       <Biome name="Swampland" />
       <Biome name="Swampland M" />
       <ReplacesOre block="stone" />
@@ -304,7 +296,7 @@
 
     <!-- === PLAINS: base metals for early game industry === -->
     <Cloud name="IronCloudPlains"
-      block="minecraft:iron_ore" inherits="PresetBiomeCloudMedium">
+      block="minecraft:iron_ore" inherits="PresetBiomeCloudSmall">
       <Biome name="Plains" />
       <Biome name="Sunflower Plains" />
       <Biome name="Ice Plains" />
@@ -312,7 +304,7 @@
     </Cloud>
 
     <Cloud name="CopperCloudPlains"
-      block="hbm:tile.ore_copper" inherits="PresetBiomeCloudMedium">
+      block="hbm:tile.ore_copper" inherits="PresetBiomeCloudLarge">
       <Biome name="Plains" />
       <Biome name="Sunflower Plains" />
       <Biome name="Ice Plains" />
@@ -328,14 +320,14 @@
     </Cloud>
 
     <Cloud name="LeadCloudForest"
-      block="hbm:tile.ore_lead" inherits="PresetBiomeCloudVerySmall">
+      block="hbm:tile.ore_lead" inherits="PresetBiomeCloudSmall">
       <Biome name="Forest" />
       <Biome name="ForestHills" />
       <Biome name="Flower Forest" />
     </Cloud>
 
     <Cloud name="RedstoneCloudForest"
-      block="minecraft:redstone_ore" inherits="PresetBiomeCloudSmall">
+      block="minecraft:redstone_ore" inherits="PresetBiomeCloudMedium">
       <Biome name="Forest" />
       <Biome name="ForestHills" />
       <Biome name="Flower Forest" />
@@ -400,7 +392,7 @@
 
     <Cloud
       name="CloudSmallAluminiumTaiga"
-      block="hbm:tile.ore_asbestos" inherits="PresetBiomeCloudSmall">
+      block="hbm:tile.ore_asbestos" inherits="PresetBiomeCloudMedium">
       <Biome name="Mega Taiga" />
       <Biome name="Mega Spruce Taiga" />
       <Biome name="Mega Taiga Hills" />
@@ -420,8 +412,8 @@
     <StandardGen name="AluminiumJungle"
       block="hbm:tile.ore_aluminium">
       <Setting name="Size" avg=":= 34 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.30 * oreFreq" />
-      <Setting name="Height" avg="46" range="16" />
+      <Setting name="Frequency" avg=":= 0.4 * oreFreq" />
+      <Setting name="Height" avg="30" range="30" />
       <Biome name="Jungle" />
       <Biome name="JungleHills" />
       <Biome name="Jungle Edge" />
@@ -433,8 +425,8 @@
     <StandardGen name="ColtanJungle"
       block="hbm:tile.ore_coltan">
       <Setting name="Size" avg=":= 18 * oreSize" />
-      <Setting name="Frequency" avg=":= 0.055 * oreFreq" />
-      <Setting name="Height" avg="24" range="10" />
+      <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
+      <Setting name="Height" avg="20" range="10" />
       <Biome name="Jungle" />
       <Biome name="Jungle Hills" />
       <Biome name="Jungle Edge" />
@@ -447,7 +439,7 @@
       block="minecraft:gold_ore">
       <Setting name="Size" avg=":= 14 * oreSize" />
       <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
-      <Setting name="Height" avg="24" range="12" />
+      <Setting name="Height" avg="26" range="12" />
       <Biome name="Jungle" />
       <Biome name="Jungle Hills" />
       <Biome name="Jungle Edge" />
@@ -483,7 +475,7 @@
     </Cloud>
 
     <Cloud name="RedstoneCloudBirchForest"
-      block="minecraft:redstone_ore" inherits="PresetBiomeCloudLarge">
+      block="minecraft:redstone_ore" inherits="PresetBiomeCloudMedium">
       <Biome name="Birch Forest Hills" />
       <Biome name="Birch Forest Hills M" />
       <Biome name="Birch Forest" />
@@ -494,31 +486,39 @@
 
     <Cloud
       name="CloudVerySmallUraniumColdOcean"
-      block="hbm:tile.ore_uranium" inherits="PresetBiomeCloudVerySmall">
+      block="hbm:tile.ore_uranium" inherits="PresetBiomeCloudSmall">
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
     </Cloud>
 
-    <Cloud
-      name="CloudVerySmallColtanOcean"
-      block="hbm:tile.ore_coltan" inherits="PresetBiomeCloudVerySmall">
+    <StandardGen name="ColtanOcean"
+      block="hbm:tile.ore_coltan">
+      <Setting name="Size" avg=":= 18 * oreSize" />
+      <Setting name="Frequency" avg=":= 0.05 * oreFreq" />
+      <Setting name="Height" avg="1" range="3" />
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
-    </Cloud>
-
+      <ReplacesOre block="stone" />
+    </StandardGen>
 
     <Cloud name="QuartzOcean"
-      block="appliedenergistics2:tile.OreQuartz" inherits="PresetBiomeCloudVerySmall">
+      block="appliedenergistics2:tile.OreQuartz" inherits="PresetBiomeCloudSmall">
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
     </Cloud>
 
     <Cloud name="FluoriteOcean"
-      block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudVerySmall">
+      block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudMedium">
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
     </Cloud>
 
+    <!-- === Roofed Forest === -->
+    <Cloud name="RoofedForest"
+      block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudMedium">
+      <Biome name="Roofed Forest" />
+      <Biome name="Roofed Forest M" />
+    </Cloud>
 
     <!-- === Mun === -->
     <CloudPreset name="PresetMun">
