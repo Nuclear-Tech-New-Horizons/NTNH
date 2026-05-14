@@ -124,6 +124,9 @@
 - Increased the spawn rate of all ores, and made them bigger in size
 - Removed stalactites and stalagmites
 - Debuffed glyphids
+- Increased max food stack size in a container to 32
+- Decresed food history length to 6
+- Increased the number of times a new player (by World) needs to eat before nutrition system has any effect to 24
    
 
 
