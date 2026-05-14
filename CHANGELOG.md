@@ -121,6 +121,7 @@
 - Disabled Exploration Module in Project Red
 - Replaced Rails of War with Zora no Densha
 - Increased P2P packet rate from 50 to 1024!
+- Increased the spawn rate of all ores, and made them bigger in size
    
 
 

@@ -8,18 +8,18 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.\n\nBurning logs in the generator produces §e2kHE/s.§r",
+      "desc:8": "§dHBM\u0027s NTM§r is an industrial mod, so you\u0027ll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.\n\nThe §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.\n\nBurning logs in the generator produces §e2kHE/s.§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_wood_burner"
+        "id:8": "hbm:tile.hev_battery"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Wood-Burning Generator",
+      "name:8": "Electricity",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,

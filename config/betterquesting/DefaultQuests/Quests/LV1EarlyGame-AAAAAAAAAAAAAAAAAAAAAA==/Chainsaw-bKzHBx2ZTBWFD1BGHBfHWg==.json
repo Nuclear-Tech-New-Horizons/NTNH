@@ -19,7 +19,7 @@
           "fuel:3": 5000
         }
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Chainsaw",
