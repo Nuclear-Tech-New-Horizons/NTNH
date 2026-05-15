@@ -10,6 +10,7 @@
    └ Can be stacked
    └ Only supports two floors, the top and the bottom
    └ Hopefully not terribly janky
+- Full Color System (https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide)
    
 
 
@@ -40,6 +41,12 @@
 - Fixed some issues with shaders
 - Ore generation fixes
 - Updated fensu trophy
+- Fixed dynamic lights world client leaks
+- Fixed terrible performance on Intel
+- Fixed particles rendering during shadow pass
+- Fixed health bars / thermal sights / bullets rendering during shadow pass
+- Improved texture (black background) fixes
+- Fixed Complementary Shaders not working as expected at night
 
 
 
@@ -127,6 +134,7 @@
 - Increased max food stack size in a container to 32
 - Decresed food history length to 6
 - Increased the number of times a new player (by World) needs to eat before nutrition system has any effect to 24
+- Updated Complemetary shader clouds
    
 
 
