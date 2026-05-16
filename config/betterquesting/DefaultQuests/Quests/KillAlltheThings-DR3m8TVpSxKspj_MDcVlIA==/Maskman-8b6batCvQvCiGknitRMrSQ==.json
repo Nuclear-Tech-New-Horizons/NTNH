@@ -76,7 +76,7 @@
       "index:3": 0,
       "required:3": 1,
       "subtypes:1": 1,
-      "target:8": "entity_mob_mask_man",
+      "target:8": "hbm.entity_mob_mask_man",
       "targetNBT:10": {
         "AbsorptionAmount:5": 0.0,
         "Air:2": 300,
@@ -163,12 +163,12 @@
           "2:6": 0.0
         },
         "Rotation:9": {
-          "0:5": 0.7445545,
+          "0:5": 4.9558363,
           "1:5": 0.0
         },
-        "UUIDLeast:4": -7228898180310767501,
-        "UUIDMost:4": 5239204693358297905,
-        "id:8": "entity_mob_mask_man"
+        "UUIDLeast:4": -8519835570299232460,
+        "UUIDMost:4": -4617932271151857536,
+        "id:8": "hbm.entity_mob_mask_man"
       },
       "taskID:8": "bq_standard:hunt"
     }

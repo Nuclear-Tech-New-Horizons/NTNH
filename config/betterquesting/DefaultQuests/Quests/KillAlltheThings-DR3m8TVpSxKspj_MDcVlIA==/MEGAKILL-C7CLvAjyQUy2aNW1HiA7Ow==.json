@@ -91,31 +91,26 @@
       "type:1": 2
     },
     "18:10": {
-      "questIDHigh:4": -8102317165544977314,
-      "questIDLow:4": -5003343831664737484,
-      "type:1": 2
-    },
-    "19:10": {
       "questIDHigh:4": -3408123065194623258,
       "questIDLow:4": -5593967109489629132,
       "type:1": 2
     },
-    "20:10": {
+    "19:10": {
       "questIDHigh:4": 4882281838826243584,
       "questIDLow:4": -5314668707019453658,
       "type:1": 2
     },
-    "21:10": {
+    "20:10": {
       "questIDHigh:4": -6545365725160124537,
       "questIDLow:4": -6209457741238451931,
       "type:1": 2
     },
-    "22:10": {
+    "21:10": {
       "questIDHigh:4": 2688782006671067092,
       "questIDLow:4": -8585709469103528141,
       "type:1": 2
     },
-    "23:10": {
+    "22:10": {
       "questIDHigh:4": 7340950136418159549,
       "questIDLow:4": -8718094580956053538,
       "type:1": 2
@@ -132,7 +127,7 @@
         "OreDict:8": "",
         "id:8": "HardcoreEnderExpansion:silverfish_blood"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "§4§lMEGAKILL!",

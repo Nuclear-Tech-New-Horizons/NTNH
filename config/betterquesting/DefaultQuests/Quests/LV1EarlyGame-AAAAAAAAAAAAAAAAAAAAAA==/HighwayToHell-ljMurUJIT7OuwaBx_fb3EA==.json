@@ -1,25 +1,25 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 1010420867898101172,
-      "questIDLow:4": -6113139617334346026
+      "questIDHigh:4": 0,
+      "questIDLow:4": 25
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Stange material. Feels cold and soft, like plasticine. Anything made from this material does not burn, and the armor gives you fire resistance.",
+      "desc:8": "§6The Nether§r is §c§lACTUALLY HOT§r causing your skin to burn.\n\n§6Fire Proximity Armor Set§r is essential for your first Nerther trip, as it protects you from burning fire.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "netherlicious:Ingot"
+        "id:8": "minecraft:portal"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Efrine",
+      "name:8": "Highway To Hell",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -30,8 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 8558637909349779950,
-  "questIDLow:4": -6420920230600001291,
+  "questIDHigh:4": -7623698422531862605,
+  "questIDLow:4": -5854221629152364784,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -46,7 +46,25 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "netherlicious:Ingot"
+          "id:8": "hbm:item.asbestos_helmet"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.asbestos_plate"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.asbestos_legs"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.asbestos_boots"
         }
       },
       "taskID:8": "bq_standard:retrieval"

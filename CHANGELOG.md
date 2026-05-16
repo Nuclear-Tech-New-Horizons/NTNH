@@ -137,6 +137,7 @@
 - Decresed food history length to 6
 - Increased the number of times a new player (by World) needs to eat before nutrition system has any effect to 24
 - Updated Complemetary shader clouds
+- Hopefully optimized some shit
    
 
 

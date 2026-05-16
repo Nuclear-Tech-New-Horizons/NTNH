@@ -1,25 +1,25 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 1010420867898101172,
-      "questIDLow:4": -6113139617334346026
+      "questIDHigh:4": 0,
+      "questIDLow:4": 34
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Crystals can be mined in the Crystal Biome. (Obviously.) They are mainly used to craft advanced Applied Energistics 2 storage cells, as well as some other less useful crafts, such as Crystal Lamps or Crystal Glasses.",
+      "desc:8": "Imagine using the same chemical plant for sulfuric acid AND strawberry ice cream production...",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 32767,
+        "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "netherlicious:NetherCrystal"
+        "id:8": "hbm:item.s_cream"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Hellish Beauties",
+      "name:8": "Strawberry Ice Cream",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -30,8 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 3308418542713324395,
-  "questIDLow:4": -6867358834561661975,
+  "questIDHigh:4": 7888072001642516270,
+  "questIDLow:4": -9164881848491213321,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -43,10 +43,10 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 10,
-          "Damage:2": 32767,
+          "Count:3": 1,
+          "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "netherlicious:NetherCrystal"
+          "id:8": "hbm:item.s_cream"
         }
       },
       "taskID:8": "bq_standard:retrieval"
