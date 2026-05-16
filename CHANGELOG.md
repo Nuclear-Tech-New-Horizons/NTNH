@@ -47,6 +47,8 @@
 - Fixed health bars / thermal sights / bullets rendering during shadow pass
 - Improved texture (black background) fixes
 - Fixed Complementary Shaders not working as expected at night
+- Fixed Solar Tower Boiler recipe
+- Fixed weird blindness effects underground
 
 
 

@@ -1,3 +1,5 @@
-#Fri May 15 09:31:23 MDT 2026
+#Fri May 15 17:07:41 MDT 2026
 LIGHT_NI=0.05
+shadowDistance=512.0
+shadowMapResolution=3072
 AMBIENT_NI=0.10

@@ -1,12 +1,16 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 19
+      "questIDHigh:4": -3069375608230492990,
+      "questIDLow:4": -6865874965143909140
     },
     "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 187
+      "questIDHigh:4": 1319228889462950511,
+      "questIDLow:4": -7715767674686406072
+    },
+    "2:10": {
+      "questIDHigh:4": -509918286629352806,
+      "questIDLow:4": -6425874344998316636
     }
   },
   "properties:10": {
@@ -24,7 +28,7 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Assembly Machine",
-      "questLogic:8": "AND",
+      "questLogic:8": "OR",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,

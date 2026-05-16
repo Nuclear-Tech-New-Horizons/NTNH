@@ -2,7 +2,12 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 8162125792545885492,
-      "questIDLow:4": -7464496251550668189
+      "questIDLow:4": -7464496251550668189,
+      "type:1": 1
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 19
     }
   },
   "properties:10": {
@@ -16,7 +21,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.machine_stirling"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Stirling Engine",
