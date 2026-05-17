@@ -31,7 +31,7 @@
 
 <h2 style="text-align:center">🌟 Our Amazing Contributors 🌟</h2>
 
-<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>2261 🏆</span></td>
+<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>2265 🏆</span></td>
 <td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>392 🏆</span></td>
 <td align="center"><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AniviaFlome</b></sub><br/><span>92 🏆</span></td>
 <td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>41 🏆</span></td>
@@ -39,6 +39,7 @@
 <td align="center"><a href="https://github.com/bocan225"><img src="https://avatars.githubusercontent.com/u/209335201?v=4" width="50" alt="bocan225" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>bocan225</b></sub><br/><span>20 🏆</span></td>
 <td align="center"><a href="https://github.com/AxeleronPlay"><img src="https://avatars.githubusercontent.com/u/155234618?v=4" width="50" alt="AxeleronPlay" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AxeleronPlay</b></sub><br/><span>8 🏆</span></td></tr>
 <tr><td align="center"><a href="https://github.com/intelcore13900k"><img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" alt="intelcore13900k" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>intelcore13900k</b></sub><br/><span>2 🏆</span></td>
+<td align="center"><a href="https://github.com/FOlkvangrField"><img src="https://avatars.githubusercontent.com/u/153828961?v=4" width="50" alt="FOlkvangrField" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>FOlkvangrField</b></sub><br/><span>2 🏆</span></td>
 <td align="center"><a href="https://github.com/Xekitan"><img src="https://avatars.githubusercontent.com/u/84423252?v=4" width="50" alt="Xekitan" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Xekitan</b></sub><br/><span>2 🏆</span></td>
 <td align="center"><a href="https://github.com/ShamansJackal"><img src="https://avatars.githubusercontent.com/u/74203576?v=4" width="50" alt="ShamansJackal" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>ShamansJackal</b></sub><br/><span>1 🏆</span></td>
 <td align="center"><a href="https://github.com/MrHome655"><img src="https://avatars.githubusercontent.com/u/193831595?v=4" width="50" alt="MrHome655" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>MrHome655</b></sub><br/><span>1 🏆</span></td></tr></table>
@@ -58,7 +59,7 @@
           <br />
           <sub><b>Bufka2011</b></sub></a>
         <br />
-        <sub><b>379943 words</b></sub>
+        <sub><b>381542 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/BufkaSecond"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16895253/medium/0b29547a406506ea79d4bbd68608d6ed.png" />
