@@ -1,1 +1,1 @@
-mods/HBM-NTM-*.jar filter=lfs diff=lfs merge=lfs -text
+mods/HBM-*.jar filter=lfs diff=lfs merge=lfs -text
