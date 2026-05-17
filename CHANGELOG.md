@@ -56,6 +56,9 @@
 - Fixed crash when draining Certus Quartz Tank with Large Steel Fluid Cell
 - Fixed offhand item clipping through custom armor models
 - Fixed weird behaviour of chunks if zooming
+- *Probably* fixed hanging while world loading
+- Fixed one really weird and annoying crash related to chunk decoration
+   └ That crash literally softlocked me out of my world once
 
 
 
@@ -145,6 +148,7 @@
 - Increased the number of times a new player (by World) needs to eat before nutrition system has any effect to 24
 - Updated Complemetary shader clouds
 - Hopefully optimized some shit
+- *Probably* sped up the world loading
    
 
 
