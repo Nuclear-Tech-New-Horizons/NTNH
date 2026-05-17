@@ -10,7 +10,6 @@
    └ Can be stacked
    └ Only supports two floors, the top and the bottom
    └ Hopefully not terribly janky
-- Full Color System (https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide)
    
 
 
@@ -49,6 +48,13 @@
 - Fixed Complementary Shaders not working as expected at night
 - Fixed Solar Tower Boiler recipe
 - Fixed weird blindness effects underground
+- Fixed Russian localization for Iron Chest items
+- Fixed/changed biome search in Nature's Compass
+- Fixed ProjectRed wires not providing redstone power
+- Fixed ServerUtilities buttons not rendering for 1 tick when changing inv tabs
+- Fixed crash when draining Certus Quartz Tank with Large Steel Fluid Cell
+- Fixed offhand item clipping through custom armor models
+- Fixed weird behaviour of chunks if zooming
 
 
 
