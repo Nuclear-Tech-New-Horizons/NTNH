@@ -69,7 +69,7 @@
 
     <!-- Very small biome cloud. -->
     <CloudPreset name="PresetBiomeCloudVerySmall">
-      <Setting name="DistributionFrequency" avg=":= 0.3" />
+      <Setting name="DistributionFrequency" avg=":= 0.4" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":=4 * oreSize" range=":= 8 * oreSize" />
       <Setting name="CloudThickness" avg=":= 7 * oreSize" range=":= 4 * oreSize" />
@@ -99,7 +99,7 @@
 
     <!-- Medium biome cloud. -->
     <CloudPreset name="PresetBiomeCloudMedium">
-      <Setting name="DistributionFrequency" avg=":= 0.02" />
+      <Setting name="DistributionFrequency" avg=":= 0.03" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":= 16 * oreSize" range=":= 10 * oreSize" />
       <Setting name="CloudThickness" avg=":= 14 * oreSize" range=":= 6 * oreSize" />
@@ -114,7 +114,7 @@
 
     <!-- Large biome cloud. -->
     <CloudPreset name="PresetBiomeCloudLarge">
-      <Setting name="DistributionFrequency" avg=":= 0.005" />
+      <Setting name="DistributionFrequency" avg=":= 0.006" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":= 32 * oreSize" range=":= 12 * oreSize" />
       <Setting name="CloudThickness" avg=":= 16 * oreSize" range=":= 7 * oreSize" />
@@ -515,7 +515,13 @@
 
     <!-- === Roofed Forest === -->
     <Cloud name="RoofedForest"
-      block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudMedium">
+      block="appliedenergistics2:tile.OreQuartz" inherits="PresetBiomeCloudVerySmall">
+      <Biome name="Roofed Forest" />
+      <Biome name="Roofed Forest M" />
+    </Cloud>
+
+      <Cloud name="RoofedForestfluorite"
+      block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudSmall">
       <Biome name="Roofed Forest" />
       <Biome name="Roofed Forest M" />
     </Cloud>
