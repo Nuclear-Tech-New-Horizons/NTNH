@@ -100,7 +100,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity aswell as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.\n\n§2Many drawers may cause lag.",
+          "desc:8": "Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity as well as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.\n\n§2Many drawers may cause lag.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -1489,7 +1489,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]\n\nNotes:\n\n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.\n\n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.\n\n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.\nAfter it is deleted, turn on cheats and do \"/bq_admin edit true\", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.\n\n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.\n\n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, aswell as the official NTM Wiki for providing information used in the quests.\n",
+          "desc:8": "[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]\n\nNotes:\n\n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.\n\n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.\n\n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.\nAfter it is deleted, turn on cheats and do \"/bq_admin edit true\", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.\n\n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.\n\n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.\n",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -4797,7 +4797,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "There are many tools which will help you progress through the mod, the most important ones being:\n\n§6Tungsten Reachers§r, which reduce the radiation the player gets exposed to from items in their inventory, aswell as allowing them to hold some very hot items.\n\nThe §6Crowbar§r, which is used to open crates for loot such as food and ammunition found in various structures.",
+          "desc:8": "There are many tools which will help you progress through the mod, the most important ones being:\n\n§6Tungsten Reachers§r, which reduce the radiation the player gets exposed to from items in their inventory, as well as allowing them to hold some very hot items.\n\nThe §6Crowbar§r, which is used to open crates for loot such as food and ammunition found in various structures.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5266,7 +5266,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs aswell as fast swimming speed.",
+          "desc:8": "The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs as well as fast swimming speed.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5426,7 +5426,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.\n\nFor better looking, aswell as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.\n\n",
+          "desc:8": "The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.\n\nFor better looking, as well as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.\n\n",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -6021,6 +6021,11 @@
       "preRequisites:9": {
         "0:10": {
           "questIDHigh:4": 0,
+          "questIDLow:4": 19,
+          "type:1": 2
+        },
+        "1:10": {
+          "questIDHigh:4": 0,
           "questIDLow:4": 29
         }
       },
@@ -6310,6 +6315,11 @@
     "86:10": {
       "preRequisites:9": {
         "0:10": {
+          "questIDHigh:4": 0,
+          "questIDLow:4": 19,
+          "type:1": 2
+        },
+        "1:10": {
           "questIDHigh:4": -6504268382655527520,
           "questIDLow:4": -5691612610862427359
         }
@@ -8277,7 +8287,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "§bReformate Gas§r is used in welding very durable materials, aswell as used in making §6Saturnite§r.",
+          "desc:8": "§bReformate Gas§r is used in welding very durable materials, as well as used in making §6Saturnite§r.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -9098,7 +9108,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "Oil products can be combusted or burnt to produce massive amounts of energy.\n\nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.\n\nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%§r power efficiency. Be careful not to stand infront of it while its operational!\n\nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.\n\nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, aswell as dealing with excess fluids.\n\nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.\n\nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.",
+          "desc:8": "Oil products can be combusted or burnt to produce massive amounts of energy.\n\nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.\n\nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%§r power efficiency. Be careful not to stand infront of it while its operational!\n\nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.\n\nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, as well as dealing with excess fluids.\n\nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.\n\nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -11797,7 +11807,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "§6Ionized Particles§r are the main product of the §3Fusion Reactor§r and are used in making §6Ferric Scrabidate§r, aswell as some particle capsules needed in the §3Particle Accelerator§r.\n\n§2Ionized Particles can be infinitely produced by utilizing Ionic Gel.",
+          "desc:8": "§6Ionized Particles§r are the main product of the §3Fusion Reactor§r and are used in making §6Ferric Scrabidate§r, as well as some particle capsules needed in the §3Particle Accelerator§r.\n\n§2Ionized Particles can be infinitely produced by utilizing Ionic Gel.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -13727,7 +13737,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.\n\nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative aswell as in the creation of §6Industrial Fertilizer§r.",
+          "desc:8": "The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.\n\nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -14715,7 +14725,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, aswell as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.\n\nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.\n\n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.\n",
+          "desc:8": "§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, as well as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.\n\nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.\n\n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.\n",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -16928,6 +16938,10 @@
     "234:10": {
       "preRequisites:9": {
         "0:10": {
+          "questIDHigh:4": 0,
+          "questIDLow:4": 19
+        },
+        "1:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 29
         }
@@ -20683,7 +20697,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "The §6Screwdriver§r is used to rotate conveyor blocks aswell as to create a §3Chicago Pile§r. It can also be used in combination with §6Bobby Pins§r to unlock §6Safes§r found in various structures.",
+          "desc:8": "The §6Screwdriver§r is used to rotate conveyor blocks as well as to create a §3Chicago Pile§r. It can also be used in combination with §6Bobby Pins§r to unlock §6Safes§r found in various structures.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -23537,7 +23551,7 @@
           "snd_complete:8": "random.levelup",
           "snd_update:8": "random.levelup",
           "taskLogic:8": "AND",
-          "visibility:8": "NORMAL"
+          "visibility:8": "SECRET"
         }
       },
       "questIDHigh:4": 9060064238429097123,
@@ -34164,7 +34178,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -84,
-          "y:3": 360
+          "y:3": 336
         },
         "42:10": {
           "questIDHigh:4": 0,
@@ -34292,7 +34306,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -84,
-          "y:3": 336
+          "y:3": 360
         },
         "58:10": {
           "questIDHigh:4": 2105028282867793957,
