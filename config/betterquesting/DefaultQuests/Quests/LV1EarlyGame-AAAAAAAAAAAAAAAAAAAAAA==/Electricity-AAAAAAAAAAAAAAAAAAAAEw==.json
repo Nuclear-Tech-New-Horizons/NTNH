@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§dHBM\u0027s NTM§r is an industrial mod, so you\u0027ll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.",
+      "desc:8": "§dHBM\u0027s NTM§r is an industrial mod, so you\u0027ll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.\n\n§2If the wood-burning generator is not enough, more advanced energy sources can be unlocked on the left side of this questbook, such as the §3Stirling Engine§2, §3Solar Tower Boiler§2, or §3Radial Performance Engine§2.§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -37,23 +37,6 @@
     "0:10": {
       "index:3": 0,
       "taskID:8": "bq_standard:checkbox"
-    },
-    "1:10": {
-      "autoConsume:1": 0,
-      "consume:1": 0,
-      "groupDetect:1": 0,
-      "ignoreNBT:1": 1,
-      "index:3": 1,
-      "partialMatch:1": 1,
-      "requiredItems:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:tile.machine_wood_burner"
-        }
-      },
-      "taskID:8": "bq_standard:retrieval"
     }
   }
 }

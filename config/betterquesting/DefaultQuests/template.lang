@@ -83,7 +83,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=The §6Pollution Detector§r wi
 
 # Quest: Electricity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Electricity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM's NTM§r is an industrial mod, so you'll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM's NTM§r is an industrial mod, so you'll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.%n%n§2If the wood-burning generator is not enough, more advanced energy sources can be unlocked on the left side of this questbook, such as the §3Stirling Engine§2, §3Solar Tower Boiler§2, or §3Radial Performance Engine§2.§r
 
 # Quest: Analog Circuit Board
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Analog Circuit Board
@@ -264,6 +264,10 @@ betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation h
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.desc=The §6Dosimeter§r is an tool for detecting radiation and assessing radioactive contamination.%n%nIt is functionally similar to a §6Geiger Counter§r, but it collects much less data - only the general radiation contamination of the environment. Only a handheld version of the dosimeter is available. To obtain radiation information, right-click while holding the dosimeter.%n%nLike a counter, it makes a characteristic crackling sound when radiation is detected.%n%n§2The maximum radiation displayed is 3.6 RAD/S.%n%nNot great, not terrible.
+
+# Quest: Radial Performance Engine
+betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.name=Radial Performance Engine
+betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.desc=The §3Radial Performance Engine§r is a combustion generator that converts liquid fuels into electrical power. It requires a minimum of §e3§r §6Combustion Engine Pistons§r to run, with up to §e9§r installed in its piston slots. Additional pistons increase both power output and fuel consumption linearly.%n%nThe engine accepts fuels of varying grades at different efficiency rates. §bHeating Oil§r and §bIndustrial Oil§r burn at §e75%%§r efficiency, §bPetroil§r at §e50%%§r, and §bDiesel§r and §bGasoline§r at §e25%%§r. Aviation fuels and gaseous fuels are not compatible. Power is output from the bottom face, and the engine stores up to §e250 kHE§r internally, or §e2.5 MHE§r when running §bNITAN§r.%n%nHowever, the engine is most efficient with the heaviest, least-refined feedstocks. Lighter refined fuels produce less power per mB despite their higher grade.%n%n§2The listed efficiency is a multiplier on each fuel's base combustion energy. Higher-grade fuels may have higher base energy, so check the HE/t display in the GUI before settling on a fuel.
 
 # Quest: Hazards
 betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.name=Hazards

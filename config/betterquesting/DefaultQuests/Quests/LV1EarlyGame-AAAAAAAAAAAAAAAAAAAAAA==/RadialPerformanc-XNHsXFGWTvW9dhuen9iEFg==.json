@@ -1,0 +1,60 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 19
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 37,
+      "type:1": 1
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §3Radial Performance Engine§r is a combustion generator that converts liquid fuels into electrical power. It requires a minimum of §e3§r §6Combustion Engine Pistons§r to run, with up to §e9§r installed in its piston slots. Additional pistons increase both power output and fuel consumption linearly.\n\nThe engine accepts fuels of varying grades at different efficiency rates. §bHeating Oil§r and §bIndustrial Oil§r burn at §e75%§r efficiency, §bPetroil§r at §e50%§r, and §bDiesel§r and §bGasoline§r at §e25%§r. Aviation fuels and gaseous fuels are not compatible. Power is output from the bottom face, and the engine stores up to §e250 kHE§r internally, or §e2.5 MHE§r when running §bNITAN§r.\n\nHowever, the engine is most efficient with the heaviest, least-refined feedstocks. Lighter refined fuels produce less power per mB despite their higher grade.\n\n§2The listed efficiency is a multiplier on each fuel\u0027s base combustion energy. Higher-grade fuels may have higher base energy, so check the HE/t display in the GUI before settling on a fuel.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "hbm:tile.machine_selenium"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Radial Performance Engine",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6688386802871848693,
+  "questIDLow:4": -4794614385188764650,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.machine_selenium"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

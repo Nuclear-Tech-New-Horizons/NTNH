@@ -1,51 +1,13 @@
 ### Quest Lines ###
 
 
-## Quest Line: And So, It Begins...
-betterquesting.questline.jCQKXnirTEiarv2p82j6pA.name=And So, It Begins...
-betterquesting.questline.jCQKXnirTEiarv2p82j6pA.desc=Introduction to this huge modpack!
-
-# Quest: A Feast of Variety
-betterquesting.quest.XGormKIQQp--gquphvky7A.name=A Feast of Variety
-betterquesting.quest.XGormKIQQp--gquphvky7A.desc=§cImportant!§r In this modpack, you get hungry much faster than in vanilla Minecraft - and you can't survive on the same food forever. Eating nothing but carrots (or any single food) won't cut it!%n%nInstead,§a §lvariety is your lifeline§r. The more diverse your diet - trying new ingredients and unique dishes - the more your §lmaximum health will increase§r. On the flip side, eating the same foods over and over reduces your saturation and holds you back.%n%n§lFarming is the foundation of survival.%n§rUse an iron hoe or better to till soil near water, creating fertile farmland where you can grow crops. You can obtain seeds by right-clicking grass blocks with a hoe. Thanks to §lPam's HarvestCraft§r, you'll have access to dozens of new crops and delicious, nutritious recipes—from humble vegetables to gourmet meals.%n%nKeep track of your culinary journey with the §r§lFood Book§r (crafted with a book and a carrot). It shows which foods you've eaten and which ones you should try next to keep your diet balanced.%n%nDon't forget your §lLunch Bag (or Lunchbox)§r!  %nFill it with a variety of meals, close it (Shift + Right-Click), and it will automatically feed you the right foods at the right time—perfect for maintaining a healthy, diverse diet on the go.%n%n§lDiversify your meals to thrive!§r The wider your menu, the stronger you become.
-
-# Quest: Give Me My Hand Back!
-betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.name=Give Me My Hand Back!
-betterquesting.quest.bdIdyx_EQoGkmzGhBgl3zA.desc=Backhand backports minecraft's off-hand. Use your off-hand to hold torches, or even food while mining. 
-
-# Quest: Help Me Find It!
-betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.name=Help Me Find It!
-betterquesting.quest.dvmi7P5lR_SwH0PtXJZNMw.desc=FindIt allows one to find any item stored in their storage area. Hover over the item of choice in NEI and press T. The container will become outlined.
-
-# Quest: Numbers in the Corner?
-betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.name=Numbers in the Corner?
-betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.desc=What's with the numbers in the corner? That is the In-Game Info (IGI) mod. Some of the info it gives is useful right away, some of it shines later on in progression.%n%nIf you want to hide it, type "/igi disable" in the chat. Type "/igi enable" if you want to turn it back on.%n%nThe command "/igi config" opens the configuration window to control its position, scale, and size.%n%nIf you need suggestions on solving TPS problems, feel free to ask for help in the NTNH Discord.
-
-# Quest: Blood Moon
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Blood Moon
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=RandomThings adds Blood Moons, semi-rare events where mob spawning is increased and the player cant sleep. Blood Moons can be quite useful, if one is prepared, as rare mob drops such as Launch Codes and Geiger Counters can be obtained early on.
-
-# Quest: §LLet's Start our Journey!
-betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.name=§LLet's Start our Journey!
-betterquesting.quest.xTzNKN1lRzyKZaKxmZHGNQ.desc=§8*go to the LV1 - Early Game questline*
-
-
-## Quest Line: Tips and Tricks
-betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.name=Tips and Tricks
-betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.desc=Tips and Tricks. It does what it says.
-
-# Quest: Infinite Water Sources
-betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=Infinite Water Sources
-betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Tired of using buckets to give water to your machines? Try using water pumps or infinite water tanks!%n%nInfinite Water Tank will give 50mb/t%nEnhanced Infinite Water Tank will give 500mb/t%nPump will give 1000mb/t but requires steam to operate.
-
-
 ## Quest Line: LV1 - Early Game
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=LV1 - Early Game
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=This is the beginning of HBM's Nuclear Tech mod. In this chapter you will learn about the basic mechanics of the mod, aswell as tips and tricks to help you progress.
 
 # Quest: Storage Drawers
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity aswell as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity as well as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
 
 # Quest: You WILL eat ze bugs!
 betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=You WILL eat ze bugs!
@@ -59,13 +21,21 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=The §3Stirling Engine§r uses 
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Surbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
 
+# Quest: Abandoned Structures
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Abandoned Structures
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Structures generate throughout the world and are among the best sources of early-game resources. Raiding them before investing heavily in production can save significant time and materials.%n%nThe quests in this chapter cover the structures you are most likely to encounter and what they offer.%n%n§2Exploration pays off early - check your surroundings before grinding for resources you might find for free.§r
+
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
 
+# Quest: Stone Age
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Stone Age
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Welcome to the Stone Age. This stage covers the essential survival mechanics you will need to progress, as well as several changes made to vanilla Minecraft that affect how you play from the very beginning.%n%nWork through the quests in this chapter to get up to speed before moving on.%n%n§2Complete these quests before progressing - later stages assume you know this material.§r
+
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers —%nwood through diamond — and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.%n§2Check JEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.%n§2Check JEI for the full crushing chain of any block.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Cable Network Analysis Tool
@@ -83,21 +53,13 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz S
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
 
-# Quest: NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.name=NTM: Introduction
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAQ.desc=This is the begining of the tech tree of §dHBM's Nuclear Tech Mod§r. Before proceeding it is recommended that you stock up on materials such as §6Iron§r, §6Coal§r, §6Copper§r and §6Redstone§r.%n%nBut before that you have to make your first tools made of flint (wooden tools are no workie anymore).%n%n§a§2Some advanced machinery can be obtained by salvaging them from structures scattered across the world, such as Centrifuges from abandoned nuclear powerplants found in deserts, or by rare mob drops such as a Geiger Counter.%n%nMartian Mode is also available in the world creation screen.
-
-# Quest: Template Folder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.name=Template Folder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAg.desc=The §6Template Folder§r is an item that will allow one to create schematics for crafting purposes. The first thing one creates with it are §6Molds§r needed in the §3Burner Press§r. Simply make a §6Flat Stamp§r out of any available material and then select the specific mold from the template folder.
-
 # Quest: Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r are a tiered crafting station that allows for the creation of various machines, structures, and items in some cases. There are multiple tiers of anvils with greater anvil tier primarily corresponding to a greater quantity of recipes being available.
 
 # Quest: Burner Press
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Burner Press
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r and a §6Template Folder§r. %n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r on the §6Iron Anvil§r.%n%n§2A preheater can be placed next to the Burner Press to increase its speed.
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Blast Furnace
@@ -105,7 +67,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a so
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.%n%n§2String can be easily obtained by harvesting Hemp, found in the wild.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.%n%n§2String can be easily obtained by harvesting Hemp, found in the wild.%n%n§rI hate to say it, but you are basically sniffing your own piss...
 
 # Quest: Hazmat Suits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=Hazmat Suits
@@ -113,15 +75,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r provide prot
 
 # Quest: Energy Cables
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.%n%nFor better looking, aswell as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.%n%nFor better looking, as well as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.%n%n
 
 # Quest: Pollution Detector
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Pollution Detector
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=The §6Pollution Detector§r will monitor and show the levels of pollution present in the environment. High levels of pollution will decrease the visibility, give debuffs to the player and buff mobs, including skeletons spawning with firearms.
 
-# Quest: Wood-Burning Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Wood-Burning Generator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=The §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.%n%nBurning logs in the generator produces §e2kHE/s.§r
+# Quest: Electricity
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Electricity
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM's NTM§r is an industrial mod, so you'll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.%n%n§2If the wood-burning generator is not enough, more advanced energy sources can be unlocked on the left side of this questbook, such as the §3Stirling Engine§2, §3Solar Tower Boiler§2, or §3Radial Performance Engine§2.§r
 
 # Quest: Analog Circuit Board
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Analog Circuit Board
@@ -149,7 +111,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=The §3Arc Welder§r is a machi
 
 # Quest: Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
 
 # Quest: Chemical Plant
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Chemical Plant
@@ -162,10 +124,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=The §3Strand Caster§r is a la
 # Quest: High-Speed Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=High-Speed Steel
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=High-speed steel§r is an advanced and specialized form of standard steel. It used in many recipes, such as the §3Oil Derrick§r and the §3Industrial Mixer§r.
-
-# Quest: Oil Resevoir Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.name=Oil Resevoir Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJg.desc=The §6Oil Resevoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Conveyor Belt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=Conveyor Belt
@@ -189,7 +147,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=The §3Boiler§r, when receivin
 
 # Quest: Solar Tower Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Solar Tower Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=The §3Solar Tower Boiler§r is an earlygame machine that can use sunlight from heliostat mirrors to boil water.%n%nThe Solar Tower Boiler gets heat from heliostat mirrors pointed at it. Aiming a mirror at the boiler can be done using the mirror adjustment tool, right-click on the boiler will save its position to the tool, and subsequently clicking on mirrors will aim them at the linked boiler. The maximum range for mirrors is 25 blocks, mirror efficiency does not degrade with range. A boiler consumes 1mB of water for every 12.5 mirrors each tick at full sunlight level, and 100mB of steam per mB of water consumed. However, the water consumption rate is rounded down to the millibucket. Thus it takes 13 mirrors to raise your first 100mB/t of steam, 12 mirrors for the next hundred, then 13, 12, and so on.%n%nAs the heat provided by each mirror is based on sunlight, mirrors with solid blocks above them will not work, and the amount of heat diminishes with the amount of light in the evening until it produces no heat at night.%n%nThe solar tower boiler can only produce regular steam, and thus the liquid type cannot be changed using fluid identifiers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=The §3Solar Tower Boiler§r is an earlygame machine that can use sunlight from heliostat mirrors to boil water and therefore turn i.%n%nThe Solar Tower Boiler gets heat from heliostat mirrors pointed at it. Aiming a mirror at the boiler can be done using the mirror adjustment tool, right-click on the boiler will save its position to the tool, and subsequently clicking on mirrors will aim them at the linked boiler. The maximum range for mirrors is 25 blocks, mirror efficiency does not degrade with range. A boiler consumes 1mB of water for every 12.5 mirrors each tick at full sunlight level, and 100mB of steam per mB of water consumed. However, the water consumption rate is rounded down to the millibucket. Thus it takes 13 mirrors to raise your first 100mB/t of steam, 12 mirrors for the next hundred, then 13, 12, and so on.%n%nAs the heat provided by each mirror is based on sunlight, mirrors with solid blocks above them will not work, and the amount of heat diminishes with the amount of light in the evening until it produces no heat at night.%n%nThe solar tower boiler can only produce regular steam, and thus the liquid type cannot be changed using fluid identifiers.
 
 # Quest: Ammo Press and Guns
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=Ammo Press and Guns
@@ -205,7 +163,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=An upgraded version of the §3A
 
 # Quest: Smokestack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative aswell as in the creation of §6Industrial Fertilizer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.
 
 # Quest: Player Decontaminator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Player Decontaminator
@@ -225,11 +183,27 @@ betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Barrels§r are storage block
 
 # Quest: Sieving
 betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Sieving
-betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.%n%nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.%n%nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r — unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.%n%n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.%n§2The Sieve can be automated with any machine that simulates a right-click.
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.%n%nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.%n%nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r - unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.%n%n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.%n§2The Sieve can be automated with any machine that simulates a right-click.
 
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=The §6Charm of Protection§r diverts meteorites away from the player and prevents them from destoying blocks. It is recommended that one is obtained as soon as possible as to prevent costly damages in the future.
+
+# Quest: Diesel Generator
+betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.name=Diesel Generator
+betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.desc=The §3Diesel Generator§r is a compact, single-block generator that burns liquid fuels to produce energy. Its small footprint and compatibility with common oil-processing byproducts make it a strong choice for early- and mid-game power.%n%nIt holds up to §b4,000 mB§r of fluid internally, consumed at a steady rate of §e20 mB/s§r. It also carries a §e50 kHE§r energy buffer - but combustion does not pause when the buffer is full, so any excess energy is wasted. To avoid this, ensure your machines are drawing power consistently.%n%nFuel can be supplied via fluid ducts or by placing barrels in the internal item slots. A §6Fluid Identifier§r can be inserted to lock the accepted fuel type. Not all fuels are equal - effectiveness varies by grade: medium-grade fuels run at §e50%%%%§r efficiency, high-grade at §e75%%§r, and aviation fuels at just §e10%%§r. Low-grade and gaseous fuels are rejected entirely.%n%n§2Tip: High-grade fuels like diesel, gasoline, and biofuel get the best return - prioritize refining your oil into these where possible.§r
+
+# Quest: Wood-Burning Generator
+betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=Wood-Burning Generator
+betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=The §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.%n%nBurning logs in the generator produces §e2kHE/s.§r
+
+# Quest: Flint Tools
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Flint Tools
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Flint Tools are required to obtain first wood and stone. To get some sticks, break some tree leaves.
+
+# Quest: Hunger System
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Hunger System
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r makes hunger a genuine threat rather than a mild inconvenience.%n%nHunger now drains passively over time, even while idle. Reaching zero kills you instantly. Low hunger inflicts slowness, weakness, and reduced mining speed before that point. Eating grants a §6Well Fed§r effect that boosts health regeneration - the larger the meal, the longer it lasts.%n%nFood values are re-balanced by meal size. Raw ingredients restore very little; prepared meals restore substantially more. Larger meals take longer to eat and stack less in your inventory.%n%nCrops only grow during daytime and take much longer to mature. Wood and stone hoes are removed - you need at least an iron hoe to till soil. Farmland must be placed adjacent to water or it will not function.%n%n§dSpice of Life: Carrot Edition§r rewards dietary variety. Each unique food eaten for the first time permanently increases your maximum health. Eating the same food repeatedly provides no bonus.%n%n§2The more diverse your diet, the more hearts you have - build a varied farm as early as possible.§r
 
 # Quest: Nature's Compass
 betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.name=Nature's Compass
@@ -263,6 +237,10 @@ betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.desc=The §3HE to RF Converter§r wi
 betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.name=Multi Fluid Identifier
 betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=The §6Multi Fluid Identifier§r is used to select the type of fluid one needs. Shift-Click while holding it to select a fluid.
 
+# Quest: Known Issues
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Known Issues
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a §6F§9E§aA§bT§cU§dR§eE§r!
+
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.desc=§cNTNH§r is a modular modpack, so you are free to add/remove/modify config/mods if it works!%n%n§dNTM§r offers a very modular config file, which also comes with additional modes one can activate. These can be enabled in the hbm.cfg file.%n%n§2Expensive Mode§r makes everything more expensive by requiring not only more resourses, but also new components. The quest book will not reflect the changes in progression if its enabled.%n%n§2528 Mode§r introduces gates in the form of templates which are unlocked by destroying a certain amount of items in an §3Annihilator§r. Additionally, some items, mainly circuits, are percentage based now to be crafted. Along with that, theres also more changes that make the game harder, such as §6Tantalum§r generating in a certain area, landmines spawning more frequently and all §dAE2§r blocks §4EXPLODE§r when used.%n%nMany recycling probabilities of the §3Precision Assembler§r are massively lowered with expensive mode enabled, increasing effective cost massively.%n%n§2Rampant Mode§r makes glyphids a very big threat as pollution now makes them way stronger and more aggresive. New more destructive types of glyphids will also become more common. If high enough pollution has been reached, glyphid scouts can spawn passively, which makes automated defense systems necessary as to prevent new hives from being created.%n%n§2For modes with recipe changes, the modpack's recipes have to be inserted again after a new hbmrecipes folder has been created and modes enabled.§r %n
@@ -279,9 +257,25 @@ betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.desc=The §6Packing Tape§r allows o
 betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.name=Cladding
 betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Cladding§r is one of the most important armor modifications which reduce radiation intake. It can be inserted to all armor pieces.
 
+# Quest: Ore Generation System
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Ore Generation System
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n%nCurrent ore generation tables:%n%nOverworld (Earth/Kerbin): [url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?usp=sharing[/url]%n%nOther Planets: [url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?usp=sharing[/url]
+
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Dosimeter
-betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.desc=The §6Dosimeter§r is an instrument for detecting radiation and assessing radioactive contamination.%n%nIt is functionally similar to a §6Geiger Counter§r, but it collects much less data - only the general radiation contamination of the environment. Only a handheld version of the dosimeter is available. To obtain radiation information, right-click while holding the dosimeter.%n%nLike a counter, it makes a characteristic crackling sound when radiation is detected.%n%n§2The maximum radiation displayed is 3.6 RAD/S.%n%nNot great, not terrible.
+betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.desc=The §6Dosimeter§r is an tool for detecting radiation and assessing radioactive contamination.%n%nIt is functionally similar to a §6Geiger Counter§r, but it collects much less data - only the general radiation contamination of the environment. Only a handheld version of the dosimeter is available. To obtain radiation information, right-click while holding the dosimeter.%n%nLike a counter, it makes a characteristic crackling sound when radiation is detected.%n%n§2The maximum radiation displayed is 3.6 RAD/S.%n%nNot great, not terrible.
+
+# Quest: Radial Performance Engine
+betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.name=Radial Performance Engine
+betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.desc=The §3Radial Performance Engine§r is a combustion generator that converts liquid fuels into electrical power. It requires a minimum of §e3§r §6Combustion Engine Pistons§r to run, with up to §e9§r installed in its piston slots. Additional pistons increase both power output and fuel consumption linearly.%n%nThe engine accepts fuels of varying grades at different efficiency rates. §bHeating Oil§r and §bIndustrial Oil§r burn at §e75%%§r efficiency, §bPetroil§r at §e50%%§r, and §bDiesel§r and §bGasoline§r at §e25%%§r. Aviation fuels and gaseous fuels are not compatible. Power is output from the bottom face, and the engine stores up to §e250 kHE§r internally, or §e2.5 MHE§r when running §bNITAN§r.%n%nHowever, the engine is most efficient with the heaviest, least-refined feedstocks. Lighter refined fuels produce less power per mB despite their higher grade.%n%n§2The listed efficiency is a multiplier on each fuel's base combustion energy. Higher-grade fuels may have higher base energy, so check the HE/t display in the GUI before settling on a fuel.
+
+# Quest: Hazards
+betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.name=Hazards
+betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.desc=This mod adds several environmental hazards that will kill you if ignored.%n%n§6Radiation§r is measured in RAD. Effects begin at §e200 RAD§r and worsen steadily - instant death occurs at §c1000 RAD§r. Use a §6Geiger Counter§r to monitor your dose. Radiation-resistant armor and §6Rad-X§r reduce incoming RAD; a §3Player Decontaminator§r or §6Antirads§r remove accumulated dose.%n%n§lMesothelioma§r develops from asbestos exposure. Items tagged §c[Contains Asbestos]§r and certain blocks like Chrysotile release asbestos particles. Progresses to death if untreated.%n%n§lBlack Lung§r develops from coal dust exposure. Mining coal ore and carrying items tagged §c[Coal Dust]§r are the main sources. Also fatal.%n%nA gas mask protects against both mesothelioma and black lung simultaneously. Both diseases are cured by §6SIOX Cancer Medication§r or, early-game, §6Herbal Paste§r - the latter being weaker and carrying side effects.
+
+# Quest: Agriculture and Farming
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Agriculture and Farming
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
 
 # Quest: Stirling Sawmill
 betterquesting.quest._qJt02i4ST2iccmkHudKCg.name=Stirling Sawmill
@@ -291,6 +285,10 @@ betterquesting.quest._qJt02i4ST2iccmkHudKCg.desc=The §3Stirling Sawmill§r uses
 betterquesting.quest.bKzHBx2ZTBWFD1BGHBfHWg.name=Chainsaw
 betterquesting.quest.bKzHBx2ZTBWFD1BGHBfHWg.desc=§l§c§lPainsaw.§r%n%nAlthough the §6Chainsaw§r is similar in functionality to the §6axe§r, its arsenal is much broader. By default, the saw simply mines blocks, but it also has two additional operating modes: §eSilk Touch§r and §eVein Miner (5)§r.%n%nIt runs on many types of §bliquid fuel§r (see the item description for a list). Mining one block consumes 1 mB§r of fuel.%n%nBesides its primary purpose, the Chainsaw can also serve as a decent melee weapon, as it deals significant damage and has modifiers: §ePainsaw§r and §eDecapitator§r.
 
+# Quest: Strawberry Ice Cream
+betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.name=Strawberry Ice Cream
+betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Imagine using the same chemical plant for sulfuric acid AND strawberry ice cream production...
+
 # Quest: Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.name=Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3Heating Oven§r are machines capable of producing heat (§eTU§r) from solid fuels for any machines that require heat to operate.%n%nBoth machines are similar in operation. In order for them to transfer heat, another machine for receiving the heat must be placed on top, such that the copper heat plate on the receiving machine sits on top of the copper heat plate of the heat producing machine.%n%nOnce constructed, these machines can be filled with solid fuel, which will burn until either the fuel runs out, or the heat buffer is filled. No fuel will be consumed if its buffer is full — as such, both machines are fairly efficient at conserving fuel.%n%nThe primary difference in these two machines lie in their speed: the firebox burns fuel much slower at full efficiency, whilst the heating oven produces five time the heat (but eight times faster). Despite its inefficiency, the heating oven is often preferred for its much higher heat outputs and heat capacity. However, it cannot heat a stirling engine, as its base output (500 TU/t) will automatically over-speed the engine; the heavy stirling engine does not have this issue.%n%nAdditionally, the heating oven can receive heat from other heat producing machines placed underneath it: multiple can be stacked for heat-hungry machines like the crucible. The heat received, however, is halved when transferring to the machine above.
@@ -299,9 +297,13 @@ betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3He
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.desc=Now, as you have a better anvil, you can start §erecycling§r some stuff you may found in dungeons.
 
-# Quest: Additional Fluid Tools
-betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Additional Fluid Tools
-betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+# Quest: NOT FOR CASUALS
+betterquesting.quest.dvDFzAjEQVucAjcynrfkhA.name=NOT FOR CASUALS
+betterquesting.quest.dvDFzAjEQVucAjcynrfkhA.desc=This modpack is §cHARD§r and constantly get updates, so be ready to get your ass beaten.
+
+# Quest: Numbers in the Corner?
+betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.name=Numbers in the Corner?
+betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.desc=What's with the §6numbers in the corner§r? That is the §dIn-Game Info (IGI)§r mod. Some of the info it gives is useful right away, some of it shines later on in progression.%n%nIf you want to hide it, type "§6/igi disable§r"§r in the chat. Type "§6/igi enable§r" if you want to turn it back on.%n%nThe command "§6/igi config§r" opens the configuration window to control its position, scale, and size.%n%nIf you need suggestions on solving TPS/FPS problems, feel free to ask for help in the NTNH Discord.
 
 # Quest: Dairy Processing Tank
 betterquesting.quest.fkSdZg90QZ6gAvDWMSZbbQ.name=Dairy Processing Tank
@@ -319,13 +321,41 @@ betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.desc=Tired of using buckets to give 
 betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Compressor
 betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=The §3Compressor§r is a specialized multiblock machine for compressing fluids. It can perform this operation on any fluid to increase its pressure, for use in other machines. Some of these fluids are compressed into different fluids entirely as special recipes for this machine.
 
+# Quest: Earth? Fake news
+betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=Earth? Fake news
+betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=This modpack makes it possible to complete the entire game in §6Martian mode§r! If you notice any gaps in the progression or logic, please post in the #help channel on the NTNH Discord server.
+
+# Quest: Oily Sand
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Oily Sand
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r.%n%n§2Oily Sand patches are the most reliable way to locate Bedrock Oil without digging blindly.§r
+
+# Quest: Highway To Hell
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Highway To Hell
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6The Nether§r is §c§lACTUALLY HOT§r causing your skin to burn.%n%n§6Fire Proximity Armor Set§r is essential for your first Nerther trip, as it protects you from burning fire.
+
+# Quest: Blood Moon
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Blood Moon
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=§dRandomThings§r adds §cBlood Moons§r, semi-rare events where mob spawning is increased and the player cant sleep. Blood Moons can be quite useful, if one is prepared, as rare mob drops such as §6Launch Codes§r and §6Geiger Counters§r can be obtained early on.
+
+# Quest: The Actual Beginning
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.name=The Actual Beginning
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=Now you are ready to fully begin your journey in this modpack! Happy gaming!
+
 # Quest: Pneumatic Pipes
 betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.name=Pneumatic Pipes
 betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an instant form of item transportation which can cover large distances. The pipes must have a compressed gas inside them to work.%n%nA §6Screwdriver§r is needed to create a connection, and right clicking on the connection with a fluid id will set the gasseous fluid it will use.
 
 # Quest: Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r. 
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
+
+# Quest: Useful Tools and Techniques
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Useful Tools and Techniques
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=§dFindIt§r is a utility mod that helps you locate items stored across your base. Hover over any item in your inventory or §dNEI§r and press §6T§r to highlight every container holding that item.%n%nYou can also check where do mobs spawn by pressing §6F7§r.
+
+# Quest: From Flint to Oil
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=The §6Oil Reservoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Long Distance Energy Transportation
 betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.name=Long Distance Energy Transportation
@@ -370,7 +400,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor 
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs aswell as fast swimming speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs as well as fast swimming speed.
 
 # Quest: Antimatter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=Antimatter
@@ -446,7 +476,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=The §3Auxiliary Cooling Tower�
 
 # Quest: Refinery Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Refinery Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Oil products can be combusted or burnt to produce massive amounts of energy.%n%nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.%n%nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%%§r power efficiency. Be careful not to stand infront of it while its operational!%n%nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.%n%nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, aswell as dealing with excess fluids.%n%nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.%n%nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Oil products can be combusted or burnt to produce massive amounts of energy.%n%nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.%n%nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%%§r power efficiency. Be careful not to stand infront of it while its operational!%n%nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.%n%nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, as well as dealing with excess fluids.%n%nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.%n%nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.
 
 # Quest: Pumpjack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Pumpjack
@@ -639,7 +669,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.desc=The §3Pyrolysis Oven§r is a m
 
 # Quest: Reformate Gas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name=Reformate Gas
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=§bReformate Gas§r is used in welding very durable materials, aswell as used in making §6Saturnite§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=§bReformate Gas§r is used in welding very durable materials, as well as used in making §6Saturnite§r.
 
 # Quest: FEL and SILEX
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.name=FEL and SILEX
@@ -683,7 +713,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.desc=The §3Cooling Tower§r is a la
 
 # Quest: Ionized Particles
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.name=Ionized Particles
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=§6Ionized Particles§r are the main product of the §3Fusion Reactor§r and are used in making §6Ferric Scrabidate§r, aswell as some particle capsules needed in the §3Particle Accelerator§r.%n%n§2Ionized Particles can be infinitely produced by utilizing Ionic Gel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=§6Ionized Particles§r are the main product of the §3Fusion Reactor§r and are used in making §6Ferric Scrabidate§r, as well as some particle capsules needed in the §3Particle Accelerator§r.%n%n§2Ionized Particles can be infinitely produced by utilizing Ionic Gel.
 
 # Quest: HEV Mark IV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=HEV Mark IV
@@ -743,7 +773,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=§6Crystalline Fullerite§r is 
 
 # Quest: High-Performance Solvent
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=High-Performance Solvent
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, aswell as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.%n%nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.%n%n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, as well as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.%n%nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.%n%n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.%n
 
 # Quest: Radiation-Powered Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.name=Radiation-Powered Engine
@@ -1176,6 +1206,15 @@ betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.name=Welded Osmiridium Plate
 betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r cost 300 Billion §eHE§r to produce, so good energy generation and storage infrastructure is needed.
 
 
+## Quest Line: Tips and Tricks
+betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.name=Tips and Tricks
+betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.desc=Tips and Tricks. It does what it says.
+
+# Quest: Infinite Water Sources
+betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=Infinite Water Sources
+betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Tired of using buckets to give water to your machines? Try using water pumps or infinite water tanks!%n%nInfinite Water Tank will give 50mb/t%nEnhanced Infinite Water Tank will give 500mb/t%nPump will give 1000mb/t but requires steam to operate.
+
+
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Improve your builds by using Chisel, Architecturecraft and Better Builder's Wands.
@@ -1211,47 +1250,6 @@ betterquesting.quest.p7NNm2NvRgWz37LQO6yraw.desc=§dArchitectureCraft§r introdu
 # Quest: Sign Pictures
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.name=Sign Pictures
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=The §dSignPicture§r mod allows one to put any image on a sign, opening the door to many unique building designs. Press \ to get started.
-
-
-## Quest Line: Dimensional Adventures
-betterquesting.questline.IvOaHFdvTem9AKGdPDgBaA.name=Dimensional Adventures
-betterquesting.questline.IvOaHFdvTem9AKGdPDgBaA.desc=No Description
-
-# Quest: Void Quartz
-betterquesting.quest.-WMTfvUrRlmEzH7hBIzMfg.name=Void Quartz
-betterquesting.quest.-WMTfvUrRlmEzH7hBIzMfg.desc=Another type of quartz, called Void Quartz, can be found in the Abyss biome. It’s easy to spot thanks to the dark surroundings. Void Quartz is an essential material used in crafting advanced storage cells in AE2.
-
-# Quest: Burning Stick
-betterquesting.quest.2uw1IrVfTVKt_7dxdEsNOQ.name=Burning Stick
-betterquesting.quest.2uw1IrVfTVKt_7dxdEsNOQ.desc=Ouch! Ouch! Hot!%n%nThe Blaze Rod is a vital material for reaching the End. It drops, of course, from Blazes — but be careful! They always spawn infernal, so prepare for a tough fight.
-
-# Quest: The Nether
-betterquesting.quest.DgW8bQi1TbSrKcPoJms-1g.name=The Nether
-betterquesting.quest.DgW8bQi1TbSrKcPoJms-1g.desc=§eThe Nether§r is home to many resourses, such as:%n%n§6Quartz§r§r which can be used for §6Silicon§r.%n§6Infernal Coal§r which can be shredded for §6Coal Powder§r.%n§6Sulfur§r needed for various chemical processes.%n§6Red Phosphorus§r for incendiary weaponry.%n§6Glowstone§r for early §bChlorine Gas§r in a §3Combination Oven§r.%n§6Cobalt§r can also be rarely found near the Nether Roof.%n%nThe Nether has a backround radiation of §e0.1RAD/s§r.§r%n%n§cYou will burn in Nether permanently.%n%n§2Glowstone, Quartz and Phosphorus Bedrock Ore Deposits also exist.§r%n%n§2Depth Neodymium Deposits also spawn exclusively in the Nether.§r %n
-
-# Quest: Piglins?
-betterquesting.quest.JfANYrzhQKCVY4ATmF-Tsg.name=Piglins?
-betterquesting.quest.JfANYrzhQKCVY4ATmF-Tsg.desc=Hey, say hello to the piglins of 1.14! I think you know who they are.%n%nIf not, then listen up. Piglins are very similar to zombie pigmen, but they will be aggressive towards you if you don't have gold armor on you (that is, they will be aggressive towards you ALWAYS, because I don't know how you'll survive in hell wearing gold armor). Also, if you throw them a gold bar, they'll be willing to trade it for something else.
-
-# Quest: Hellish Beauties
-betterquesting.quest.LendIsa-Q2ugsj2GWM_D6Q.name=Hellish Beauties
-betterquesting.quest.LendIsa-Q2ugsj2GWM_D6Q.desc=Crystals can be mined in the Crystal Biome. (Obviously.) They are mainly used to craft advanced Applied Energistics 2 storage cells, as well as some other less useful crafts, such as Crystal Lamps or Crystal Glasses.
-
-# Quest: Crystal Clear Production
-betterquesting.quest.XU2nsU1wQFG85rsSxuTPqA.name=Crystal Clear Production
-betterquesting.quest.XU2nsU1wQFG85rsSxuTPqA.desc=You've already mined the Nether Crystals, but they can't be recrafted into Crystal Shards. Instead, all you need to do is pour water near the block — it will then transform into a Budding Nether Crystal. This structure will begin growing Crystal Buds in all directions, which will eventually develop into a Crystal Flower (the final stage). Once fully grown, you can safely break the flower to obtain the Shards needed for AE2.
-
-# Quest: Efrine
-betterquesting.quest.dsZj1Tv8Se6m5E8R2_e49Q.name=Efrine
-betterquesting.quest.dsZj1Tv8Se6m5E8R2_e49Q.desc=Stange material. Feels cold and soft, like plasticine. Anything made from this material does not burn, and the armor gives you fire resistance.
-
-# Quest: Darkness in Powder Form
-betterquesting.quest.rIM_8imCQdyHqdA2ih4brQ.name=Darkness in Powder Form
-betterquesting.quest.rIM_8imCQdyHqdA2ih4brQ.desc=An alternative to Glowstone can be found in the Nether, called Gloomstone. It generates in special biomes and is required for certain AE2 crafting recipes.
-
-# Quest: New End
-betterquesting.quest.vQm4mFhbRsS8yjm9DkDAUw.name=New End
-betterquesting.quest.vQm4mFhbRsS8yjm9DkDAUw.desc=§eThe End§r is home to §6Trixite§r, a unique extraterrestrial mineral that when processed can yield §6Plutonium§r, §6Cobalt§r and §6Niobium§r. The Niobium is of great interest as it is a great source for early §3Catalytic Cracking Towers§r.%n%nDue to only the main end island existing, Trixite Ore is a limited resourse.§r Trixite Crystals can also be obtained from an §6Asteroid Mining Ship§r, but it is not recommended.%n%n§dEt Futurum Requiem§r backports many modern end features, such as §eChorus Fruit§r, §eShulkers§r and a respawnable §eEnder Dragon§r using §6End Crystals§r.%n%nThe §6Dragon Egg§r can also be used to create a Backpack which provides passive §eNight Vision§r, §eStrength 2§r and §eFire resistance§r, aswell as some §eRegeneration§r when on low health.%n%nEnderman farms can also be made using §3Fans§r to push the endermen into the killing zone.
 
 
 ## Quest Line: Three hundred caps
@@ -1326,7 +1324,7 @@ betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.desc=§3Spatial IO§r is a way to cu
 
 # Quest: AE2 Changes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.name=AE2 Changes
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=In this modpack, §dApplied Energistics 2§r has been changed to fit in more with §dNTM§r. Many components have been changed to include NTM materials and some machines, like the §3Grinder§r and §3Inscriber§r, have had their functions moved to the §3Shredder§r and §3Press§r. The meteors have also been removed, but §6Skystone§r can still be crafted for building purposes.%n%nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.%n%n[url]https://ftbwiki.org/Applied_Energistics_2[/url]%n%n§2NTM fluids dont work with AE2.%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=In this modpack, §dApplied Energistics 2§r has been changed to fit in more with §dNTM§r. Many components have been changed to include NTM materials and some machines, like the §3Grinder§r and §3Inscriber§r, have had their functions moved to the §3Shredder§r and §3Press§r. The meteors have also been removed, but §6Skystone§r can still be crafted for building purposes.%n%nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.%n%n[url]https://ftbwiki.org/Applied_Energistics_2[/url]
 
 # Quest: Certus Quartz Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=Certus Quartz Crystal
@@ -1634,21 +1632,17 @@ betterquesting.quest.gLK6mwA4ShOoVbZQZlM94w.desc=Nobody knows who they are, or w
 betterquesting.quest.hGvVPGL0SHmF0FpB4r600A.name=Time to Kill (Squid)
 betterquesting.quest.hGvVPGL0SHmF0FpB4r600A.desc=Delicious squid. We're making Tom Yum seafood.
 
-# Quest: Time to Kill (Lava Monster)
-betterquesting.quest.j47Jd0IkTF66kI1LQHtDNA.name=Time to Kill (Lava Monster)
-betterquesting.quest.j47Jd0IkTF66kI1LQHtDNA.desc=They are everywhere where there is lava and they shoot at you with fireballs. %nFrom the air with a bow and arrow or a gun they're easy targets.%n%n[note]PS: you can find many of them on Moho.[/note]
-
 # Quest: Time to Kill (Ghast)
 betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.name=Time to Kill (Ghast)
 betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.desc=They shoot you with explosive fireballs but they are weak when you hit them or knock the fireballs back with a weapon. Better upgrade your armor with fire and blast protection.
 
 # Quest: Time to Kill (Enderman)
 betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.name=Time to Kill (Enderman)
-betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You need them. All of them. Now!%n%n[note]PS: Top is regular enderman, bottom is special mob's version. Complete one set. Blame SM for their method of creating new endermen types for this. HEE ones like angry don't count.[/note]
+betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You need them. All of them. Now!
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. 
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Time to Kill (Silverfish)
@@ -1671,15 +1665,11 @@ betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Dyson Swarms§r consist of t
 
 # Quest: Quests information
 betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Quests information
-betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, aswell as the official NTM Wiki for providing information used in the quests.%n
+betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.%n
 
 # Quest: Modpack information
 betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Modpack information
 betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.desc=§cWelcome to Nuclear Tech: New Horizons!§r%n%nPlease read the following information before starting out.%n%n§b1) Remember to Claim your base and Chunkload your reactors using Server Utilities (from the inventory).%n%n2) If shaders are glitching out try to use fancy textures.%n%n3) If you are encountering any rendering problems, try to scroll around in NEI.%n%n4) If you are playing with friends, make sure to invite them in your BetterQuesting Party as to share progression and rewards.%n
-
-# Quest: The End Resources
-betterquesting.quest.5kMp0VQpS621jGrQSHbZGQ.name=The End Resources
-betterquesting.quest.5kMp0VQpS621jGrQSHbZGQ.desc=The End is where you'll find the resources you need for high-level crafting. To get it, craft an Eye of Ender like you would in regular Minecraft to find a fortress with an End Portal.%n%nThe dragon boss fight has been reworked and is now a much more challenging encounter with new obstacles to overcome before defeating the dragon.%n%nIn the End, you can collect Dragon Essence by killing the dragon, Ender Powder from ore scattered across the islands, and Stardust found in the far reaches of the distant End Islands.
 
 # Quest: Dyson Anatmogenesis Terraformer
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.name=Dyson Anatmogenesis Terraformer
@@ -1691,7 +1681,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Glyphids§r are large insect
 
 # Quest: Useful Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Useful Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=There are many tools which will help you progress through the mod, the most important ones being:%n%n§6Tungsten Reachers§r, which reduce the radiation the player gets exposed to from items in their inventory, aswell as allowing them to hold some very hot items.%n%nThe §6Crowbar§r, which is used to open crates for loot such as food and ammunition found in various structures.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=There are many tools which will help you progress through the mod, the most important ones being:%n%n§6Tungsten Reachers§r, which reduce the radiation the player gets exposed to from items in their inventory, as well as allowing them to hold some very hot items.%n%nThe §6Crowbar§r, which is used to open crates for loot such as food and ammunition found in various structures.
 
 # Quest: Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Tantalium
@@ -1701,21 +1691,17 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material n
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=The §6Red Key§r is able to open any container that requires a regular key, regardless of the pin configuration of the lock, and it is one of the only two keys capable of opening the keyhole found on strange stone, in order to open a §eRed Room§r. The key has no durability, and can be reused indefinitely.%n%n
 
-# Quest: Ore generation
-betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.name=Ore generation
-betterquesting.quest.VfrW5Sb0Tkiy1tga4Q5wag.desc=§4[warn]Ore generation in NT:NH has been changed.[/warn]%n%n§fОre is now generated in a more realistic manner in veins and strata. It is also distributed across biomes and in order to get a specific ore, you will have to travel. For more information on which biomes, at what altitude, and how often ore is found, see the table below.%n%n§6English version: §9%n[url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?gid=1716778763#gid=1716778763[/url]%n[url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?gid=1059351263#gid=1059351263[/url]%n%n§f§6Russian version: §*§9%n[url]https://docs.google.com/spreadsheets/d/1XbuwxSowueN8-ziliHIomzp3VDNsibHy5jMUVeSAFY8/edit?usp=sharing[url]%n[/url]https://docs.google.com/spreadsheets/d/1TaNiTfIwLop8hyBH6kX7iJdmxmkeWLH6Ni2T1OidOCg/edit?usp=sharing[/url]
-
 # Quest: Safes and lockpicking
 betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.name=Safes and lockpicking
-betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used to rotate conveyor blocks aswell as to create a §3Chicago Pile§r. It can also be used in combination with §6Bobby Pins§r to unlock §6Safes§r found in various structures.
+betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used to rotate conveyor blocks as well as to create a §3Chicago Pile§r. It can also be used in combination with §6Bobby Pins§r to unlock §6Safes§r found in various structures.
 
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the space stage of the game; now the entire space knows and fears you (you are a true space pirate). Here are a couple more nuances about the §3Dyson swarm§r:%n%n§2Do not place §3converters§r directly next to the §3receiver§r - this will cause a malfunction.§r%n%n§2Multiple players in the same game world can create multiple §3swarms§r, but keep in mind that different swarms reduce each other's §eefficiency§r. This can encourage players to either work together on one common §3swarm§r or compete to extract more §eenergy§r from their own §3swarm§r.§r
 
-# Quest: All My Sounds Are Gone!
-betterquesting.quest.lH0bvUKoTYChtO49fWj9Qg.name=All My Sounds Are Gone!
-betterquesting.quest.lH0bvUKoTYChtO49fWj9Qg.desc=Try updating your Java by downloading it from the official Jav website ([url]https://java.com[/url]).%n%nIf it didn't help - open an issue on our GitHub or ask for help in our Discord.
-
 
 ### Quests in no quest lines ###
+
+# Quest: Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
