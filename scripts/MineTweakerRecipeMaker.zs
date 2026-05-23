@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<zoranodensha:item.zoranodensha.items.plateSteel>);
 recipes.remove(<minecraft:wooden_axe>);
 recipes.remove(<minecraft:wooden_pickaxe>);
 
