@@ -12,6 +12,10 @@
    └ Hopefully not terribly janky
 - Full Color System (https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide)
 - Radial Performance Engine
+- Combustible Lemon
+   └ Science isn't about why, it's about why not
+   └ Considered a secret weapon, go figure out the craft
+   └ DO YOU KNOW WHO I AM?!?!
 
 
 
@@ -60,6 +64,7 @@
 - *Probably* fixed hanging while world loading
 - Fixed one really weird and annoying crash related to chunk decoration
    └ That crash literally softlocked me out of my world once
+- Fixed sapling drop chance
 
 
 
@@ -150,6 +155,7 @@
 - Updated Complemetary shader clouds
 - Hopefully optimized some shit
 - *Probably* sped up the world loading
+- Leaves don't give you sticks anymore, go find some dead bushes
    
 
 
