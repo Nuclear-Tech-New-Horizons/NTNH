@@ -126,6 +126,15 @@
         <sub><b>595 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/Trkemal67"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17714620/medium/43865364ac916e0644b1ed27c458a3e9.jpeg" />
+          <br />
+          <sub><b>Mustafa Kemal Uzun</b></sub>
+          <br />
+          <sub><b>(Trkemal67)</b></sub></a>
+        <br />
+        <sub><b>385 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Liman69"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17698340/medium/b08c7239ee47c01e3222f990bf9debfa.jpeg" />
           <br />
           <sub><b>LinDemann</b></sub>
@@ -159,6 +168,8 @@
         <br />
         <sub><b>11 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/FOlkvangrField"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17559874/medium/8a8eba2951e60af080fab42d8d076c8a.png" />
           <br />
