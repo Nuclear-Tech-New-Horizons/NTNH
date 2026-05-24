@@ -1,69 +1,69 @@
-#Tips for the loading screen
-#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#İpuçları yükleme ekranı için
+#Teşekkürler 0lafe, boubou19, chochem, interstingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji ve diğerleri önerdiğiniz ipuçları için
 #
-#Maximal characters for a tip: 77 (more can go out of the screen)
+#Maximum karakter sayısı ipucu için: 77 (fazlası ekran dışına taşabilir)
 #The line below, including the "#" are 77 chars
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
+Sorun mu var? Discord sunucumuza katıl: discord.gg/wtNVzeE5QB
 You can bind the quests menu to a key, instead of using the book
 Be sure to check out what you can do with Mouse Tweaks
 Literally flint and steel!
 Adventurer's backpack: integrated crafting grid, bed and fluid storage
 Beware of pollution!
-Found a bug? Report it on GitHub or Discord
+Bir hata mı buldunuz? GitHub veya Discord üzerinden bildir
 You can bookmark items with NEI ("a" by default)
-It's NEI, not JEI. Use it frequently.
+Bu NEI, JEI değil. Use it frequently.
 Your pick is not ready
 Also try GT:NH!
 Put the "Mine" back in Minecraft
-Don't go out at night!
+Geceleri dışarı çıkma!
 Abandon all vanilla knowledge all ye who enter here
 Sometimes it's better to flee than fight some mobs
 Be prepared to take hours to build a single multiblock machine!
 Press F7 to see spots where mobs can spawn!
-Press F9 to see chunk borders!
-Microcrafting is love, microcrafting is life
-How many circuits have you crafted in your life?
-XAERO's WORLD MAP: PRESS[M]
-sqrt(-1) loves you!
-(MultiMC > Curse) && (Technic > Curse): true
-All you had to do was tho follow the damn quest line, CJ!
+Chunk sınırlarını görmek için F9'a bas!
+Mikro üretim sevgidir, mikro üretim hayattır
+Hayatında kaç tane devre ürettin?
+XAERO'nun DÜNYA HARİTASI: BAS[M]
+sqrt(-1) seni seviyor!
+(MultiMC > Lanet) && (Teknik > Lanet): doğru
+Tüm yapacağın iş lanet olası görev sırasını takip etmekti, CJ!
 Click on an item in the quest book to show its recipe in NEI
-Why not visit Nuclear Tech? We have... hydrogen bombs
-If it's too tedious you're doing it wrong
-Do you also watch your oven while baking food?
-There's always something else you can do while waiting
-Use F3 + S to reload the sound if it's gone
-Life's all about opening issues, not closing them - Rongmario
-Visit r/feedthemems!
-I WANT ROCKET I WANT MOON - St4o
+Why not visit Nuclear Tech? Şeye sahibiz... hidrojen bombaları
+Eğer çok can sıkıcıysa sen yanlış yapıyorsun
+Sen de mi fırının yemek pişirirken izliyorsun?
+Beklerken her zaman yapacak bir şeyler vardır
+Eğer sesler gittiyse F3 + S kullanarak sesleri yenile
+Hayatın tüm anlamı sorunlar yaratmaktır, onları halletmek değil -Rongmario
+R/feedthemems'i ziyaret et!
+ROKET İSTİYORUM, AY'I İSTİYORUM -St4o
 Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
-Did you already crafted AE2 system?
+Şimdiden AE2 sistemini ürettin mi?
 Press O to hide NEI overlay
 Also try GregTech: New Horizons!
-3.6 Roentegen?
-Factory Must Grow!
-Have you tried Schematica?
+3,6 Röntgen?
+Fabrika Büyümeli!
+Schematica'yı hiç denedin mi?
 There is a swarm ahead!
 Beware of glyphids
-Hydrogen Bomb VS Coughing Baby
+Hidrojen Bombası VS Öksüren Bebek
 Say hello to DreamMaster from Bufka2011!
-What? Warden is a hard boss? Pfft... Martian Invasion Ship
+Ne? Warden zor mu? Pfft... Martian Invasion Ship
 This is not a bug, this is an anomaly!
 ZIRNOX going brrrrrr
-Oh no, ZIRNOX going BOOOOOM
-PotatOS is funny :D
-Did you checked graphics settings?
-How much RAM do you have? 6GB for NT:NH is perfect!
-Do not ragequit
-Historically accurate! Maybe...
+Olamaz, ZIRNOX patlayacaaaaak
+PotatOS eğlenceli :D
+Grafik ayarlarını kontrol ettin mi?
+Ne kadarlık RAM'e sahipsin? 6GB, NT:NH için mükemmel!
+Sinirlenip çıkma
+Historically accurate! Belki...
 50% scientific accurate!
-How about to share this modpack with your friends?
-The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
-Do you have radiation protection with you?
+Bu mod paketini arkadaşlarınla paylaşmaya ne dersin?
+Lanet olası meteor taş mağaramızın içinde düştü!
+Yaşasın, kirlilik! >:D
+Olamaz, kirlilik. :(
+Yanında radyasyon koruman var mı?
 Be sure to check out if there is a new update!
 The best way to process ore is Acidizer + Centrifuge
 Crystallized ore gives you 2 ingots when smelting
@@ -73,28 +73,28 @@ Number One Asbestos Fan
 She was 'Nuclear' on my 'Tech' until I 'New Horizons'
 Did you already automated food production?
 It's automated, not automized
-Don't forget to feed your cat!
-Minecraft loading can take a while
-World loading can take a while
+Kedini beslemeyi unutma!
+Minecraft'ın yüklenmesi biraz zaman alabilir
+Dünyanın yüklenmesi biraz zaman alabilir
 You can suggest your ideas on NTNH's GitHub repo!
 You can suggest your ideas on NTNH's Discord!
-You need help with NTM? Find SavageVegeta on YouTube!
-Do you know math? You'll need it
-2 idiots 1 reactor
-Night is REALLY scary!
-OMGWTF NUCLEAR CREEPER
-Pain-In-The-Ass modpack!
-Hello Mellow!
-Hello HBMTheBobcat!
-Hello DreamMaster!
-Hello JamesH2!
-Hello everyone!
+You need help with NTM? YouTube'da SavageVegeta'yı bul!
+Matematik biliyor musun? Buna ihtiyacın olacak
+2 aptal 1 reaktör
+Gece GERÇEKTEN korkunç!
+ANANI AVRADINI NÜKLEER CREEPER
+Göt Ağrısı mod paketi!
+Merhaba Mellow!
+Merhaba HBMTheBobcat!
+Merhaba DreamMaster!
+Merhaba Jamesh2!
+Herkese merhaba!
 Explore structures like antennas for early resources  
 Build multiple furnaces to speed up alloy production  
 Sirens going UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro this RBMK is so hot... Nevermind
-Turrets are doing RATATATATATA
-Brother. The darkness is coming.
+Bro this RBMK is so hot... Salla Gitsin
+Taretler RATATATATATA yapıyor
+Dostum. Karanlık geliyor.
 Use HE to RF converters!
 Use RF to HE converters!
 Check the mod’s wiki for detailed information
@@ -106,23 +106,23 @@ Have fun and experiment - NTM offers endless possibilities
 Creepers are TERRIFYING in here
 Also try S.T.A.L.K.E.R. Anomaly GAMMA!
 Also try Factorio!
-Call your mom, make her happy
+Anneni ara, onu mutlu et
 NEI recipe lookup: hover + R
 Standard boilers may explode when running full.
 Fluids can be voided with a drainage pipe.
 Drainage pipe may not be too good for the environment.
 Foundry casts can be removed with a screwdriver.
-It's all about the game
+Hepsi oyunla alakalı
 Craft flippers to swim faster.
 GregTech 6 is peak.
 Supersymmetry is peak.
 bob pls port to 1.20
 1.8.9 port is happening soon trust me guys.
-There's meteors. Build a roof. (#1)
+There's meteors. Çatı inşa et. (#1)
 The blast furnace extension increases speed with the same fuel consumption. (#2)
-Don't want to use buckets for water? Use an infinite barrel instead. (#3)
+Su için kovaları kullanmak istemiyor musun? Use an infinite barrel instead. (#3)
 Iron furnaces are more fuel efficient, and don't burn while idle. (#4)
-Press F1 for help. (#5)
+Yardım için F1 bas. (#5)
 Bricked furnaces smelt construction materials faster, like sand, stone or clay. (#6)
 Standard boilers may explode when running full. Industrial boilers will simply stop. (#7)
 Is your RBMK leaking radiation? Use cover panels. (#8)
@@ -164,6 +164,6 @@ Occasionally Heavy Boots are great in low gravity. (#S10)
 You can survive in as little as 0.1atm of pure O2. (#S11)
 You only need one air vent for breathing unaided. (#S12)
 CO2 scrubbers and algae films can recover O2 continuously in orbit. (#S13)
-Orbital station can't make a trip? Add more engines! (#S14)
+Orbital station can't make a trip? Daha fazla motor! (#S14)
 Don't forget to clone your orbital station drive! (#S15)
 wi wi wi. (#???)

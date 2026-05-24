@@ -3,7 +3,7 @@ tile.amazingtrophies.trophy.arc_furnace.name=大型电弧炉奖杯
 tile.amazingtrophies.trophy.chemplant.name=化工厂奖杯
 tile.amazingtrophies.trophy.crucible.name=坩埚奖杯
 tile.amazingtrophies.trophy.excavator.name=大型采矿钻机奖杯
-tile.amazingtrophies.trophy.fensu.name=FEnSU奖杯
+tile.amazingtrophies.trophy.fensu.name=FEnSU Trophy
 tile.amazingtrophies.trophy.fusion.name=聚变反应堆奖杯
 tile.amazingtrophies.trophy.icf.name=ICF反应堆奖杯
 tile.amazingtrophies.trophy.me_controller.name=ME控制器奖杯
@@ -16,3 +16,4 @@ tile.amazingtrophies.trophy.pwr.name=PWR奖杯
 tile.amazingtrophies.trophy.fracking.name=水力碎裂塔奖杯
 tile.amazingtrophies.trophy.anatmogenesis.name=戴森球行星改造者奖杯
 tile.amazingtrophies.trophy.dfc.name=DFC奖杯
+
