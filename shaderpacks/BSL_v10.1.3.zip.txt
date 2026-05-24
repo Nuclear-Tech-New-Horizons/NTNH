@@ -1,4 +1,4 @@
-#Sat May 16 09:38:34 MDT 2026
+#Sun May 24 15:55:46 MDT 2026
 LIGHT_NI=0.05
 shadowDistance=512.0
 shadowMapResolution=3072

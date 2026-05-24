@@ -159,6 +159,7 @@
 - Leaves don't give you sticks anymore, go find some dead bushes
 - Updated trash group in lootbags and reduced the trash amount
 - Increased loot amount in lootbags
+- Fixed some really weird bugs related to item textures with Complimentary shaders
    
 
 
