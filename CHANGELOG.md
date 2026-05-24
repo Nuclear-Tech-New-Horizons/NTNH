@@ -65,6 +65,7 @@
 - Fixed one really weird and annoying crash related to chunk decoration
    └ That crash literally softlocked me out of my world once
 - Fixed sapling drop chance
+- Fixed Laythe ore generation
 
 
 
