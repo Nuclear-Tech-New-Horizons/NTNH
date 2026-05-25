@@ -8,7 +8,7 @@
 Masz pytanie? Dołącz do naszego serwera Discord: discord.gg/wtNVzeE5QB
 Możesz przypisać menu zadań do klawisza, zamiast używać książki
 Koniecznie sprawdź, co możesz zrobić za pomocą Mouse Tweaks
-Dosłownie krzesiwo!
+Literally flint and steel!
 Adventurer's backpack: stół rzemieślniczy, łóżko i zbiornik na płyny
 Uważaj na zanieczyszczenia!
 Znalazłeś błąd? Zgłoś go na GitHubie lub Discordzie
@@ -24,7 +24,7 @@ Przygotuj się na to, że budowa jednej maszyny wieloblokowej zajmie ci godziny!
 Naciśnij F7, aby zobaczyć miejsca, w których mogą odradzać się moby!
 Naciśnij F9, aby zobaczyć granice chunków!
 Microcrafting to miłość, microcrafting to życie
-Ile obwodów wytworzyłeś w swoim życiu?
+How many circuits have you crafted in your life?
 XAERO'S WORLD MAP: NACIŚNIJ [M]
 sqrt(-1) kocha Cię!
 (MultiMC > Curse) && (Technic > Curse): true
@@ -37,7 +37,7 @@ Zawsze jest coś innego, co możesz robić podczas czekania
 Użyj F3 + S, aby przeładować dźwięk, jeśli zniknął
 Życie polega na otwieraniu zgłoszeń, a nie na ich zamykaniu - Rongmario
 Odwiedź r/feedthemems!
-CHCE RAKIETĘ CHCE KSIĘŻYC - St4o
+I WANT ROCKET I WANT MOON - St4o
 Hej @Bufka2011, dlaczego skopiowałeś nasze zasady (GTNH) :kekwhat:
 Czy już wytworzyłeś system AE2?
 Naciśnij O, aby ukryć nakładkę NEI
@@ -66,7 +66,7 @@ O nie, zanieczyszczenie. :(
 Czy masz przy sobie ochronę przed promieniowaniem?
 Upewnij się, że sprawdziłeś, czy jest nowa aktualizacja!
 The best way to process ore is Acidizer + Centrifuge
-Krystaliczna ruda daje 2 sztabki po przetopieniu
+Crystallized ore gives you 2 ingots when smelting
 NTM's Electric Furnaces are must!
 Don't mine coal without breathing protection
 Number One Asbestos Fan
@@ -111,7 +111,7 @@ NEI recipe lookup: hover + R
 Standard boilers may explode when running full.
 Fluids can be voided with a drainage pipe.
 Rura drenażowa może nie być zbyt dobra dla środowiska.
-Formy odlewnicze można usunąć za pomocą śrubokręta.
+Foundry casts can be removed with a screwdriver.
 To wszystko kwestia gry
 Craft flippers to swim faster.
 GregTech 6 to absolutny szczyt.

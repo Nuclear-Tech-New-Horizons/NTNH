@@ -8,7 +8,7 @@
 Hai una domanda? Unisciti al nostro server Discord: discord.gg/wtNVzeE5QB
 Puoi associare il menù delle quest a un tasto, invece di usare il libro
 Assicurati di controllare cosa puoi fare con Mouse Tweaks
-Letteralmente un acciarino!
+Literally flint and steel!
 #Adventurer's backpack: griglia di crafting, letto e fluidi integrati
 Attenzione all'inquinamento!
 Hai trovato un bug? Segnala su GitHub o Discord
@@ -49,7 +49,7 @@ C'è uno sciame davanti a te!
 Attenzione ai glyphid
 Bomba all'idrogeno VS Neonato che tossisce
 Saluta DreamMaster da parte di Bufka2011!
-Cosa? Il Warden è un boss difficile? Pfft... Nave d'invasione marziana
+What? Il Warden è un boss difficile? Pfft... Nave d'invasione marziana
 Questo non è un bug, è un'anomalia!
 ZIRNOX fa brrrrrr
 Oh no, ZIRNOX fa BOOOOOM
@@ -92,7 +92,7 @@ Ciao a tutti!
 Esplora le strutture come le antenne per le risorse iniziali  
 Costruisci più fornaci per velocizzare la produzione di leghe  
 Le sirene fanno UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro questo RBMK è così caldo... Non importa
+Bro questo RBMK è così caldo... Nevermind
 Le torrette stanno facendo RATATATATATATATA
 Fratello. L'oscurità sta arrivando.
 Usa i convertitori da HE a RF!
@@ -111,7 +111,7 @@ Ricerca ricette NEI: cursore + R
 Le caldaie standard possono esplodere quando sono piene.
 I fluidi possono essere eliminati col tubo di drenaggio.
 Il tubo di scarico potrebbe non essere il massimo per l'ambiente.
-Gli stampi della fonderia possono essere rimossi con un cacciavite.
+Gli stampi della fonderia si rimuovono col cacciavite.
 È tutto merito del gioco
 Crafta delle pinne per nuotare più velocemente.
 GregTech 6 è peak.
@@ -133,17 +133,17 @@ I ventilatori sono attivati dalla redstone e spingono le entità. Ideali per far
 Non mettere il microonde al massimo. (#13)
 Le torri di frazionamento si collegano verticalmente per aumentare la resa. (#14)
 Fullerite troppo difficile? Produci fuliggine fine con un forno a pirolisi. (#15)
-L'esplorazione ti ricompensa. Chissà cosa troverai. (#16)
+Exploration pays off. Chissà cosa troverai. (#16)
 Ti senti male? Controlla se c'è amianto nelle vicinanze. (#17)
 Serve molto carburante all'inizio? Il Nether è pieno di carbone ardente. (#18)
 Prenditi una pistola. (#19)
-L'Alessandrite richiede esplosivi per essere estratta. (#20)
-Gli stampi della fonderia si rimuovono col cacciavite. (#21)
+Alexandrite needs explosives to be mined. (#20)
+Gli stampi della fonderia possono essere rimossi con un cacciavite. (#21)
 No, non puoi potenziare un piccone danneggiato. (#22)
 Usa un cacciavite su un bruciatore a fluido per aumentare la combustione. (#23)
 Usa del colorante su un pilone per cambiare il colore dei cavi collegati. (#24)
 I condensatori costano meno dei blocchi di energia e si scaricano più rapidamente. (#25)
-Svuota le parti della fonderia con una pala. Otterrai scarti di fonderia. (#26)
+Svuota le parti della fonderia con una pala. This drops the contents as foundry scraps. (#26)
 I teletrasporti spostano ogni entità, anche oggetti sui nastri. (#27)
 Alcune ricette richiedono blueprint reperibili nelle strutture. Puoi anche acquistarli da Bobmazon. (#28)
 Conta solo il gioco. (#V9)
