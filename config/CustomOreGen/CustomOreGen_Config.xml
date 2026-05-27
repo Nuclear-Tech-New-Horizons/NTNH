@@ -14,11 +14,11 @@
     </OptionDisplayGroup>
 
     <!-- Controls overall frequency of ore deposits.  Range 0–5; default 1 -->
-    <OptionNumeric name="oreFreq" default="2" min="0" max="5" displayState="shown"
+    <OptionNumeric name="oreFreq" default="1.5" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
     <!-- Controls overall size of ore deposits.  Range 0–5; default 1 -->
-    <OptionNumeric name="oreSize" default="1" min="0" max="5" displayState="shown"
+    <OptionNumeric name="oreSize" default="1.5" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
 
@@ -689,22 +689,22 @@
     </CloudPreset>
 
     <Substitute name="Laythe_Cleanup" block="stone">
-      <Replaces block="hbm:tile.ore_cinnebar" />
-      <IfCondition Condition="dimension == 22" />
+        <Replaces block="hbm:tile.ore_cinnebar:9" />
+        <IfCondition Condition="dimension == 22" />
     </Substitute>
 
     <Cloud name="Laythe_Aluminium"
-      block="hbm:tile.ore_aluminium" inherits="PresetLaythe">
+      block="hbm:tile.ore_aluminium:9" inherits="PresetLaythe">
       <Setting name="CloudHeight" avg="40" range="15" />
     </Cloud>
 
     <Cloud name="Laythe_Asbestos"
-      block="hbm:tile.ore_asbestos" inherits="PresetLaythe">
+      block="hbm:tile.ore_asbestos:9" inherits="PresetLaythe">
       <Setting name="CloudHeight" avg="50" range="10" />
     </Cloud>
 
     <Cloud name="Laythe_Tungsten"
-      block="hbm:tile.ore_tungsten" inherits="PresetLaythe">
+      block="hbm:tile.ore_tungsten:9" inherits="PresetLaythe">
       <Setting name="CloudHeight" avg="15" range="5" />
     </Cloud>
 
@@ -842,9 +842,9 @@
       <Setting name="CloudHeight" avg="50" range="10" />
     </Cloud>
 
-    <!-- === Tecto=== -->
+    <!-- === Tekto=== -->
 
-    <VeinsPreset name="PresetTecto"
+    <VeinsPreset name="PresetTekto"
       branchType="Bezier">
       <Setting name="MotherlodeFrequency" avg=":= 0.05 * oreFreq" />
       <Setting name="MotherlodeHeight" avg="32" range="25" type="uniform" />
@@ -863,7 +863,7 @@
       <Biome name="Tekto Forest" />
     </VeinsPreset>
 
-    <Substitute name="Tecto_Cleanup"
+    <Substitute name="Tekto_Cleanup"
       block="hbm:tile.basalt">
       <Replaces block="hbm:tile.ore_iron:10" />
       <Replaces block="hbm:tile.ore_gold:10" />
@@ -873,18 +873,18 @@
       <IfCondition Condition="dimension == 24" />
     </Substitute>
 
-    <Veins name="Tecto_Lithium"
-      block="hbm:tile.ore_lithium:10" inherits="PresetTecto">
+    <Veins name="Tekto_Lithium"
+      block="hbm:tile.ore_lithium:10" inherits="PresetTekto">
       <Setting name="MotherlodeHeight" avg="39" range="10" />
     </Veins>
 
     <Veins
-      name="Tecto_Plutonium" block="hbm:tile.ore_plutonium:10" inherits="PresetTecto">
+      name="Tekto_Plutonium" block="hbm:tile.ore_plutonium:10" inherits="PresetTekto">
       <Setting name="MotherlodeHeight" avg="15" range="5" />
     </Veins>
 
     <Veins
-      name="Tecto_Beryllium" block="hbm:tile.ore_beryllium:10" inherits="PresetTecto">
+      name="Tekto_Beryllium" block="hbm:tile.ore_beryllium:10" inherits="PresetTekto">
       <Setting name="MotherlodeHeight" avg="55" range="10" />
     </Veins>
 

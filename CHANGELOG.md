@@ -1,154 +1,169 @@
-# 2.8.1 Release
-### All of the changes are related to AE2
+# 2.10.0 Release
 
 ## What's changed?
 **Added**
-- Universal GUI in WirelessCraftingTerminal
-- Added keybinds for every universal terminal
-- Added "fluix" to wireless connector tooltip
-- Added a "Nodes and one Channel" mode
-- Added Universal GUI for all terminals (Wireless Crafting, Processing, Pattern, etc.)
-- Added CPU Sorting buttons and enhancements
-- Added Color Selector GUI for the Color Applicator with color pickup
-- Added Crafting Complete Notification Popup
-- Added Pattern Repeater
-- Added Spatial Link Chamber and Spatial Network Relay
-- Added Stack Type API
-- Added Preview Blocks
-- Added storage interceptor & locking card support
-- Added creative-like pick block with withdrawal from AE system
-- Added info tooltip for Pins Button and tooltips for creative energy blocks
-- Added level emitter button to control detection mode on empty filter
-- Added backhand support for the color applicator
-- Allow bind terminal to wireless access point
-- Allow network-to-network exotic stack transfer
-- Allow viewing crafting and usage of the pattern main output
-- Allow input-only pattern to be encoded as a Tunnel pattern
-- Allow using inverter card on fluid cells
-- Allow block containers to disable facades based on metadata
-- View Cell now supports all stack types
-- Show requester on active crafting CPU crafts
-- Use pylon dimension for SpatialTransition instead of IO-Port
-- Enhanced Network Status Bar
-- Enhanced Stuck Overlay (red tint on stuck interfaces)
-- Improve terminal interaction with type filter
+- New background images for the loading screen and the main menu
+- Lobotomy
+   └ Do you know who else got dementia?
+- Freight elevator
+   └ A 3x3 hydraulic platform
+   └ Can be stacked
+   └ Only supports two floors, the top and the bottom
+   └ Hopefully not terribly janky
+- Full Color System (https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide)
+- Radial Performance Engine
+- Combustible Lemon
+   └ Science isn't about why, it's about why not
+   └ Considered a secret weapon, go figure out the craft
+   └ DO YOU KNOW WHO I AM?!?!
 
 
 
 **Fixed**
-- Fixed armor slot index and duplicated tooltip in WirelessCraftingTerminal
-- Fixed container interaction tooltip in WirelessCraftingTerminal
-- Fixed multible bugs related to AE2
-- [Memory-opti:fix leak] Fix world leak
-- Fixed universal terminal mode switch in baubles
-- Fixed multiple bugs
-- Fixed discretizier crash
-- Fixed primary gui
-- Fixed draining simulation actually perform drain
-- Fixed import/export bus issues
-- Fixed replenisher void
-- Fixed stock replenisher item voiding
-- Fixed some typos
-- Fixed storage name on exp
-- Fixed storage name fluid emitter
-- Fix crash when trying to open wireless magnet filter when terminal in baubles
-- Fixed alt-type storage bus unable to read subnet
-- Fixed null key in legacy craftable map
-- Fixed storage bus crash on empty container
-- Fixed storage bus crash and item NBT disappearance
-- Fixed fill containers interaction
-- Fixed fluid cell interaction and amount-to-send calculation for fluids
-- Fixed essentia not being pushed to network via interface
-- Fixed bi-directional filters with storage bus + interface subnet
-- Fixed item buses not updating redstone mode when GUI changes
-- Fixed crafting results being voided when unable to inject into network
-- Fixed crafting GUI transition and opening in non-hand slot
-- Fixed Universal Terminal not loading pattern when changing pattern output slot
-- Fixed pattern optimizer crash and crash on patterns with unsupported types
-- Fixed wrong substitutes used in crafting calculation
-- Fixed processing terminal buttons position
-- Fixed performance regression when requesting new crafts
-- Fixed crafting status tooltip
-- Fixed negative amount button
-- Fixed colored +/- amount buttons not updating value when colored
-- Fixed tooltip showing previously hovered item details instead of current one
-- Fixed color applicator GUI not reporting colors properly
-- Fixed optimizer GUI not opening; fixed fluids not displayed in optimizer GUI
-- Fixed partition button not working on Cell Workbench
-- Fixed highlight interface not working sometimes
-- Fixed Network Status GUI not opening
-- Fixed multi-interface smart blocking (smart UAAL automation)
-- Fixed config copy for IO Bus, Storage Bus, and Level Emitter via memory card
-- Fixed interface terminal search refocus
-- Fixed Interface Terminal crashes and improvements
-- Fixed item name localization on dedicated server
-- Fixed NPE in DualityInterface#addDrops and in AEFluidStackType#drainStackFromContainer
-- Fixed server crash introduced by PR#1089
-- Fixed crash without AE2FC
-- Fixed encoded pattern overwrite
-- Fixed fake slot and pin slot ghost items
-- Fixed standard search not being standard
-- Fixed ME Chest
-- Fixed Security Terminal GUI
-- Fixed primary GUI and slot rendering (items not appearing while dragging)
-- Fixed NEI Cell View stack size rendering
-- Fixed AE Follow Craft client disconnect
-- Fixed keyBindPickBlock in terminals
-- Fixed materials order in NEI
-- Fixed level emitter watcher not tracking fluids
-- Fixed crafting mode for processing pattern terminal
-- Fixed storage search chat names localization
-- Fixed null filter sync to client in GUI
-- Fixed NPE on addon
-- Fixed toggle focus
+- Fixed various quiks related to clouds, water and textures when using shaders
+- Fixed uncrafting of the nickel RTG pellet not respecting item metadata
+- Tile entities that use fluids should now force the chunk they are in to be written to disk when unloaded
+   └ This should fix the issue where systems that constantly move fluids around may not properly save to disk
+- Fixed dispensed dynamites being considered impact grenades for some reason
+- Fixed RBMK flux detection with RoR and OC not working
+- Moved the soyuz launcher core component recipe to the assembler, fixing an issue where the component recipe is not available in 528 mode
+- Fixed crash caused by using the copy tool on uncolored RBMK control rods
+- Fixed turbine blade smelting in the crucible only yielding 2 ingots worth of material
+- Fixed cluster missiles never properly splitting before impact
+   └ The final splitting height depends on the trajectory's arc, cluster missiles are therefore not suitable for very long distances
+- Fixed an issue where 40mm grenades that impact entities within three ticks of spawning would never detonate
+- Fixed broken foundry scrap name and tooltip
+- Finally fixed the rotary furnace's steam going into the negatives because 70k was too bald to do it
+- Fixed magnet and HUD toggle popups being incorrect half the time
+- Fixed crash caused by connecting NONE type pipe anchors
+- Fixed color inconsistency with the bedrock ore density scanner
+- HUD and Magnet notifications always showing ON even when turning OFF
+- Eclipses do not affect solar panels or solar boilers
+- MCHeli third person broken due to rocket third person changes
+- Rocket launch pad does not connect with OC cables
+- Lodestar renders in the wrong position with broken alpha
+- Fixed missing Enf Portal craft
+- Fixed some issues with shaders
+- Ore generation fixes
+- Updated fensu trophy
+- Fixed dynamic lights world client leaks
+- Fixed terrible performance on Intel
+- Fixed particles rendering during shadow pass
+- Fixed health bars / thermal sights / bullets rendering during shadow pass
+- Improved texture (black background) fixes
+- Fixed Complementary Shaders not working as expected at night
+- Fixed Solar Tower Boiler recipe
+- Fixed weird blindness effects underground
+- Fixed Russian localization for Iron Chest items
+- Fixed/changed biome search in Nature's Compass
+- Fixed ProjectRed wires not providing redstone power
+- Fixed ServerUtilities buttons not rendering for 1 tick when changing inv tabs
+- Fixed crash when draining Certus Quartz Tank with Large Steel Fluid Cell
+- Fixed offhand item clipping through custom armor models
+- Fixed weird behaviour of chunks if zooming
+- *Probably* fixed hanging while world loading
+- Fixed one really weird and annoying crash related to chunk decoration
+   └ That crash literally softlocked me out of my world once
+- Fixed sapling drop chance
+- Fixed Laythe ore generation
 
 
 
 **Changed**
-- Don't strip logs when holding healing axe in offhand
-- Updated Super Stock Replenisher block texture
-- Allow using inverter card on fluid cells
-- Fixed Level Maintainer FCGuiLineField and texture
-- Fix NPE when trying to drain a tank in a tank tower
-- Changed Artificial Universe Fluid Cell to 63 Types
-- Added priority in fluid storage bus tooltip
-- Removed essentia terminal from ultra terminal recipe
-- Adjusted pixels in Gui Terminal
-- Hide all colored wireless variant from NEI 
-- Improve colors, localisation and add configuration for render overlay
-- Terminal performance fixes
-- Improved NetworkInventoryHandler performance
-- Added getTile cache and optimized ASM integration
-- Cached pattern output stack and Enum.values() calls
-- Cached invalid pattern flag in NBT
-- Packed interface stuck state with other client flags (tick on client only)
-- Reduced updates when recoloring cables
-- Fixed performance regression when requesting new crafts
-- Made crafting tree search more exhaustive
-- Fixed fluid transfer IO port speed
-- Changed Matter Condenser default entry state to Singularity Mode
-- Changed cable sorting
-- Changed ME Drive rendering to color the chassis instead of cells
-- Changed Level Type Tooltip to include Fluid
-- Renamed interface in Interface Terminal
-- Removed pattern refill card
-- Improved clarity of container interactions
-- Improved Storage Bus slot fadeout when OreDict card is present
-- Improved pattern info tooltip (more universal)
-- Reduced interface GUI textures
-- Move AE2 pick-block block select logic to client-side
-- Adjusts ME Pick Block to prefer PickBlockEvent when appropriate
-- Implement simulateAdd for ItemIO
-- Localization updates (Ukrainian, Portuguese, Amount elements)
-- Less random Meteorite generation
-- Do not push items in inactive interface
-- Don't add items to pattern with shift-click on Pattern Terminal
-- Restrict multi-parts in cable with bus
-- Optimized images / textures
+- BIG early game quest rework (there will be more in future)
+- Disabled armor sounds while walking
+   └ Can be enabled back in anextratouch.cfg
+- Main menu backgrounds are now randomized
+- Updated the website link in the main menu
+- Replaced CoroUtil Library mod with BetterCrashes mod
+- Updated russian and chinese localization
+- Oil bubbles are now 3x more common in deserts (biomes with a temperature value of 2 and rainfall of 0)
+- Oil bubbles now have a 50% chance of spawning a surface indicator (similar to bedrock oil but still distinct)
+- Oil deposits will never drop themselves, they always produce tar when mined
+- Any tar type can now be turned into bitumen in a mixer (with worse efficiency compared to a liquefactor)
+- RoR levers and indicator lights now have OpenComputers integration
+- Alexandrite dropped with fortune is now capped at 2 gems per ore
+- Added a config option for decreasing the soot requirement for skeleton guns (or rather, for the calculation, this number is added to the actual soot value, simulating a higher value)
+- Radioisotope cells and PT cells are now deprecated, and can no longer be crafted
+   └ Existing cells will continue to work for now
+- If two pipe anchors are connected, one having a type set and one still being "none", instead of erroring, the "none" pipe will assume the other one's type
+- Self-chargers in battery sockets now produce unreliable power output which constantly fluctuates
+- Self-chargers in battery sockets now cause static discharges in regular intervals
+- Added more RoR functionality to the boilers, industrial combustion engine, heat exchangers, fluid burners, CCGT and ZIRNOX
+- Turrets can now be toggled and configured with RoR
+- Artillery turrets can now have targets enqueued with RoR
+- The RBMK numeric displays can now be controlled via OpenComputers, and come with built-in settings for shortening numbers and displaying leading zeroes
+- The industrial steam turbine now has OpenComputers integration
+- The RBMK fuel crane can now report stats for the loaded fuel rod to OpenComputers
+- The RBMK console can now detect and send all stored RBMK fuel rods in storage columns via OpenComputers
+- Crates now open when right-clicked by default, holding shift is required to place them down
+- The automatic buzzsaw can now burn coal tar creosote
+- The old cluster type effect used by MPBs and cluster missiles now use the new generic projectile system with actual bomblet models
+- Removed the legacy fusion reactor entirely
+- Changed neutron reflectors
+   └ Reflectors can no longer be made in the blast furnace
+   └ Rather, they are welded from HSS and tungsten carbide
+   └ Tungsten carbide is made in the pyrolysis oven using syngas and tungsten powder
+   └ Many recipes that used to use neutron reflectors now use alternative materials like HSS plates or weapon steel
+   └ This effectively means that neutron reflectors are post oil 3
+   └ PWR neutron reflectors have an alternate recipe allowing them to be made with weaponsteel
+- Removed legacy battery items and selfchargers
+- Added more QMAW pages
+- Expensive mode plastic sheets now only use rubber instead of rubber or latex
+- Updated the texture on the fop thing
+- RoR info on tanks now displays the (0-3) value range of the mode setting
+- Spike, tesla and microwave damage have now been categorized as physical, energy and energy respectively, making armors resistant against them
+- Fau and DNT armor now have explicit physical resistances, making them harder to pierce
+- The rubber recipe now yields two rubber per sulfur used
+- Foundry scraps now show their material in the name instead of the description
+- Bedrock ore minimum tier and bore fluid is no longer fixed at (1/NONE), rather it scales with the quality of the bedrock ore at that spot
+   └ The bedrock ore density scanner will try to predict the required tier and bore fluid at the current spot, and show it as part of the HUD
+   └ This only applies to newly generated bedrock ore patches
+- Reduced industrial turbine cost from 3 titanium steam turbine blades to 2
+- Motors now have yet another alternate recipe in the arc welder, using steel plates but substituting the coils with a dense red copper wires
+- Dense red copper wires can now be welded
+- The old factory hull blocks have been deprecated
+- The singularity screwdriver, being with no purpose ever since the fwatz got removed, has been removed as well
+- Desh motors now use dense golden wires instead of golden ring coils
+- Added "desh from cracked oil" recipe
+   └ Default recipe, doesn't need a blueprint
+   └ Uses cracked light oil instead of regular light oil (500mB at 1 PU, or 2.5x more than the standard recipe, plus one compressor)
+   └ Uses 100mB of mercury instead of 200mB
+- All standard coils now have alternate recipes, using a steel core instead of an iron one
+- Reduced steam demand of the rotary furnace's hotter fuels by a bit
+- The acidizer now has a sound loop (chemplant sound at 75% pitch)
+- Updated some bomb part recipes, mainly to make use of the new neutron reflectors and some more modern materials (why did ivy mike coolers still use iron?)
+- Updated the fat man igniter and gadget wiring icons
+- The cape items, which haven't actually been used by anyone ever, are now deprecated. Existing capes will still work, but the items are now unobtainable
+- Some long deprecated melee weapons have now been properly removed
+- Added OC compat to the RBMK coolers
+- Refueling Station now shows the currently assigned fluid
+- Earth heavy bedrock solvent fraction is now zinc
+- Bedrock ore density scanner will show planet specific ore extraction fluid requirements
+- Certain planet acid requirements will override regular bedrock ore extraction requirements
+- Gas, brine, and Tekto oil blocks now drop empty versions of themselves when mined
+- Demeter is affixed
+- No more volcanos
+- Disabled Exploration Module in Project Red
+- Replaced Rails of War with Zora no Densha
+- Increased P2P packet rate from 50 to 1024!
+- Increased the spawn rate of all ores, and made them bigger in size
+- Removed stalactites and stalagmites
+- Debuffed glyphids
+- Increased max food stack size in a container to 32
+- Decresed food history length to 6
+- Increased the number of times a new player (by World) needs to eat before nutrition system has any effect to 24
+- Updated Complemetary shader clouds
+- Hopefully optimized some shit
+- *Probably* sped up the world loading
+- Leaves don't give you sticks anymore, go find some dead bushes
+- Updated trash group in lootbags and reduced the trash amount
+- Increased loot amount in lootbags
+- Fixed some really weird bugs related to item textures with Complimentary shaders
+   
 
 
-
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.8.0...2.8.1)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.9.0...2.10.0)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.8.1)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.10.0)

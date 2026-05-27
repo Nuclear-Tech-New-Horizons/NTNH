@@ -1,0 +1,52 @@
+{
+  "recipes": [
+    {
+      "recipeKey": "paperPress",
+      "recipes": [
+        {
+          "inputFluids": [
+            ["WATER",250]
+          ],
+          "inputItems": [
+            ["item","hbm:item.powder_sawdust"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["minecraft:paper",3,1.0]
+          ],
+          "duration": 60,
+          "consumptionPerTick": 10,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.029999999329447746,
+          "radiationAmount": 0.0,
+          "flux": 0,
+          "heat": 0
+        }
+      ]
+    },
+    {
+      "recipeKey": "portalMaker",
+      "recipes": [
+        {
+          "inputFluids": [
+            ["STELLAR_FLUX",2000]
+          ],
+          "inputItems": [
+            ["item","hbm:item.shimmer_sledge"]
+          ],
+          "outputFluids": [],
+          "outputItems": [
+            ["minecraft:end_portal",1,1.0]
+          ],
+          "duration": 600,
+          "consumptionPerTick": 1000,
+          "pollutionType": "SOOT",
+          "pollutionAmount": 0.05,
+          "radiationAmount": 0.01,
+          "flux": 0,
+          "heat": 0
+        }
+      ]
+    }
+  ]
+}

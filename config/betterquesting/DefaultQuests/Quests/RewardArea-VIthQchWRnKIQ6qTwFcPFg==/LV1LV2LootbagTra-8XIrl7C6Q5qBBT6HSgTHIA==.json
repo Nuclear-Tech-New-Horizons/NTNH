@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 47
+      "questIDHigh:4": -6005191642078558368,
+      "questIDLow:4": -6890513112997641897
     }
   },
   "properties:10": {
@@ -57,7 +57,7 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 3,
+          "Count:3": 2,
           "Damage:2": 1,
           "OreDict:8": "",
           "id:8": "enhancedlootbags:lootbag"

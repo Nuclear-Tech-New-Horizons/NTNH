@@ -1,14 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -4234283974238320836,
-      "questIDLow:4": -8474188240158341579
+      "questIDHigh:4": -7018651477296855465,
+      "questIDLow:4": -8725395520225007410
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "In this modpack, §dApplied Energistics 2§r has been changed to fit in more with §dNTM§r. Many components have been changed to include NTM materials and some machines, like the §3Grinder§r and §3Inscriber§r, have had their functions moved to the §3Shredder§r and §3Press§r. The meteors have also been removed, but §6Skystone§r can still be crafted for building purposes.\n\nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.\n\n[url]https://ftbwiki.org/Applied_Energistics_2[/url]\n\n§2NTM fluids dont work with AE2.\n",
+      "desc:8": "In this modpack, §dApplied Energistics 2§r has been changed to fit in more with §dNTM§r. Many components have been changed to include NTM materials and some machines, like the §3Grinder§r and §3Inscriber§r, have had their functions moved to the §3Shredder§r and §3Press§r. The meteors have also been removed, but §6Skystone§r can still be crafted for building purposes.\n\nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.\n\n[url]https://ftbwiki.org/Applied_Energistics_2[/url]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

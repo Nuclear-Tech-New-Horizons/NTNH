@@ -1,0 +1,42 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1480799430013988952,
+      "questIDLow:4": -7026261729308851187
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "This mod adds several environmental hazards that will kill you if ignored.\n\n§6Radiation§r is measured in RAD. Effects begin at §e200 RAD§r and worsen steadily - instant death occurs at §c1000 RAD§r. Use a §6Geiger Counter§r to monitor your dose. Radiation-resistant armor and §6Rad-X§r reduce incoming RAD; a §3Player Decontaminator§r or §6Antirads§r remove accumulated dose.\n\n§lMesothelioma§r develops from asbestos exposure. Items tagged §c[Contains Asbestos]§r and certain blocks like Chrysotile release asbestos particles. Progresses to death if untreated.\n\n§lBlack Lung§r develops from coal dust exposure. Mining coal ore and carrying items tagged §c[Coal Dust]§r are the main sources. Also fatal.\n\nA gas mask protects against both mesothelioma and black lung simultaneously. Both diseases are cured by §6SIOX Cancer Medication§r or, early-game, §6Herbal Paste§r - the latter being weaker and carrying side effects.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "hbm:item.coin_radiation"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Hazards",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7340101258682910999,
+  "questIDLow:4": -7010980744998178033,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}
