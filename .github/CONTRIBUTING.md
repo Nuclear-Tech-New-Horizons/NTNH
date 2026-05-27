@@ -1,10 +1,10 @@
-# NTNH Contribution Guidelines, Version 1
+# NTNH Contribution Guidelines, Version 1.1
 ##### (srry [bob](https://github.com/HbmMods) for stealing your guidelines)
 
 
 ## Pull Request Requirements:
 
-* All PRs must be reviewed by at least one member of the [@admin](https://github.com/orgs/NTNewHorizons/teams/admin) team
+* All PRs must be reviewed by at least one member of the [@Admins](https://github.com/orgs/NTNewHorizons/teams/admins) team or [@Leads](https://github.com/orgs/NTNewHorizons/teams/leads) team
 * Description must be detailed and clear, explain what you did and how is it going to affect the repository
 
 
@@ -13,7 +13,7 @@
 1. Create a branch from main
 2. Make your changes
 3. Create a PR to main branch
-4. Wait for approval from @admin team member
+4. Wait for approval from @admin/@leads team member
 5. Merge the changes after approval
 
 
@@ -43,7 +43,7 @@ This should go without saying, but please don't PR that was never actually teste
 
 ## No refactor PRs (with exception)
 
-Please consult the [@admin](https://github.com/orgs/NTNewHorizons/teams/admin) team on GitHub or Dev team in Discord.
+Please consult the [@Admins](https://github.com/orgs/NTNewHorizons/teams/admins) or [@Leads](https://github.com/orgs/NTNewHorizons/teams/leads) team on GitHub or Dev team in Discord.
 
 
 ## Communication
@@ -58,8 +58,9 @@ This ties together with the previous point - there's no guarantees that your PR 
 
 ## I want to help but don't know where to start
 
-If you want to help the project, consider getting involved with the [Crowdin project](https://crowdin.com/project/ntnh) first. Translating NTNH is the easiest and quickest way of helping, and requires no minecraft debugging knowledge. If you do know Java and want to help, consider these places first:
+If you want to help the project, consider getting involved with the [Crowdin project](https://crowdin.com/project/ntnh) first. Translating NTNH is the easiest and quickest way of helping, and requires no programming knowledge. If you do know Java/HTML/CSS/JavaScript/etc. and want to help, consider these places first:
 
 * Contributing to upstreams ([NTM](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) and [NTM: Space](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT)) or directly to the [NTNH NTM repo](https://github.com/NTNewHorizons/Hbm-s-Nuclear-Tech-GIT)
 * Contributing to [our website repo](https://github.com/NTNewHorizons/NTNewHorizons.github.io)
-* Posting your ideas in [#suggestions](https://discord.com/channels/1365318764895277136/1416584800457723965) channel in our Discord (you can post anything but please no shitposts)
+
+If you want to suggest any ideas to NTNH, do it in [#suggestions](https://discord.com/channels/1365318764895277136/1416584800457723965) channel in our Discord (you can post anything but please no shitposts)
