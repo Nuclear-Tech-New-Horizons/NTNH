@@ -5,15 +5,15 @@
 #下面的直线，包括"#"是77个字符
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-Got a question? 有疑问吗？ 加入我们的 Discord 服务器：discord.gg/wtNVzeE5QB
+有疑问吗？ 有疑问吗？ 加入我们的 Discord 服务器：discord.gg/wtNVzeE5QB
 您可以将任务菜单绑定到一个密钥，而不是使用这本书
 请务必查看您可以对鼠标调节做些什么
-Literally flint and steel!
+简直就是打火石！
 冒险家的背包：合成终端、床和液体存储
 注意污染！
-Found a bug? 发现错误？ 在 GitHub 或 Discord 上报告
+发现错误？ 发现错误？ 在 GitHub 或 Discord 上报告
 您可以用NEI书签项目 (默认情况下"a")
-这是NEI，不是JEI。 频繁使用它。 Use it frequently.
+这是NEI，不是JEI。 频繁使用它。 频繁使用它。
 您的挑选尚未准备好
 也试试GT:NH！
 将“我的”返回到Minecraft中
@@ -30,12 +30,12 @@ sqrt(-1) 喜欢你！
 (MultiMC > Curse) && (Technic > Curse): true
 你需要做的只是跟着该死的探索线, CJ！
 点击任务簿中的一个项目来在NEI中显示其配方
-为什么不访问核技术？ 我们有…… 氢弹 We have... hydrogen bombs
+为什么不访问核技术？ 我们有…… 氢弹 我们有…… 氢弹
 如果你玩得太烦琐，你做错了
 你烘焙食物时也会注意烤箱吗？
 您在等待时总是可以做一些其他事情
 使用 F3 + S 重新装入声音，如果它走了
-Life's all about opening issues, not closing them - Rongmario
+生活就是一直提出问题，而不是解决问题 - 荣马里奥
 访问 r/feedthememem！
 我想要火箭 我想要去月球 - St4o
 你好@Bufka2011为什么抄袭了我们的（GTNH）规则 :kekwhat: ：
@@ -46,18 +46,18 @@ Life's all about opening issues, not closing them - Rongmario
 工厂必须成长！
 您是否尝试过方案？
 前面有一群虫子！
-Beware of glyphids
-Hydrogen Bomb VS Coughing Baby
+小心异虫
+实力悬殊
 从Bufka2011的 DreamMaster 说你好！
-What? Warden is a hard boss? 还原史实！ 也许…… Martian Invasion Ship
+啥？ 监守者是一个很难的boss ？ 还原史实！ 也许…… 火星入侵船
 这不是一个漏洞，这是一个异常！
 ZIRNOX正在变得brrrrr
 不好，ZIRNOX要爆炸了
-PotatOS is funny :D
+马铃薯系统很有趣:D
 您是否检查了图形设置？
 你有多少内存？ 给NT:NH分6GB很完美！ 正在运行UUUUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUUUUUUU
-Do not ragequit
-Historically accurate! Maybe...
+不要红温离场
+还原史实！ 也许……
 50%的科学精度！
 不如把这个整合包分享给你的朋友 ？
 该死的陨石把我们石头房子砸坏了！
@@ -79,11 +79,11 @@ Minecraft加载可能需要一些时间
 你可以在NTNH's GitHub 仓库里提出你的想法！
 你可以在NTNH的Discord上提出自己的想法！
 您需要在NTM方面获得帮助吗？ 在 YouTube 上找到SavageVegeta ！ 勘探即将结束。 谁知道你会找到什么。 (#16)
-您知道数学吗？ 你们会需要好运的 You'll need it
+您知道数学吗？ 你们会需要好运的 你们会需要好运的
 2个笨蛋1个反应堆
 夜晚好吓人！
-OMGWTF NUCLEAR CREEPER
-Pain-In-The-Ass modpack!
+我的天哪，是核爆爬行者
+烦人的整合包！
 您好梅洛！
 你好 HBMTheBobcat！
 你好DreamMaster！
@@ -91,10 +91,10 @@ Pain-In-The-Ass modpack!
 大家都好！
 探索天线等结构获取早期资源  
 构建多个熔炉以加快合金生产  
-Sirens going UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-兄弟这个RBMK反应堆有点热…… 不要在意 Nevermind
-Turrets are doing RATATATATATA
-Brother. 兄弟。 黑暗即将到来。
+正在运行UUUUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUUUUUUU
+兄弟这个RBMK反应堆有点热…… 不要在意 不要在意
+炮塔正在 突突突
+兄弟。 兄弟。 黑暗即将到来。
 使用HE to RF 转换器！
 使用RF to HE 转换器！
 查看mod的 wiki 详细信息
@@ -103,8 +103,8 @@ Brother. 兄弟。 黑暗即将到来。
 控制污染避免这些异虫问题
 使用烟囱来减少污染
 乐趣和实验——NTM提供了无穷的机会
-Creepers are TERRIFYING in here
-也试试 S.T.A.L.K.E.R。 异常伽马！ Anomaly GAMMA!
+爬行者在这好可怕
+也试试 S.T.A.L.K.E.R。 异常伽马！ 异常伽马！
 也试试工厂！
 给妈妈打个电话，让她开心一下
 NEI 配方查找：鼠标悬停+R
@@ -113,57 +113,57 @@ NEI 配方查找：鼠标悬停+R
 排液管对环境来说可能不会太好。
 可以用螺丝刀移除铸造模具。
 这是关于游戏的所有内容
-Craft flippers to swim faster.
+制作脚蹼，游得更快。
 格雷科技6是顶峰了。
 超对称是顶峰。
 bob，请移植到 1.20 版本
 1.8.9 版本很快就会发布，相信我，各位。
-There's meteors. 有陨石。 建造一个屋顶。 (#1) (#1)
-The blast furnace extension increases speed with the same fuel consumption. (#2)
-Don't want to use buckets for water? Use an infinite barrel instead. (#3)
+有陨石。 有陨石。 建造一个屋顶。 (#1) (#1)
+添加高炉烟道后，在燃料消耗不变的情况下，生产速度得以提升。 (#2)
+不想用桶来获取水？ 改用无限桶。 (#3)
 铁炉的燃料效率较高，而且空闲时不燃烧。 (#4) (#4)
 按 F1 获取帮助。 (#5) (#5)
 砖炉能更快地熔炼建筑材料，如沙、石或黏土。 (#6) (#6)
-大型锅炉在满载时可能会爆炸。 Industrial boilers will simply stop. (#7)
-您的 RBMK 泄漏辐射吗？ 使用覆盖层 (#8) Use cover panels. (#8)
+大型锅炉在满载时可能会爆炸。 工业锅炉将停机。 (#7)
+您的 RBMK 泄漏辐射吗？ 使用覆盖层 (#8) 使用覆盖层 (#8)
 流量控制泵可用于改变流体分配优先级别。 (#9) (#9)
-Pneumatic pipes move items instantly, and through unloaded chunks. (#10)
+气体管道即时移动物品并通过卸载区块。 (#10)
 流体可以用排液管排放。 不过，对环境来说并不太好。 (#11) 不好，是污染。 :( (#11)
-Fans are activated by redstone and push entities around. Ideal for tree farms. (#12)
+风扇被红石激活，推送实体周围。 这是很好的树场实现方法。 (#12)
 不要设置微波炉到最高值。 (#13) (#13)
 分馏塔垂直连接，堆叠它们可以提高产量。 (#14) (#14)
-Fullerite too difficult? Make fine soot with a pyrolysis oven. (#15)
-Exploration pays off. Who knows what you'll find. (#16)
-Feeling sick? Check for nearby asbestos. (#17)
-早期需要大量燃料？ 下界全是地狱煤炭。 (#18) The nether is full of flaming coal. (#18)
+完全难度过大？ 用热解炉生产细烟灰。 (#15)
+勘探即将结束。 谁知道你会找到什么。 (#16)
+是否感觉不舒服？ 检查附近的石棉。 (#17)
+早期需要大量燃料？ 下界全是地狱煤炭。 (#18) 下界全是地狱煤炭。 (#18)
 获得一支枪。 (#19) (#19)
-Alexandrite needs explosives to be mined. (#20)
+亚历山大变石需要炸药才能开采。 (#20)
 使用螺丝刀可移除连续铸造机内的铸造模具。 (#21) (#21)
 不，你不能升级受损的镐。 (#22) (#22)
 在液体燃烧器上使用螺丝刀会提高燃烧速度。 (#23) (#23)
 使用染料将会改变连接线的颜色。 (#24) (#24)
 电容器比电池便宜，放电速度更快。 (#25) (#25)
-Any foundry part can be emptied by using a shovel. This drops the contents as foundry scraps. (#26)
+任何铸造部件都可以通过使用铲子清空。 这会将内容物丢弃为铸造废料。 (#26)
 传送器可以传送任何实体，甚至传送带上的物品。 (#27) (#27)
-Some recipes require blueprints which are found in structures. You can also buy them from Bobmazon. (#28)
+有些配方需要在结构中找到蓝图。 你也可以从鲍马逊购买。 (#28)
 这是关于游戏的全部内容。 (#V9) (#V9)
 冬天也会停止，无论什么样子。 (#V9) (#V9)
-You know how we do it. (#V9)
-Man, I'm dead. (#328)
+你知道我们是如何做到的。 (#V9)
+我，我死了。 (#328)
 我们从未找到过尸体。 ( ) ( )
 将小麦磨碎，让面包的份量增加三倍。 (#S1) (#S1)
 你吃了多少面包(#S2)
 VAB的右侧两个槽位用于计算往返其他星球的行程。 (#S3) (#S3)
-Dyson swarm units decay faster the more of them there are. (#S4)
+戴森群体的数量越多，其衰减速度就越快。 (#S4)
 粘土在太空中很有价值！ (#S5) (#S5)
 不要在Y=63坐标降落在Moho、Laythe或Eve上！ (#S6) (#S6)
 装甲改装太可以将PLSS添加到你的装甲上以在太空中呼吸。 (#S7) (#S7)
 友谊火焰不会被容忍！ (#S8) (#S8)
-Craft flippers to swim faster. (#S9)
+制作脚蹼，游得更快。 (#S9)
 有时重型靴子重力很低。 (#S10) (#S10)
 你可以在仅仅0.1atm的纯氧气中生存。 (#S11) (#S11)
 只需一个通风口即可自主呼吸。 (#S12) (#S12)
 二氧化碳洗涤器和藻类生物膜可在轨道上持续回收氧气。 (#S13) (#S13)
-Orbital station can't make a trip? Add more engines! (#S14)
+轨道站不能出行？ 添加更多引擎！ (#S14)
 别忘了克隆您的轨道站驱动器！ (#S15) (#S15)
 wi wi wi。 (#???) 你知道我们是如何做到的。 (#V9)
