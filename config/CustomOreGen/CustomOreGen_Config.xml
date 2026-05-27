@@ -14,11 +14,11 @@
     </OptionDisplayGroup>
 
     <!-- Controls overall frequency of ore deposits.  Range 0–5; default 1 -->
-    <OptionNumeric name="oreFreq" default="1.5" min="0" max="5" displayState="shown"
+    <OptionNumeric name="oreFreq" default="2" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
     <!-- Controls overall size of ore deposits.  Range 0–5; default 1 -->
-    <OptionNumeric name="oreSize" default="1.5" min="0" max="5" displayState="shown"
+    <OptionNumeric name="oreSize" default="2" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
 
