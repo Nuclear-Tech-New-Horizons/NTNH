@@ -160,6 +160,8 @@
 - Updated trash group in lootbags and reduced the trash amount
 - Increased loot amount in lootbags
 - Fixed some really weird bugs related to item textures with Complimentary shaders
+- Reworked russian bold text
+- Removed decocraft
    
 
 
