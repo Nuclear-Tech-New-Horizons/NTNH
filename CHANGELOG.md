@@ -20,6 +20,11 @@
 
 
 **Fixed**
+- Fixed something, so if you found a fixed bug - i fixed it
+   └ i probably did that
+   └ fixed fixes
+   └ but i forgor
+   └ fix me too please
 - Fixed various quiks related to clouds, water and textures when using shaders
 - Fixed uncrafting of the nickel RTG pellet not respecting item metadata
 - Tile entities that use fluids should now force the chunk they are in to be written to disk when unloaded
