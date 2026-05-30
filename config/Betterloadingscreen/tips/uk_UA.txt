@@ -1,131 +1,131 @@
-#Tips for the loading screen
-#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#Підказки завантажувального екрану
+#Дякуємо 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji та іншим за пропозиції підказок
 #
-#Maximal characters for a tip: 77 (more can go out of the screen)
-#The line below, including the "#" are 77 chars
+#Максимальна кількість символів: 77 (більше можливо вийде за екран)
+#Рядок нижче, включно з "#" містить 77 символів
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
-You can bind the quests menu to a key, instead of using the book
-Be sure to check out what you can do with Mouse Tweaks
-Literally flint and steel!
-Adventurer's backpack: integrated crafting grid, bed and fluid storage
-Beware of pollution!
-Found a bug? Report it on GitHub or Discord
-You can bookmark items with NEI ("a" by default)
-It's NEI, not JEI. Use it frequently.
-Your pick is not ready
-Also try GT:NH!
-Put the "Mine" back in Minecraft
-Don't go out at night!
-Abandon all vanilla knowledge all ye who enter here
-Sometimes it's better to flee than fight some mobs
-Be prepared to take hours to build a single multiblock machine!
-Press F7 to see spots where mobs can spawn!
-Press F9 to see chunk borders!
-Microcrafting is love, microcrafting is life
-How many circuits have you crafted in your life?
-XAERO's WORLD MAP: PRESS[M]
-sqrt(-1) loves you!
+Маєте питання? Приєднуйтесь в наш Discord: discord.gg/wtNVzeE5QB
+Ви можете налаштувати відкриття квестів кнопкою, замість книги в інвентарі
+Не забудьте перевірити що можна робити в інвентарі з Mouse Tweaks
+Буквально кремінь та сталь!
+Ранець мандрівника: сітка крафту, ліжко та місце рідини
+Остерігайтеся забруднення!
+Знайшли баг? Повідомте про це на GitHub або Discord
+Ви можете додати елементи до закладок NEI ("a" за замовчуванням)
+Це NEI, а не JEI. Використовуйте його часто.
+Ваше кайло ще не готово
+Також спробуйте GT:NH!
+Поверніть "Mine" в Minecraft
+Не виходь вночі!
+Залиште всі ванільні знання всі ви, хто заходить сюди
+Іноді краще дати драпака, ніж битися з мобами
+Будьте готові витратити години на побудову однієї багатоблочної машини!
+Натисніть F7, щоб побачити, де можуть з'явитися моби!
+Натисніть F9, щоб побачити межі чанків!
+Мікрокрафтинг – це любов, мікрокрафтинг – це життя
+Скільки мікросхем ви створили за своє життя?
+МАПА СВІТУ XAERO's: НАТИСНІТЬ АНГЛІЙСЬКУ [M]
+sqrt(-1) любить тебе!
 (MultiMC > Curse) && (Technic > Curse): true
-All you had to do was tho follow the damn quest line, CJ!
-Click on an item in the quest book to show its recipe in NEI
-Why not visit Nuclear Tech? We have... hydrogen bombs
-If it's too tedious you're doing it wrong
-Do you also watch your oven while baking food?
-There's always something else you can do while waiting
-Use F3 + S to reload the sound if it's gone
-Life's all about opening issues, not closing them - Rongmario
-Visit r/feedthemems!
-I WANT ROCKET I WANT MOON - St4o
-Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
-Did you already crafted AE2 system?
-Press O to hide NEI overlay
-Also try GregTech: New Horizons!
-3.6 Roentegen?
-Factory Must Grow!
-Have you tried Schematica?
-There is a swarm ahead!
-Beware of glyphids
-Hydrogen Bomb VS Coughing Baby
-Say hello to DreamMaster from Bufka2011!
-What? Warden is a hard boss? Pfft... Martian Invasion Ship
-This is not a bug, this is an anomaly!
-ZIRNOX going brrrrrr
-Oh no, ZIRNOX going BOOOOOM
-PotatOS is funny :D
-Did you checked graphics settings?
-How much RAM do you have? 6GB for NT:NH is perfect!
-Do not ragequit
-Historically accurate! Maybe...
-50% scientific accurate!
-How about to share this modpack with your friends?
-The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
-Do you have radiation protection with you?
-Be sure to check out if there is a new update!
-The best way to process ore is Acidizer + Centrifuge
-Crystallized ore gives you 2 ingots when smelting
-NTM's Electric Furnaces are must!
-Don't mine coal without breathing protection
-Number One Asbestos Fan
-She was 'Nuclear' on my 'Tech' until I 'New Horizons'
-Did you already automated food production?
-It's automated, not automized
-Don't forget to feed your cat!
-Minecraft loading can take a while
-World loading can take a while
-You can suggest your ideas on NTNH's GitHub repo!
-You can suggest your ideas on NTNH's Discord!
-You need help with NTM? Find SavageVegeta on YouTube!
-Do you know math? You'll need it
-2 idiots 1 reactor
-Night is REALLY scary!
-OMGWTF NUCLEAR CREEPER
-Pain-In-The-Ass modpack!
-Hello Mellow!
-Hello HBMTheBobcat!
-Hello DreamMaster!
-Hello JamesH2!
-Hello everyone!
-Explore structures like antennas for early resources  
-Build multiple furnaces to speed up alloy production  
-Sirens going UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro this RBMK is so hot... Nevermind
-Turrets are doing RATATATATATA
-Brother. The darkness is coming.
-Use HE to RF converters!
-Use RF to HE converters!
-Check the mod’s wiki for detailed information
-Experiment with machine upgrades to increase efficiency
-Account for pollution mechanics - they impact gameplay
-Control pollution to avoid problems with these cockroaches
-Use soot towers to reduce pollution
-Have fun and experiment - NTM offers endless possibilities
-Creepers are TERRIFYING in here
-Also try S.T.A.L.K.E.R. Anomaly GAMMA!
-Also try Factorio!
-Call your mom, make her happy
-NEI recipe lookup: hover + R
-Standard boilers may explode when running full.
-Fluids can be voided with a drainage pipe.
-Drainage pipe may not be too good for the environment.
-Foundry casts can be removed with a screwdriver.
-It's all about the game
-Craft flippers to swim faster.
-GregTech 6 is peak.
-Supersymmetry is peak.
-bob pls port to 1.20
-1.8.9 port is happening soon trust me guys.
-There's meteors. Build a roof. (#1)
-The blast furnace extension increases speed with the same fuel consumption. (#2)
-Don't want to use buckets for water? Use an infinite barrel instead. (#3)
-Iron furnaces are more fuel efficient, and don't burn while idle. (#4)
-Press F1 for help. (#5)
-Bricked furnaces smelt construction materials faster, like sand, stone or clay. (#6)
-Standard boilers may explode when running full. Industrial boilers will simply stop. (#7)
-Is your RBMK leaking radiation? Use cover panels. (#8)
+Все, що тобі потрібно було зробити, це слідувати клятому квесту, СіДжей!
+Натисніть на предмет у квестбуці, щоб показати його рецепт в NEI
+Чому б не відвідати Nuclear Tech? У нас є... водневі бомби
+Якщо це занадто нудно - ви робите це неправильно
+Ви також стежите за своєю духовкою під час випікання їжі?
+Завжди є щось інше, чим можна зайнятися під час очікування
+Натисніть F3 + S, щоб перезавантажити звук, якщо він зник
+У житті важливо розв'язувати проблеми, а не закривати їх - Ронгмаріо
+Відвідай r/feedthemems!
+Я ХОЧУ РАКЕТУ, Я ХОЧУ МІСЯЦЬ - St4o
+Привіт @Bufka2011, чому ти скопіював наші (GTNH) правила :kekwhat:
+Ти вже створив Систему AE2?
+Натисніть O, щоб приховати інтерфейс NEI
+Також спробуй GregTech: New Horizons!
+3,6 Рентгена?
+Завод має зростати!
+Ви пробували Schematica?
+Тут рій попереду!
+Остерігайся Гліфідів
+Воднева бомба проти кашляючого малюка
+Передавай привіт DreamMaster з Bufka2011!
+Що? Варден тяжкий бос? Пффф... Марсіанський Корабель Вторгнення
+Це не баг, це аномалія!
+ЗІРНОКС робить брррррр
+О ні, ЗІРНОКС робить БУУУУУМ
+PotatOS кумедна :D
+Ти перевірив налаштування графіки?
+Скільки у тебе оперативної пам'яті? 6GB для NT:NH - ідеально!
+Не рви терпець - продовжуй грати
+Історично достовірно! Можливо...
+50% наукової точності!
+Як щодо того, щоб поділитися цим модпаком з друзями?
+Цей чортів метеорит приземлився ВСЕРЕДИНІ нашої кам'яної печери!
+Урааа, забруднення! >:D
+О ні, забруднення. :(
+У вас є з собою захист від радіації?
+Обов'язково перевірте, чи є нове оновлення!
+Найкращий спосіб обробки руди - це підкислювач + центрифуга
+Кристалізована руда дає 2 злитки при переплавці
+Електричні печі NTM це потреба!
+Не видобувайте вугілля без засобів захисту
+Фанат азбесту номер один
+Вона була Ядерна на моїй Технології, поки я не став Новим Горизонтом
+Ви вже автоматизували виробництво продуктів харчування?
+Це автоматизовано, а не оптимізовано
+Не забудьте погодувати свою кицю!
+Завантаження Minecraft може тривати деякий час
+Завантаження світу зайняти певний час
+Ви можете запропонувати свої ідеї у репозиторії GitHub NTNH!
+Ви можете запропонувати свої ідеї в Discord NTNH!
+Вам потрібна допомога з NTM? Знайдіть канал SavageVegeta в Youtube!
+А ти знаєш математику? Вона тобі знадобиться
+2 ідіоти 1 реактор
+Ніч РЕАЛЬНО дуже страшна!
+МАТИ ВАСИЛЕВА ТЕРМОЯДЕРНИЙ КРІПАК
+Біль-у-Сраці зборка!
+Привіт, Mellow!
+Привіт HBMTheBobcat!
+Привіт DreamMaster!
+Доброго дня, JamesH2!
+Привіт усім!
+Досліджуйте такі структури, як антени для початкових ресурсів  
+Побудуйте кілька печей, щоб пришвидшити виробництво сплавів  
+Сирени роблять УУУУУУУУАААААААААААУУУУУУУУАААААААААААУУУУУУУУ
+Бро цей РБМК дуже гарячий... Неважливо
+Турелі роблять РАТАТАТАТАТАТТАТА
+Брате. Темрява наближається.
+Використовуйте конвертори HE на RF!
+Використовуйте конвертори RF на HE!
+Використовуйте вікі моду для докладної інформації
+Експериментуйте з вдосконаленнями машин для підвищення ефективності
+Не забувайте за механіки забруднення - вони впливають на геймплей
+Контролюйте забруднення щоб уникнути проблем з тарганами
+Використовуй димову трубу для того щоб зменшити забруднення
+Розважайтесь і експериментуйте - NTM пропонує нескінченні можливості
+Кріпери тут ДУЖЕ страшні
+Також спробуйте S.T.A.L.K.E.R. Anomaly G.A.M.M.A!
+Також спробуйте Factorio!
+Зателефонуйте своїй мамі, зробіть її щасливою
+Щоб шукати рецепти в NEI - наведіться на річ, натисніть R
+Звичайні бойлери можуть вибухнути при переповненні.
+Рідини можна спорожнити за допомогою стічних труб.
+Стічні труби можуть бути не дуже корисними для середовища.
+Формочки для лиття можна зняти за допомогою викрутки.
+Вся мова йде про гру
+Зробіть ласти щоб плавати швидше.
+GregTech 6 неймовірний.
+Supersymmetry неймовірна.
+bob будь ласка зроби на 1.20
+порт на 1.8.9 з'явиться незабаром повірте мені, чуваки.
+Тут є метеори. Збудуйте дах. (#1)
+Доповнення доменної печі пришвидшує плавління за те й саме паливо. (#2)
+Не хочете використати відра для води? Використовуйте нескінченну діжку. (#3)
+Залізні печі більшефективні за паливом, і не горять в бездіяльності. (#4)
+Для довідки натисніть F1. (#5)
+Цегляні печі швидше плавлять буд-матеріали, як-от пісок, камінь та глину. (#6)
+Звичайні бойлери вибухають коли заповняться. Промислові просто припиняться (#7)
+Твій РБМК випромінює? Використай накладні панелі. (#8)
 Flow control pumps can be used to change fluid distribution priority. (#9)
 Pneumatic pipes move items instantly, and through unloaded chunks. (#10)
 Fluids can be voided with a drainage pipe. Not too good for the environment, though. (#11)
