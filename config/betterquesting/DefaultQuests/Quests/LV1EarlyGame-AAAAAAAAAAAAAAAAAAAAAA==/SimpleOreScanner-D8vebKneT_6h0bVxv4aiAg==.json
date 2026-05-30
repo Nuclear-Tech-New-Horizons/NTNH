@@ -1,25 +1,25 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -7018651477296855465,
-      "questIDLow:4": -8725395520225007410
+      "questIDHigh:4": 6107657297413227965,
+      "questIDLow:4": -5024519252989972104
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §3Decobench§r allows you to craft different props from §dDecocraft§r.\n\nIn order to use the Decobench you should put §6clay§r, §6red dye§r, §6green dye§r and §6blue dye§r in it.",
+      "desc:8": "The tool tells you if there is ore detected in your chunk.\n\nBufka2011 says - \"I personally don\u0027t like this tool and I am hoping to replace it with the geological hammers in future\"",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 508,
+        "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "props:props"
+        "id:8": "simpleorescanner:Simple Ore Scanner"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Decobench",
+      "name:8": "Simple Ore Scanner",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -30,8 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 6590465077758476486,
-  "questIDLow:4": -5235472641382053941,
+  "questIDHigh:4": 1138247889128935422,
+  "questIDLow:4": -6786443663321423358,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -44,9 +44,9 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 508,
+          "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "props:props"
+          "id:8": "simpleorescanner:Simple Ore Scanner"
         }
       },
       "taskID:8": "bq_standard:retrieval"
