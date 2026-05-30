@@ -30,3 +30,6 @@ recipes.remove(<ae2fc:fluid_part>);
 
 recipes.addShaped(<ae2fc:part_fluid_export>, [[<ore:gemLapis>, <appliedenergistics2:item.ItemMultiMaterial:22>, <ore:gemLapis>], [<ore:ingotSteel>, <ore:craftingPiston>, <ore:ingotSteel>]]);
 recipes.addShaped(<ae2fc:part_fluid_import>, [[<ore:gemLapis>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:gemLapis>], [<ore:ingotSteel>, <ore:craftingPiston>, <ore:ingotSteel>]]);
+
+recipes.remove(<ae2fc:fluid_storage.void>);
+recipes.addShapeless(<ae2fc:fluid_storage.void>, [<ae2fc:fluid_storage_housing:1>, <hbm:item.black_hole>]);

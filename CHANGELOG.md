@@ -72,6 +72,7 @@
    └ That crash literally softlocked me out of my world once
 - Fixed sapling drop chance
 - Fixed Laythe ore generation
+- Fixed some AE2 crafts
 
 
 
