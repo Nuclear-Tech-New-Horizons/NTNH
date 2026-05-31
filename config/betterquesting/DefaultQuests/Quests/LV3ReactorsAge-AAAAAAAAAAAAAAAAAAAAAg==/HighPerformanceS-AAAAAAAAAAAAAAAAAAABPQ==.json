@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, aswell as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.\n\nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.\n\n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.\n",
+      "desc:8": "§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, as well as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.\n\nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.\n\n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.\n",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

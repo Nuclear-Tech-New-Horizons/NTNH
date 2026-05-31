@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 1
+      "questIDHigh:4": -1922987534854173511,
+      "questIDLow:4": -8847684645341758176
     }
   },
   "properties:10": {
@@ -16,7 +16,7 @@
         "OreDict:8": "",
         "id:8": "hbm:item.item_expensive"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Additional NTM Modes",

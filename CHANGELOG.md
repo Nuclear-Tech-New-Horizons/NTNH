@@ -1,220 +1,178 @@
-# 2.9.0 Release
-## KEYBOARD WIZARD WAS TEMPORARILY DISABLED
-## BECAUSE OF THE CONTROLLING MOD INCOMPATIBILITY
+# 2.10.0 Release
 
 ## What's changed?
 **Added**
-- Plasma forge
-   └ Plasma-powered assembly machine
-   └ Used to produce lategame items that until now were regular assembler recipes
-   └ Can pass on plasma, 25% of the plasma energy that passes through a plasma forge is consumed
-   └ This allows plasma forges to be chained, or unused residue energy to be used in turbines
-   └ Parts that interact with the fusion reactor directly, like the collector chambers, are not compatible
-   └ Like all assembler-type machines, features custom animations (i spent a lot of time on those, please look at them for prolonged periods of time, ideally without blinking)
-   └ Base production rates for plasma forge exclusive recipes are very slow
-   └ Does not accept upgrades, however, can use up otherwise useless fission fragments and unstable isotopes to gain a temporary x4 speed bonus with no penalty
-   └ Can also assemble fusion reactor vessels, which are cheaper but need quantum circuits
-- Blank Redstone-over-Radio Panel
-   └ A cheap way of extending the size of RoR control consoles without needing unconfigured button or gauge panels
-   └ Now used to craft the other RoR panel variants
-- Redstone-over-Radio numeric display 
-   └ Shows integer RoR values as numbers
-   └ Can have up to two display panels per block
-- Redstone-over-Radio Graph 
-   └ Similar to the numerical display, but instead of showing the number, it logs it every half second and displays it on a graph
-- New grenades
-   └ Universal system where there's only one grenade item
-   └ A grenade is composed of a shell, filling and fuze, which can be mixed and matched as needed
-   └ Instead of having dedicated grenades with impact or long timers, the desired fuze can simply be put into any grenade configuration
-   └ Comes with proper 3D models and animations
-   └ Grenade max stacksize has been drastically reduced (and now depends on the shell used)
-- Atmospheres are now visible from other planets/orbit
-- All planets/moons now generate flat in superflat worlds
-- TheVitya2127 bobblehead
-- Redstone-over-radio lever
-   └ Big breaker switches
-   └ Up to two per module, side by side
-   └ Can send different RoR values based on the lever's position
-- Redstone-over-radio indicator lights
-   └ Colored indicator light panels with labels on them
-   └ Up to six lights per module
-   └ Will light up when an RoR signal falls within the configured threshold
-- Redstone-over-radio pager
-   └ Item that receives RoR signals and displays them on the HUD info system
-   └ Info contains the channel name, a shortened timestamp to tell apart equal signals sent on different ticks, and the actual signal
-   └ Useful in various situations: 
-      └ Usable for remote monitoring, allowing critical things like reactor temperature and coolant flow to be checked even if not on-site
-      └ Using RoR transmitters that are set to polling, it's now very easy to figure out if the chunk the transmitter is in is loaded
-      └ An automated message system for various general alerts, easily doable by using an RoR transmitter with custom mappings (do mind the character limit, longer alerts may have to be sent sequentially)
-      └ A simple way of getting live feedback from the RoR system, in order to detect when or if a system sends a signal, since other RoR receivers do not have a way of telling apart repeated identical signals
-- Satellite orbit and cosmetic modification
-      └ Satellites can now be modified via a GUI that is accessed via crouch + right click
-      └ They now store additional info that defines how they move in the sky
-      └ Holding a satellite will show you a preview of what their final trajectory in the sky will be
-      └ You can configure them to blink too
-- Freecam (default key: F4)
-- ExNihilo
-      └ Allows to get stuff in early game
-      └ Currently it is very raw
-      └ There will be future changes in loots
-- Distant Horizons shader support 🥳
-- New colored texts system
-- Added the missing music discs
-- Lodestone craft
-- Added a few more new quests
-- Added [Improving Minecraft Mod](https://www.curseforge.com/minecraft/mc-mods/improving-minecraft-fork)
-   └ Adds some funny stuff
-   └ Changes the stone age gameplay
-- Added [Smart Tree Falling Mod](https://www.curseforge.com/minecraft/mc-mods/smart-tree-felling)
-- Added [Re: Chests Mod](https://www.curseforge.com/minecraft/mc-mods/rechests)
-- Added [An Extra Touch Mod](https://www.curseforge.com/minecraft/mc-mods/an-extra-touch)
-- Added some more resourcepacks
-   
+- New background images for the loading screen and the main menu
+- Lobotomy
+   └ Do you know who else got dementia?
+- Freight elevator
+   └ A 3x3 hydraulic platform
+   └ Can be stacked
+   └ Only supports two floors, the top and the bottom
+   └ Hopefully not terribly janky
+- Full Color System (https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide)
+- Radial Performance Engine
+- Combustible Lemon
+   └ Science isn't about why, it's about why not
+   └ Considered a secret weapon, go figure out the craft
+   └ DO YOU KNOW WHO I AM?!?!
+- Cool fancy mod menu
+
 
 
 **Fixed**
-- **FIXED ORE GENERATION**
-- Fixed size 15 dual kerosene thruster not rendering at all
-- Fixed HUD/jetpack toggle popup not working at all on multiplayer servers
-- Fixed assembly machine NEI handler not being able to handle all thirteen inputs at once
-- Fixed RBMK fuel channels playing the meltdown sound when broken while hot with meltdowns disabled
-- Fixed destroyer and crate minecarts having the same entity IDs, causing them to turn into each other when loading a save
-- Fixed GL state leak for ICF lasers
-- Fixed broken localization on some armor resistances
-- Fixed afterburn resistance on HEV not working
-- Fixed Floppy Disk recipe
-- Fixed Memory Card recipe
-- Fixed #62
-- Fixed euphemium compound plate recipe not yielding four items as it should in the plasma forge
-- Fixed NTM rare item drops ignoring the mob loot gamerule
-- Fixed flamethrowers not properly igniting entities on direct hit, only via lingering fire
-- Fixed PWR RoR components not properly showing the possible values/functions when connected to ports
-- Fixed missing ports on the plasma forge
-- Fixed wrong texture being bound in the crucible for the molten metal gauge
-- Fixed RoR panels having no hardness at all
-- Undid the change to the crucible where using no recipe would fill up the recipe stack anyway because people would NOT STOP smelting stuff then setting the recipe after the fact which DOES NOT WORK.
-   └ This change however introduced yet another inconsistency with external pouring behavior that I simply cannot be assed to fix, so we are just rolling all that back
-   └ If you're still too dumb, bald or irradiated to use the crucible correctly, please bother LITERALLY ANOYNE EXCEPT ME.
-   └ This basically fixes the aforementioned inconsistency
-- Fixed meteorite sword progression having some issues ever since the fusion reactor rework
-- Fixed the grenade crafting handler not checking if a shell/filling combination is even valid, allowing weird combos
-- Fixed dispenser fired laser grenades crashing the game
-- Fixed schrabidium grenade being obscenely powerful for no reason
-- Fixed annihilator recipe config throwing an error about the recipe list being empty, even though the recipe list should indeed be empty on purpose
-- Fixed barrel connectors appearing between barrels even though they have different fluid types
-- Crash on Tekto with Angelica installed
-- Fixed Adventure jetpacks not working
-- Fixed adventure backpack GUI closing on double-click merging item stacks in inventory
-- Fixed storage bus not read fluid in configurated dual interface
-- Fixed world server memory leak
-- AE2 Crash Fix in Anglica (https://github.com/GTNewHorizons/Angelica/pull/1684)
-- Fixed some issues someone was having with nixos
-- Fixed two world client memory leaks in Angelica
-- Various fixes by @mitchej123 in Angelica
-- Shader fixes
-- Fixed crash with fancy block particles
-- Fixed modded enchant glints not being animated
-- Fixed mob's eyes from z-fighting
-- Fixed no reward crash in quests
-- Fixed server leak in BetterQuesting
-- Fixed ctm of concrete block in Chisel
-- Fixed world client memory leaks caused by block renderers
-- Fixed double slabs dropping full block instead of 2 single slabs with silk touch
-- Fixed Matter Manipulator does not move wireless hubs and wireless connectors correctly
-- Many GUI fixes in AE2
-- Fixed bookmark recipe item order being inconsistent
-- Fixed Collapsed Recipes in Bookmarks
-- Fixed client -> server sync in creative gui
-- Fixed hang glider not usable from offhand
-- Fixed compact chat messing up the grave message
-- Fixed riding issue with hang glider
-- Fixed red room bug related to armor
-- **AND MANY MORE VARIOUS FIXES**
-      └ I am too lazy to list them all
+- Fixed something, so if you found a fixed bug - i fixed it
+   └ i probably did that
+   └ fixed fixes
+   └ but i forgor
+   └ fix me too please
+- Fixed various quiks related to clouds, water and textures when using shaders
+- Fixed uncrafting of the nickel RTG pellet not respecting item metadata
+- Tile entities that use fluids should now force the chunk they are in to be written to disk when unloaded
+   └ This should fix the issue where systems that constantly move fluids around may not properly save to disk
+- Fixed dispensed dynamites being considered impact grenades for some reason
+- Fixed RBMK flux detection with RoR and OC not working
+- Moved the soyuz launcher core component recipe to the assembler, fixing an issue where the component recipe is not available in 528 mode
+- Fixed crash caused by using the copy tool on uncolored RBMK control rods
+- Fixed turbine blade smelting in the crucible only yielding 2 ingots worth of material
+- Fixed cluster missiles never properly splitting before impact
+   └ The final splitting height depends on the trajectory's arc, cluster missiles are therefore not suitable for very long distances
+- Fixed an issue where 40mm grenades that impact entities within three ticks of spawning would never detonate
+- Fixed broken foundry scrap name and tooltip
+- Finally fixed the rotary furnace's steam going into the negatives because 70k was too bald to do it
+- Fixed magnet and HUD toggle popups being incorrect half the time
+- Fixed crash caused by connecting NONE type pipe anchors
+- Fixed color inconsistency with the bedrock ore density scanner
+- HUD and Magnet notifications always showing ON even when turning OFF
+- Eclipses do not affect solar panels or solar boilers
+- MCHeli third person broken due to rocket third person changes
+- Rocket launch pad does not connect with OC cables
+- Lodestar renders in the wrong position with broken alpha
+- Fixed missing Enf Portal craft
+- Fixed some issues with shaders
+- Ore generation fixes
+- Updated fensu trophy
+- Fixed dynamic lights world client leaks
+- Fixed terrible performance on Intel
+- Fixed particles rendering during shadow pass
+- Fixed health bars / thermal sights / bullets rendering during shadow pass
+- Improved texture (black background) fixes
+- Fixed Complementary Shaders not working as expected at night
+- Fixed Solar Tower Boiler recipe
+- Fixed weird blindness effects underground
+- Fixed Russian localization for Iron Chest items
+- Fixed/changed biome search in Nature's Compass
+- Fixed ProjectRed wires not providing redstone power
+- Fixed ServerUtilities buttons not rendering for 1 tick when changing inv tabs
+- Fixed crash when draining Certus Quartz Tank with Large Steel Fluid Cell
+- Fixed offhand item clipping through custom armor models
+- Fixed weird behaviour of chunks if zooming
+- *Probably* fixed hanging while world loading
+- Fixed one really weird and annoying crash related to chunk decoration
+   └ That crash literally softlocked me out of my world once
+- Fixed sapling drop chance
+- Fixed Laythe ore generation
+- Fixed some AE2 crafts
 
 
 
 **Changed**
-- Doubled bismuth and tantalum yields from high-performance solvent bedrock ore processing
-- Hoppers and buckets can now be made out of steel
-- RoR gauges now show the lowest and highest configured value on the actual gauge
-- The steel sword now looks like a medieval broad sword with the appropriate scale
-- All remaining items have been removed from the template folder, siren tracks and plate stamps are now made in the anvil
-- Gerald assembly now requires stellar flux
-- The DFC parts are now made in the plasma forge, with the recipes being more expensive
-- The restrictions for firing Folly (using the scope, waiting for the startup) no longer apply to NPCs (which can never fulfill them anyway), allowing them to actually use it
-- The plinking sound played when a drill cannot break a block now only plays once for the entire AoE instead of once for every single block that couldn't be broken
-- Fluid barrels now have a sideways connector when hooked up to pipes, bridging the two pixel gap
-- Redstone over radio panels now render with their unique parts in the inventory, making the items easier to tell apart
-- Updated russian, spanish, polish, ukrainian, german and chinese localization
-- Removed the euphemium and DNT compound plate recipes from the anvil, they are now plasma forge exclusive
-- More RoR integration
-   └ PWRs can now output the control rod position
-   └ Industrial turbines and leviathans can now output their current energy production
-   └ Industrial turbines can output their current flywheel speed in %
-   └ The ZIRNOX now outputs its heat and pressure
-   └ The CCGT can output the turbine setting in percent, the turbine's RPM and the produced energy
-   └ The fusion reactor plasma vessel can output its output plasma energy and fuel consumption in percent
-- Cast plate foundry molds now have a triple variant
-- Zombies now have a chance to drop copper, aluminium and titanium ingots (1:200 each)
-- The burner press now has nine additional storage slots for things like stamps and reserve fuel
-- Crucible recipes no longer require templates, instead featuring a recipe selector 
-   └ This means that the template folder has been fully deprecated
-   └ The item still exists solely for providing the icon for the recipe selector
-- Improved minigun muzzleflash
-   └ The flash is now faster and larger
-   └ Moved the origin up to be at the firing barrel instead of the center of the rotor
-- RoR implicit addition as well as RoR display components now support 64 bit integer numbers (~9 quintillion) instead of just 32 bits (~2 billion)
-- Antischrabidium can no longer be made via cyclotron, it is now exclusively post particle accelerator
-- Reduced the cost of armor batteries to compensate for the new capacitor recipes
-- Quadrupled the amount of polymer created by recipe
-   └ Petroleum gas required has been doubled
-- Cadmium and fish oil to rubber recipe now needs more fish oil and outputs 16 rubber at once
-- Redesigned StarDar GUI
-- Improved StarDar OC compat
-- Planet icons tweaked for better tiling when rotating 
-   └ Urlum and moons added, can't be visited yet though
-   └ Same with Plock & Karen
-- Invasion waves now use the boss health bar
-- Distant planets are now (more) visible through scopes/zooming
-- Flour, butter, cheese, strawberries, and icecreams are now oredicted
-- More Laythe generation tweaks (ancient roots found deep underground)
-- All RoR panels now have basic item descriptions informing about the screwdriver requirement for configuration
-- EMP grenades now deal 5x damage against anything with powered armor
-   └ Decreased base damage to compensate
-- EMP grenades now destroy machines in a small radius like an EMP missile would
-- Grenades are no longer affected by nuclear blasts or other grenade explosions
-- Players no longer receive the starting guide book on first spawn since it's now very outdated
-- All RoR panels now have QMAW integration
-- Legacy plasma heater and plasma heater hatches which are still found in crashed space ships can now be dismantled into steel pipes, copper pipes and analog circuits
-- Removed legacy plasma block
-- RoR panels now have OpenComputers integration, allowing otherwise fixed parameters like gauge thresholds, channels, and button commands to be adjusted on the fly
-- Solinium blasts now use the new higher poly sphere model and frame interpolation, making the expansion smoother
-- Using a defuser on paintable cables/pipes/tubes that already have a paint applied will toggle the overlay, makng the cable/pipe/tube blend in perfectly
-- Mufflers installed on force fields now disable the loud spark noise caused by impacts
-- RoR readers can now read neutron flux from fuel channels and the fill state of boilers and heat exchangers
-- Canned recursion can now be crafted from canned recursion
-- Soldering recipes are now prioritized over anvil recipes in the NEI listing
-- Paintable blocks now have tooltips explaining all the tools that can be used
-- Restore previous spawn when using Sleeping Bag from Backpack placed in world
-- Removed Villager backpack trade from Villagers
-- Added tooltip to equip/unequip button in Adventure Backpacks GUIs
-- Hiden all colored wireless variant from NEI
-- Implemented compact ctm in Angelica
-- Better horse support
-- Make fog controls work with BoP fog
-- Added concrete slabs and stairs in Chisel
-- Localization of gui title of the ticket machine in Computronics
-- Improve Recipe Badge
-- Added recipe chance to bookmarks
-- Controlling now ships built-in key combo support
-- No more shrooms in caves
-- Minimized interface, cleaned it
-- Removed armor swap
+- BIG early game quest rework (there will be more in future)
+- Disabled armor sounds while walking
+   └ Can be enabled back in anextratouch.cfg
+- Main menu backgrounds are now randomized
+- Updated the website link in the main menu
+- Replaced CoroUtil Library mod with BetterCrashes mod
+- Updated russian and chinese localization
+- Oil bubbles are now 3x more common in deserts (biomes with a temperature value of 2 and rainfall of 0)
+- Oil bubbles now have a 50% chance of spawning a surface indicator (similar to bedrock oil but still distinct)
+- Oil deposits will never drop themselves, they always produce tar when mined
+- Any tar type can now be turned into bitumen in a mixer (with worse efficiency compared to a liquefactor)
+- RoR levers and indicator lights now have OpenComputers integration
+- Alexandrite dropped with fortune is now capped at 2 gems per ore
+- Added a config option for decreasing the soot requirement for skeleton guns (or rather, for the calculation, this number is added to the actual soot value, simulating a higher value)
+- Radioisotope cells and PT cells are now deprecated, and can no longer be crafted
+   └ Existing cells will continue to work for now
+- If two pipe anchors are connected, one having a type set and one still being "none", instead of erroring, the "none" pipe will assume the other one's type
+- Self-chargers in battery sockets now produce unreliable power output which constantly fluctuates
+- Self-chargers in battery sockets now cause static discharges in regular intervals
+- Added more RoR functionality to the boilers, industrial combustion engine, heat exchangers, fluid burners, CCGT and ZIRNOX
+- Turrets can now be toggled and configured with RoR
+- Artillery turrets can now have targets enqueued with RoR
+- The RBMK numeric displays can now be controlled via OpenComputers, and come with built-in settings for shortening numbers and displaying leading zeroes
+- The industrial steam turbine now has OpenComputers integration
+- The RBMK fuel crane can now report stats for the loaded fuel rod to OpenComputers
+- The RBMK console can now detect and send all stored RBMK fuel rods in storage columns via OpenComputers
+- Crates now open when right-clicked by default, holding shift is required to place them down
+- The automatic buzzsaw can now burn coal tar creosote
+- The old cluster type effect used by MPBs and cluster missiles now use the new generic projectile system with actual bomblet models
+- Removed the legacy fusion reactor entirely
+- Changed neutron reflectors
+   └ Reflectors can no longer be made in the blast furnace
+   └ Rather, they are welded from HSS and tungsten carbide
+   └ Tungsten carbide is made in the pyrolysis oven using syngas and tungsten powder
+   └ Many recipes that used to use neutron reflectors now use alternative materials like HSS plates or weapon steel
+   └ This effectively means that neutron reflectors are post oil 3
+   └ PWR neutron reflectors have an alternate recipe allowing them to be made with weaponsteel
+- Removed legacy battery items and selfchargers
+- Added more QMAW pages
+- Expensive mode plastic sheets now only use rubber instead of rubber or latex
+- Updated the texture on the fop thing
+- RoR info on tanks now displays the (0-3) value range of the mode setting
+- Spike, tesla and microwave damage have now been categorized as physical, energy and energy respectively, making armors resistant against them
+- Fau and DNT armor now have explicit physical resistances, making them harder to pierce
+- The rubber recipe now yields two rubber per sulfur used
+- Foundry scraps now show their material in the name instead of the description
+- Bedrock ore minimum tier and bore fluid is no longer fixed at (1/NONE), rather it scales with the quality of the bedrock ore at that spot
+   └ The bedrock ore density scanner will try to predict the required tier and bore fluid at the current spot, and show it as part of the HUD
+   └ This only applies to newly generated bedrock ore patches
+- Reduced industrial turbine cost from 3 titanium steam turbine blades to 2
+- Motors now have yet another alternate recipe in the arc welder, using steel plates but substituting the coils with a dense red copper wires
+- Dense red copper wires can now be welded
+- The old factory hull blocks have been deprecated
+- The singularity screwdriver, being with no purpose ever since the fwatz got removed, has been removed as well
+- Desh motors now use dense golden wires instead of golden ring coils
+- Added "desh from cracked oil" recipe
+   └ Default recipe, doesn't need a blueprint
+   └ Uses cracked light oil instead of regular light oil (500mB at 1 PU, or 2.5x more than the standard recipe, plus one compressor)
+   └ Uses 100mB of mercury instead of 200mB
+- All standard coils now have alternate recipes, using a steel core instead of an iron one
+- Reduced steam demand of the rotary furnace's hotter fuels by a bit
+- The acidizer now has a sound loop (chemplant sound at 75% pitch)
+- Updated some bomb part recipes, mainly to make use of the new neutron reflectors and some more modern materials (why did ivy mike coolers still use iron?)
+- Updated the fat man igniter and gadget wiring icons
+- The cape items, which haven't actually been used by anyone ever, are now deprecated. Existing capes will still work, but the items are now unobtainable
+- Some long deprecated melee weapons have now been properly removed
+- Added OC compat to the RBMK coolers
+- Refueling Station now shows the currently assigned fluid
+- Earth heavy bedrock solvent fraction is now zinc
+- Bedrock ore density scanner will show planet specific ore extraction fluid requirements
+- Certain planet acid requirements will override regular bedrock ore extraction requirements
+- Gas, brine, and Tekto oil blocks now drop empty versions of themselves when mined
+- Demeter is affixed
+- No more volcanos
+- Disabled Exploration Module in Project Red
+- Replaced Rails of War with Zora no Densha
+- Increased P2P packet rate from 50 to 1024!
+- Increased the spawn rate of all ores, and made them bigger in size
+- Removed stalactites and stalagmites
+- Debuffed glyphids
+- Increased max food stack size in a container to 32
+- Decresed food history length to 6
+- Increased the number of times a new player (by World) needs to eat before nutrition system has any effect to 24
+- Updated Complemetary shader clouds
+- Hopefully optimized some shit
+- *Probably* sped up the world loading
+- Leaves don't give you sticks anymore, go find some dead bushes
+- Updated trash group in lootbags and reduced the trash amount
+- Increased loot amount in lootbags
+- Fixed some really weird bugs related to item textures with Complimentary shaders
+- Reworked russian bold text
+- Removed decocraft
+   
 
 
-
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.8.1...2.9.0)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.9.0...2.10.0)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.9.0)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.10.0)

@@ -1,0 +1,15 @@
+menu.ntnh.singleplayer=Tek Oyunculu
+menu.ntnh.singleplayer.hover=Yalnız, yalnız...
+menu.ntnh.multiplayer=Çok Oyunculu
+menu.ntnh.multiplayer.hover=Arkadaşlarla daha iyi!
+menu.ntnh.mods=Modlar
+menu.ntnh.options=Ayarlar
+menu.ntnh.options.hover=> Ayarlar
+menu.ntnh.quit=Çıkış
+menu.ntnh.quit.hover=Hayır! Ayrılma!
+menu.ntnh.feedback=Geri Bildirim
+menu.ntnh.feedback.hover=> Geri Bildirim
+menu.ntnh.files=Oyun Dosyalarını Aç
+menu.ntnh.files.hover=> Oyun dosyalarını Aç
+menu.ntnh.web=Sitemiz
+menu.ntnh.web.hover=> Sitemiz

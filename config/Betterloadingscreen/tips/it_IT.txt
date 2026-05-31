@@ -55,7 +55,7 @@ ZIRNOX fa brrrrrr
 Oh no, ZIRNOX fa BOOOOOM
 PotatOS fa ridere :D
 Hai controllato le impostazioni grafiche?
-Quanta RAM hai? 6GB for NT:NH is perfect!
+Quanta RAM hai? 6GB per NT:NH sono perfetti!
 Non ragequittare
 Storicamente accurato! Forse...
 Scientificamente accurato al 50%!
@@ -111,7 +111,7 @@ Ricerca ricette NEI: cursore + R
 Le caldaie standard possono esplodere quando sono piene.
 I fluidi possono essere eliminati col tubo di drenaggio.
 Il tubo di scarico potrebbe non essere il massimo per l'ambiente.
-Gli stampi della fonderia possono essere rimossi con un cacciavite.
+Gli stampi della fonderia si rimuovono col cacciavite.
 È tutto merito del gioco
 Crafta delle pinne per nuotare più velocemente.
 GregTech 6 è peak.
@@ -138,7 +138,7 @@ Ti senti male? Controlla se c'è amianto nelle vicinanze. (#17)
 Serve molto carburante all'inizio? Il Nether è pieno di carbone ardente. (#18)
 Prenditi una pistola. (#19)
 L'Alessandrite richiede esplosivi per essere estratta. (#20)
-Gli stampi della fonderia si rimuovono col cacciavite. (#21)
+Gli stampi della fonderia possono essere rimossi con un cacciavite. (#21)
 No, non puoi potenziare un piccone danneggiato. (#22)
 Usa un cacciavite su un bruciatore a fluido per aumentare la combustione. (#23)
 Usa del colorante su un pilone per cambiare il colore dei cavi collegati. (#24)

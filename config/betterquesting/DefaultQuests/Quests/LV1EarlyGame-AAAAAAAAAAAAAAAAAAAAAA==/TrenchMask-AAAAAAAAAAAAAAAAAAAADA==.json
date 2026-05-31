@@ -1,14 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 1
+      "questIDHigh:4": 7340101258682910999,
+      "questIDLow:4": -7010980744998178033
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.\n\n§2String can be easily obtained by harvesting Hemp, found in the wild.",
+      "desc:8": "The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.\n\n§2String can be easily obtained by harvesting Hemp, found in the wild.\n\n§rI hate to say it, but you are basically sniffing your own piss...",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

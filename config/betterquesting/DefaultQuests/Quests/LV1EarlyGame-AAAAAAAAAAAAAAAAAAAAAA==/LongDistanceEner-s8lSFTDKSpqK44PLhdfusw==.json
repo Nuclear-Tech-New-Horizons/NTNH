@@ -6,7 +6,8 @@
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 26
+      "questIDLow:4": 26,
+      "type:1": 1
     }
   },
   "properties:10": {
@@ -20,7 +21,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.substation"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Long Distance Energy Transportation",

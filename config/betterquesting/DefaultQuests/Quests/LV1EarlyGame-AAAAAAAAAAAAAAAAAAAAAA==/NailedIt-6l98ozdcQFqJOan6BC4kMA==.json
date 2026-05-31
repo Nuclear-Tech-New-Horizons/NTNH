@@ -1,14 +1,14 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 1
+      "questIDHigh:4": -7018651477296855465,
+      "questIDLow:4": -8725395520225007410
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.\n\nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers —\nwood through diamond — and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.\n\nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus\nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.\n\n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.\n§2Check JEI for the full crushing chain of any block.",
+      "desc:8": "The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.\n\nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -\nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.\n\nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus\nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.\n\n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.\n§2Check JEI for the full crushing chain of any block.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

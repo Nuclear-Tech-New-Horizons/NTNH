@@ -1,0 +1,42 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1480799430013988952,
+      "questIDLow:4": -7026261729308851187
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§dHunger Overhaul§r makes hunger a genuine threat rather than a mild inconvenience.\n\nHunger now drains passively over time, even while idle. Reaching zero kills you instantly. Low hunger inflicts slowness, weakness, and reduced mining speed before that point. Eating grants a §6Well Fed§r effect that boosts health regeneration - the larger the meal, the longer it lasts.\n\nFood values are re-balanced by meal size. Raw ingredients restore very little; prepared meals restore substantially more. Larger meals take longer to eat and stack less in your inventory.\n\nCrops only grow during daytime and take much longer to mature. Wood and stone hoes are removed - you need at least an iron hoe to till soil. Farmland must be placed adjacent to water or it will not function.\n\n§dSpice of Life: Carrot Edition§r rewards dietary variety. Each unique food eaten for the first time permanently increases your maximum health. Eating the same food repeatedly provides no bonus.\n\n§2The more diverse your diet, the more hearts you have - build a varied farm as early as possible.§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "harvestcraft:delightedmealItem"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Hunger System",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 1597156130510686175,
+  "questIDLow:4": -8148762555774367770,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}
