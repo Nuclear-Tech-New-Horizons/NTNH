@@ -18,7 +18,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          # Clone the server repository into a directory OUTSIDE the workspace
+          # Clone the server repository to /tmp
           cd /tmp
           git clone https://x-access-token:${{ secrets.UNIVERSAL_FINE }}@github.com/NTNewHorizons/NTNH-Server.git server-repo
 
@@ -26,8 +26,7 @@ jobs:
           cd /tmp/server-repo
           git rm -r --ignore-unmatch mods config scripts serverutilities 2>/dev/null || true
 
-          # Sync from client repo (current working directory is still the checkout)
-          # Exclude: git, server files, server-repo clone, and client-only mods
+          # Sync from client repo, using absolute path for exclude file
           rsync -av --delete \
             --exclude='.git/' \
             --exclude='server/' \
@@ -43,7 +42,7 @@ jobs:
             --exclude='SECURITY.md' \
             --exclude='.gitattributes' \
             --exclude='.gitignore' \
-            --exclude-from='server/client-only.txt' \
+            --exclude-from='${{ github.workspace }}/server/client-only.txt' \
             ${{ github.workspace }}/ /tmp/server-repo/
 
           # Commit and push
