@@ -1,10 +1,8 @@
 name: Sync to Server Repo
 
 on:
-  # Trigger only when a release is published on main
   release:
     types: [published]
-  # Allow manual trigger for testing or emergency sync
   workflow_dispatch:
 
 jobs:
@@ -20,23 +18,36 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          # Clone the server repository
+          # Clone the server repository into a directory OUTSIDE the workspace
+          cd /tmp
           git clone https://x-access-token:${{ secrets.UNIVERSAL_FINE }}@github.com/NTNewHorizons/NTNH-Server.git server-repo
 
-          # Remove auto-synced directories in the server repo to ensure clean state
-          cd server-repo
+          # Remove auto-synced directories in the server repo
+          cd /tmp/server-repo
           git rm -r --ignore-unmatch mods config scripts serverutilities 2>/dev/null || true
-          cd ..
 
-          # Copy everything from the client repo except excluded paths
+          # Sync from client repo (current working directory is still the checkout)
+          # Exclude: git, server files, server-repo clone, and client-only mods
           rsync -av --delete \
             --exclude='.git/' \
-            --exclude='server/client-only.txt' \
+            --exclude='server/' \
+            --exclude='server-repo/' \
+            --exclude='install/' \
+            --exclude='README.md' \
+            --exclude='eula.txt' \
+            --exclude='start.sh' \
+            --exclude='start.bat' \
+            --exclude='.github/' \
+            --exclude='CHANGELOG.md' \
+            --exclude='LICENSE' \
+            --exclude='SECURITY.md' \
+            --exclude='.gitattributes' \
+            --exclude='.gitignore' \
             --exclude-from='server/client-only.txt' \
-            ./ server-repo/
+            ${{ github.workspace }}/ /tmp/server-repo/
 
-          # Commit and push changes to the server repository
-          cd server-repo
+          # Commit and push
+          cd /tmp/server-repo
           git add -A
           git diff --cached --quiet || git commit -m "sync: release ${{ github.event.release.tag_name }} from NTNH main"
           git push origin main
