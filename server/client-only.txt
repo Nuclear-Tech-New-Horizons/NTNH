@@ -19,5 +19,6 @@ mods/duradisplay*.jar
 mods/DynamicSurroundings*.jar
 mods/ResourcePackOrganizer*.jar
 mods/SoundFilters*.jar
+mods/neverenoughanimations*.jar
 resourcepacks/**
 shaderpacks/**
