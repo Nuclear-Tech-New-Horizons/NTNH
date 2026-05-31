@@ -27,23 +27,7 @@ jobs:
           git rm -r --ignore-unmatch mods config scripts serverutilities 2>/dev/null || true
 
           # Sync from client repo, using absolute path for exclude file
-          rsync -av --delete \
-            --exclude='.git/' \
-            --exclude='server/' \
-            --exclude='server-repo/' \
-            --exclude='install/' \
-            --exclude='README.md' \
-            --exclude='eula.txt' \
-            --exclude='start.sh' \
-            --exclude='start.bat' \
-            --exclude='.github/' \
-            --exclude='CHANGELOG.md' \
-            --exclude='LICENSE' \
-            --exclude='SECURITY.md' \
-            --exclude='.gitattributes' \
-            --exclude='.gitignore' \
-            --exclude-from='${{ github.workspace }}/server/client-only.txt' \
-            ${{ github.workspace }}/ /tmp/server-repo/
+          rsync -av --delete             --exclude='.git/'             --exclude='server/'             --exclude='server-repo/'             --exclude='install/'             --exclude='README.md'             --exclude='eula.txt'             --exclude='start.sh'             --exclude='start.bat'             --exclude='.github/'             --exclude='CHANGELOG.md'             --exclude='LICENSE'             --exclude='SECURITY.md'             --exclude='.gitattributes'             --exclude='.gitignore'             --exclude-from='${{ github.workspace }}/server/client-only.txt'             ${{ github.workspace }}/ /tmp/server-repo/
 
           # Commit and push
           cd /tmp/server-repo
