@@ -12,25 +12,45 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          lfs: true
 
       - name: Sync to NTNH-Server
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          # Clone the server repository to /tmp
           cd /tmp
-          git clone https://x-access-token:${{ secrets.UNIVERSAL_FINE }}@github.com/NTNewHorizons/NTNH-Server.git server-repo
+          git lfs install
+          git clone "https://x-access-token:${{ secrets.UNIVERSAL_FINE }}@github.com/NTNewHorizons/NTNH-Server.git" server-repo
 
-          # Remove auto-synced directories in the server repo
           cd /tmp/server-repo
+          git lfs install
           git rm -r --ignore-unmatch mods config scripts serverutilities 2>/dev/null || true
 
-          # Sync from client repo, using absolute path for exclude file
-          rsync -av --delete             --exclude='.git/'             --exclude='server/'             --exclude='server-repo/'             --exclude='install/'             --exclude='README.md'             --exclude='eula.txt'             --exclude='start.sh'             --exclude='start.bat'             --exclude='.github/'             --exclude='CHANGELOG.md'             --exclude='LICENSE'             --exclude='SECURITY.md'             --exclude='.gitattributes'             --exclude='.gitignore'             --exclude-from='${{ github.workspace }}/server/client-only.txt'             ${{ github.workspace }}/ /tmp/server-repo/
+          rsync -av --delete \
+            --exclude='.git/' \
+            --exclude='server/' \
+            --exclude='install/' \
+            --exclude='README.md' \
+            --exclude='eula.txt' \
+            --exclude='start.sh' \
+            --exclude='start.bat' \
+            --exclude='.github/' \
+            --exclude='CHANGELOG.md' \
+            --exclude='LICENSE' \
+            --exclude='SECURITY.md' \
+            --exclude='.gitattributes' \
+            --exclude='.gitignore' \
+            --exclude-from="${{ github.workspace }}/server/client-only.txt" \
+            "${{ github.workspace }}/" /tmp/server-repo/
 
-          # Commit and push
           cd /tmp/server-repo
           git add -A
-          git diff --cached --quiet || git commit -m "sync: release ${{ github.event.release.tag_name }} from NTNH main"
+
+          if git diff --cached --quiet; then
+            echo "No changes to sync."
+            exit 0
+          fi
+
+          git commit -m "sync: release ${{ github.event.release.tag_name || github.sha }} from NTNH main"
           git push origin main
