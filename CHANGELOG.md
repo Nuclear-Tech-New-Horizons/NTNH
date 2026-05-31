@@ -10,7 +10,6 @@
    └ Can be stacked
    └ Only supports two floors, the top and the bottom
    └ Hopefully not terribly janky
-- Full Color System (https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide)
 - Radial Performance Engine
 - Combustible Lemon
    └ Science isn't about why, it's about why not
