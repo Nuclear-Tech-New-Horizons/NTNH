@@ -8,7 +8,7 @@
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_wood_burner"
+        "id:8": "hbm:tile.machine_difurnace_off"
       },
       "name:8": "LV1 - Early Game",
       "visibility:8": "NORMAL"

@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 25
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §3Diesel Generator§r is a compact, single-block generator that burns liquid fuels to produce energy. Its small footprint and compatibility with common oil-processing byproducts make it a strong choice for early- and mid-game power.\n\nIt holds up to §b4,000 mB§r of fluid internally, consumed at a steady rate of §e20 mB/s§r. It also carries a §e50 kHE§r energy buffer - but combustion does not pause when the buffer is full, so any excess energy is wasted. To avoid this, ensure your machines are drawing power consistently.\n\nFuel can be supplied via fluid ducts or by placing barrels in the internal item slots. A §6Fluid Identifier§r can be inserted to lock the accepted fuel type. Not all fuels are equal - effectiveness varies by grade: medium-grade fuels run at §e50%%§r efficiency, high-grade at §e75%§r, and aviation fuels at just §e10%§r. Low-grade and gaseous fuels are rejected entirely.\n\n§2Tip: High-grade fuels like diesel, gasoline, and biofuel get the best return - prioritize refining your oil into these where possible.§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "hbm:tile.machine_diesel"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Diesel Generator",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 1306029136933572136,
+  "questIDLow:4": -7894191337086736848,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:tile.machine_diesel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -104,3 +104,7 @@ recipes.addShaped(<appliedenergistics2:tile.BlockChest>, [[<appliedenergistics2:
 recipes.addShaped(<appliedenergistics2:tile.BlockSpatialIOPort>, [[<appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:tile.BlockQuartzGlass>, <appliedenergistics2:tile.BlockQuartzGlass>], [<appliedenergistics2:item.ItemMultiPart:16>, <appliedenergistics2:tile.BlockIOPort>, <appliedenergistics2:item.ItemMultiPart:16>], [<ore:plateSextupleSteel>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:plateSextupleSteel>]]);
 recipes.addShaped(<appliedenergistics2:tile.BlockSecurity>, [[<ore:plateSextupleSteel>, <appliedenergistics2:tile.BlockChest>, <ore:plateSextupleSteel>], [<appliedenergistics2:item.ItemMultiPart:16>, <appliedenergistics2:item.ItemMultiMaterial:37>, <appliedenergistics2:item.ItemMultiPart:16>], [<ore:plateSextupleSteel>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:plateSextupleSteel>]]);
 recipes.addShaped(<appliedenergistics2:tile.BlockCharger>, [[<ore:plateSextupleSteel>, <ore:crystalFluix>, <ore:plateSextupleSteel>], [<hbm:tile.steel_poles>, null, null], [<ore:plateSextupleSteel>, <ore:crystalFluix>, <ore:plateSextupleSteel>]]);
+
+recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:68>);
+recipes.remove(<appliedenergistics2:item.ItemVoidStorageCell>);
+recipes.addShapeless(<appliedenergistics2:item.ItemVoidStorageCell>, [<hbm:item.black_hole>, <appliedenergistics2:item.ItemMultiMaterial:39>]);

@@ -1,0 +1,69 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3894422327576932604,
+      "questIDLow:4": -8870866079077399040
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Congratulations. You have done it. You have actually done it.\n\nWhile the rest of the world clung desperately to their beef and their bread, you - yes, YOU - reached into your inventory, pulled out a §6Silkworm§r, and thought: \"yes. This is food now.\" Klaus is proud. Klaus is, in fact, emotional. Somewhere in a Swiss\nchalet, a single tear rolls down his turtleneck. You will own nothing. You will have no hunger bar. Und you will be happy.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "exnihilo:silkworm_cooked"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "You WILL eat ze bugs!",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "SECRET"
+    }
+  },
+  "questIDHigh:4": -551893706836064048,
+  "questIDLow:4": -6735245494284305925,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "exnihilo:silkworm_cooked"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "exnihilo:silkworm_cooked"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

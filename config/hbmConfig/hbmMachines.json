@@ -42,6 +42,14 @@
   "radar_large": {
     "I:radarLargeRange": 3000
   },
+  "radialengine": {
+    "L:powerCap": 250000,
+    "I:fuelCap": 16000,
+    "D:pistonGenExponent": 1.0,
+    "INFO": "Fuel grades in order: LOW MEDIUM HIGH AERO GAS",
+    "D[:efficiency": [0.75,0.5,0.25,0.0,0.0],
+    "B:shutUp": false
+  },
   "forcefield": {
     "L:powerCap": 1000000,
     "I:baseConsumption": 1000,

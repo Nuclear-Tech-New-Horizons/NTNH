@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7018651477296855465,
+      "questIDLow:4": -8725395520225007410
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.\n\nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.\n\nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.\n\n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel\nand power production.\n§2Check NEI for all valid heat sources and their melt rates.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "exnihilo:crucible"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Primitive Crucible",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -4528572839507964865,
+  "questIDLow:4": -4808784924194840949,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "exnihilo:crucible"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

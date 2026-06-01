@@ -1,0 +1,42 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1480799430013988952,
+      "questIDLow:4": -7026261729308851187
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Three mods overhaul farming and food in this pack.\n\n§dPam\u0027s HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.\n\n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.\n\n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.\n\n§2Plan your farm layout around water before tilling.§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "AgriCraft:debugger"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Agriculture and Farming",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7393826177143426704,
+  "questIDLow:4": -5800711279727378144,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

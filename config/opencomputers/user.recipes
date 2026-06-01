@@ -40,3 +40,4 @@ eeprom {
           ["oc:circuitChip1", {item="hbm:item.circuit", subID=3}, "oc:circuitChip1"]
           ["", "oc:materialTransistor", ""]]
 }
+floppy = true

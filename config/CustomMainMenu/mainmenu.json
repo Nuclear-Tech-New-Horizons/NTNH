@@ -200,7 +200,7 @@
 			"texture": "mainmenu:textures/button_middle_right.png",					
 			"action": {
 				"type": "openLink",
-				"link": "https://ntnewhorizons.github.io/"
+				"link": "https://ntnewhorizons.com"
 			}
 		}
     },
@@ -232,18 +232,27 @@
 			"image": "",
 			"slideshow": {
 				"images": [
-					"mainmenu:textures/mun.png",
-					"mainmenu:textures/minmus.png",
+					"mainmenu:textures/beach.png",
+					"mainmenu:textures/chicken.png",
 					"mainmenu:textures/dres.png",
-					"mainmenu:textures/moho.png",
 					"mainmenu:textures/duna.png",
 					"mainmenu:textures/eve.png",
+					"mainmenu:textures/factory.png",
+					"mainmenu:textures/ike.png",
 					"mainmenu:textures/laythe.png",
-                    "mainmenu:textures/ike.png",
-                    "mainmenu:textures/tekto.png"
+					"mainmenu:textures/minmus.png",
+					"mainmenu:textures/moho.png",
+					"mainmenu:textures/mountain.png",
+					"mainmenu:textures/mun.png",
+					"mainmenu:textures/nature.png",
+					"mainmenu:textures/powerplant.png",
+					"mainmenu:textures/rbmk.png",
+					"mainmenu:textures/tekto.png",
+					"mainmenu:textures/water.png"
 				],
 				"displayDuration": 150,
-				"fadeDuration": 40
+				"fadeDuration": 40,
+				"shuffle": true
 			}
 		}		
     }

@@ -1,0 +1,61 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7018651477296855465,
+      "questIDLow:4": -8725395520225007410
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.\n\nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.\n\nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before\ninfesting a tree.\n\n§2Cook Silkworms in a furnace for a small food source in a pinch.\n§2Silkworms can also be composted in a Barrel if you have a surplus.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "exnihilo:silkworm"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Silkworm",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3894422327576932604,
+  "questIDLow:4": -8870866079077399040,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "exnihilo:crook"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "exnihilo:silkworm"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

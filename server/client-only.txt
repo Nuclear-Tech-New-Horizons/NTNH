@@ -1,0 +1,24 @@
+config/txloader/forceload/custommainmenu/**
+config/txloader/forceload/mainmenu/**
+config/txloader/forceload/minecraft/sounds/music/menu/**
+mods/ArmoredArms*.jar
+mods/Better HUD*.jar
+mods/BetterAchievements*.jar
+mods/betterloadingscreen*.jar
+mods/betterplacement*.jar
+mods/Blur*.jar
+mods/catalouge*.jar
+mods/chromatictooltips*.jar
+mods/CleanView*.jar
+mods/coloredhearts*.jar
+mods/CraftPresence*.jar
+mods/custommainmenu*.jar
+mods/defaultkeys*.jar
+mods/defaultserverlist*.jar
+mods/duradisplay*.jar
+mods/DynamicSurroundings*.jar
+mods/ResourcePackOrganizer*.jar
+mods/SoundFilters*.jar
+mods/neverenoughanimations*.jar
+resourcepacks/**
+shaderpacks/**
