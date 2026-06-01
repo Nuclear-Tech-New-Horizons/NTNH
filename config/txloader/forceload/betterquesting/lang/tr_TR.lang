@@ -1553,23 +1553,23 @@ betterquesting.quest.zElcW5PDQwGOvbKnyroWEQ.desc=A §3Keyboard§r is needed to t
 
 
 ## Quest Line: Kill All the Things
-betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.name=Kill All the Things
-betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.desc=You monster.
+betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.name=Her Şeyi Öldür
+betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.desc=Sen canavarsın.
 
 # Quest: Time to Kill (Pig)
-betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.name=Time to Kill (Pig)
-betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.desc=Mmm... turn on the grill. We need more meat.
+betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.name=Öldürme Vakti (Domuz)
+betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.desc=Mmm... ızgarayı çalıştır. Daha fazla ete ihtiyacımız var.
 
 # Quest: Time to Kill (Pigman)
-betterquesting.quest.2R1OOnI5S0K57TglRYmGng.name=Time to Kill (Pigman)
-betterquesting.quest.2R1OOnI5S0K57TglRYmGng.desc="Zombie Pigman"? What the hell is going on with you zombies?! Maybe you should encase your animals better at night...
+betterquesting.quest.2R1OOnI5S0K57TglRYmGng.name=Öldürme Vakti (Domuz Adam)
+betterquesting.quest.2R1OOnI5S0K57TglRYmGng.desc="Zombi Domuz Adam"? Siz zombilere ne oluyor böyle?! Belki de hayvanlarınızı gece daha iyi korumanız gerekir...
 
 # Quest: Time to Kill (Cow)
-betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.name=Time to Kill (Cow)
-betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.desc=I think I need a new backpack. Let's slaughter a few cows.
+betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.name=Öldürme Vakti (İnek)
+betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.desc=Bence yeni bir çantaya ihtiyacım var. Hadi biraz inek katliamı yapalım.
 
 # Quest: Time to Kill (Witch)
-betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.name=Time to Kill (Witch)
+betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.name=Öldürme Vakti (Cadı)
 betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.desc=Witches bring stitches because they are always infernal and very dangerous. Be careful since they throw potions at you.
 
 # Quest: Maskman
