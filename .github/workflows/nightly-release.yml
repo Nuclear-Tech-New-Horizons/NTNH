@@ -31,7 +31,7 @@ jobs:
           echo "Current base version: $VERSION"
           
           # Get all release tags for this version to find the last nightly number
-          LAST_NIGHTLY=$(git tag -l "v${VERSION}-nightly-*" 2>/dev/null | sed "s/v${VERSION}-nightly-//" | sort -V | tail -n1)
+          LAST_NIGHTLY=$(git tag -l "${VERSION}-nightly-*" 2>/dev/null | sed "s/${VERSION}-nightly-//" | sort -V | tail -n1)
           
           if [ -z "$LAST_NIGHTLY" ]; then
             # No previous nightly for this version, start at 01
@@ -53,8 +53,8 @@ jobs:
           # Find the previous nightly tag
           if [ "$NIGHTLY_NUM" = "01" ]; then
             # First nightly for this version, get all commits since the version's tag was created
-            # Find the most recent stable release tag (v<number> format without nightly)
-            LAST_TAG=$(git tag -l "v*" --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n1)
+            # Find the most recent stable release tag (format: number only, without nightly or v prefix)
+            LAST_TAG=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n1)
             if [ -z "$LAST_TAG" ]; then
               # No tags exist, use all commits
               COMMIT_RANGE="HEAD"
@@ -64,7 +64,7 @@ jobs:
           else
             # Get commits since last nightly
             PREV_NIGHTLY_NUM=$(printf "%02d" $((10#${NIGHTLY_NUM} - 1)))
-            LAST_NIGHTLY_TAG="v${VERSION}-nightly-${PREV_NIGHTLY_NUM}"
+            LAST_NIGHTLY_TAG="${VERSION}-nightly-${PREV_NIGHTLY_NUM}"
             COMMIT_RANGE="${LAST_NIGHTLY_TAG}..HEAD"
           fi
           
@@ -84,9 +84,9 @@ jobs:
         run: |
           VERSION="${{ steps.version.outputs.version }}"
           
-          # Find the most recent stable release (tags with v<number> format, not containing 'nightly')
-          PREV_STABLE=$(git tag -l "v*" --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n2 | head -n1)
-          CURRENT_STABLE="v${VERSION}"
+          # Find the most recent stable release (tags without 'nightly' and without v prefix)
+          PREV_STABLE=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n2 | head -n1)
+          CURRENT_STABLE="${VERSION}"
           
           if [ -z "$PREV_STABLE" ]; then
             PREV_STABLE="initial"
@@ -133,7 +133,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{ steps.version.outputs.version }}-nightly-${{ steps.version.outputs.number }}
+          tag_name: ${{ steps.version.outputs.version }}-nightly-${{ steps.version.outputs.number }}
           release_name: NTNH ${{ steps.version.outputs.version }} Nightly ${{ steps.version.outputs.number }}
           body: |
             ⚠️ **Warning:** This is a development/testing build and may contain bugs and/or break your world save. Use at your own risk!
