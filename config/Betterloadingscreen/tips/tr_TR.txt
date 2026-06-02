@@ -29,8 +29,7 @@ XAERO'nun DÜNYA HARİTASI: BAS[M]
 sqrt(-1) seni seviyor!
 (MultiMC > Lanet) && (Teknik > Lanet): doğru
 Tüm yapacağın iş lanet olası görev sırasını takip etmekti, CJ!
-
-Görev kitabındaki bir eşyaya tıklayarak NEI'deki tarifini görüntüleyebilirsiniz.
+Görev kitabındaki bir eşyaya tıklayarak NEI'deki tarifini görüntüleyebilirsiniz
 Nükleer Teknolojiyi neden ziyaret etmiyorsun? Şeye sahibiz... hidrojen bombaları
 Eğer çok can sıkıcıysa sen yanlış yapıyorsun
 Sen de mi fırının yemek pişirirken izliyorsun?
@@ -39,7 +38,7 @@ Eğer sesler gittiyse F3 + S kullanarak sesleri yenile
 Hayat, sorunları kapatmak değil, onları açmakla ilgilidir - Rongmario
 R/feedthemems'i ziyaret et!
 ROKET İSTİYORUM AY İSTİYORUM - St4o
-Merhaba @Bufka2011, neden bizim (GTNH) kurallarımızı kopyaladın? :kekwhat
+Merhaba @Bufka2011, neden bizim (GTNH) kurallarımızı kopyaladın? :kekwhat:
 Şimdiden AE2 sistemini ürettin mi?
 NEI katmanını gizlemek için O tuşuna basın
 Also try GregTech: New Horizons!
@@ -105,7 +104,7 @@ Control pollution to avoid problems with these cockroaches
 Use soot towers to reduce pollution
 Have fun and experiment - NTM offers endless possibilities
 Creeperlar burada KORKUNÇ
-Ayrıca S.T.A.L.K.E.R. ı dene Anomaly GAMMA!
+Ayrıca S.T.A.L.K.E.R. ı dene. Anomaly GAMMA!
 Also try Factorio!
 Anneni ara, onu mutlu et
 NEI recipe lookup: hover + R
@@ -115,8 +114,8 @@ Drainage pipe may not be too good for the environment.
 Foundry casts can be removed with a screwdriver.
 Hepsi oyunla alakalı
 Craft flippers to swim faster.
-GregTech 6 is peak.
-Supersymmetry is peak.
+GregTech 6 zirvedir.
+Supersymmetry zirvedir.
 bob pls port to 1.20
 1.8.9 port is happening soon trust me guys.
 There's meteors. Çatı inşa et. (#1)
