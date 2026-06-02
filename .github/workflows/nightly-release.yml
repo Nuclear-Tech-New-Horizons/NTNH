@@ -1,0 +1,97 @@
+name: Nightly Release
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at 00:00 UTC
+  workflow_dispatch:  # Allow manual trigger as backup
+
+jobs:
+  nightly-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Checkout updates/upcoming branch
+        run: |
+          git fetch origin updates/upcoming
+          git checkout updates/upcoming
+          git pull origin updates/upcoming
+      
+      - name: Get version and calculate nightly number
+        id: version
+        run: |
+          # Extract version from version.txt (e.g., "2.11.0" from "NTNH 2.11.0 (2026-05-31)")
+          FULL_LINE=$(head -n 1 config/txloader/forceload/mainmenu/version.txt)
+          VERSION=$(echo "$FULL_LINE" | sed 's/NTNH //;s/ .*//')
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Current base version: $VERSION"
+          
+          # Get all release tags for this version to find the last nightly number
+          LAST_NIGHTLY=$(git tag -l "v${VERSION}-nightly-*" 2>/dev/null | sed "s/v${VERSION}-nightly-//" | sort -V | tail -n1)
+          
+          if [ -z "$LAST_NIGHTLY" ]; then
+            # No previous nightly for this version, start at 01
+            NIGHTLY_NUM=01
+          else
+            # Increment the last nightly number
+            NIGHTLY_NUM=$(printf "%02d" $((10#${LAST_NIGHTLY} + 1)))
+          fi
+          
+          echo "number=$NIGHTLY_NUM" >> $GITHUB_OUTPUT
+          echo "Nightly number: $NIGHTLY_NUM"
+      
+      - name: Update version.txt
+        run: |
+          # Append Nightly-XX to the first line while preserving everything else
+          sed -i "1s/$/ Nightly-${{ steps.version.outputs.number }}/" config/txloader/forceload/mainmenu/version.txt
+          echo "Updated version.txt:"
+          cat config/txloader/forceload/mainmenu/version.txt
+      
+      - name: Update concheckrmd.cfg
+        run: |
+          # Extract the full first line from version.txt (which now includes Nightly-XX)
+          FULL_VERSION=$(head -n 1 config/txloader/forceload/mainmenu/version.txt | sed 's/NTNH //')
+          # Update the greeting message to use the full version string
+          sed -i "s/Welcome to NTNH.*/Welcome to NTNH ${FULL_VERSION}!/" config/concheckrmd.cfg
+          echo "Updated concheckrmd.cfg:"
+          grep "Custom greeting message text" config/concheckrmd.cfg
+      
+      - name: Create package directory
+        run: |
+          mkdir -p /tmp/package
+          cp -r . /tmp/package/NTNH
+      
+      - name: Create ZIP archive
+        id: zip
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          ZIP_NAME="NTNH-${VERSION}-Nightly-${{ steps.version.outputs.number }}-Native.zip"
+          cd /tmp/package
+          zip -r "$ZIP_NAME" NTNH -x "*.git/*" ".github/*"
+          mv "$ZIP_NAME" /tmp/
+          echo "zip_name=$ZIP_NAME" >> $GITHUB_OUTPUT
+          echo "Created: $ZIP_NAME"
+          ls -lh /tmp/*.zip
+      
+      - name: Create Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ steps.version.outputs.version }}-nightly-${{ steps.version.outputs.number }}
+          release_name: NTNH ${{ steps.version.outputs.version }} Nightly ${{ steps.version.outputs.number }}
+          body: |
+            # NTNH ${{ steps.version.outputs.version }} Nightly ${{ steps.version.outputs.number }}
+            
+            This is a nightly pre-release build from the `updates/upcoming` branch.
+            
+            **Branch:** updates/upcoming
+            
+            **Warning:** This is a development/testing build and may contain bugs. Use at your own risk!
+          draft: false
+          prerelease: true
+          files: /tmp/${{ steps.zip.outputs.zip_name }}
