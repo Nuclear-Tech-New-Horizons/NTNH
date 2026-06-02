@@ -68,17 +68,13 @@ jobs:
           fi
           
           # Generate commit list in markdown format
-          COMMITS=$(git log "$COMMIT_RANGE" --pretty=format:'- `%h` - %an: %s' 2>/dev/null | head -20)
-          
-          # Check if there are more commits than shown
-          TOTAL_COMMITS=$(git rev-list --count "$COMMIT_RANGE" 2>/dev/null || echo "0")
+          COMMITS=$(git log "$COMMIT_RANGE" --pretty=format:'- `%h` - %an: %s' 2>/dev/null)
           
           # Store in multiline format
           {
             echo "commits<<EOF"
             echo "$COMMITS"
             echo "EOF"
-            echo "total=$TOTAL_COMMITS"
             echo "range=$COMMIT_RANGE"
           } >> $GITHUB_OUTPUT
       
@@ -143,7 +139,6 @@ jobs:
             
             ## Changes since last daily release:
             ${{ steps.commits.outputs.commits }}
-            ${{ steps.commits.outputs.total > 20 && format('... and {0} more commits', steps.commits.outputs.total - 20) || '' }}
             
             [Full difference](https://github.com/NTNewHorizons/NTNH/compare/${{ steps.commits.outputs.range }})
             
