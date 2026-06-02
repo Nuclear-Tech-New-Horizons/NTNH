@@ -52,8 +52,9 @@ jobs:
           
           # Find the previous nightly tag
           if [ "$NIGHTLY_NUM" = "01" ]; then
-            # First nightly for this version, get all commits on updates/upcoming
-            LAST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+            # First nightly for this version, get all commits since the version's tag was created
+            # Find the most recent stable release tag (v<number> format without nightly)
+            LAST_TAG=$(git tag -l "v*" --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n1)
             if [ -z "$LAST_TAG" ]; then
               # No tags exist, use all commits
               COMMIT_RANGE="HEAD"
@@ -83,9 +84,9 @@ jobs:
         run: |
           VERSION="${{ steps.version.outputs.version }}"
           
-          # Find the previous stable release (tags without "nightly" in them)
-          PREV_STABLE=$(git tag -l | grep -v nightly | sort -V | tail -n2 | head -n1)
-          CURRENT_STABLE="${VERSION}"
+          # Find the most recent stable release (tags with v<number> format, not containing 'nightly')
+          PREV_STABLE=$(git tag -l "v*" --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n2 | head -n1)
+          CURRENT_STABLE="v${VERSION}"
           
           if [ -z "$PREV_STABLE" ]; then
             PREV_STABLE="initial"
