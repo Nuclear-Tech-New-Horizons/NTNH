@@ -94,6 +94,7 @@ jobs:
           
           echo "prev_stable=$PREV_STABLE" >> $GITHUB_OUTPUT
           echo "current_stable=$CURRENT_STABLE" >> $GITHUB_OUTPUT
+          echo "Changelog will compare: $PREV_STABLE to $CURRENT_STABLE"
       
       - name: Update version.txt
         run: |
