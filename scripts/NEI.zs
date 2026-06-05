@@ -122,6 +122,3 @@ mods.nei.NEI.hide(<imc:item_machete_adamantium>);
 // mods.nei.NEI.hide(<exnihilo:aluminum_gravel>);
 // mods.nei.NEI.hide(<exnihilo:aluminum_sand>);
 // mods.nei.NEI.hide(<exnihilo:aluminum_dust>);
-
-// Hide ProjectRed Invalid IC Blueprint (Hiding in NEI configs crashes due to metadata check)
-mods.nei.NEI.hide(<ProjRed|Fabrication:projectred.fabrication.icchip:1>);
