@@ -24,20 +24,16 @@ jobs:
       - name: Get version and calculate nightly number
         id: version
         run: |
-          # Extract version from version.txt (e.g., "2.11.0" from "NTNH 2.11.0 (2026-05-31)")
           FULL_LINE=$(head -n 1 config/txloader/forceload/mainmenu/version.txt)
           VERSION=$(echo "$FULL_LINE" | sed 's/NTNH //;s/ .*//')
           echo "version=$VERSION" >> $GITHUB_OUTPUT
           echo "Current base version: $VERSION"
           
-          # Get all release tags for this version to find the last nightly number
           LAST_NIGHTLY=$(git tag -l "${VERSION}-nightly-*" 2>/dev/null | sed "s/${VERSION}-nightly-//" | sort -V | tail -n1)
           
           if [ -z "$LAST_NIGHTLY" ]; then
-            # No previous nightly for this version, start at 01
             NIGHTLY_NUM=01
           else
-            # Increment the last nightly number
             NIGHTLY_NUM=$(printf "%02d" $((10#${LAST_NIGHTLY} + 1)))
           fi
           
@@ -50,28 +46,21 @@ jobs:
           VERSION="${{ steps.version.outputs.version }}"
           NIGHTLY_NUM="${{ steps.version.outputs.number }}"
           
-          # Find the previous nightly tag
           if [ "$NIGHTLY_NUM" = "01" ]; then
-            # First nightly for this version, get all commits since the version's tag was created
-            # Find the most recent stable release tag (format: number only, without nightly or v prefix)
-            LAST_TAG=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n1)
+            LAST_TAG=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | sort -t. -k1,1n -k2,2n -k3,3n | tail -n1)
             if [ -z "$LAST_TAG" ]; then
-              # No tags exist, use all commits
               COMMIT_RANGE="HEAD"
             else
               COMMIT_RANGE="${LAST_TAG}..HEAD"
             fi
           else
-            # Get commits since last nightly
             PREV_NIGHTLY_NUM=$(printf "%02d" $((10#${NIGHTLY_NUM} - 1)))
             LAST_NIGHTLY_TAG="${VERSION}-nightly-${PREV_NIGHTLY_NUM}"
             COMMIT_RANGE="${LAST_NIGHTLY_TAG}..HEAD"
           fi
           
-          # Generate commit list in markdown format
           COMMITS=$(git log "$COMMIT_RANGE" --pretty=format:'- `%h` - %an: %s' 2>/dev/null)
           
-          # Store in multiline format
           {
             echo "commits<<EOF"
             echo "$COMMITS"
@@ -85,16 +74,14 @@ jobs:
           VERSION="${{ steps.version.outputs.version }}"
           
           # Find the most recent stable release that is strictly less than the current version
-          # Use semver-aware sort: convert X.Y.Z to zero-padded X.00Y.00Z for proper numeric comparison
+          # Use true numeric semver sort: -t. -k1,1n -k2,2n -k3,3n
           PREV_STABLE=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | while read -r tag; do
-            # Skip tags that are >= current version
-            # Normalize both versions to zero-padded format for comparison
             padded_tag=$(echo "$tag" | awk -F. '{printf "%04d.%04d.%04d\n", $1, $2, $3}')
             padded_current=$(echo "$VERSION" | awk -F. '{printf "%04d.%04d.%04d\n", $1, $2, $3}')
             if [ "$padded_tag" \< "$padded_current" ]; then
               echo "$tag"
             fi
-          done | sort -V | tail -n1)
+          done | sort -t. -k1,1n -k2,2n -k3,3n | tail -n1)
           
           if [ -z "$PREV_STABLE" ]; then
             PREV_STABLE="initial"
@@ -106,16 +93,13 @@ jobs:
       
       - name: Update version.txt
         run: |
-          # Append Nightly-XX to the first line while preserving everything else
           sed -i "1s/$/ Nightly-${{ steps.version.outputs.number }}/" config/txloader/forceload/mainmenu/version.txt
           echo "Updated version.txt:"
           cat config/txloader/forceload/mainmenu/version.txt
       
       - name: Update concheckrmd.cfg
         run: |
-          # Extract the full first line from version.txt (which now includes Nightly-XX)
           FULL_VERSION=$(head -n 1 config/txloader/forceload/mainmenu/version.txt | sed 's/NTNH //')
-          # Update the greeting message to use the full version string
           sed -i "s/Welcome to NTNH.*/Welcome to NTNH ${FULL_VERSION}!/" config/concheckrmd.cfg
           echo "Updated concheckrmd.cfg:"
           grep "Custom greeting message text" config/concheckrmd.cfg
