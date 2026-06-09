@@ -65,6 +65,9 @@
 - Mun heavy bedrock ore density not showing on scanner
 - Fixed the well-known MC-108343 packet/memory leak bug
 - Fixed citical Forge bug where TEs randomly wipe or reset themselves
+- Potentially fixed issue with Angelica where tile entity culling would cause cargo elevators to not render on certain angles
+- Fixed cargo elevators not rendering past a distance of 100 blocks
+- Fixed cargo elevator syncing range being only 100 blocks, meaning that elevators taller than that don't work properly
 
 
 
@@ -123,6 +126,19 @@
 - Drive processor recipes rebalanced
 - Astroturf now blocks mob spawns
 - New gas giant harvester texture
+- Removed advanced alloy
+   └ All recipes that used to have AA in it now use something else
+   └ AA tools and armor remain for now, although they are uncraftable
+   └ Steel and titanium armor now have some DT and DR, making them roughly on-par with the old AA
+   └ Buffed durability for steel and titanium tool materials
+   └ Steel tools now deal more damage (still not as much as titanium) and has diamond harvest level
+   └ Steel tools now have the abilities that AA tools used to have (vein miner)
+   └ AA custom machine blocks have been replaced with bronze ones which make more sense in progression, since AA was too close to steel anyway
+- Renamed "worker's alloy" to "desh" to avoid confusion
+   └ Seriously why did this have two names?
+- Industrial grade and minecraft grade copper ingots now have the "ingot" suffix
+- Changed the microchip assembler recipe duration so that it matches with the demand of one soldering station
+- Blast furnace speed with hot air blast can now be increased to 500% (uses the same amount of hot air blast as before)
 
 
 
