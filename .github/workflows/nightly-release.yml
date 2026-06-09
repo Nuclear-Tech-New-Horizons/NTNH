@@ -8,6 +8,8 @@ on:
 jobs:
   nightly-release:
     runs-on: blacksmith-4vcpu-ubuntu-2404
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -74,8 +76,9 @@ jobs:
           VERSION="${{ steps.version.outputs.version }}"
           
           # Find the most recent stable release that is strictly less than the current version
-          # Use true numeric semver sort: -t. -k1,1n -k2,2n -k3,3n
-          PREV_STABLE=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | while read -r tag; do
+          # Use ALL tags (not just --merged HEAD) so we correctly find the latest stable release
+          # even if it was tagged on a different branch (e.g., main, hotfix)
+          PREV_STABLE=$(git tag -l 2>/dev/null | grep -v nightly | while read -r tag; do
             padded_tag=$(echo "$tag" | awk -F. '{printf "%04d.%04d.%04d\n", $1, $2, $3}')
             padded_current=$(echo "$VERSION" | awk -F. '{printf "%04d.%04d.%04d\n", $1, $2, $3}')
             if [ "$padded_tag" \< "$padded_current" ]; then
@@ -122,23 +125,23 @@ jobs:
           ls -lh /tmp/*.zip
       
       - name: Create Release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.version }}-nightly-${{ steps.version.outputs.number }}
-          release_name: NTNH ${{ steps.version.outputs.version }} Nightly ${{ steps.version.outputs.number }}
+          name: NTNH ${{ steps.version.outputs.version }} Nightly ${{ steps.version.outputs.number }}
           body: |
             ⚠️ **Warning:** This is a development/testing build and may contain bugs and/or break your world save. Use at your own risk!
             
             ## Changes since last daily release:
             ${{ steps.commits.outputs.commits }}
             
-            [Full difference](https://github.com/NTNewHorizons/NTNH/compare/${{ steps.commits.outputs.range }})
+            [Full difference](https://github.com/${{ github.repository }}/compare/${{ steps.commits.outputs.range }})
             
             ## Changelog
             
-            [Full changelog](https://github.com/NTNewHorizons/NTNH/blob/updates/upcoming/CHANGELOG.md) between [${{ steps.changelog.outputs.prev_stable }}](https://github.com/NTNewHorizons/NTNH/releases/tag/${{ steps.changelog.outputs.prev_stable }}) and [${{ steps.changelog.outputs.current_stable }}](https://github.com/NTNewHorizons/NTNH/blob/updates/upcoming)
+            [Full changelog](https://github.com/${{ github.repository }}/blob/updates/upcoming/CHANGELOG.md) between [${{ steps.changelog.outputs.prev_stable }}](https://github.com/${{ github.repository }}/releases/tag/${{ steps.changelog.outputs.prev_stable }}) and [${{ steps.changelog.outputs.current_stable }}](https://github.com/${{ github.repository }}/blob/updates/upcoming)
           draft: false
           prerelease: true
           files: /tmp/${{ steps.zip.outputs.zip_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
