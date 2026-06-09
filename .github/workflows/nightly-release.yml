@@ -84,17 +84,25 @@ jobs:
         run: |
           VERSION="${{ steps.version.outputs.version }}"
           
-          # Find the most recent stable release (tags without 'nightly' and without v prefix)
-          PREV_STABLE=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | sort -V | tail -n2 | head -n1)
-          CURRENT_STABLE="${VERSION}"
+          # Find the most recent stable release that is strictly less than the current version
+          # Use semver-aware sort: convert X.Y.Z to zero-padded X.00Y.00Z for proper numeric comparison
+          PREV_STABLE=$(git tag -l --merged HEAD 2>/dev/null | grep -v nightly | while read -r tag; do
+            # Skip tags that are >= current version
+            # Normalize both versions to zero-padded format for comparison
+            padded_tag=$(echo "$tag" | awk -F. '{printf "%04d.%04d.%04d\n", $1, $2, $3}')
+            padded_current=$(echo "$VERSION" | awk -F. '{printf "%04d.%04d.%04d\n", $1, $2, $3}')
+            if [ "$padded_tag" \< "$padded_current" ]; then
+              echo "$tag"
+            fi
+          done | sort -V | tail -n1)
           
           if [ -z "$PREV_STABLE" ]; then
             PREV_STABLE="initial"
           fi
           
           echo "prev_stable=$PREV_STABLE" >> $GITHUB_OUTPUT
-          echo "current_stable=$CURRENT_STABLE" >> $GITHUB_OUTPUT
-          echo "Changelog will compare: $PREV_STABLE to $CURRENT_STABLE"
+          echo "current_stable=$VERSION" >> $GITHUB_OUTPUT
+          echo "Changelog will compare: $PREV_STABLE to $VERSION"
       
       - name: Update version.txt
         run: |
