@@ -139,7 +139,7 @@ jobs:
             
             ## Changelog
             
-            [Full changelog](https://github.com/${{ github.repository }}/blob/updates/upcoming/CHANGELOG.md) between [${{ steps.changelog.outputs.prev_stable }}](https://github.com/${{ github.repository }}/releases/tag/${{ steps.changelog.outputs.prev_stable }}) and [${{ steps.changelog.outputs.current_stable }}](https://github.com/${{ github.repository }}/blob/updates/upcoming)
+            [Full changelog](https://github.com/${{ github.repository }}/blob/updates/upcoming/CHANGELOG.md) comparing [${{ steps.changelog.outputs.prev_stable }}](https://github.com/${{ github.repository }}/releases/tag/${{ steps.changelog.outputs.prev_stable }}) to [updates/upcoming](https://github.com/${{ github.repository }}/compare/${{ steps.changelog.outputs.prev_stable }}...updates/upcoming)
           draft: false
           prerelease: true
           files: /tmp/${{ steps.zip.outputs.zip_name }}
