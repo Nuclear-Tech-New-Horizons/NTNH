@@ -2,6 +2,11 @@
 
 ## What's changed?
 **Added**
+- "Balefire Ballet" and "Music in a Box" music discs
+   └ Can only be found in dungeons
+- Sowth bobblehead
+   └ He alone carries the whole NTNH OST - Disc 1
+   └ So he deserves the credit
 - Redstone-over-Radio Terminal
    └ Allows commands to be sent manually, command line style
    └ Supports single commands and repeated ones (polling)
