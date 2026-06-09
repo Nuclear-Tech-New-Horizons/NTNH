@@ -45,6 +45,7 @@
    └ They also interact with the new clouds
 - New expensive mode parts and recipes for space machines
 - Config for disabling tilting on "unavoidable gravity" machines like the Big-Ass Tank
+- https://www.youtube.com/watch?v=tkQRdXkX-sc
 
 
 
@@ -61,7 +62,9 @@
 - Fixed industrial turbines never fully spinning down
 - Fixed bricked furnace IO not working right
 - Teto could not consume butter
-- Mun heavy bedrock ore density not showing on scanne
+- Mun heavy bedrock ore density not showing on scanner
+- Fixed the well-known MC-108343 packet/memory leak bug
+- Fixed citical Forge bug where TEs randomly wipe or reset themselves
 
 
 
