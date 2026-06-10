@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Flint Tools are required to obtain first wood and stone. To get some sticks, break some tree leaves.",
+      "desc:8": "§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
