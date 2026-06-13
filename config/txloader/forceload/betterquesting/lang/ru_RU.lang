@@ -7,7 +7,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=Это начало модa
 
 # Quest: Storage Drawers
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity as well as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r это лёгкий и дешёвый способ хранения большого количества предметов. Они могут быть дополнительно улучшены для увеличения вместимости хранения, а также других возможностей, таких как поглощение. Они также могут быть §dChiseled§r для изменения их типа дерева.%n%n§2Большое количество ящиков может вызвать лаги.
 
 # Quest: You WILL eat ze bugs!
 betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=Ты БУДЕШЬ есть жуков!
@@ -23,7 +23,7 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигат�
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные структуры
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Structures generate throughout the world and are among the best sources of early-game resources. Raiding them before investing heavily in production can save significant time and materials.%n%n§2Exploration pays off early - check your surroundings before grinding for resources you might find for free.§r
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=\nСтруктуры генерируются по всему миру и являются одними из лучших источников ресурсов на ранней стадии игры. Их зачистка перед серьезными вложениями в производство может сэкономить значительное количество времени и материалов.%n%n§2Исследование окупается на ранних этапах - осмотрите окрестности, прежде чем гриндить ресурсы, которые можно найти в структурах.§r
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Батареи
@@ -183,7 +183,7 @@ betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Бочки§r — это б�
 
 # Quest: Sieving
 betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Просеивание
-betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.%n%nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.%n%nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r - unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.%n%n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.%n§2The Sieve can be automated with any machine that simulates a right-click.
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=§3Сито§r это блок из §dEx Nihilo§r используемый для получения руд, семян, и других материалов из блоков грязи, гравия и песка. Перед его использованием, поместите в него сетку.%n%nДля просеивания чего-либо, держа нужный блок нажмите ПКМ по §3Ситу§r чтобы положить его внутрь, затем продолжайте нажимать пкм, пока блок полностью не просеится, и предметы не выпадут сверху. Каждый дроп выпадает с отдельной вероятностью, так что может выпасть сразу несколько разных предметов с одного блока.%n%nПри использовании блоее крутых сеток - от §6Нитевой сетки§r до §6Кремниевой§r, §6Железной§r, и §6«Укреплённой алмазами сетки§r - дроп будет выпадать чаще, и начнут выпадать более редкие предметы. От установленной сетки зависит, что можно просеять, и что можно от этого получить.%n%n§2Проверьте рецепты сита в JEI, чтобы увидеть для чего нужна каждая сетка или просеиваемый материал.%n§2Сито может быть автоматизировано при помощи любого механизма, эмулирующего ПКМ.
 
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Талисман защиты
@@ -198,12 +198,12 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=Генератор на дро�
 betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3Генератор на дровах§r это базовый способ производства энергии путём сжигания древесины. Он может работать на любых горючих предметах, но даёт бонусы ко времени горения для брёвен и древесины. Также он может работать на любом легковоспламеняющемся топливе, если нажать на стрелку под переключателем вкл/выкл, но это значительно менее эффективно, чем другие генераторы, сжигающие жидкости.%n%nСжигание брёвен в генераторе даёт §e2 кHE/с§r
 
 # Quest: Flint Tools
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Flint Tools
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Flint Tools are required to obtain first wood and stone. To get some sticks, break some tree leaves.
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Кремниевые инструменты
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Кремниевые инструменты нужны для получения первой древесины и камня. Чтобы получить немого палок, сломай листву.
 
 # Quest: Hunger System
-betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Hunger System
-betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r makes hunger a genuine threat rather than a mild inconvenience.%n%nHunger now drains passively over time, even while idle. Reaching zero kills you instantly. Low hunger inflicts slowness, weakness, and reduced mining speed before that point. Eating grants a §6Well Fed§r effect that boosts health regeneration - the larger the meal, the longer it lasts.%n%nFood values are re-balanced by meal size. Raw ingredients restore very little; prepared meals restore substantially more. Larger meals take longer to eat and stack less in your inventory.%n%nCrops only grow during daytime and take much longer to mature. Wood and stone hoes are removed - you need at least an iron hoe to till soil. Farmland must be placed adjacent to water or it will not function.%n%n§dSpice of Life: Carrot Edition§r rewards dietary variety. Each unique food eaten for the first time permanently increases your maximum health. Eating the same food repeatedly provides no bonus.%n%n§2The more diverse your diet, the more hearts you have - build a varied farm as early as possible.§r
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r делает голод реальной угрозой, а не легким неудобством.%n%nГолод теперь уменьшается пассивно со временем, даже в бездействии. Достижение нуля убивает вас мгновенно. Низкий уровень голода накладывает медлительность, слабость и снижает скорость добычи еще до смерти. Еда дает эффект §6Well Fed§r, который ускоряет регенерацию здоровья - чем больше порция, тем дольше он длится.%n%nПищевая ценность изменена в зависимости от размера порции. Сырые ингредиенты восстанавливают очень мало; приготовленные блюда восстанавливают значительно больше. Большие блюда едятся дольше и меньше стакаются в вашем инвентаре.%n%nСельскохозяйственные культуры растут только в дневное время и созревают гораздо дольше. Деревянные и каменные мотыги удалены - вам понадобится как минимум железная мотыга, чтобы вскопать почву. Грядки должны быть размещены рядом с водой, иначе они не будут функционировать.%n%n§dSpice of Life: Carrot Edition§r вознаграждает за разнообразие в рационе. Каждая уникальная еда, съеденная впервые, навсегда увеличивает ваше максимальное здоровье. Повторное употребление одной и той же еды не дает бонуса.%n%n§2Чем разнообразнее ваш рацион, тем больше у вас сердец - создайте разнообразную ферму как можно раньше.§r
 
 # Quest: Nature's Compass
 betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.name=Компас Природы
@@ -238,16 +238,16 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.name=Мульти-жидкостны
 betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкостный идентификатор§r используется для выбора необходимого типа жидкости. Shift-клик при удержании для выбора жидкости.
 
 # Quest: Known Issues
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Known Issues
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a §6F§9E§aA§bT§cU§dR§eE§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а §6Ф§9И§aЧ§bА§c!§d!§e!§r!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.desc=§cNTNH§r - это модульная сборка, поэтому вы можете добавлять/удалять/изменять конфиг/моды, если это работает!%n%n§dNTM§r предлагает очень модульный файл конфигурации, который также включает дополнительные режимы, которые можно активировать. Они могут быть включены в файле hbm.cfg.%n%n§2Дорогой режим§r делает всё дороже, требуя не только больше ресурсов, но и новые компоненты. Книга квестов не будет отражать изменения в прогрессии, если он включён.%n%n§2Режим 528§r вводит барьеры в виде шаблонов, которые разблокируются путём уничтожения определённого количества предметов в §3Аннигиляторе§r. Дополнительно, некоторые предметы, в основном схемы, теперь создаются на основе процентов. Вместе с этим есть и другие изменения, усложняющие игру, такие как генерация §6Тантала§r в определённой области, более частое появление мин и §4ВЗРЫВ§r всех блоков §dAE2§r при использовании.%n%nМногие вероятности переработки §3Прецизионной сборочной машины§r значительно снижены с включённым дорогим режимом, что массово увеличивает эффективную стоимость.%n%n§2Буйный режим (Rampant Mode)§r делает глифидов очень большой угрозой, поскольку загрязнение теперь делает их гораздо сильнее и агрессивнее. Новые более разрушительные типы глифидов также станут более распространёнными. При достижении достаточно высокого уровня загрязнения разведчики глифидов могут появляться пассивно, что делает автоматические системы защиты необходимыми для предотвращения создания новых ульев.%n%n§2Для режимов с изменениями рецептов, рецепты сборки должны быть вставлены заново после создания новой папки hbmrecipes и включения режимов.§r %n
 
 # Quest: Charging Station
-betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.name=Charging Station
-betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.desc=The §3Charging Station§r will charge electric tools aswell as electric suits when standing near it. Placing more next to eachother will increase the speed at which items are being recharged.
+betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.name=Станция зарядки
+betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.desc=§3Станция зарядки§r будет заряжать электрические инструменты и элементы брони, когда вы стоите рядом с ней. Если поставить несколько штук рядом, зарядка предметов ускорится.
 
 # Quest: Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.name=Упаковочная лента
@@ -258,23 +258,23 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.name=Обшивки
 betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Обшивки§r - это одна из самых важных модификаций брони, которая снижает поглощение радиации. Она может быть вставлена во все части брони.
 
 # Quest: Ore Generation System
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Ore Generation System
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n%nCurrent ore generation tables:%n%nOverworld (Earth/Kerbin): [url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?usp=sharing[/url]%n%nOther Planets: [url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?usp=sharing[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Система генерации руд
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=В §6NTNH§r генерация руды была §полностью§r переработана и всё ещё получает\nобновления и исправления. Если вам это не нравится и/или вы находите это\nслишком сложным, у вас есть два варианта:%n1) Сообщите об этом нам,\nразработчикам%n2) Отключите мод Custom Ore Generation и настройте\nгенерацию руды в hbm.cfg по своему вкусу (попросите помощи с этим на\nDiscord сервере)%n%n%nТекущие таблицы генерации руды:%n%nВерхний мир\n(Earth/Kerbin):\n[url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?usp=sharing[/url]%n%nДругие\nпланеты:\n[url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?usp=sharing[/url]
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Дозиметр
-betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.desc=The §6Dosimeter§r is an tool for detecting radiation and assessing radioactive contamination.%n%nIt is functionally similar to a §6Geiger Counter§r, but it collects much less data - only the general radiation contamination of the environment. Only a handheld version of the dosimeter is available. To obtain radiation information, right-click while holding the dosimeter.%n%nLike a counter, it makes a characteristic crackling sound when radiation is detected.%n%n§2The maximum radiation displayed is 3.6 RAD/S.%n%nNot great, not terrible.
+betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.desc=§6Дозиметр§r - это прибор для обнаружения радиации и оценки радиоактивного загрязнения.%n%nОн функционально схож с §6Счётчиком Гейгера§r, но собирает гораздо меньше данных - только общее радиоактивное загрязнение окружающей среды. Доступна только переносная версия дозиметра. Для получения информации о радиации щёлкните правой кнопкой мыши, держа дозиметр.%n%nКак и счётчик, он издаёт характерный треск при обнаружении радиации.%n%n§2Максимальная отображаемая радиация составляет 3.6 RAD/S.%n%nНе очень много, но что то в этом есть.
 
 # Quest: Radial Performance Engine
 betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.name=Radial Performance Engine
 betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.desc=The §3Radial Performance Engine§r is a combustion generator that converts liquid fuels into electrical power. It requires a minimum of §e3§r §6Combustion Engine Pistons§r to run, with up to §e9§r installed in its piston slots. Additional pistons increase both power output and fuel consumption linearly.%n%nThe engine accepts fuels of varying grades at different efficiency rates. §bHeating Oil§r and §bIndustrial Oil§r burn at §e75%%§r efficiency, §bPetroil§r at §e50%%§r, and §bDiesel§r and §bGasoline§r at §e25%%§r. Aviation fuels and gaseous fuels are not compatible. Power is output from the bottom face, and the engine stores up to §e250 kHE§r internally, or §e2.5 MHE§r when running §bNITAN§r.%n%nHowever, the engine is most efficient with the heaviest, least-refined feedstocks. Lighter refined fuels produce less power per mB despite their higher grade.%n%n§2The listed efficiency is a multiplier on each fuel's base combustion energy. Higher-grade fuels may have higher base energy, so check the HE/t display in the GUI before settling on a fuel.
 
 # Quest: Hazards
-betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.name=Hazards
+betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.name=Злопасности
 betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.desc=This mod adds several environmental hazards that will kill you if ignored.%n%n§6Radiation§r is measured in RAD. Effects begin at §e200 RAD§r and worsen steadily - instant death occurs at §c1000 RAD§r. Use a §6Geiger Counter§r to monitor your dose. Radiation-resistant armor and §6Rad-X§r reduce incoming RAD; a §3Player Decontaminator§r or §6Antirads§r remove accumulated dose.%n%n§lMesothelioma§r develops from asbestos exposure. Items tagged §c[Contains Asbestos]§r and certain blocks like Chrysotile release asbestos particles. Progresses to death if untreated.%n%n§lBlack Lung§r develops from coal dust exposure. Mining coal ore and carrying items tagged §c[Coal Dust]§r are the main sources. Also fatal.%n%nA gas mask protects against both mesothelioma and black lung simultaneously. Both diseases are cured by §6SIOX Cancer Medication§r or, early-game, §6Herbal Paste§r - the latter being weaker and carrying side effects.
 
 # Quest: Agriculture and Farming
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Agriculture and Farming
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Агрокультура и земледелие
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
 
 # Quest: Stirling Sawmill
@@ -286,8 +286,8 @@ betterquesting.quest.bKzHBx2ZTBWFD1BGHBfHWg.name=Бензопила
 betterquesting.quest.bKzHBx2ZTBWFD1BGHBfHWg.desc=§l§c§lБензоболь.§r%n%nХотя §6Бензопила§r схожа по функционалу с §6топором§r, её арсенал гораздо шире. По умолчанию пила просто добывает блоки, но у неё также есть два дополнительных режима работы: §eШёлковое касание§r и §eЖилковый майнер (5)§r.%n%nОна работает на многих типах §bжидкого топлива§r (см. описание предмета для списка). Добыча одного блока потребляет 1 mB§r топлива.%n%nПомимо своего основного назначения, бензопила также может служить достойным оружием ближнего боя, так как наносит значительный урон и имеет модификаторы: §eБензоболь§r и §eОбезглавливатель§r.
 
 # Quest: Strawberry Ice Cream
-betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.name=Strawberry Ice Cream
-betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Imagine using the same chemical plant for sulfuric acid AND strawberry ice cream production...
+betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.name=Клубничное мороженное
+betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Представьте, использовать один и тот же химзавод для производства и серной кислоты и клубничного мороженого...
 
 # Quest: Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.name=Нагревательная печь/топка
@@ -298,8 +298,8 @@ betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Переработка
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.desc=Теперь, когда у вас есть наковальня получше, вы можете начать §eперерабатывать§r некоторые вещи, которые вы могли найти в данжах.
 
 # Quest: NOT FOR CASUALS
-betterquesting.quest.dvDFzAjEQVucAjcynrfkhA.name=NOT FOR CASUALS
-betterquesting.quest.dvDFzAjEQVucAjcynrfkhA.desc=This modpack is §cHARD§r and constantly get updates, so be ready to get your ass beaten.
+betterquesting.quest.dvDFzAjEQVucAjcynrfkhA.name=НЕ ДЛЯ КАЗУАЛОВ
+betterquesting.quest.dvDFzAjEQVucAjcynrfkhA.desc=Эта сборка §cСЛОЖНАЯ§r и постоянно обновляется, так что готовь жопу.
 
 # Quest: Numbers in the Corner?
 betterquesting.quest.eTdu9EpCStqHAh8ubFCmQw.name=Циферки в углу?
@@ -322,24 +322,24 @@ betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Компрессор
 betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=§3Компрессор§r - это специализированный мультиблочный механизм для сжатия жидкостей. Он может выполнять эту операцию с любой жидкостью для увеличения её давления, для использования в других механизмах. Некоторые из этих жидкостей сжимаются в совершенно другие жидкости как специальные рецепты для этого механизма.
 
 # Quest: Earth? Fake news
-betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=Earth? Fake news
+betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=Земля? Не, не слышали
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=This modpack makes it possible to complete the entire game in §6Martian mode§r! If you notice any gaps in the progression or logic, please post in the #help channel on the NTNH Discord server.
 
 # Quest: Oily Sand
-betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Oily Sand
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Маслянистый песок
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r.%n%n§2Oily Sand patches are the most reliable way to locate Bedrock Oil without digging blindly.§r
 
 # Quest: Highway To Hell
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Highway To Hell
-betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6The Nether§r is §c§lACTUALLY HOT§r causing your skin to burn.%n%n§6Fire Proximity Armor Set§r is essential for your first Nerther trip, as it protects you from burning fire.
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6Незер§r в самом деле §c§ГОРЯЧ§r, в нём ваша кожа горит.%n%n§6Огнезащитный костюм§r необходим для вашего первого похода в ад, он защитит вас от огня.
 
 # Quest: Blood Moon
 betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Кровавая Луна
 betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=§dRandomThings§r adds §cBlood Moons§r, semi-rare events where mob spawning is increased and the player cant sleep. Blood Moons can be quite useful, if one is prepared, as rare mob drops such as §6Launch Codes§r and §6Geiger Counters§r can be obtained early on.
 
 # Quest: The Actual Beginning
-betterquesting.quest.npi9qvVzRleG6SsA5DQozg.name=The Actual Beginning
-betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=Now you are ready to fully begin your journey in this modpack! Happy gaming!
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.name=Настоящее начало
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=Теперь ты готов к полному погружению в эту сборку! Счастливой игры!
 
 # Quest: Pneumatic Pipes
 betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.name=Пневмотрубы
@@ -350,11 +350,11 @@ betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Графит
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Графит§r - это кристаллическая аллотропная форма углерода, состоящая из наложенных слоёв графена. Графит является наиболее стабильной формой углерода и полезен во многих условиях. Его способность замедлять нейтроны делает его незаменимым для §3ядерных реакторов§r, которые полагаются на тепловые нейтроны для поддержания критичности. Его способность выдерживать высокие температуры и электропроводность делают его полезным в качестве электродов в §3Дуговой печи§r и §3Дуговом сварщике§r.
 
 # Quest: Useful Tools and Techniques
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Useful Tools and Techniques
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Полевые инструменты и приёмы
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=§dFindIt§r is a utility mod that helps you locate items stored across your base. Hover over any item in your inventory or §dNEI§r and press §6T§r to highlight every container holding that item.%n%nYou can also check where do mobs spawn by pressing §6F7§r.
 
 # Quest: From Flint to Oil
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремния до нефти
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=The §6Oil Reservoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Long Distance Energy Transportation
@@ -366,8 +366,8 @@ betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check JEI for all valid heat sources and their melt rates.
 
 # Quest: Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted — the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Тутовый шелкопряд
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Шелкопряды§r это предмет из §dEx Nihilo§r с помощью которого можно производить §6Нитки§r на ограниченных по ресурсам картах. Их нельзя создать — они с маленьким шансом падают с листвы, если ломать её §6Крюком§r.%n%nЧтобы использовать §6Шелкопряда§r, нажмите ПКМ на любую листву. Она потихоньку станет заражённой, побелеет со временем, и заражение перекинется на соседние блоки листвы. Полностью белая листва даёт больше §6Ниток§r чем частично заражённая, так что стоит набраться терпения.%n%nПосле того, как листва полностью побелеет, сломайте её §6Крюком§r или рукой, чтобы собрать §6Нитки§r и дополнительных §6Шелкопрядов§r, чтобы можно было повторить процесс. Помните, что из заражённых листьев не выпадают саженцы, или яблоки, так что сохраните несколько саженцев, перед тем%nкак заражать дерево.%n%n§2Шелкопрядов можно так же приготовить в печи и сьесть.%n§2Излишки Шелкопрядов могут быть компостированы в бочке.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Конопля и горчичная ива
@@ -1005,7 +1005,7 @@ betterquesting.quest.gaeSExcOTaawSPifbbIVtg.name=Магмовый бур
 betterquesting.quest.gaeSExcOTaawSPifbbIVtg.desc=В отличие от своего аналога из оригинального мода, Магматический Бур не бурит буквально вглубь земли. Он предназначен для добычи магмы из Мохо, которой, как известно, на этой планете в избытке - как на поверхности, так и в пещерах. Чтобы начать работу, механизм необходимо установить непосредственно на поверхности лавового озера так, чтобы лава касалась буровой головки и достигала краёв углубления. Подайте питание к буру, и он будет работать автоматически.%n%nМагма выводится через литейные каналы в формы. Остывшая магма образует Вулканит, который затем следует переработать для получения полезных ресурсов.%n%nПомимо вулканита, устройство извлекает обычный шлак (в значительно большем количестве, чем Вулканит).
 
 # Quest: Orbital Station Computer
-betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.name=Orbital Station Computer
+betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.name=Компьютер орбитальной станции
 betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.desc=The §3Orbital Station Computer§r, when having a drive inserted into it, can move the station to its destination.%n%n§3Thrusters§r with fuel are required to be attached to the station.
 
 # Quest: Alkylation Unit

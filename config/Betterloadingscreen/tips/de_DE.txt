@@ -1,56 +1,56 @@
-#Tips for the loading screen
-#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#Tipps für den Startbildschirm
+#Vielen Dank für 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji und andere für die wertvollen Ratschläge.
 #
 #Maximal characters for a tip: 77 (more can go out of the screen)
 #The line below, including the "#" are 77 chars
-#Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
+#Der Rucksack des Abenteurers? Meinst du eine eingebaute Werkbank, ein Bett und einen Flüssigkeitstank?
 #
-Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
+Haben Sie eine Frage? Trete unserem Discord Server bei: discord.gg/wtNVzeE5QB
 You can bind the quests menu to a key, instead of using the book
 Be sure to check out what you can do with Mouse Tweaks
-Literally flint and steel!
+Das ist Feuerstein und Stahl buchstäblich!
 Adventurer's backpack: integrated crafting grid, bed and fluid storage
-Beware of pollution!
-Found a bug? Report it on GitHub or Discord
+Achten Sie sich vor Umweltverschmutzung!
+Haben Sie einen Fehler gefunden? Report it on GitHub or Discord
 You can bookmark items with NEI ("a" by default)
-It's NEI, not JEI. Use it frequently.
+Es ist NEI, nicht JEI. Benutze es häufig.
 Your pick is not ready
 Also try GT:NH!
-Put the "Mine" back in Minecraft
-Don't go out at night!
-Abandon all vanilla knowledge all ye who enter here
+Lege die "Mine" zurück in Minecraft
+Keine Nachtwanderungen!
+Verzichten Sie auf alle Vanillekentnisse, alle, die hierher kommen
 Sometimes it's better to flee than fight some mobs
 Be prepared to take hours to build a single multiblock machine!
 Press F7 to see spots where mobs can spawn!
 Press F9 to see chunk borders!
 Microcrafting is love, microcrafting is life
-How many circuits have you crafted in your life?
-XAERO's WORLD MAP: PRESS[M]
-sqrt(-1) loves you!
-(MultiMC > Curse) && (Technic > Curse): true
-All you had to do was tho follow the damn quest line, CJ!
+Wie viele Schaltkreise hast du in deinem Leben gefertigt?
+XAERO's WELTKARTE: DRÜCKEN[M]
+sqrt(-1) liebt dich!
+(MultiMC > Curse) && (Technic > Curse): richtig
+Alles, was du tun musstest, war, der verdammten Quest zu folgen, CJ!
 Click on an item in the quest book to show its recipe in NEI
-Why not visit Nuclear Tech? We have... hydrogen bombs
+Warum nicht Nuclear Tech besuchen? Wir haben... Wasserstoffbombe
 If it's too tedious you're doing it wrong
 Do you also watch your oven while baking food?
 There's always something else you can do while waiting
 Use F3 + S to reload the sound if it's gone
 Life's all about opening issues, not closing them - Rongmario
-Visit r/feedthemems!
-I WANT ROCKET I WANT MOON - St4o
+Besuchen Sie r/feedthemems!
+ICH WILL EINE RAKETE ICH WILL DEN MOND - St4o
 Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
-Did you already crafted AE2 system?
+Hast du das AE2-System bereits erstellt?
 Press O to hide NEI overlay
-Also try GregTech: New Horizons!
+Probieren Sie auch GregTech: Neue Horizonte!
 3.6 Roentegen?
-Factory Must Grow!
+Die Fabrik muss wachsen!
 Have you tried Schematica?
 There is a swarm ahead!
 Beware of glyphids
-Hydrogen Bomb VS Coughing Baby
+Wasserstoffbombe gegen Hustenbaby
 Say hello to DreamMaster from Bufka2011!
 What? Warden is a hard boss? Pfft... Martian Invasion Ship
-This is not a bug, this is an anomaly!
+Es ist kein Fehler, es ist eine Anomalie!
 ZIRNOX going brrrrrr
 Oh no, ZIRNOX going BOOOOOM
 PotatOS is funny :D
@@ -61,8 +61,8 @@ Historically accurate! Maybe...
 50% scientific accurate!
 How about to share this modpack with your friends?
 The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
+Hurra, Verschmutzung! >:D
+Oh nein, Verschmutzung. :▪(
 Do you have radiation protection with you?
 Be sure to check out if there is a new update!
 The best way to process ore is Acidizer + Centrifuge
