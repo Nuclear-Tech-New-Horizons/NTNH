@@ -4862,7 +4862,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "The §3Blast Furnace§r is a solid fuel-powered furnace used to create alloys from two inputs, accepting ingredients in multiple forms including powders. The main starter alloys are §6Minecraft Grade Copper§r, §6Steel§r, and §6Advanced Alloy§r - the latter being a combination of the former two. Advanced Alloy can be crafted into very durable tools that come with vein mining.\n\nAlong with the main product, each smelt also produces §6Slag§r and §bFlue Gas§r. Piping in §bHot Air§r at §e200 mB/t§r can accelerate production up to §e500%§r of the base rate.\n\nA separate block, the §3Blast Furnace Extension§r, can be placed on top to triple the processing rate. Fuel consumption remains constant, so the extension also triples fuel efficiency.\n\n§2For more advanced tools, pressing the ALT key brings up a menu to select multiple abilities at once.",
+          "desc:8": "The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.\n\nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.\n\nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%§r of its base speed.\n\n§2Tip: Burn the Flue Gas byproduct in a Flare Stack to recover a small amount of power.§r",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -33844,7 +33844,7 @@
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": "",
-            "id:8": "hbm:tile.machine_difurnace_off"
+            "id:8": "hbm:tile.anvil_iron"
           },
           "name:8": "LV1 - Early Game",
           "visibility:8": "NORMAL"
