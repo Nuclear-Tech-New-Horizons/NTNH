@@ -7,7 +7,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=Это начало модa
 
 # Quest: Storage Drawers
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r это лёгкий и дешёвый способ хранения большого количества предметов. Они могут быть дополнительно улучшены для увеличения вместимости хранения, а также других возможностей, таких как поглощение. Они также могут быть §dChiseled§r для изменения их типа дерева.%n%n§2Большое количество ящиков может вызвать лаги.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r это лёгкий и дешёвый способ хранения большого количества предметов. Они могут быть дополнительно улучшены для увеличения вместимости хранения, а также других возможностей, таких как поглощение. Они также могут быть ударены §dСтамеской§r для изменения их типа дерева.%n%n§2Большое количество ящиков может вызвать лаги.
 
 # Quest: You WILL eat ze bugs!
 betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=Ты БУДЕШЬ есть жуков!
@@ -23,7 +23,7 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигат�
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные структуры
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=\nСтруктуры генерируются по всему миру и являются одними из лучших источников ресурсов на ранней стадии игры. Их зачистка перед серьезными вложениями в производство может сэкономить значительное количество времени и материалов.%n%n§2Исследование окупается на ранних этапах - осмотрите окрестности, прежде чем гриндить ресурсы, которые можно найти в структурах.§r
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Структуры генерируются по всему миру и являются одними из лучших источников ресурсов на ранней стадии игры. Их зачистка перед серьезными вложениями в производство может сэкономить значительное количество времени и материалов.%n%n§2Исследование окупается на ранних этапах - осмотрите окрестности, прежде чем гриндить ресурсы, которые можно найти в структурах.§r
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Батареи
@@ -199,7 +199,7 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3Генератор на др
 
 # Quest: Flint Tools
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Кремниевые инструменты
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Кремниевые инструменты нужны для получения первой древесины и камня. Чтобы получить немого палок, сломай листву.
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Кремниевые инструменты нужны для добычи древесины и булыжника. Для них нужны палки, которые делаются из любых саженцев деревьев, выпадающих из листвы.
 
 # Quest: Hunger System
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
@@ -266,12 +266,12 @@ betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Дозиметр
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.desc=§6Дозиметр§r - это прибор для обнаружения радиации и оценки радиоактивного загрязнения.%n%nОн функционально схож с §6Счётчиком Гейгера§r, но собирает гораздо меньше данных - только общее радиоактивное загрязнение окружающей среды. Доступна только переносная версия дозиметра. Для получения информации о радиации щёлкните правой кнопкой мыши, держа дозиметр.%n%nКак и счётчик, он издаёт характерный треск при обнаружении радиации.%n%n§2Максимальная отображаемая радиация составляет 3.6 RAD/S.%n%nНе очень много, но что то в этом есть.
 
 # Quest: Radial Performance Engine
-betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.name=Radial Performance Engine
+betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.name=Радиальный двигатель
 betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.desc=The §3Radial Performance Engine§r is a combustion generator that converts liquid fuels into electrical power. It requires a minimum of §e3§r §6Combustion Engine Pistons§r to run, with up to §e9§r installed in its piston slots. Additional pistons increase both power output and fuel consumption linearly.%n%nThe engine accepts fuels of varying grades at different efficiency rates. §bHeating Oil§r and §bIndustrial Oil§r burn at §e75%%§r efficiency, §bPetroil§r at §e50%%§r, and §bDiesel§r and §bGasoline§r at §e25%%§r. Aviation fuels and gaseous fuels are not compatible. Power is output from the bottom face, and the engine stores up to §e250 kHE§r internally, or §e2.5 MHE§r when running §bNITAN§r.%n%nHowever, the engine is most efficient with the heaviest, least-refined feedstocks. Lighter refined fuels produce less power per mB despite their higher grade.%n%n§2The listed efficiency is a multiplier on each fuel's base combustion energy. Higher-grade fuels may have higher base energy, so check the HE/t display in the GUI before settling on a fuel.
 
 # Quest: Hazards
 betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.name=Злопасности
-betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.desc=This mod adds several environmental hazards that will kill you if ignored.%n%n§6Radiation§r is measured in RAD. Effects begin at §e200 RAD§r and worsen steadily - instant death occurs at §c1000 RAD§r. Use a §6Geiger Counter§r to monitor your dose. Radiation-resistant armor and §6Rad-X§r reduce incoming RAD; a §3Player Decontaminator§r or §6Antirads§r remove accumulated dose.%n%n§lMesothelioma§r develops from asbestos exposure. Items tagged §c[Contains Asbestos]§r and certain blocks like Chrysotile release asbestos particles. Progresses to death if untreated.%n%n§lBlack Lung§r develops from coal dust exposure. Mining coal ore and carrying items tagged §c[Coal Dust]§r are the main sources. Also fatal.%n%nA gas mask protects against both mesothelioma and black lung simultaneously. Both diseases are cured by §6SIOX Cancer Medication§r or, early-game, §6Herbal Paste§r - the latter being weaker and carrying side effects.
+betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.desc=Этот мод добавляет несколько смертельных природных опасностей, которые не стоит игнорировать.%n%n§6Радиация§r измеряется в  RAD. Эффекты начинаются от §e200 RAD§r и постепенно страновятся хуже. Вплоть до моментальной смерти на §c1000 RAD§r. Используй §6Счётчик гейгера§r чтобы узнадь дозу полученной радиации. Броня с радиационной защитой и §6Рад-X§r уменьшат получемые RAD; §3Обеззараживатель игрока§r или §6Антирадин§r уберут полученную радиацию.%n%n§lМезотелиома§r развивается при вдыхании асбеста. Предметы с тегом §c[Содержит асбест]§r и некоторые блоки как Хризотил или Разбитая лабораторная плитка выделяют частички асбеста в воздух. Мезотелиома приводит к смерти без лечения.%n%n§lАнтракоз§r (чёрное лёгкое) развивается при вдыхании угольной пыли. Добыча угольной руды и предметы с тегом §c[Coal Dust]§r это основне её источники. Так же смертельна.%n%nПротивогаз защищает от обеих болезней одновременно. Так же их можно вылечить§6Лекарством от рака "SIOx"§r или в начале игры §6Травяной пастой§r - что является не очень хорошей идеей и имеет побочные эфекты.
 
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Агрокультура и земледелие
@@ -323,23 +323,23 @@ betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=§3Компрессор§r - э
 
 # Quest: Earth? Fake news
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=Земля? Не, не слышали
-betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=This modpack makes it possible to complete the entire game in §6Martian mode§r! If you notice any gaps in the progression or logic, please post in the #help channel on the NTNH Discord server.
+betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=Эта сборка позволяет пройти всю игру в §6Режиме Марсианина§r! Если вы заметили недочёты в прогрессе или логике, пожалуйста, напишите в канал #help на дискорд сервере NTNH.
 
 # Quest: Oily Sand
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Маслянистый песок
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r.%n%n§2Oily Sand patches are the most reliable way to locate Bedrock Oil without digging blindly.§r
 
 # Quest: Highway To Hell
-betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Highway To Hell
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Дорога в Ад
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6Незер§r в самом деле §c§ГОРЯЧ§r, в нём ваша кожа горит.%n%n§6Огнезащитный костюм§r необходим для вашего первого похода в ад, он защитит вас от огня.
 
 # Quest: Blood Moon
 betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Кровавая Луна
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=§dRandomThings§r adds §cBlood Moons§r, semi-rare events where mob spawning is increased and the player cant sleep. Blood Moons can be quite useful, if one is prepared, as rare mob drops such as §6Launch Codes§r and §6Geiger Counters§r can be obtained early on.
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=Мод §dRandomThings§r добавляет §cКровавую Луну§r, редкое событие, во время которого появляется больше мобов, а игрок не может спать. Кровавые луны могут быть весьма полезными, если вы к ним готовы. Во время кровавой луны легче выбить §6Коды запуска§r и §6Счетчик гейгера§r, что будет очень полезно в начале игры.
 
 # Quest: The Actual Beginning
 betterquesting.quest.npi9qvVzRleG6SsA5DQozg.name=Настоящее начало
-betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=Теперь ты готов к полному погружению в эту сборку! Счастливой игры!
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=Теперь ты готов к полному погружению в эту сборку! Приятной игры!
 
 # Quest: Pneumatic Pipes
 betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.name=Пневмотрубы
@@ -350,11 +350,11 @@ betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Графит
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Графит§r - это кристаллическая аллотропная форма углерода, состоящая из наложенных слоёв графена. Графит является наиболее стабильной формой углерода и полезен во многих условиях. Его способность замедлять нейтроны делает его незаменимым для §3ядерных реакторов§r, которые полагаются на тепловые нейтроны для поддержания критичности. Его способность выдерживать высокие температуры и электропроводность делают его полезным в качестве электродов в §3Дуговой печи§r и §3Дуговом сварщике§r.
 
 # Quest: Useful Tools and Techniques
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Полевые инструменты и приёмы
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=§dFindIt§r is a utility mod that helps you locate items stored across your base. Hover over any item in your inventory or §dNEI§r and press §6T§r to highlight every container holding that item.%n%nYou can also check where do mobs spawn by pressing §6F7§r.
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Полезные инструменты и приёмы
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=§dFindIt§r - это мод, который поможет вам находить предметы, хранящиеся в разных сундуках. Наведите курсор на любой предмет в вашем инвентаре или §dNEI§r и нажмите §6T§r, чтобы подсветить хранилища с этим предметом.%n%nВы также можете проверить, где способны появиться мобы, нажав §6F7§r.
 
 # Quest: From Flint to Oil
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремния до нефти
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремня до нефти
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=The §6Oil Reservoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Long Distance Energy Transportation
@@ -362,7 +362,7 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.name=Передача электро
 betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=Для больших расстояний и улучшенной эстетики доступен новый распределительный узел - §3Большой электрический пилон (ЛЭП)§r.%n%n§3Подстанции§r необходимы для повышения/понижения напряжения, которое несёт линия.%n%nЭти ЛЭП могут оказаться полезными, поскольку благоприятные месторождения §eБедроковой руды§r или §eНефти§r могут быть расположены далеко от главной базы.%n
 
 # Quest: Primitive Crucible
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Примитивная плавильня
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check JEI for all valid heat sources and their melt rates.
 
 # Quest: Silkworm
@@ -543,7 +543,7 @@ betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.name=Микрочип
 betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Микрочипы§r - это один из самых важных компонентов будущих схем и будут использоваться в больших количествах на протяжении всего прогресса.
 
 # Quest: Fiberglass
-betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.name=Fiberglass
+betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.name=Стекловолокно
 betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.desc=Sand in an §3Ore Acidizer§r can be turned into §6Fiberglass§r, which provides more than §e4x§r the amount of §6Silicon§r in an §3Arc Furnace§r. Additionally, it provides a great recipe for insulators.
 
 # Quest: Powered Drill
@@ -592,7 +592,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Эпоха Реакт
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=По мере роста потребностей в энергии потребуются более мощные источники энергии. Эта глава охватывает ядерные реакторы, а также другие продвинутые машины, необходимые для производства все более прочных материалов.
 
 # Quest: Plasma Forge
-betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=Plasma Forge
+betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=Плазменная кузница
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.desc=The §3Plasma Forge§r is a large and advanced assembler that requires a running fusion reactor to work. It can weld plates at twice the speed of a normal welder. It does not accept upgrades, however, it can use up otherwise useless fission fragments and unstable isotopes to gain a temporary §ex4§r speed bonus with no penalty.
 
 # Quest: Gas Centrifuge
