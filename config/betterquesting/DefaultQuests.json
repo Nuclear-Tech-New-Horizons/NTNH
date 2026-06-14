@@ -1230,6 +1230,10 @@
           "type:1": 1
         },
         "2:10": {
+          "questIDHigh:4": -2605986321132862176,
+          "questIDLow:4": -6530016429603008347
+        },
+        "3:10": {
           "questIDHigh:4": 5422351929291852264,
           "questIDLow:4": -7737719939638563636
         }
@@ -20650,7 +20654,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eDres§r and §eMoho§r.",
+          "desc:8": "§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eIke§r and §eMoho§r.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -21132,7 +21136,7 @@
             "OreDict:8": "",
             "id:8": "hbm:tile.machine_selenium"
           },
-          "isMain:1": 0,
+          "isMain:1": 1,
           "isSilent:1": 0,
           "lockedProgress:1": 0,
           "name:8": "Radial Performance Engine",
@@ -23206,13 +23210,9 @@
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
-            "Damage:2": 81,
+            "Damage:2": 0,
             "OreDict:8": "",
-            "id:8": "betterquesting:placeholder",
-            "tag:10": {
-              "orig_id:8": "props:props",
-              "orig_meta:3": 81
-            }
+            "id:8": "hbm:item.rag_blood"
           },
           "isMain:1": 0,
           "isSilent:1": 0,

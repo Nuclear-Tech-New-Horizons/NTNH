@@ -801,6 +801,12 @@
       block="hbm:tile.ore_lanthanium:6" inherits="PresetDres">
       <Setting name="CloudHeight" avg="25" range="15" />
     </Cloud>
+
+    <Cloud name="Dres_Niobium"
+      block="hbm:tile.ore_niobium:6" inherits="PresetDres">
+      <Setting name="DistributionFrequency" avg=":= 0.8 * oreFreq" />
+      <Setting name="CloudHeight" avg="35" range="15" />
+    </Cloud>
     <!-- === Moho === -->
     <CloudPreset name="PresetMoho">
       <Setting name="DistributionFrequency" avg=":= 0.01 * oreFreq" />
