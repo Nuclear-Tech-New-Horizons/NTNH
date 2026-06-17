@@ -13,6 +13,7 @@ Otherwise your PR might be rejected
 - [ ] I am sure that this PR is not a duplicate of another rejected PR
       (if it is a corrected copy of PR, you're allowed)
 - [ ] I have tested it both on the client AND the server
+- [ ] I've read [AI Contribution Policy](https://github.com/NTNewHorizons/NTNH/blob/master/AI_POLICY.md)
 
 ## Related Issues
 <!--
