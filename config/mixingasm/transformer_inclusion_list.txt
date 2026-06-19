@@ -4,3 +4,6 @@
 
 
 # --- Additional trusted transformers ---
+org.embeddedt.*
+com.gtnewhorizons.*
+com.falsepattern.*
