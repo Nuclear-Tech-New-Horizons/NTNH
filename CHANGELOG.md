@@ -80,6 +80,8 @@
 - Fixed cargo elevators not rendering past a distance of 100 blocks
 - Fixed cargo elevator syncing range being only 100 blocks, meaning that elevators taller than that don't work properly
 - Fixed https://github.com/Artur114Projects/Armored_Arms/issues/59
+- Fixed HORRIBLE FPS and TPS
+ - And probably some of the unknown bugs
 
 
 
