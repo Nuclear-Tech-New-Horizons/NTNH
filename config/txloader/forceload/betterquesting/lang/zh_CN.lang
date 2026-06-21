@@ -7,11 +7,11 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=这是六溴代二苯核技
 
 # Quest: Storage Drawers
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=储物抽屉
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity as well as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=储物抽屉§r是一种简单且廉价的存储大量物品的方式。你可以进一步升级它们，来增加储物容量、扩展其他功能，比如销毁溢出物品。你可以通过§d凿刻§r它们来改变木材类型。%n%n§2放置太多的抽屉可能会造成卡顿。
 
 # Quest: You WILL eat ze bugs!
-betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=You WILL eat ze bugs!
-betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Congratulations. You have done it. You have actually done it.%n%nWhile the rest of the world clung desperately to their beef and their bread, you - yes, YOU - reached into your inventory, pulled out a §6Silkworm§r, and thought: "yes. This is food now." Klaus is proud. Klaus is, in fact, emotional. Somewhere in a Swiss%nchalet, a single tear rolls down his turtleneck. You will own nothing. You will have no hunger bar. Und you will be happy.
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=你一定会吃虫子！
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=恭喜你，你做到了。你真的做到了。%n%n 当整个世界死死守着他们的牛肉和面包时，你——没错，就是你——翻了翻你的物品栏，掏出了一只§6蚕§r，想着：“好，现在这是吃的了。” 克劳斯很骄傲。克劳斯实际上彻底感动了。在瑞士%n高档木屋中的某个地方，一滴眼泪顺着他的圆领毛衣流了下来。你将一无所有。你将不再有饥饿条。而且，你还会很快乐。
 
 # Quest: Stirling Engine
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=斯特林发电机
@@ -22,24 +22,24 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=蒸汽引擎
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Steam Engine§r 是一个将§bSteam§r变成能量的早期游戏方法。 它需要一个外部源来提供蒸汽和一个倾倒或重新处理它生产的 §bLow-Pressure Steam§r 的方法。 %n%nSteam引擎的能效为 §e85%%§r, 使它比§3斯特林发电机§r更好。 然而，它的吞吐量仍然有限制，因为它只能维持到2000毫米。 它的最大处理速度是 2000 mB/t，产生了一个相当大的 §e3400 HE/t§r 或 §e68 kHE/s§r. 因此它是在§3汽轮机§r之前可用的最好的生成器。%n%n锅炉用加热器加热后会产生§e17kHE/sr。
 
 # Quest: Abandoned Structures
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Abandoned Structures
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Structures generate throughout the world and are among the best sources of early-game resources. Raiding them before investing heavily in production can save significant time and materials.%n%n§2Exploration pays off early - check your surroundings before grinding for resources you might find for free.§r
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=废弃建筑
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=世界各处都会生成建筑，它们是早期游戏中资源最好的来源。大规模投入生产之前先去搜刮它们，能省下很多时间和材料。%n%n§2探险的回报来得很快：在肝资源之前，先看看周围，你说不定能找到现成的。§r
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=电池
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=电池座可以装电池或电容.%n%n电池有更多的能量存储，但是放电时间较长 意味着只能向网格输送少量存储电源。 另一方面，%n%n电容器的能量存储量较少，但排放时间较快。
 
 # Quest: Stone Age
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Stone Age
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Welcome to the Stone Age. This stage covers the essential survival mechanics you will need to progress, as well as several changes made to vanilla Minecraft that affect how you play from the very beginning.%n%nWork through the quests in this chapter to get up to speed before moving on.%n%n§2Complete these quests before progressing - later stages assume you know this material.§r
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=石器时代
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=欢迎来到石器时代。这个阶段涵盖了核心生存机制，也包括了对原版 Minecraft 的修改：它们从一开始就会改变你的游玩方式。%n%n请通过本章中的任务，以在开启新篇章前快速上手。%n%n§2在游玩后续内容之前，请先完成这些任务——之后的阶段会默认你了解这里介绍的内容。§r
 
 # Quest: Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.%n§2Check JEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=搞定！
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=§6锤子§r是§d无中生有 (Ex Nihilo)§r模组中的工具，它可以把方块粉碎成更精细的方块。它主要用来生产§3筛子§r需要的原料：圆石粉碎为沙砾，沙砾粉碎成沙子，而沙子则粉碎到尘土。这三种产物每个都可以筛出不同的资源。%n%n使用时，像镐一样拿着它挖掘方块即可。锤子也有标准的工具等级——%n从木头到钻石，不过只有耐久度的区别。它也能被附魔，但适用的附魔和镐的不一样。%n%n你也可以用多步的粉碎链来粉碎矿石。每一步都有较小几率产出更多的%n材料，因此做出专用的倍矿机器之前，§6锤子§r也能作为基本的倍矿工具。%n%n§2锤子可以用挖掘方块的机器自动化，例如§d压缩工具 (Ex Compressum)§r中的自动锤子。%n§2你可以用 JEI 查看每个方块的完整粉碎链。
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=电缆网络分析工具
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=The §6Cable Network Analysis Tool§r is used to check the integrity of power grids and analyze their main functional components. To perform a test, right-click the analyzer on wires or mechanisms in the power grid. The device displays the following data:%n%n§eLinks§r - these include wires and mechanisms that can conduct energy (e.g., energy storage units, utility poles).%n%n§cProviders§r - all mechanisms capable of producing energy and/or feeding it into the grid (energy storage units in "§agreen§r" and "§6orange§r" modes, turbines, etc.).%n%n§9Receivers§r - everything that absorbs energy from the grid (energy storage units in "§9blue§r" mode, grinders, and other mechanisms).%n%n§2The analyzer not only displays the above components but also counts them. Each grid is assigned a unique code.%n%nParticles only spawn in a 20 block radius!
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=§6电缆网络分析工具§r可用于检查电网的完整性，以及分析它的主要功能组件。要使用它，只需右击分析工具或是装置。设备会显示这些数据：%n%n§eLinks§r，连接其他导电线缆或装置的数量（例如储能单元、电线杆）；%n%n§cProviders§r，向电网产能/供能的装置数（“§a绿色§r”或“§6黄色§r”模式下的储能单元、涡轮等）；%n%n§9Receivers§r，从电网接收能量的装置数（“§9蓝色§r”模式下的储能单元、研磨机等其他装置）。%n%n§2这个工具会显示上述装置的数量和装置本身。每个电网都有一个唯一编码。%n%n粒子效果只会在 20 个方块的半径以内生成！
 
 # Quest: Pipe Anchors
 betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=管道锚点
@@ -47,11 +47,11 @@ betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Pipe Anchors§r 是非固体
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=自动Buzz 锯子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing pushing range.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=§6§3自动嗡嗡锯§r可以自动砍树并获得§6原木§r，也可以自动收割§6大麻§r和§6小麦§r等其他作物。%n%n§3风扇§r在被红石充能时，能将掉落物吹进漏斗或传送带，从而储存它们。对风扇右键使用§6手钻§r可以让风力不随距离衰减。
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=工业混合器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=§3工业搅拌机§r可以将流体和另外一种流体/物品混合。对某些合成表而言，它可以作为§3化工厂§r的替代品。
 
 # Quest: Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=铁砧
@@ -59,11 +59,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r 是一个分层的
 
 # Quest: Burner Press
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=燃烧器按下
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r on the §6Iron Anvil§r.%n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3锻压机§r可用于制作§6金属板§r、§6线缆§r、§6电路§r、§6弹壳§r，也可以将不可熔炼的粉末§6压缩§r回常见的形态。它需要§6锻模§r才能工作，而各类锻模需要在§6铁砧§r上由普通§6锻模§r合成。%n%n§2可以在锻压机旁放置预热器来提高制作速度。
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r, §6Steel§r and §6Advanced Alloy§r, which is a combination of the former.%n%nAdvanced alloy can be used to construct very durable tools that come with vein mining.%n%nA separate block, the §3Blast Furnace Extension§r, can be placed on top of the blast furnace to make it operate faster. Without the extension, it smelts items at about half the rate of a furnace, the extension triples that rate. Fuel consumption remains constant, meaning the extension also triples the efficiency of fuel consumption. %n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3高炉§r是固体的、需要燃料的熔炉，可以将两种输入原料熔炼为合金。最基础的合金是§6紫铜§r，§6钢§r以及由它们熔炼而成的§6高级合金§r。%n%n高级合金可以用来合成耐久度极高的工具，自带连锁挖矿。%n%n§3高炉烟道§r是个独立的方块，它可以放在高炉上方，加速熔炼。没有烟道的情况下，高炉的熔炼速度大概是原版熔炉的一半；烟道可以让这个速度提高为原本的三倍。高炉的燃料消耗速度保持不变，所以烟道也同时让燃料效率翻了三倍。%n%n§2对于之后更高级的工具，按下 ALT 键将会唤起一个菜单，你可以在菜单里一次性选择启用多个能力。
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
@@ -74,8 +74,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=防化服
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r 提供保护以防许多危险,主要是辐射. §6Hazmat Cloth§r可以进一步加强,以产生更耐用的烟雾套装.%n%n要提供额外的保护免受环境危险，需要一个 §6气体掩码过滤器§r，这可以在按住它时通过右键点击来装备它。
 
 # Quest: Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.%n%nFor better looking, as well as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=电线
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=最基本的输电方块是§3紫铜电线§r，它有两种变体：完整的方块型和更细的线缆型。方块型的电线也能变成其他方块的材质，可以更好地融入你的设计。%n%n你可以用§l§r§6电缆卷§r和§3电力连接器§r来把电力输送得更远，也能让布线更加美观。这些线路不是固体方块，还能穿过墙壁和地板。%n%n
 
 # Quest: Pollution Detector
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Pollution Detector
