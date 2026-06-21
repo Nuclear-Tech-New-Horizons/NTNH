@@ -175,7 +175,9 @@
 - Removed BetterFPS mod to avoid some weird bugs
 - Updated danish, turkish, spanish and russian translation
 - Disabled breath effect
-- Updated some 
+- Updated some.. thing...
+ - I forgor
+- *Probably* made Martian Mode playable
 
 
 
