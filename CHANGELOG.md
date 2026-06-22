@@ -4,6 +4,8 @@
 **Added**
 - "Balefire Ballet" and "Music in a Box" music discs
  - Can only be found in dungeons
+- Color Codes system!
+ - https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide
 - Sowth bobblehead
  - He alone carries the whole NTNH OST - Disc 1
  - So he deserves the credit
