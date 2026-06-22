@@ -58,11 +58,27 @@
  - No public IP required!
 - New Bountiful Stars shader!
  - Looks and works *AWESOME* with space!
-
+- Added quest count
+- Added per-quest and player notification settings
+- Added Complete All Quests Command
+- Added button to auto-claim choice rewards
+- Allow scroll wheel to change page in books
+- More Floor Path Markings
+- Backport modern tab list
+- Added `/motd` command
+- Added flipping for schematics
+- Network Visualizer shows connections between a Crafting Input Bus/Buffer and its proxies
+- World search bar
+- Modern world icons
+- Modern world loading screen
+- A thousand of small and barely noticeable changes in mods (some of them are probably not even documented)
 
 
 
 **Fixed**
+- DRAMATICALLY increased TPS, FPS and chunk loading speed
+ - Can you guess how I did that?
+ - Do not. Use. AI. For coding.
 - Fixed RoR graph showing the wrong name in the GUI
 - Fixed polling option in RoR controllers reading dead signals
 - Fixed state change in RoR controllers not allowing repeat commands
@@ -82,8 +98,17 @@
 - Fixed cargo elevators not rendering past a distance of 100 blocks
 - Fixed cargo elevator syncing range being only 100 blocks, meaning that elevators taller than that don't work properly
 - Fixed https://github.com/Artur114Projects/Armored_Arms/issues/59
-- Fixed HORRIBLE FPS and TPS
  - And probably some of the unknown bugs
+- BetterBuildersWands - Fixed Backhand integration and resolved block placement issues with certain mods by @ABKQPO
+- Fixed `/wandOops` giving back wrong amount
+- Fixed boss bars appearing when rendering entity preview in the questbook
+- Fixed a bug related to rendering in NEI when bookmarking from the questbook on a wildcard item
+- Tried to fix the world hanging
+ - Well, it seems that it was not completely fixed
+ - It will lag at the first load in any world
+ - But it will be fine after that
+ - Seems to reset after the game restart
+- A million of small fixes and optimizations
 
 
 
@@ -180,6 +205,10 @@
 - Updated some.. thing...
  - I forgor
 - *Probably* made Martian Mode playable
+- Quest notifications are now shown as titles
+- Remove mojang oauth
+- A thousand of small and barely noticeable changes in mods (some of them are probably not even documented)
+- Double doors do not open together anymore
 
 
 
