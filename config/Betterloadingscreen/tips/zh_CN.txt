@@ -1,47 +1,47 @@
 #加载屏幕提示
 #感谢0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaaber, Nvidiot, Regian24, richardhendricks, yukieiji 和其他人的提示建议
 #
-#最大字符提示：77 (更多可以离开屏幕)
+#提示最大字符数：77 (太多会挤出屏幕)
 #下面的直线，包括"#"是77个字符
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-有疑问吗？ 有疑问吗？ 加入我们的 Discord 服务器：discord.gg/wtNVzeE5QB
-您可以将任务菜单绑定到一个密钥，而不是使用这本书
+有疑问吗？ 加入我们的 Discord 服务器：discord.gg/wtNVzeE5QB
+您可以将任务菜单绑定到按键上，而不是使用这本书
 请务必查看您可以对鼠标调节做些什么
 简直就是打火石！
 冒险家的背包：合成终端、床和液体存储
 注意污染！
-发现错误？ 发现错误？ 在 GitHub 或 Discord 上报告
-您可以用NEI书签项目 (默认情况下"a")
-这是NEI，不是JEI。 频繁使用它。 频繁使用它。
-您的挑选尚未准备好
+发现错误？ 在 GitHub 或 Discord 上报告
+您可以用NEI将项目加入书签 (默认按键"a")
+这是NEI，不是JEI。 多用用它。
+您挑选的物品尚未准备好
 也试试GT:NH！
 将“我的”返回到Minecraft中
 不要晚上出门！
-放弃所有原版知识所有进入此处的您
-有时逃离比与某些暴徒打仗更好了
-准备好花几个小时来建造单个多块机器！
+所有进入此处的人，该放弃所有原版知识了
+有时逃跑比跟怪物打架更好
+准备好花几个小时来建造一个多方块机器！
 按 F7 可以看到生物能够生成的点！
 按 F9 可查看区块边框！
-微工艺是爱情，微工艺是生命的
-你在生命中制造了多少电路？
-XAERO世界地图：PRESS[M]
+微工艺是爱情，微工艺是生命
+你一生中制造了多少电路？
+XAERO世界地图：按 [M]
 sqrt(-1) 喜欢你！
 (MultiMC > Curse) && (Technic > Curse): true
 你需要做的只是跟着该死的探索线, CJ！
 点击任务簿中的一个项目来在NEI中显示其配方
-为什么不访问核技术？ 我们有…… 氢弹 我们有…… 氢弹
-如果你玩得太烦琐，你做错了
+为什么不看看 Nuclear Tech 呢？ 我们有…… 氢弹
+如果你玩得太枯燥，你肯定搞错了什么
 你烘焙食物时也会注意烤箱吗？
-您在等待时总是可以做一些其他事情
-使用 F3 + S 重新装入声音，如果它走了
+等待时你总是可以做一些其他事情
+使用 F3 + S 重新加载声音，如果它没了
 生活就是一直提出问题，而不是解决问题 - 荣马里奥
 访问 r/feedthememem！
 我想要火箭 我想要去月球 - St4o
 你好@Bufka2011为什么抄袭了我们的（GTNH）规则 :kekwhat: ：
-您是否已经制造了AE2系统？
+你是否已经制作了AE2系统？
 按下 O 来隐藏NEI 覆盖
-同时尝试GregT技术：新地平线！
+同时尝试GregTech: New Horizons！
 3.6 伦琴？
 工厂必须成长！
 您是否尝试过方案？
