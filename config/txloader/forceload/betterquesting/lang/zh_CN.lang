@@ -166,16 +166,16 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=烟囱
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§3烟囱§r用于减少机器的污染。在铁砧上制作的§3排气管§r可以将废气排入烟囱。§3工业烟囱§r可用于生产§6细烟灰§r，它是游戏后期制作§6富勒烯§r的必要原料。%n%n§3储灰槽§r可以放在烟囱下面，用于收集§6灰烬§r，而灰烬则可用作便宜的黑色染料或是用于制作§6工业肥料§r。
 
 # Quest: Player Decontaminator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Player Decontaminator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.desc=The §3Player Decontaminator§r will remove Rads received while standing on it. It can be very cost efficient, as other methods such as §6RadAways§r require constant replenishment.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=玩家去污器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.desc=站在§3玩家去污器§r上时，会减少你的辐射量。它性价比通常很高，因为其他减轻辐射的方式，比如§6消辐宁§r，需要不断补充。
 
 # Quest: Machine Upgrade Template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Machine Upgrade Template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=The §6Machine Upgrade Template§r is the baseline for all machine upgrades. Machine upgrades are not only used to increase the efficiency of machines but also to unlock new functions.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=机器升级模板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=§6机器升级模板§r是制作所有机器升级的基础。机器升级可以提高机器的效率，也能为机器解锁新功能。
 
 # Quest: Drainage Pipe
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Drainage Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=The §3Drainage Pipe§r allows the dumping of fluids and gasses into the environment at the cost of pollution.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=§3排液管§r可以向环境排放液体或气体，但会带来污染。
 
 # Quest: Do a Barrel!
 betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.name=Do a Barrel!
@@ -187,14 +187,14 @@ betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from
 
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Charm of Protection
-betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=The §6Charm of Protection§r diverts meteorites away from the player and prevents them from destoying blocks. It is recommended that one is obtained as soon as possible as to prevent costly damages in the future.
+betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=§6守护项链§r可以使陨石偏离玩家，并阻止陨石破坏方块。推荐尽早获取它，以防止未来的重大损失。
 
 # Quest: Diesel Generator
 betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.name=Diesel Generator
 betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.desc=The §3Diesel Generator§r is a compact, single-block generator that burns liquid fuels to produce energy. Its small footprint and compatibility with common oil-processing byproducts make it a strong choice for early- and mid-game power.%n%nIt holds up to §b4,000 mB§r of fluid internally, consumed at a steady rate of §e20 mB/s§r. It also carries a §e50 kHE§r energy buffer - but combustion does not pause when the buffer is full, so any excess energy is wasted. To avoid this, ensure your machines are drawing power consistently.%n%nFuel can be supplied via fluid ducts or by placing barrels in the internal item slots. A §6Fluid Identifier§r can be inserted to lock the accepted fuel type. Not all fuels are equal - effectiveness varies by grade: medium-grade fuels run at §e50%%%%§r efficiency, high-grade at §e75%%§r, and aviation fuels at just §e10%%§r. Low-grade and gaseous fuels are rejected entirely.%n%n§2Tip: High-grade fuels like diesel, gasoline, and biofuel get the best return - prioritize refining your oil into these where possible.§r
 
 # Quest: Wood-Burning Generator
-betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=Wood-Burning Generator
+betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=火力发电机
 betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=The §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.%n%nBurning logs in the generator produces §e2kHE/s.§r
 
 # Quest: Flint Tools
