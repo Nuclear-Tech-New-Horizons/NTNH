@@ -174,7 +174,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=机器升级模板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=§6机器升级模板§r是制作所有机器升级的基础。机器升级可以提高机器的效率，也能为机器解锁新功能。
 
 # Quest: Drainage Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Drainage Pipe
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=排液管
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=§3排液管§r可以向环境排放液体或气体，但会带来污染。
 
 # Quest: Do a Barrel!
