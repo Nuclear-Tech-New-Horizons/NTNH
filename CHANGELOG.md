@@ -120,8 +120,8 @@
 
 
 **Changed**
-- **REMOVED SATCHELS   - EMPTY THEM BEFORE UPDATING**
-- **REMOVED NETHERLICIOUS   - BACKUP YOUR WORLD BEFORE UPDATING**
+- **REMOVED SATCHELS - EMPTY THEM BEFORE UPDATING**
+- **REMOVED NETHERLICIOUS - BACKUP YOUR WORLD BEFORE UPDATING**
 - Removed Zora no Densha
    - Nobody really used it
 - Removed Dmod
@@ -217,6 +217,7 @@
 - A thousand of small and barely noticeable changes in mods (some of them are probably not even documented)
 - Double doors do not open together anymore
 - You're getting hungry a little bit slower (by 20%)
+- Exploded RBMK now emits poisonous smoke
 
 
 
