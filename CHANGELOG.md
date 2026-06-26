@@ -72,6 +72,13 @@
 - Modern world icons
 - Modern world loading screen
 - A thousand of small and barely noticeable changes in mods (some of them are probably not even documented)
+- Uranium Cookie
+   - Why would you even try to eat those
+   - No, seriously
+   - Why eat uranium
+- Digamma Croissant
+   - Croissant à base de crabe
+   - Du moins, c'est ce que ça donne l'impression
 
 
 
