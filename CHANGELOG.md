@@ -116,6 +116,7 @@
    - But it will be fine after that
    - Seems to reset after the game restart
 - A million of small fixes and optimizations
+- Fixed ore generation configurability — `oreFreq` and `oreSize` multipliers now affect all entries, fixed swapped blocks, typos, and comments in CustomOreGen config
 
 
 

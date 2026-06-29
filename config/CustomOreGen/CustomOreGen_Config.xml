@@ -13,11 +13,11 @@
     <OptionDisplayGroup name="groupGeneral" displayName="General" displayState="shown">
     </OptionDisplayGroup>
 
-    <!-- Controls overall frequency of ore deposits.  Range 0–5; default 1 -->
+    <!-- Controls overall frequency of ore deposits.  Range 0–5; default 2 -->
     <OptionNumeric name="oreFreq" default="2" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
-    <!-- Controls overall size of ore deposits.  Range 0–5; default 1 -->
+    <!-- Controls overall size of ore deposits.  Range 0–5; default 2 -->
     <OptionNumeric name="oreSize" default="2" min="0" max="5" displayState="shown"
       displayGroup="groupGeneral">
     </OptionNumeric>
@@ -69,7 +69,7 @@
 
     <!-- Very small biome cloud. -->
     <CloudPreset name="PresetBiomeCloudVerySmall">
-      <Setting name="DistributionFrequency" avg=":= 0.3" />
+      <Setting name="DistributionFrequency" avg=":= 0.3 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":=4 * oreSize" range=":= 8 * oreSize" />
       <Setting name="CloudThickness" avg=":= 7 * oreSize" range=":= 4 * oreSize" />
@@ -84,7 +84,7 @@
 
     <!-- Small biome cloud. -->
     <CloudPreset name="PresetBiomeCloudSmall">
-      <Setting name="DistributionFrequency" avg=":= 0.2" />
+      <Setting name="DistributionFrequency" avg=":= 0.2 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":= 8 * oreSize" range=":= 8 * oreSize" />
       <Setting name="CloudThickness" avg=":= 10 * oreSize" range=":= 4 * oreSize" />
@@ -99,7 +99,7 @@
 
     <!-- Medium biome cloud. -->
     <CloudPreset name="PresetBiomeCloudMedium">
-      <Setting name="DistributionFrequency" avg=":= 0.02" />
+      <Setting name="DistributionFrequency" avg=":= 0.02 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":= 16 * oreSize" range=":= 10 * oreSize" />
       <Setting name="CloudThickness" avg=":= 14 * oreSize" range=":= 6 * oreSize" />
@@ -114,7 +114,7 @@
 
     <!-- Large biome cloud. -->
     <CloudPreset name="PresetBiomeCloudLarge">
-      <Setting name="DistributionFrequency" avg=":= 0.005" />
+      <Setting name="DistributionFrequency" avg=":= 0.005 * oreFreq" />
       <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
       <Setting name="CloudRadius" avg=":= 32 * oreSize" range=":= 12 * oreSize" />
       <Setting name="CloudThickness" avg=":= 16 * oreSize" range=":= 7 * oreSize" />
@@ -523,8 +523,8 @@
     <!-- === Mun === -->
     <CloudPreset name="PresetMun">
       <Setting name="DistributionFrequency" avg=":= 0.03 * oreFreq" />
-      <Setting name="CloudRadius" avg="15" range="5" />
-      <Setting name="CloudThickness" avg="15" range="5" />
+      <Setting name="CloudRadius" avg=":= 15 * oreSize" range=":= 5 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 15 * oreSize" range=":= 5 * oreSize" />
       <Setting name="OreDensity" avg="0.8" />
       <ReplacesOre block="cobblestone" />
       <IfCondition Condition="dimension == 15" />
@@ -571,8 +571,8 @@
 
     <CloudPreset name="PresetMinmus">
       <Setting name="DistributionFrequency" avg=":= 0.04 * oreFreq" />
-      <Setting name="CloudRadius" avg="12" range="4" />
-      <Setting name="CloudThickness" avg="12" range="4" />
+      <Setting name="CloudRadius" avg=":= 12 * oreSize" range=":= 4 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 12 * oreSize" range=":= 4 * oreSize" />
       <Setting name="OreDensity" avg="0.7" />
       <ReplacesOre block="stone" />
       <IfCondition Condition="dimension == 21" />
@@ -608,7 +608,7 @@
       name="PresetDuna" branchType="Bezier">
       <Setting name="MotherlodeFrequency" avg=":= 0.04 * oreFreq" />
       <Setting name="MotherlodeHeight" avg="35" range="20" type="uniform" />
-      <Setting name="BranchLength" avg="100" range="20" />
+      <Setting name="BranchLength" avg=":= 100 * oreSize" range=":= 20 * oreSize" />
       <Setting name="BranchInclination" avg="0" range="0.1" />
       <Setting name="SegmentAngle" avg="0.7" range="0.3" />
       <Setting name="OreDensity" avg="1" />
@@ -648,7 +648,7 @@
       branchType="Bezier">
       <Setting name="MotherlodeFrequency" avg=":= 0.06 * oreFreq" />
       <Setting name="MotherlodeHeight" avg="35" range="20" type="uniform" />
-      <Setting name="BranchLength" avg="60" range="15" />
+      <Setting name="BranchLength" avg=":= 60 * oreSize" range=":= 15 * oreSize" />
       <Setting name="OreDensity" avg="1" />
       <ReplacesOre block="stone" />
       <IfCondition Condition="dimension == 17" />
@@ -676,8 +676,8 @@
     <CloudPreset name="PresetLaythe">
       <Setting name="DistributionFrequency" avg=":= 0.02 * oreFreq" />
 
-      <Setting name="CloudRadius" avg="40" range="20" />
-      <Setting name="CloudThickness" avg="2" range="1" />
+      <Setting name="CloudRadius" avg=":= 40 * oreSize" range=":= 20 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 2 * oreSize" range=":= 1 * oreSize" />
 
       <Setting name="OreDensity" avg="1.0" />
       <ReplacesOre block="stone" />
@@ -712,8 +712,8 @@
     <CloudPreset name="PresetEve">
       <Setting name="DistributionFrequency" avg=":= 0.8 * oreFreq" />
 
-      <Setting name="CloudRadius" avg="1" range="1" />
-      <Setting name="CloudThickness" avg="1" range="1" />
+      <Setting name="CloudRadius" avg=":= 1 * oreSize" range=":= 1 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 1 * oreSize" range=":= 1 * oreSize" />
 
       <Setting name="OreDensity" avg="1.0" />
 
@@ -764,8 +764,8 @@
       name="PresetDres">
       <Setting name="DistributionFrequency" avg=":= 2.5 * oreFreq" />
 
-      <Setting name="CloudRadius" avg="2" range="1" />
-      <Setting name="CloudThickness" avg="2" range="1" />
+      <Setting name="CloudRadius" avg=":= 2 * oreSize" range=":= 1 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 2 * oreSize" range=":= 1 * oreSize" />
 
       <Setting name="OreDensity" avg="1.0" />
 
@@ -811,8 +811,8 @@
     <CloudPreset name="PresetMoho">
       <Setting name="DistributionFrequency" avg=":= 0.01 * oreFreq" />
 
-      <Setting name="CloudRadius" avg="100" range="20" />
-      <Setting name="CloudThickness" avg="8" range="2" />
+      <Setting name="CloudRadius" avg=":= 100 * oreSize" range=":= 20 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 8 * oreSize" range=":= 2 * oreSize" />
 
       <Setting name="OreDensity" avg="0.6" />
       <ReplacesOre block="stone" />
@@ -854,7 +854,7 @@
       <Setting name="MotherlodeFrequency" avg=":= 0.05 * oreFreq" />
       <Setting name="MotherlodeHeight" avg="32" range="25" type="uniform" />
 
-      <Setting name="BranchLength" avg="120" range="20" />
+      <Setting name="BranchLength" avg=":= 120 * oreSize" range=":= 20 * oreSize" />
 
       <Setting name="SegmentAngle" avg="0.0" range="0.0" />
       <Setting name="BranchInclination" avg="0.0" range="0.0" />
