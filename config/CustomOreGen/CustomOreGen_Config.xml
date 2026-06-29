@@ -819,7 +819,6 @@
       <IfCondition Condition="dimension == 20" />
       <Biome name="Moho Lava Sea" />
       <Biome name="Moho Crag" />
-      <Biome name="Moho Lava Sea" />
       <Biome name="Moho Plateau" />
     </CloudPreset>
 
