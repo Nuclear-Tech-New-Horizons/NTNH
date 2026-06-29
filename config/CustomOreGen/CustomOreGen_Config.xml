@@ -642,6 +642,8 @@
       block="hbm:tile.ore_beryllium:4" inherits="PresetDuna" />
     <Veins name="Duna_zinc"
       block="hbm:tile.ore_zinc:4" inherits="PresetDuna" />
+    <Veins name="Duna_Aluminium"
+      block="hbm:tile.ore_aluminium:4" inherits="PresetDuna" />
 
     <!-- === Ike === -->
     <VeinsPreset name="PresetIke"
