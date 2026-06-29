@@ -187,7 +187,7 @@
       <Biome name="Desert M" />
     </Cloud>
 
-    <Cloud name="TitaniumDeser"
+    <Cloud name="TitaniumDesert"
       block="hbm:tile.ore_titanium" inherits="PresetBiomeCloudVerySmall">
       <Biome name="Desert" />
       <Biome name="DesertHills" />
@@ -374,7 +374,7 @@
 
     <Cloud
       name="CloudVerySmallAsbestosTaiga"
-      block="hbm:tile.ore_aluminium" inherits="PresetBiomeCloudSmall">
+      block="hbm:tile.ore_asbestos" inherits="PresetBiomeCloudSmall">
       <Biome name="Mega Taiga" />
       <Biome name="Mega Spruce Taiga" />
       <Biome name="Mega Taiga Hills" />
@@ -392,7 +392,7 @@
 
     <Cloud
       name="CloudSmallAluminiumTaiga"
-      block="hbm:tile.ore_asbestos" inherits="PresetBiomeCloudMedium">
+      block="hbm:tile.ore_aluminium" inherits="PresetBiomeCloudMedium">
       <Biome name="Mega Taiga" />
       <Biome name="Mega Spruce Taiga" />
       <Biome name="Mega Taiga Hills" />
@@ -820,7 +820,7 @@
       <Biome name="Moho Lava Sea" />
       <Biome name="Moho Crag" />
       <Biome name="Moho Lava Sea" />
-      <Biome name="Moho Flateau" />
+      <Biome name="Moho Plateau" />
     </CloudPreset>
 
     <Substitute name="Moho_Cleanup"

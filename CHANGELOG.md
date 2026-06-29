@@ -212,6 +212,7 @@
 - Updated some.. thing...
    - I forgor
 - *Probably* made Martian Mode playable
+   - Added some flint in your iron crate
 - Quest notifications are now shown as titles
 - Remove mojang oauth
 - A thousand of small and barely noticeable changes in mods (some of them are probably not even documented)
