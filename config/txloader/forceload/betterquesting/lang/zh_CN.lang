@@ -19,7 +19,7 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3斯特林发电机§r依靠�
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=蒸汽机
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3蒸汽机§r是游戏早期用§b蒸汽§r发电的机器。它需要外部的蒸汽源，并产生§b低压蒸汽§r，需要倾倒或者再处理。%n%n蒸汽机的能效为 §e85%%§r，比§3斯特林发电机§r更好。然而，它仍然有吞吐量限制。它只能容纳 2000 mB 蒸汽，所以最大处理速度是 2000 mB/t，能发出可观的 §e3400 HE/t§r 或 §e68 kHE/s§r 的电力，因此它是在§3汽轮机§r解锁前最好的生成器。%n%n用烧煤炭的加热炉加热锅炉时，能发电 §e17kHE/s§r。
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=废弃建筑
@@ -47,7 +47,7 @@ betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3管锚§r不是固体方块�
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=自动嗡嗡锯
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=§6§3自动嗡嗡锯§r可以自动砍树并获得§6原木§r，也可以自动收割§6大麻§r和§6小麦§r等其他作物。%n%n§3风扇§r在被红石充能时，能将掉落物吹进漏斗或传送带，从而储存它们。对风扇右键使用§6手钻§r可以让风力不随距离衰减。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing behaviour of pushing force.
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=工业混合器
@@ -63,7 +63,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3锻压机§r可用于制作�
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3高炉§r是需要固体燃料的熔炉，可以将两种输入原料熔炼为合金。最基础的合金是§6紫铜§r，§6钢§r以及由它们熔炼而成的§6高级合金§r。%n%n高级合金可以用来合成耐久度极高的工具，自带连锁挖矿。%n%n§3高炉烟道§r是个独立的方块，它可以放在高炉上方，加速熔炼。没有烟道的情况下，高炉的熔炼速度大概是原版熔炉的一半；烟道可以让这个速度提高为原本的三倍。高炉的燃料消耗速度保持不变，所以烟道也同时让燃料效率翻了三倍。%n%n§2对于之后更高级的工具，按下 ALT 键将会唤起一个菜单，你可以在菜单里一次性选择启用多个能力。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Burn the Flue Gas byproduct in a Flare Stack to recover a small amount of power.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=战壕面具
@@ -111,7 +111,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=§3电弧焊机§r可以用于�
 
 # Quest: Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=复式炼焦炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=§3复式炼焦炉§r是一种独特的熔炉。它在熔炼物品之余，还会产生液体副产物。它可以更高效地炼制§6焦炭§r、§b木油§r和§6铝§r。 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
 
 # Quest: Chemical Plant
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=化工厂
@@ -127,7 +127,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=高速钢§r是标准钢的高�
 
 # Quest: Conveyor Belt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=输送带
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=§3输送带§r是传输物品最简单的方式。有些方块既可以和机器交互，也可以和传送带交互。%n%n§3输送带§r可以运输物品，包括掉落物和输送带提取器所弹出的物品。输送带导入器则可以从输送带上取出物品。如果没有导入器，物品会掉落在输送带的末端。%n%n§3输送带提取器§r可以取出输送带上的物品并将它们放入存储空间；输送带导入器则相反，从存储中提取物品并放入传送带。%n%n你可以设置提取器让它销毁过多的物品，也可以让它把那些无法放入传送带、也无法装进提取器内部存储的物品以掉落物的形式丢在地上。%n%n导入器有一个黑白名单的过滤系统（初始是无任何限制的黑名单模式，也就是所有物品都能通过）。右键白色箭头可以切换黑白名单。将物品“放入”导入器可以将它记录在名单里，但物品本身不会被消耗。%n%n§3输送带分离器§r会将物品均分到两条传送带上。%n%n§3输送带分拣机§r可以依据配置将物品送入特定的传送带。它不能存储物品，只是根据过滤设置移动物品，所以它输送和接受物品的速度是一样快的。%n分拣机有六个输出口，每个口有五个格子可以设置，因此你可以用它将不同物品送入同一条传送带。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=§3Conveyors§r provide the simplest way of moving items around. There are multiple blocks that can interface with machines as well as items moving along conveyor belts.%n%n§3Conveyor Belts§r are blocks used to transport items. They can pick up dropped items or items from conveyor ejectors. Conveyor inserters can take items from conveyor belts. If there are no conveyor inserters present, the item will be dropped at the end of the conveyor belt line.%n%n§3Conveyor Inserters§r are blocks that take items from conveyor belts and outputs them into a storage space. Conveyor ejectors are the opposite, they take items from storage and place them onto conveyor belts. %n%nInserters have an option to destroy surplus items if the input buffer has run full, otherwise the items that can neither be inserted in the target nor the inserter's buffer is simply dropped.%n%nThe ejector has a whitelist/blacklist system (the default mode is blacklist with no restrictions - this means that everything will go through). Right-clicking the white arrow will toggle between whitelist and blacklist. An item can be added to the blacklist/whitelist by "depositing" it into the blue inventory square - the item will not be consumed, however.%n%nThe §3Conveyor Splitter§r is a type of conveyor belt that splits items evenly onto 2 lanes.%n%n§3Conveyor Sorters§r are blocks that can sort various items to a specific conveyor belt. They do not have a buffer and simple move items to connected conveyor belts based on their filter options, therefore they can sort items as quickly as they receive them.%nThe sorter has six outputs with five slots each, making it able to route multiple items to one belt.
 
 # Quest: Settings Tool
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=设定工具
@@ -147,7 +147,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=§3锅炉§r需要从底部接�
 
 # Quest: Solar Tower Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=太阳能锅炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=§3太阳能锅炉§r是早期游戏的机器，它能用定日镜反射的阳光烧水并转化为蒸汽。%n%n太阳能锅炉从指向它的定日镜处获得热量。可以用定日镜调整工具将镜子对准锅炉：右键锅炉可以让工具记住它的位置，然后点击镜子就会将它们转向记录的锅炉。镜子必须处于锅炉的 25 格内，但它的效率不随距离衰减。在最高日光强度下，每 12.5 个镜子可以让锅炉每游戏刻将 1mB 水转化为 100mB 蒸汽。不过水的消耗速率会向下取整到 mB 级别，所以你至少需要 13 个镜子来生成 100mB/t 的蒸汽，再增加 12 个即可到达 200mB/t，接下来还是 13, 12，以此类推。%n%n由于定日镜提供的热量取决于阳光，如果上方有固体方块，它们是不会工作的。在傍晚，热量也会随着阳光减少而衰减，直到彻底入夜时不再发热。%n%n太阳能锅炉只能生产普通蒸汽，所以无法使用流体识别码来改变液体的类型。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=The §3Solar Tower Boiler§r is an earlygame machine that can use sunlight from heliostat mirrors to boil water and therefore turn it into steam.%n%nThe Solar Tower Boiler gets heat from heliostat mirrors pointed at it. Aiming a mirror at the boiler can be done using the mirror adjustment tool, right-click on the boiler will save its position to the tool, and subsequently clicking on mirrors will aim them at the linked boiler. The maximum range for mirrors is 25 blocks, mirror efficiency does not degrade with range. A boiler consumes 1mB of water for every 12.5 mirrors each tick at full sunlight level, and 100mB of steam per mB of water consumed. However, the water consumption rate is rounded down to the millibucket. Thus it takes 13 mirrors to raise your first 100mB/t of steam, 12 mirrors for the next hundred, then 13, 12, and so on.%n%nAs the heat provided by each mirror is based on sunlight, mirrors with solid blocks above them will not work, and the amount of heat diminishes with the amount of light in the evening until it produces no heat at night.%n%nThe solar tower boiler can only produce regular steam, and thus the liquid type cannot be changed using fluid identifiers.
 
 # Quest: Ammo Press and Guns
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=压弹机与枪
@@ -155,7 +155,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=通过§3坩埚§r解锁铸造�
 
 # Quest: Mining Charge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=采矿炸药
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=§3采矿炸药§r是一种明确具有采矿目的的炸药。它不会破坏掉落物，所以在做出挖掘等级足够的镐之前，它经常用于开采深层矿石。采矿炸药是从深层矿石中获得§6锆§r以制作核燃料棒的好方法。%n%n它的爆炸半径约为 3 格，并在红石激活时立即爆炸。它爆炸时不会对实体造成伤害。%n%n它有两种变体：§3定时采矿炸药§r和§b§3Semtex 采矿炸药§r。它们都是定时的，但 Semtex 炸药更强一些，而且有§e时运 III§r；定时炸药除了能定时、更方便之外，似乎没有更强的能力。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=The §3Mining Charge§r is an explosive made with the express purpose of mining, as such it's commonly used to mine depth ores, since it doesn't destroy drops, before getting a pickaxe that can do the same. Mining Charges are a great way of obtaining §6Zirconium§r from depth ores for nuclear fuel rods.%n%nIt has an explosion radius of about 3 blocks and explodes instantly upon being powered by redstone, while exploding it does no damage to entities.%n%nThere are two other variants of this, being the §3Timed Mining Charge§r and the §b§3Semtex Mining Charge§r, they are both timed explosives with the semtex one being stronger than the regular one and having §eFortune 3§r, meanwhile the timed mining charge does not seem to have enhanced capabilities, other than being timed and thus more convinient to use.
 
 # Quest: Steel Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=钢砧
@@ -199,7 +199,7 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3火力发电机§r是燃烧�
 
 # Quest: Flint Tools
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=燧石工具
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=最初的木头和石头需要靠燧石工具获得。要获得木棍的话，可以挖掘一些树叶。
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.
 
 # Quest: Hunger System
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=饥饿系统
@@ -259,7 +259,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Cladding§r is one of the mo
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Ore Generation System
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n%nCurrent ore generation tables:%n%nOverworld (Earth/Kerbin): [url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?usp=sharing[/url]%n%nOther Planets: [url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?usp=sharing[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%nOre generation spreadsheet%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Dosimeter
@@ -347,7 +347,7 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an in
 
 # Quest: Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r. 
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
 
 # Quest: Useful Tools and Techniques
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Useful Tools and Techniques
@@ -363,11 +363,11 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=For greater distances, and impr
 
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check JEI for all valid heat sources and their melt rates.
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check NEI for all valid heat sources and their melt rates.
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted — the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Industrial Hemp & Mustard Willow
@@ -962,7 +962,7 @@ betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.desc=A beautiful water world, teemin
 
 # Quest: Drive Processor Tier 1
 betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.name=Drive Processor Tier 1
-betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eDres§r and §eMoho§r.
+betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eIke§r and §eMoho§r.
 
 # Quest: Brine Processing
 betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.name=Brine Processing
@@ -1230,10 +1230,6 @@ betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.desc=The §6Chisel§r is a building 
 # Quest: Schematica
 betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.name=Schematica
 betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.desc=With §dSchematica§r, you can create schematics of your builds and post holograms of them on other worlds. Check out the keybinds to get started.
-
-# Quest: Decobench
-betterquesting.quest.W3YJEghpQMa3V91fEyWHyw.name=Decobench
-betterquesting.quest.W3YJEghpQMa3V91fEyWHyw.desc=The §3Decobench§r allows you to craft different props from §dDecocraft§r.%n%nIn order to use the Decobench you should put §6clay§r, §6red dye§r, §6green dye§r and §6blue dye§r in it.
 
 # Quest: Modern Markings
 betterquesting.quest.j9eLuGnhRVWn5uJS_KI5lg.name=Modern Markings
@@ -1604,10 +1600,6 @@ betterquesting.quest.Q8FZdwiURgC2PoD4IziLJg.desc=The Martian Invasion Ship is a 
 betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.name=Time to Kill (Wither Skeleton)
 betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.desc=Gimme yo §oSkuuuuull!!!§r <-- The thought of every non-noob player upon seeing one.%n%nBTW, in case you didn't know, you can summon the Wither by placing 4 soul sand blocks in a T shape, with 3 wither skulls on top. Don't do so in your base.
 
-# Quest: Time to Kill (Dire Wolf)
-betterquesting.quest.VJ3wiNZTRLK4so7T-93nqw.name=Time to Kill (Dire Wolf)
-betterquesting.quest.VJ3wiNZTRLK4so7T-93nqw.desc=This kind of wolf does not take kindly to you marching close to them or offering them bones! Neutral at first, but extremely hostile upon approaching close to them and dangerous. They'll rip the bones right off ya! Found within snowy forest biomes.
-
 # Quest: Time to Kill (Slime)
 betterquesting.quest.Z-RsAsrVRM2a3zWP5a0OsQ.name=Time to Kill (Slime)
 betterquesting.quest.Z-RsAsrVRM2a3zWP5a0OsQ.desc=Sticky and bouncy! Now in many variations. Say hello to my little friend, Lemon Slice!
@@ -1642,7 +1634,7 @@ betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You 
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. 
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Time to Kill (Silverfish)
