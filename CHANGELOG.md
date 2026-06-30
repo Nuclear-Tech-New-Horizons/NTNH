@@ -92,6 +92,8 @@ https://github.com/GTNewHorizons/Angelica/issues/1755
 - Digamma Croissant
    - Croissant à base de crabe
    - Du moins, c'est ce que ça donne l'impression
+- Smooth zoom feature
+- Modpack version number in the main menu
 
 
 

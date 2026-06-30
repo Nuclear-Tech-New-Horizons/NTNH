@@ -10,3 +10,6 @@ Yeah, and GTNH guys can't solve my issue for 1 month already. They say that it i
 
 Keep track on solving this issue here:
 https://github.com/GTNewHorizons/Angelica/issues/1755
+
+ALL OF YOUR XAERO DATA IS STORED IN .minecraft/XaeroWaypoints AND .minecraft/XaeroWorldMap
+YOU MIGHT WANT TO BACKUP IT
