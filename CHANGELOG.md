@@ -15,13 +15,16 @@ https://github.com/GTNewHorizons/Angelica/issues/1755
 
 ## What's changed?
 **Added**
-- "Balefire Ballet" and "Music in a Box" music discs
-   - Can only be found in dungeons
+- **NTNH OST - Disc 1 is here, baby**
+   - "Balefire Ballet" and "Music in a Box" music discs
+      - Can only be found in dungeons
+   - Bobmazon music
+   - Space soundtrack
+- Sowth bobblehead
+   - He alone carries the whole NTNH OST - Disc 1
+   - So he deserves the credit
 - Color Codes system!
    - https://github.com/GTNewHorizons/Angelica/wiki/Color-Codes-Guide
-- Sowth bobblehead
-   - He alone carries the whole NTNH OST   - Disc 1
-   - So he deserves the credit
 - Redstone-over-Radio Terminal
    - Allows commands to be sent manually, command line style
    - Supports single commands and repeated ones (polling)
@@ -65,7 +68,7 @@ https://github.com/GTNewHorizons/Angelica/issues/1755
    - They also interact with the new clouds
 - New expensive mode parts and recipes for space machines
 - Config for disabling tilting on "unavoidable gravity" machines like the Big-Ass Tank
-- Added this   - https://www.youtube.com/watch?v=tkQRdXkX-sc
+- Added this - https://www.youtube.com/watch?v=tkQRdXkX-sc
 - Added E4mc Retro and Lan UPnP
    - This allows you to open your world to the internet
    - No public IP required!
@@ -121,7 +124,7 @@ https://github.com/GTNewHorizons/Angelica/issues/1755
 - Fixed cargo elevator syncing range being only 100 blocks, meaning that elevators taller than that don't work properly
 - Fixed https://github.com/Artur114Projects/Armored_Arms/issues/59
    - And probably some of the unknown bugs
-- BetterBuildersWands   - Fixed Backhand integration and resolved block placement issues with certain mods by @ABKQPO
+- BetterBuildersWands - Fixed Backhand integration and resolved block placement issues with certain mods by @ABKQPO
 - Fixed `/wandOops` giving back wrong amount
 - Fixed boss bars appearing when rendering entity preview in the questbook
 - Fixed a bug related to rendering in NEI when bookmarking from the questbook on a wildcard item
