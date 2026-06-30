@@ -1,3 +1,0 @@
-#BetterFps Config
-#Wed May 20 18:52:01 MDT 2026
-algorithm=rivens-half

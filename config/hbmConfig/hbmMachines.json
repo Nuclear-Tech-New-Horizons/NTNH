@@ -209,7 +209,7 @@
     "D:efficiency": 0.85
   },
   "steamturbineIndustrialMk2": {
-    "INFO": "industrial steam turbine consumes 20% of availible steam per tick",
+    "INFO": "industrial steam turbine consumes 20% of available steam per tick",
     "I:inputTankSize": 750000,
     "I:outputTankSize": 3000000,
     "D:efficiency": 1.0

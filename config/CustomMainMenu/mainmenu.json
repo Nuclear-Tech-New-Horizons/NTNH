@@ -216,6 +216,15 @@
             "alignment" : "bottom_right"
         },
         
+        "version":
+        {
+            "text" : "file:mainmenu:version.txt",
+            "posX" : 2,
+            "posY" : -60,
+            "color" : 16747520,
+            "alignment" : "bottom_left"
+        },
+
         "fml":
         {
             "text" : "",

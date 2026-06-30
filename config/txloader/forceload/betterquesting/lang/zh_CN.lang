@@ -3,55 +3,55 @@
 
 ## Quest Line: LV1 - Early Game
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=LV1 - 早期游戏
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=这是六溴代二苯核技术模型的开始。 在本章中，您将学习模型的基本机械学，还要学习帮助您取得进展的技巧和技巧。
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=这是 HBM 的核科技 mod 的开始。在本章中，你将接触 mod 的基础机制，以及推进进度的提示和技巧。
 
 # Quest: Storage Drawers
 betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=储物抽屉
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity as well as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=储物抽屉§r是一种简单且廉价的存储大量物品的方式。你可以进一步升级它们，来增加储物容量、扩展其他功能，比如销毁溢出物品。你可以通过§d凿刻§r它们来改变木材类型。%n%n§2放置太多的抽屉可能会造成卡顿。
 
 # Quest: You WILL eat ze bugs!
-betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=You WILL eat ze bugs!
-betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Congratulations. You have done it. You have actually done it.%n%nWhile the rest of the world clung desperately to their beef and their bread, you - yes, YOU - reached into your inventory, pulled out a §6Silkworm§r, and thought: "yes. This is food now." Klaus is proud. Klaus is, in fact, emotional. Somewhere in a Swiss%nchalet, a single tear rolls down his turtleneck. You will own nothing. You will have no hunger bar. Und you will be happy.
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=你一定会吃虫子！
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=恭喜你，你做到了。你真的做到了。%n%n 当整个世界死死守着他们的牛肉和面包时，你——没错，就是你——翻了翻你的物品栏，掏出了一只§6蚕§r，想着：“好，现在这是吃的了。” 克劳斯很骄傲。克劳斯实际上彻底感动了。在瑞士%n高档木屋中的某个地方，一滴眼泪顺着他的圆领毛衣流了下来。你将一无所有。你将不再有饥饿条。而且，你还会很快乐。
 
 # Quest: Stirling Engine
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=斯特林发电机
-betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3斯特林发电机§r使用了来自§3 热箱§r或§3§r§3 火箱§r的热量来产生电力。 如果加热炉被用来加热斯特林引擎，它可能会超速并损坏，会将主齿轮弹飞。 重型斯特林引擎没有这个问题。%n%n斯特林发电机用一台燃烧煤炭的燃烧室加热可以产生§e2kHE/s§r，而重型斯特林发电机用加热炉可以产生§e10kHE/s§r。
+betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3斯特林发电机§r依靠§3加热炉§r或§3§r§3燃烧室§r的热量来发电。 如果用加热炉来驱动斯特林发电机，它可能会过速并损坏，把主齿轮弹飞。 重型斯特林引擎则没有这个问题。%n%n用一台烧煤炭的燃烧室加热时，斯特林发电机可以发电§e2kHE/s§r，而加热炉配上重型斯特林发电机可以发电§e10kHE/s§r。
 
 # Quest: Steam Engine
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=蒸汽引擎
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Steam Engine§r 是一个将§bSteam§r变成能量的早期游戏方法。 它需要一个外部源来提供蒸汽和一个倾倒或重新处理它生产的 §bLow-Pressure Steam§r 的方法。 %n%nSteam引擎的能效为 §e85%%§r, 使它比§3斯特林发电机§r更好。 然而，它的吞吐量仍然有限制，因为它只能维持到2000毫米。 它的最大处理速度是 2000 mB/t，产生了一个相当大的 §e3400 HE/t§r 或 §e68 kHE/s§r. 因此它是在§3汽轮机§r之前可用的最好的生成器。%n%n锅炉用加热器加热后会产生§e17kHE/sr。
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=蒸汽机
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
 
 # Quest: Abandoned Structures
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Abandoned Structures
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Structures generate throughout the world and are among the best sources of early-game resources. Raiding them before investing heavily in production can save significant time and materials.%n%n§2Exploration pays off early - check your surroundings before grinding for resources you might find for free.§r
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=废弃建筑
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=世界各处都会生成建筑，它们是早期游戏中资源最好的来源。大规模投入生产之前先去搜刮它们，能省下很多时间和材料。%n%n§2探险的回报来得很快：在肝资源之前，先看看周围，你说不定能找到现成的。§r
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=电池
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=电池座可以装电池或电容.%n%n电池有更多的能量存储，但是放电时间较长 意味着只能向网格输送少量存储电源。 另一方面，%n%n电容器的能量存储量较少，但排放时间较快。
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=§3电池座§r可以装§6电池§r或§6电容§r。%n%n电池能储存更多能量，但是放电较慢，所以只能向电网输送少量存储的电量。%n%n而电容储能较少，但放电时间较快。
 
 # Quest: Stone Age
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Stone Age
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Welcome to the Stone Age. This stage covers the essential survival mechanics you will need to progress, as well as several changes made to vanilla Minecraft that affect how you play from the very beginning.%n%nWork through the quests in this chapter to get up to speed before moving on.%n%n§2Complete these quests before progressing - later stages assume you know this material.§r
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=石器时代
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=欢迎来到石器时代。这个阶段涵盖了核心生存机制，也包括了对原版 Minecraft 的修改：它们从一开始就会改变你的游玩方式。%n%n通过本章中的任务，你可以在开启新篇章前快速上手。%n%n§2在游玩后续内容之前，请先完成这些任务——之后的阶段会默认你了解这里介绍的内容。§r
 
 # Quest: Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.%n§2Check JEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=搞定！
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=§6锤子§r是§d无中生有 (Ex Nihilo)§r模组中的工具，它可以把方块粉碎成更精细的方块。它主要用来生产§3筛子§r需要的原料：圆石粉碎为沙砾，沙砾粉碎成沙子，而沙子则粉碎到尘土。这三种产物每个都可以筛出不同的资源。%n%n使用时，像镐一样拿着它挖掘方块即可。锤子也有标准的工具等级——%n从木头到钻石，不过只有耐久度的区别。它也能被附魔，但适用的附魔和镐的不一样。%n%n你也可以用多步的粉碎链来粉碎矿石。每一步都有较小几率产出更多的%n材料，因此做出专用的倍矿机器之前，§6锤子§r也能作为基本的倍矿工具。%n%n§2锤子可以用挖掘方块的机器自动化，例如§d压缩工具 (Ex Compressum)§r中的自动锤子。%n§2你可以用 JEI 查看每个方块的完整粉碎链。
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=电缆网络分析工具
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=The §6Cable Network Analysis Tool§r is used to check the integrity of power grids and analyze their main functional components. To perform a test, right-click the analyzer on wires or mechanisms in the power grid. The device displays the following data:%n%n§eLinks§r - these include wires and mechanisms that can conduct energy (e.g., energy storage units, utility poles).%n%n§cProviders§r - all mechanisms capable of producing energy and/or feeding it into the grid (energy storage units in "§agreen§r" and "§6orange§r" modes, turbines, etc.).%n%n§9Receivers§r - everything that absorbs energy from the grid (energy storage units in "§9blue§r" mode, grinders, and other mechanisms).%n%n§2The analyzer not only displays the above components but also counts them. Each grid is assigned a unique code.%n%nParticles only spawn in a 20 block radius!
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=§6电缆网络分析工具§r可用于检查电网的完整性，以及分析它的主要功能组件。要使用它，只需右击分析工具或是装置。设备会显示这些数据：%n%n§eLinks§r，连接其他导电线缆或装置的数量（例如储能单元、电线杆）；%n%n§cProviders§r，向电网产能/供能的装置数（“§a绿色§r”或“§6黄色§r”模式下的储能单元、涡轮等）；%n%n§9Receivers§r，从电网接收能量的装置数（“§9蓝色§r”模式下的储能单元、研磨机等其他装置）。%n%n§2这个工具会显示上述装置的数量和装置本身。每个电网都有一个唯一编码。%n%n粒子效果只会在 20 个方块的半径以内生成！
 
 # Quest: Pipe Anchors
-betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=管道锚点
-betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Pipe Anchors§r 是非固体液管，可用来代替正常的流管。
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=管锚
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3管锚§r不是固体方块，是可以替代普通管道的液体管道。
 
 # Quest: Automatic Buzz Saw
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=自动Buzz 锯子
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing pushing range.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=自动嗡嗡锯
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing behaviour of pushing force.
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=工业混合器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=§3工业搅拌机§r可以将流体和另外一种流体/物品混合。对某些合成表而言，它可以作为§3化工厂§r的替代品。
 
 # Quest: Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=铁砧
@@ -59,150 +59,150 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r 是一个分层的
 
 # Quest: Burner Press
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=燃烧器按下
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r on the §6Iron Anvil§r.%n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3锻压机§r可用于制作§6金属板§r、§6线缆§r、§6电路§r、§6弹壳§r，也可以将不可熔炼的粉末§6压缩§r回常见的形态。它需要§6锻模§r才能工作，而各类锻模需要在§6铁砧§r上由普通§6锻模§r合成。%n%n§2可以在锻压机旁放置预热器来提高制作速度。
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r, §6Steel§r and §6Advanced Alloy§r, which is a combination of the former.%n%nAdvanced alloy can be used to construct very durable tools that come with vein mining.%n%nA separate block, the §3Blast Furnace Extension§r, can be placed on top of the blast furnace to make it operate faster. Without the extension, it smelts items at about half the rate of a furnace, the extension triples that rate. Fuel consumption remains constant, meaning the extension also triples the efficiency of fuel consumption. %n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Burn the Flue Gas byproduct in a Flare Stack to recover a small amount of power.§r
 
 # Quest: Trench Mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.%n%n§2String can be easily obtained by harvesting Hemp, found in the wild.%n%n§rI hate to say it, but you are basically sniffing your own piss...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=战壕面具
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=§6战壕面具§r能保护你在下矿时免于吸入空气中的危险粒子。你需要先获得§6布§r，然后拿着它右键以将它沾上尿。%n%n§2线可以通过收割大麻来获取，而大麻可以在野外找到。%n%n§r不得不说，你在闻自己的尿……
 
 # Quest: Hazmat Suits
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=防化服
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r 提供保护以防许多危险,主要是辐射. §6Hazmat Cloth§r可以进一步加强,以产生更耐用的烟雾套装.%n%n要提供额外的保护免受环境危险，需要一个 §6气体掩码过滤器§r，这可以在按住它时通过右键点击来装备它。
 
 # Quest: Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.%n%nFor better looking, as well as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=电线
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=最基本的输电方块是§3紫铜电线§r，它有两种变体：完整的方块型和更细的线缆型。方块型的电线也能变成其他方块的材质，可以更好地融入你的设计。%n%n你可以用§l§r§6电缆卷§r和§3电力连接器§r来把电力输送得更远，也能让布线更加美观。这些线路不是固体方块，还能穿过墙壁和地板。%n%n
 
 # Quest: Pollution Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Pollution Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=The §6Pollution Detector§r will monitor and show the levels of pollution present in the environment. High levels of pollution will decrease the visibility, give debuffs to the player and buff mobs, including skeletons spawning with firearms.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=污染探测器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=§6污染探测器§r会监测并显示当前环境的污染程度。污染程度较高时，能见度将会降低，玩家会被削弱而怪物则会强化，例如骷髅生成时可能手持枪械。
 
 # Quest: Electricity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Electricity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM's NTM§r is an industrial mod, so you'll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.%n%n§2If the wood-burning generator is not enough, more advanced energy sources can be unlocked on the left side of this questbook, such as the §3Stirling Engine§2, §3Solar Tower Boiler§2, or §3Radial Performance Engine§2.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=电力
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM 的核科技§r是个工业模组，所以§e电力§r在游戏过程中不可或缺。电力的单位是§6HE (HBM 能量)§r。%n%n§2如果火力发电机的电力不够，你可以在任务书的左边解锁更高级的能量来源，比如§3斯特林发电机§2、§3太阳能锅炉§2以及§3星型发动机§2。§r
 
 # Quest: Analog Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Analog Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=The §6Analog Circuit§r is the first true circuit board used in crafting certain essential machines and tools such as the §6Oil Deposit Detector§r, the §3Chemical Plant§r, and the §3Electric Arc Furnace§r.%n%n§2A cheaper recipe for Capacitors will be available if a Shredder is owned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=模拟电路板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=§6模拟电路§r是第一款真正的电路板，能用于合成核心的机器与工具，比如§6石油探测仪§r、§3化工厂§r和§3电弧炉§r。%n%n§2做出粉碎机之后，可以解锁更便宜的电容配方。
 
 # Quest: Assembly Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Assembly Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=The §3Assembly Machine§r is used in every stage of the game, with it being used to manufacture practically every other complex machine. Recipes for it can be chosen inside the GUI.%n%n§2Some unique recipes require blueprints, that can be found in dungeons and/or bought from Bobmazon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=装配机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=§3装配机§r贯穿游戏始终，用于制造几乎所有复杂的机器。你可以在 GUI 里选择它的配方。%n%n§2一些独特的配方需要蓝图，而蓝图可以在地牢找到，也可以在鲍马逊上买到。
 
 # Quest: Shredder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Shredder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=The §3Shredder§r is a machine that shreds resourses into their powder form, or in many cases, their crafting materials. It can also be used to double ores.%n%n§2Shredder blades are required in order for the machine to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=粉碎机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=§3粉碎机§r可以将资源打碎为粉末，或者很多时候，分解为合成它的原材料。它也可以用于二倍矿。%n%n§2粉碎机需要刀片才能运作。
 
 # Quest: Soldering Station
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Soldering Station
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=The §3Soldering Station§r is the machine in which §6§rcircuit components§r can be combined§6§r into §6Circuits§r and where §6Machine Upgrades§r can be created.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=焊接台
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=在§3焊接台§r上，可以将§6§r电路组件§r合并为§6电路§r，也可以制作§6机器升级§r。
 
 # Quest: Crucible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=Crucible
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=The §3Crucible§r is an important machine as it is the central component of metallurgy. It is used as a method of ore processing, alloying, and metal casting. It requires an external heat source to melt the inputs into liquids and when filled, it emits a consistent amount of soot that can cause a fair amount of pollution that cannot be mitigated. Some alloys, as mentioned before, can be made alternatively using a §3Blast Furnace§r, however this is generally slower.%n%n[F1] For more information.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=坩埚
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=§3坩埚§r是非常重要的机器，它是冶金的核心组件。它可以用于处理矿石、锻造合金以及浇铸金属。它需要外部热源来把输入熔化为液体。填满后，它会持续产出煤灰，造成大量污染，而且无法缓解。像前面所说的一样，某些合金也可以用§3高炉§r制造，但这一般会更慢。%n%n按下 [F1] 以了解更多信息。
 
 # Quest: Arc Welder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Arc Welder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=The §3Arc Welder§r is a machine needed for the creation of many components, such as §6Welded Plates§r, §6Missile Parts§r and more. Some Recipes will require a fluid inserted into the welder to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=电弧焊机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=§3电弧焊机§r可以用于合成大量组件，例如§6焊接金属板§r、§6导弹部件§r等。一些配方还需要往电弧焊机里导入液体才能合成。
 
 # Quest: Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently. 
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=复式炼焦炉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
 
 # Quest: Chemical Plant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Chemical Plant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=The §3Chemical Plant§r is a machine needed for several processes, turning fluids into other fluids, synthesis of different compounds, ect. Like the §3Assembly Machine§r, recipes can be selected entirely within the GUI.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=化工厂
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=许多产线都需要§3化工厂§r。它可以将流体转化为其他流体、合成不同化合物。和§3装配机§r一样，选择配方无需离开 GUI。
 
 # Quest: Strand Caster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=Strand Caster
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=The §3Strand Caster§r is a large basin that can cast items in batches of 9. It also requires §bWater§r in order to cast, where it makes §bLow-Pressure Steam§r that can be turned back into water.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.name=连续铸造机
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJA.desc=§3连续铸造机§r是一个大盆子，可以九个九个地铸造物品。它铸造的时候需要§b水§r，而它产出的§b低压蒸汽§r也可以变回水。
 
 # Quest: High-Speed Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=High-Speed Steel
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=High-speed steel§r is an advanced and specialized form of standard steel. It used in many recipes, such as the §3Oil Derrick§r and the §3Industrial Mixer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.name=高速钢
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=高速钢§r是标准钢的高级特化版本。许多配方都需要它，包括§3钻油塔§r和§3工业搅拌机§r。
 
 # Quest: Conveyor Belt
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=Conveyor Belt
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=§3Conveyors§r provide the simplest way of moving items around. There are multiple blocks that can interface with machines as well as items moving along conveyor belts.%n%n§3Conveyor Belts§r are blocks used to transport items. They can pick up dropped items or items from conveyor ejectors. Conveyor inserters can take items from conveyor belts. If there are no conveyor inserters present, the item will be dropped at the end of the conveyor belt line.%n%n§3Conveyor Inserters§r are blocks that take items from conveyor belts and outputs them into a storage space. Conveyor ejectors are the opposite, they take items from storage and place them onto conveyor belts. %n%nInserters have an option to destroy surplus items if the input buffer has run full, otherwise the items that can neither be inserted in the target nor the inserter's buffer is simply dropped.%n%nThe ejector has a whitelist/blacklist system (the default mode is blacklist with no restrictions - this means that everything will go through). Rick-clicking the white arrow will toggle between whitelist and blacklist. An item can be added to the blacklist/whitelist by "depositing" it into the blue inventory square - the item will not be consumed, however.%n%nThe §3Conveyor Splitter§r is a type of conveyor belt that splits items evenly onto 2 lanes.%n%n§3Conveyor Sorters§r are blocks that can sort various items to a specific conveyor belt. They do not have a buffer and simple move items to connected conveyor belts based on their filter options, therefore they can sort items as quickly as they receive them.%nThe sorter has six outputs with five slots each, making it able to route multiple items to one belt.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=输送带
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=§3Conveyors§r provide the simplest way of moving items around. There are multiple blocks that can interface with machines as well as items moving along conveyor belts.%n%n§3Conveyor Belts§r are blocks used to transport items. They can pick up dropped items or items from conveyor ejectors. Conveyor inserters can take items from conveyor belts. If there are no conveyor inserters present, the item will be dropped at the end of the conveyor belt line.%n%n§3Conveyor Inserters§r are blocks that take items from conveyor belts and outputs them into a storage space. Conveyor ejectors are the opposite, they take items from storage and place them onto conveyor belts. %n%nInserters have an option to destroy surplus items if the input buffer has run full, otherwise the items that can neither be inserted in the target nor the inserter's buffer is simply dropped.%n%nThe ejector has a whitelist/blacklist system (the default mode is blacklist with no restrictions - this means that everything will go through). Right-clicking the white arrow will toggle between whitelist and blacklist. An item can be added to the blacklist/whitelist by "depositing" it into the blue inventory square - the item will not be consumed, however.%n%nThe §3Conveyor Splitter§r is a type of conveyor belt that splits items evenly onto 2 lanes.%n%n§3Conveyor Sorters§r are blocks that can sort various items to a specific conveyor belt. They do not have a buffer and simple move items to connected conveyor belts based on their filter options, therefore they can sort items as quickly as they receive them.%nThe sorter has six outputs with five slots each, making it able to route multiple items to one belt.
 
 # Quest: Settings Tool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=Settings Tool
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=The §6Settings Tool§r is used to copy settings of machines. It is especially useful when making large refineries.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=设定工具
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=§6设定工具§r可以复制机器的设置。它在制作大型精炼厂时特别有用。
 
 # Quest: Backpacks and Exploration
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.name=Backpacks and Exploration
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.%n%n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.%n%nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.%n%n§2Iron Backpacks will be removed next update so if you still use them, please empty them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.name=背包与探险
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=探险在§dNTM§r中很重要，因为早期游戏中，搜寻废弃结构中的资源是不错的技巧。这个整合包中也有大型洞穴，所以下矿时不必犹豫。%n%n§d背包§r会有很大作用，它可以让你带上更多战利品。板条箱也可以用于运送物品，但是背包有专门的工具栏位、工作台、床和流体储罐。%n%n§6软管§r可以用来输入或输出背包里的流体。%n%n§2I下次更新将会移除铁质背包，所以还在用它的话，记得把它清空。
 
 # Quest: Rotary Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=Rotary Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=The §3Rotary Furnace§r is a large furnace which is powered by both §bSteam§r and §6§rsolid fuel. §rIt outputs molten material which can be cast similarly to the outputs of the §3Crucible§r and §3Arc Furnace§r. The Rotary Furnace is the only machine that can produce §6Saturnite§r and §6Weapon Steel§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=回转炉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.desc=§3回转炉§r是用§b蒸汽§r和§6§r固体燃料驱动的大型熔炉。§r它输出熔融的材料，可以用§3坩埚§r和§3电弧炉§r铸造。回转炉是唯一一个能产出§6土星锭§r和§6武器级钢锭§r的机器。
 
 # Quest: Boiler and Steam Condenser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=锅炉和蒸汽冷凝器
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=The §3Boiler§r, when receiving heat from below, heats up fluids. Two important uses of the boiler are for §bSteam§r and §bOil§r processing which will come later on. The Boiler can explode if its output is full.%n%nSteam, when used by machines, such as reactors sending steam through §3Turbines§r or §3Chemical Factories§r produce §bLow-Pressure Steam§r. The low-pressure steam can be recycled back to retrieve 100%% of the water by using a §3Steam Condenser§r. Closed water loops are recommended for reactors.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=§3锅炉§r需要从底部接收热量来加热液体。锅炉有两个重要用途：生产§b蒸汽§r和§b油§r。当输出已满的时候，锅炉可能会爆炸。%n%n使用蒸汽的机器会输出§b低压蒸汽§r，例如用了§3涡轮§r或§3大型化工厂§r的反应堆。低压蒸汽可以用§3蒸汽冷凝器§r回收，产生100%%的水。推荐让反应堆的水形成闭环。
 
 # Quest: Solar Tower Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Solar Tower Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=The §3Solar Tower Boiler§r is an earlygame machine that can use sunlight from heliostat mirrors to boil water and therefore turn i.%n%nThe Solar Tower Boiler gets heat from heliostat mirrors pointed at it. Aiming a mirror at the boiler can be done using the mirror adjustment tool, right-click on the boiler will save its position to the tool, and subsequently clicking on mirrors will aim them at the linked boiler. The maximum range for mirrors is 25 blocks, mirror efficiency does not degrade with range. A boiler consumes 1mB of water for every 12.5 mirrors each tick at full sunlight level, and 100mB of steam per mB of water consumed. However, the water consumption rate is rounded down to the millibucket. Thus it takes 13 mirrors to raise your first 100mB/t of steam, 12 mirrors for the next hundred, then 13, 12, and so on.%n%nAs the heat provided by each mirror is based on sunlight, mirrors with solid blocks above them will not work, and the amount of heat diminishes with the amount of light in the evening until it produces no heat at night.%n%nThe solar tower boiler can only produce regular steam, and thus the liquid type cannot be changed using fluid identifiers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=太阳能锅炉
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=The §3Solar Tower Boiler§r is an earlygame machine that can use sunlight from heliostat mirrors to boil water and therefore turn it into steam.%n%nThe Solar Tower Boiler gets heat from heliostat mirrors pointed at it. Aiming a mirror at the boiler can be done using the mirror adjustment tool, right-click on the boiler will save its position to the tool, and subsequently clicking on mirrors will aim them at the linked boiler. The maximum range for mirrors is 25 blocks, mirror efficiency does not degrade with range. A boiler consumes 1mB of water for every 12.5 mirrors each tick at full sunlight level, and 100mB of steam per mB of water consumed. However, the water consumption rate is rounded down to the millibucket. Thus it takes 13 mirrors to raise your first 100mB/t of steam, 12 mirrors for the next hundred, then 13, 12, and so on.%n%nAs the heat provided by each mirror is based on sunlight, mirrors with solid blocks above them will not work, and the amount of heat diminishes with the amount of light in the evening until it produces no heat at night.%n%nThe solar tower boiler can only produce regular steam, and thus the liquid type cannot be changed using fluid identifiers.
 
 # Quest: Ammo Press and Guns
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=Ammo Press and Guns
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=With casting available through the §3Crucible§r, many gun parts can now be created such as §6Barrels§r and §6Grips§r. An §3Ammo Press§r is used to create the various ammunitions guns use.%n%nA §3Weapon Modification Table§r can be used to install weapon mods, such as §6Silencers§r and §6Scopes§r.%n%nThe §6Bullet Casing Bag§r will retrieve some of the casings when guns are fired.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=压弹机与枪
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=通过§3坩埚§r解锁铸造后，你就可以制作许多枪械部件了，例如§6枪管§r和§6枪托§r。§3压弹机§r可用于制作枪械需要的各类弹药。%n%n§3武器改装台§r可以用于改动武器，例如安装§6消音器§r与§6瞄准镜§r。%n%n§6弹药包§r可以收集一些射出的子弹的弹壳。
 
 # Quest: Mining Charge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Mining Charge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=The §3Mining Charge§r is an explosive made with the express purpose of mining, as such it's commonly used to mine depth ores, since it dosen't destroy drops, before getting a pickaxe that can do the same. Mining Charges are a great way of obtaining §6Zirconium§r from depth ores for nuclear fuel rods.%n%nIt has an explosion radius of about 3 blocks and explodes instantly upon being powered by redstone, while exploding it does no damage to entities.%n%nThere are two other variants of this, being the §3Timed Mining Charge§r and the §b§3Semtex Mining Charge§r, they are both timed explosives with the semtex one being stronger than the regular one and having §eFortune 3§r, meanwhile the timed mining charge does not seem to have enhanced capabilities, other than being timed and thus more convinient to use.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=采矿炸药
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=The §3Mining Charge§r is an explosive made with the express purpose of mining, as such it's commonly used to mine depth ores, since it doesn't destroy drops, before getting a pickaxe that can do the same. Mining Charges are a great way of obtaining §6Zirconium§r from depth ores for nuclear fuel rods.%n%nIt has an explosion radius of about 3 blocks and explodes instantly upon being powered by redstone, while exploding it does no damage to entities.%n%nThere are two other variants of this, being the §3Timed Mining Charge§r and the §b§3Semtex Mining Charge§r, they are both timed explosives with the semtex one being stronger than the regular one and having §eFortune 3§r, meanwhile the timed mining charge does not seem to have enhanced capabilities, other than being timed and thus more convinient to use.
 
 # Quest: Steel Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=Steel Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=An upgraded version of the §3Anvil§r, [T2], which unlocks additional recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=钢砧
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=§3铁砧§r的升级版，[T2]，解锁了新的配方。
 
 # Quest: Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=烟囱
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§3烟囱§r用于减少机器的污染。在铁砧上制作的§3排气管§r可以将废气排入烟囱。§3工业烟囱§r可用于生产§6细烟灰§r，它是游戏后期制作§6富勒烯§r的必要原料。%n%n§3储灰槽§r可以放在烟囱下面，用于收集§6灰烬§r，而灰烬则可用作便宜的黑色染料或是用于制作§6工业肥料§r。
 
 # Quest: Player Decontaminator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Player Decontaminator
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.desc=The §3Player Decontaminator§r will remove Rads received while standing on it. It can be very cost efficient, as other methods such as §6RadAways§r require constant replenishment.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=玩家去污器
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.desc=站在§3玩家去污器§r上时，会减少你的辐射量。它性价比通常很高，因为其他减轻辐射的方式，比如§6消辐宁§r，需要不断补充。
 
 # Quest: Machine Upgrade Template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=Machine Upgrade Template
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=The §6Machine Upgrade Template§r is the baseline for all machine upgrades. Machine upgrades are not only used to increase the efficiency of machines but also to unlock new functions.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.name=机器升级模板
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABSA.desc=§6机器升级模板§r是制作所有机器升级的基础。机器升级可以提高机器的效率，也能为机器解锁新功能。
 
 # Quest: Drainage Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=Drainage Pipe
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=The §3Drainage Pipe§r allows the dumping of fluids and gasses into the environment at the cost of pollution.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.name=排液管
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=§3排液管§r可以向环境排放液体或气体，但会带来污染。
 
 # Quest: Do a Barrel!
-betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.name=Do a Barrel!
-betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Barrels§r are storage blocks that can hold both fluids and solid blocks. Wooden barrels will leak liquids over time and burn down if filled with lava, so use a stone barrel for those recipes.%n%nBarrels placed under open sky will collect rainwater during downfall.%n%nWhen filled with organic material, a barrel will begin composting once completely full. After roughly 100 seconds it produces a dirt block, ejected by right-clicking. Dirt left near mycelium will slowly convert into a mycelium block, no Silk Touch needed.%n%nA wooden barrel filled with §bWater§r placed next to cobblestone will slowly convert it into mossy cobblestone, costing §e100 mB§r per block. The surrounding blocks must be unaffected by rain. Placing a barrel on mycelium converts its water into §5Witch Water§r, though the barrel itself may disappear in the process. Water flowing above a barrel filled with lava transforms into obsidian.%n%nStone barrels can spawn creatures when tapped with a doll: a barrel of lava with an Angry Doll summons a Blaze, and a barrel of §5Witch Water§r with a Creepy Doll summons an Enderman.%n%nBarrels can convert items using fluids: §5Witch Water§r turns sand into soul sand, lava turns redstone into netherrack or glowstone dust into end stone, and §bWater§r can turn dust into clay, milk into slime balls, or mushroom stew into §5Witch Water§r.%n%n§2Hoppers can be used to insert and eject items from barrels, making composting easy to automate.§r
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.name=来点特技！
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3桶§r可以存储流体或固体的方块。木桶会逐渐泄漏液体，而且装入岩浆时会烧起来，所以需要使用石桶。%n%n在下雨时，露天的桶将会收集雨水。%n%n当完全装满有机材料时，桶会开始堆肥，在约 100 秒后生成一个泥土方块，右键取出。放在菌丝旁的泥土也会缓慢变为菌丝，不需要精准采集。%n%n装有§b水§r的木桶如果放在圆石旁边，会将它缓慢转变为苔石，每个方块耗费 §e100 mB§r 水。附近的方块必须不受雨的影响。在菌丝上放置桶会将水转换为§5巫水§r，但同时桶可能会消失。如果水流过一个装着岩浆的桶，水将变为黑曜石。%n%n拿着人偶点击石桶可以生成怪物：装岩浆的桶和愤怒的人偶会生成烈焰人，装着§5巫水§r的桶加上可怕的人偶会生成末影人。%n%n桶也可以用流体来转化物品：§5巫水§r会把沙子转化为灵魂沙，岩浆会将红石变为地狱岩、萤石变为末地石，而§b水§r则会将尘土变为黏土、牛奶变为史莱姆球、蘑菇煲变为§5巫水§r。%n%n§2漏斗可以从桶中取出或放入物品，这可以简化堆肥的自动化。§r
 
 # Quest: Sieving
-betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Sieving
-betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.%n%nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.%n%nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r - unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.%n%n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.%n§2The Sieve can be automated with any machine that simulates a right-click.
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=筛
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=§3筛子§r是§d无中生有§r中的工具。它能从原始的方块（例如泥土、沙砾和沙子）中提取矿石、种子及其他材料。它需要放入筛网才能工作。%n%n它的使用方法是，拿着能筛的方块并右键将它放入筛子，然后持续右键直到方块处理完成、掉落物从顶部弹出。每种可能的掉落物是独立随机的，所以一个方块可能掉落多种物品。%n%n高级的筛网——从普通的§6筛网§r到§6燧石§r、§6铁§r以及§6钻石硬化网§r——会带来更高的掉落概率并解锁更稀有的掉落物。放入的筛网决定了能筛什么方块以及方块会产出什么。%n%n§2在 JEI 中可以通过筛网或能筛的材料看到它可能的掉落物。%n§2筛子可以用任何模拟右键的机器来自动化。
 
 # Quest: Charm of Protection
-betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Charm of Protection
-betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=The §6Charm of Protection§r diverts meteorites away from the player and prevents them from destoying blocks. It is recommended that one is obtained as soon as possible as to prevent costly damages in the future.
+betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=守护项链
+betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=§6守护项链§r可以使陨石偏离玩家，并阻止陨石破坏方块。推荐尽早获取它，以防止未来的重大损失。
 
 # Quest: Diesel Generator
-betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.name=Diesel Generator
-betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.desc=The §3Diesel Generator§r is a compact, single-block generator that burns liquid fuels to produce energy. Its small footprint and compatibility with common oil-processing byproducts make it a strong choice for early- and mid-game power.%n%nIt holds up to §b4,000 mB§r of fluid internally, consumed at a steady rate of §e20 mB/s§r. It also carries a §e50 kHE§r energy buffer - but combustion does not pause when the buffer is full, so any excess energy is wasted. To avoid this, ensure your machines are drawing power consistently.%n%nFuel can be supplied via fluid ducts or by placing barrels in the internal item slots. A §6Fluid Identifier§r can be inserted to lock the accepted fuel type. Not all fuels are equal - effectiveness varies by grade: medium-grade fuels run at §e50%%%%§r efficiency, high-grade at §e75%%§r, and aviation fuels at just §e10%%§r. Low-grade and gaseous fuels are rejected entirely.%n%n§2Tip: High-grade fuels like diesel, gasoline, and biofuel get the best return - prioritize refining your oil into these where possible.§r
+betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.name=柴油发电机
+betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.desc=§3柴油发电机§r是紧凑的单方块发电机，通过燃烧液体燃料发电。它的污染较小，和石油处理的副产物相性很好，因此早期和中期游戏中，它是很强的发电选择。%n%n它可以储存§b4,000 mB§r流体，消耗速率稳定为§e20 mB/s§r。它也有§e50 kHE§r的能量缓存，但缓存满时发电也不会停止，多余的能量会被浪费。要避免这一点，请确保你的机器在持续地耗电。%n%n燃料可以通过流体管道输入，或者在机器内的物品栏中放入桶。可以插入§6流体识别码§r锁住燃料种类。燃料的效果并不相同，效率跟等级有关：中等燃料有 §e50%%%%§r 效率，高等则是§e75%%§r，而航空燃油则只有 §e10%%§r。低等燃料和气体燃料无法放入机器。%n%n§2提示：像柴油、汽油、生物燃料这些高等燃料有最高的性价比——尽可能地把你的石油精炼为它们之一吧。§r
 
 # Quest: Wood-Burning Generator
-betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=Wood-Burning Generator
-betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=The §3Wood-Burning Generator§r is basic method of producing energy by burning wood. It can run on any burnable items but provides burn time bonuses to logs and wood. It can also run on any flammable fuel by clicking on the arrow below the on/off switch, but it is considerably more inefficient than other fluid burning generators.%n%nBurning logs in the generator produces §e2kHE/s.§r
+betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=火力发电机
+betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3火力发电机§r是燃烧木头发电的基础发电机。它可以用任何可燃物发电，但会给原木和木板的燃烧时间提供加成。它也可以用可燃的燃料发电，只需点击开关下方的箭头即可，但它的效率比其它燃烧流体的发电机都低得多。%n%n燃烧原木时，发电功率为§e2kHE/s。§r
 
 # Quest: Flint Tools
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Flint Tools
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Flint Tools are required to obtain first wood and stone. To get some sticks, break some tree leaves.
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=燧石工具
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.
 
 # Quest: Hunger System
-betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Hunger System
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=饥饿系统
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r makes hunger a genuine threat rather than a mild inconvenience.%n%nHunger now drains passively over time, even while idle. Reaching zero kills you instantly. Low hunger inflicts slowness, weakness, and reduced mining speed before that point. Eating grants a §6Well Fed§r effect that boosts health regeneration - the larger the meal, the longer it lasts.%n%nFood values are re-balanced by meal size. Raw ingredients restore very little; prepared meals restore substantially more. Larger meals take longer to eat and stack less in your inventory.%n%nCrops only grow during daytime and take much longer to mature. Wood and stone hoes are removed - you need at least an iron hoe to till soil. Farmland must be placed adjacent to water or it will not function.%n%n§dSpice of Life: Carrot Edition§r rewards dietary variety. Each unique food eaten for the first time permanently increases your maximum health. Eating the same food repeatedly provides no bonus.%n%n§2The more diverse your diet, the more hearts you have - build a varied farm as early as possible.§r
 
 # Quest: Nature's Compass
@@ -259,7 +259,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Cladding§r is one of the mo
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Ore Generation System
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n%nCurrent ore generation tables:%n%nOverworld (Earth/Kerbin): [url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?usp=sharing[/url]%n%nOther Planets: [url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?usp=sharing[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%nOre generation spreadsheet%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Dosimeter
@@ -347,7 +347,7 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an in
 
 # Quest: Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r. 
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
 
 # Quest: Useful Tools and Techniques
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Useful Tools and Techniques
@@ -363,11 +363,11 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=For greater distances, and impr
 
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check JEI for all valid heat sources and their melt rates.
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check NEI for all valid heat sources and their melt rates.
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted — the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Industrial Hemp & Mustard Willow
@@ -962,7 +962,7 @@ betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.desc=A beautiful water world, teemin
 
 # Quest: Drive Processor Tier 1
 betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.name=Drive Processor Tier 1
-betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eDres§r and §eMoho§r.
+betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eIke§r and §eMoho§r.
 
 # Quest: Brine Processing
 betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.name=Brine Processing
@@ -1230,10 +1230,6 @@ betterquesting.quest.TA6SPr3KTbKsgRFceNMZmA.desc=The §6Chisel§r is a building 
 # Quest: Schematica
 betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.name=Schematica
 betterquesting.quest.VyF-RUbsSuS8J2hbI5CIkw.desc=With §dSchematica§r, you can create schematics of your builds and post holograms of them on other worlds. Check out the keybinds to get started.
-
-# Quest: Decobench
-betterquesting.quest.W3YJEghpQMa3V91fEyWHyw.name=Decobench
-betterquesting.quest.W3YJEghpQMa3V91fEyWHyw.desc=The §3Decobench§r allows you to craft different props from §dDecocraft§r.%n%nIn order to use the Decobench you should put §6clay§r, §6red dye§r, §6green dye§r and §6blue dye§r in it.
 
 # Quest: Modern Markings
 betterquesting.quest.j9eLuGnhRVWn5uJS_KI5lg.name=Modern Markings
@@ -1604,10 +1600,6 @@ betterquesting.quest.Q8FZdwiURgC2PoD4IziLJg.desc=The Martian Invasion Ship is a 
 betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.name=Time to Kill (Wither Skeleton)
 betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.desc=Gimme yo §oSkuuuuull!!!§r <-- The thought of every non-noob player upon seeing one.%n%nBTW, in case you didn't know, you can summon the Wither by placing 4 soul sand blocks in a T shape, with 3 wither skulls on top. Don't do so in your base.
 
-# Quest: Time to Kill (Dire Wolf)
-betterquesting.quest.VJ3wiNZTRLK4so7T-93nqw.name=Time to Kill (Dire Wolf)
-betterquesting.quest.VJ3wiNZTRLK4so7T-93nqw.desc=This kind of wolf does not take kindly to you marching close to them or offering them bones! Neutral at first, but extremely hostile upon approaching close to them and dangerous. They'll rip the bones right off ya! Found within snowy forest biomes.
-
 # Quest: Time to Kill (Slime)
 betterquesting.quest.Z-RsAsrVRM2a3zWP5a0OsQ.name=Time to Kill (Slime)
 betterquesting.quest.Z-RsAsrVRM2a3zWP5a0OsQ.desc=Sticky and bouncy! Now in many variations. Say hello to my little friend, Lemon Slice!
@@ -1642,7 +1634,7 @@ betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You 
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. 
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Time to Kill (Silverfish)
