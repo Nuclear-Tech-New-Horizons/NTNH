@@ -240,6 +240,7 @@ https://github.com/GTNewHorizons/Angelica/issues/1755
 - Double doors do not open together anymore
 - You're getting hungry a little bit slower (by 20%)
 - Exploded RBMK now emits poisonous smoke
+- Reduced all the camera shakes
 
 
 
