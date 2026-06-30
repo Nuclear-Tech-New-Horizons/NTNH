@@ -70,6 +70,7 @@ https://github.com/GTNewHorizons/Angelica/issues/1755
 - Config for disabling tilting on "unavoidable gravity" machines like the Big-Ass Tank
 - Added this - https://www.youtube.com/watch?v=tkQRdXkX-sc
 - Added E4mc Retro and Lan UPnP
+   - Check servers status - https://status.e4mc.link/
    - This allows you to open your world to the internet
    - No public IP required!
 - New Bountiful Stars shader!
