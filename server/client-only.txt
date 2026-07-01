@@ -2,7 +2,7 @@ config/txloader/forceload/custommainmenu/**
 config/txloader/forceload/mainmenu/**
 config/txloader/forceload/minecraft/sounds/music/menu/**
 mods/ArmoredArms*.jar
-mods/Aqua*.jar
+mods/aquaacrobatics*.jar
 mods/Better HUD*.jar
 mods/BetterAchievements*.jar
 mods/betterloadingscreen*.jar
