@@ -8,6 +8,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "§2This quest serves an a guide on how to order items using the ME system. The example item will be an Analog Circuit.§r\n\nWith an §3ME Drive§r providing item storage, a §3Crafting CPU§r and §3Interfaces§r, one can request any item to be crafted. The image below makes use of a §3Molecular Assembler§r, a §3Soldering Station§r, an §3Electric Press§r aswell as two §3Import Buses§r which serve as an output for the solderer and press.\n\n[img height\u003d1000]betterquesting:textures/BQ_Auto1.png[/img]\n\nThe first step in automating crafting recipes is to encode §6ME Patterns§r. There are two types of patterns, crafting and processing. The crafting pattern is created by having the §3Pattern Terminal§r set to the crafting table. After placing the items in the terminal, press the arrow to finish encoding the recipe.\n\n[img height\u003d1000]betterquesting:textures/BQ_Auto2.png[/img]\n\nFor recipes which arent made in a crafting table, such as the §6Wires§r and the §6Analog Circuit§r itself, the pattern terminal needs to be switched to the processing mode, which has a furnace icon.\n\n[img height\u003d1000]betterquesting:textures/BQ_Auto3.png[/img]\n\nAfter all the patterns have been created, insert them into their respective interfaces.\nMake sure to enable blocking mode on the interfaces as not to have multiple different recipes enter the interface at once.\n\n[img height\u003d1000]betterquesting:textures/BQ_Auto4.png[/img]\n\nFinally, after everything has been set up, the option to order items will be shown in the ME terminal.\n\n[img height\u003d1000]betterquesting:textures/BQ_Auto5.png[/img]\n",
       "globalShare:1": 0,
       "icon:10": {
@@ -20,6 +29,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "AE2 Autocrafting",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,

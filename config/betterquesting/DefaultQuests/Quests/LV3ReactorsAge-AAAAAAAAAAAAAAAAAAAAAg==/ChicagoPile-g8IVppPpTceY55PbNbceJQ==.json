@@ -8,6 +8,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "The §3Chicago Pile§r is a crude early-game breeding reactor meant to produce §6Plutonium§r for use as reactor fuel.\n\nA pile is composed of drilled §6Graphite§r which can hold a variety of items in it, including radioisotope rods (§6Uranium§r, §6Radium§r, §6Plutonium§r), §6Lithium rods§r, and control rods. It does not behave as a unified single block, instead each individual piece of drilled graphite interacts with each other piece in a unique way depending on the rod it contains.\n\nAfter sufficient flux, the uranium rods in the Chicago Pile will transmute into plutonium rods that can be processed in an anvil into §6Reactor Grade Plutonium§r which can be used in other reactors such as the §3ZIRNOX§r and §3RBMK§r.\n\nThe chicago pile requires a significant amount of graphite blocks, which once placed can be drilled into with the hand drill to place any rod into. \n\nThe §6Hand Drill§r can be used to drill holes into the graphite or take core samples of the uranium fuel to determine heat, depletion, and neutron flux. §6Screwdrivers§r are used to extract rods.\n\nThe Quest asks for a 3x3 Chicago Pile (without the corners) with a §6Ra226Be§r Rod in the center surrounded by Uranium Rods.",
       "globalShare:1": 0,
       "icon:10": {
@@ -20,6 +29,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Chicago Pile",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -41,6 +65,7 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
@@ -64,6 +89,7 @@
       "ignoreNBT:1": 1,
       "index:3": 1,
       "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 5,
