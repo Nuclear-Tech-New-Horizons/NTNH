@@ -19,12 +19,8 @@ So much has changed that it can be hard to keep track, even if you actively foll
 # Changes
 The changes made can be generally grouped into categories as shown below, however there are some that "overlap" multiple categories. In that case, they will show in both categories:
 ## [Applied Energistics](./ae2/ae2.md)
-## [CropsNH](./crops/crops.md)
-## [Magic Changes](./magic/magic.md)
 ## [Miscellaneous Changes](./misc/misc.md)
-## [New Multi-blocks](./multis/multis.md)
 ## [Quality of Life](./qol/qol.md)
-## [Structure Reworks](./reworks/reworks.md)
 
 # What Am I Even Reading?!
 You are currently reading a changelog made via a new mod inclusion, [GuideNH](./misc/guide.md) in 2.9! This mod will (eventually) come with lots of guides on different aspects of the pack, and offers a large range of methods to showcase ideas. For more information, check out the page!
