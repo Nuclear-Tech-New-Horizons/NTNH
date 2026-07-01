@@ -8,6 +8,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "The formation of a volcano is driven by the §3volcanic core§r, a block that continuously erupts §blava§r, allowing the volcano to grow. The §blava§r cools quickly, turning into §6basalt§r or §6basaltic ore§r.\n\nThe resulting volcano grows quite slowly, reaching about 60 blocks in height over 20-30 minutes.\n\n§bVolcanic lava§r differs from §bregular lava§r not only in appearance. It \"melts\" any non-explosion-resistant blocks, so the volcano can extend underground.\n\n§6Basaltic ores§r (§6asbestos§r, §6sulfur§r, §6fluorite§r, §6molysite§r) form when the §blava§r cools, each with a 0.5% chance.\n\n§6Volcanic gem ore§r spawns with a 5% chance if the following conditions are met:\n- All 6 blocks around the cooling §blava§r are §6basalt§r or §blava§r;\n- The block 10 blocks above the cooling §blava§r is §6basalt§r or §blava§r;\n- There are fewer than 3 §blava§r blocks around the cooling §blava§r.\n\nThe §6ore§r also forms after §bvolcanic lava§r contacts §6diamond ore§r.\nThis means §6volcanic gems§r most often appear near the §3core§r or §3crater§r of the volcano.\n\n§3Forming a Radioactive Volcano§r\nIf the §3volcanic core§r is exposed to radioactive fallout (e.g., after a nearby nuclear explosion) for some time, the §3core§r will begin generating new §bvolcanic radioactive lava§r (yellow in color), ultimately leading to the formation of a so-called §3radioactive volcano§r. Such a volcano will consist not of §6basalt§r but of various types of §6quenched sellaphite blocks§r and §6sellaphite ores§r. The §blava§r will convert §6diamond ores§r into §6radioactive gem ore§r.",
       "globalShare:1": 0,
       "icon:10": {
@@ -20,6 +29,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "My First Volcano!",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
