@@ -1,4 +1,4 @@
-# 2.12.0 Release
+# 2.11.1 Release
 
 ## What's changed?
 **Added**
@@ -11,6 +11,15 @@
 **Fixed**
 - Fixed memory card crafting recipe
 - Fixed biometric card recipe
+- Fixed night darkness with Bountiful Stars shaders
+- Fixed importing issues
+- *Probably* fixed skin issues
+
+
+
+**Changed**
+- Removed Complimentary Shaders
+   - Because Bountiful Stars is basically Complimentary fork
 
 
 
