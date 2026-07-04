@@ -6,13 +6,10 @@ navigation:
 item_ids:
 - appliedenergistics2:item.ItemMultiPart:260
 - ae2fc:part_fluid_export
-- thaumicenergistics:part.base:3
 - appliedenergistics2:item.ItemMultiPart:240
 - ae2fc:part_fluid_import
-- thaumicenergistics:part.base
 - appliedenergistics2:item.ItemMultiPart:220
 - ae2fc:part_fluid_storage_bus
-- thaumicenergistics:part.base:2
 ---
 
 {/* most of the content on this page should be moved to individual item pages (items-blocks directory); should be rewritten in the future*/}
@@ -58,9 +55,6 @@ In GTNH, ME Buses can interact with Gregtech's Output and Input Hatches/Buses, f
 
 The use of Storage Buses goes far beyond simply introducing external storage; in GTNH especially, they are an essential component in automation. For relevant mechanics, refer to the page on [GTNH-specific AE2 automation setups]().
 
-## Other Buses
-GTNH adds Essentia Buses to AE2 to provide support for [Thaumcraft 4](). You can utilize the AE system for the storage and automation of Thaumcraft Essentia.
-See <ItemLink id="thaumicenergistics:part.base" showIcon="left" />, <ItemLink id="thaumicenergistics:part.base:3" showIcon="left" />, and <ItemLink id="thaumicenergistics:part.base:2" showIcon="left" /> for details.
 
 # Priority
 All Storage Buses can have their priority adjusted in the top right corner of their UI. In an ME Network, priority values are integers. A higher value means the logistics system will prefer to store items or fluids there, while a lower value means the logistics system will prefer to output or use items or fluids from there first.

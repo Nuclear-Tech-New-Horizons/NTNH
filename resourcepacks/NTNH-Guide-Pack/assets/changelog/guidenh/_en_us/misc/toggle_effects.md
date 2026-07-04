@@ -4,12 +4,10 @@ navigation:
   parent: misc.md
   icon: minecraft:potion:8197
 categories:
-    - Miscellaneous Changes
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-30
 ---
 
 # Effect Toggling
-A small one, but nice nonetheless!
-
-Inventory Effect Icons can now be switched using `showInventoryEffectIcons`, located under Hodgepodge options -> tweaks! This will toggle on/off the inventory banners showing your potion effects if you find them too cluttered!
+Inventory effect icons can be toggled on or off using the `showInventoryEffectIcons` option under Hodgepodge options. This hides the potion effect banners in your inventory if you find them too cluttered.

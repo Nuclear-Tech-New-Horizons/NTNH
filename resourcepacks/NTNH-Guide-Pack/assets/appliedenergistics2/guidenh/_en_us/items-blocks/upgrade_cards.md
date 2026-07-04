@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: /items-blocks-machines-index.md
+  parent: /items-blocks-index.md
   title: Upgrade Cards
   icon: speed_card
   position: 410
@@ -227,7 +227,7 @@ Allows filtering using Ore Dictionary and supports regular expression matching.
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:64" scale="2" />
 
-Any items, fluids, and essentia partitioned on this cell may only be stored in cells or storage buses with Sticky Cards, and will not be stored elsewhere in the network.
+Any items and fluids partitioned on this cell may only be stored in cells or storage buses with Sticky Cards, and will not be stored elsewhere in the network.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:64" />
 

@@ -2,15 +2,15 @@
 navigation:
   title: Title Overlays
   parent: misc.md
-  icon: Thaumcraft:ItemResearchNotes
+  icon: hbm:item.radio
 categories:
-    - Miscellaneous Changes
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-30
 ---
 
 # Title Overlays
-New to 2.9, some of the title and subtitle text displays have been backported to 1.7.10 for use in GTNH! Server admins can now display title and subtitle text on players screens using `/title`. This is also fully compatible with the [Full Color System](./color_system.md) codes you can use in chat!
+Server admins can display title and subtitle text on players screens using `/title`. This is also fully compatible with the [Full Color System](./color_system.md) color codes.
 
 Titles can also fade in, stay, and fade out with configurable timings via `/title <player> times <fadeIn> <stay> <fadeOut>`
 

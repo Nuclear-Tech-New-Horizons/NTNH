@@ -4,13 +4,13 @@ navigation:
   parent: misc.md
   icon: harvestcraft:boiledwaterItem
 categories:
-    - Miscellaneous Changes
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-30
 ---
 
 # Bubble Columns
-<Color id="GREEN">Bubble Columns</Color> have been backported from 1.13, using the same mechanics as in modern versions. For those who have never used them, please read below:
+<Color id="GREEN">Bubble Columns</Color> work just like their modern Minecraft counterparts, providing vertical water transportation.
 
 ## Usage
 Players and air-breathing mobs can enter a bubble column, which replenishes air supply at the same speed as if they left the water. Slower mining speed penalties still apply where relevant. Water-breathing mobs will suffocate when inside a bubble column.

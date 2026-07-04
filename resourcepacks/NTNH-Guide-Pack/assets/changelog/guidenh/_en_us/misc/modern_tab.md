@@ -2,15 +2,15 @@
 navigation:
   title: Modern Tab List
   parent: misc.md
-  icon: Thaumcraft:ItemEldritchObject:2
+  icon: minecraft:skull
 categories:
-    - Miscellaneous Changes
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-20
 ---
 
 # Modern Tab List
-The modern style of "tab list" has been backported to make server play feel more slick! By customizing `serverutilities.cfg` on a server, you can now configure:
+The modern tab list style enhances the multiplayer player list with rich information. By customizing `serverutilities.cfg` on a server, you can configure:
 - Player Heads
 - Ping Numbers
 - Dynamic Columns

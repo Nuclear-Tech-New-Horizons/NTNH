@@ -1,16 +1,16 @@
 ---
 navigation:
   title: Freecam
-  parent: qol.md
-  icon: Botania:cosmetic:25
+  parent: misc.md
+  icon: hbm:item.dash
 categories:
-    - Quality Of Life
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-16
 ---
 
 # Freecam
-Now in 2.9, we have a Freecam mod! Perfect for all you show-offs who want that perfect angle to showcase your newest building madness!
+NTNH includes a Freecam mod for taking screenshots and exploring your builds from any angle.
 
 ## Features:
 - Creative and Static (no drifting) movement options

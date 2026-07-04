@@ -9,7 +9,8 @@
 
 
 **Fixed**
-- 
+- Fixed memory card crafting recipe
+- Fixed biometric card recipe
 
 
 

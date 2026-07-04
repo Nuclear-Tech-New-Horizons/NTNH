@@ -6,19 +6,19 @@ navigation:
   parent: misc.md
   icon: guidenh:guide
 categories:
-    - Miscellaneous Changes
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-27
 ---
 
 # GuideNH
-GuideNH is a brand new mod to 2.9, designed to provide more accessible in-game information that was previously buried either in the quest book, or on external sites such as the wiki.
+GuideNH provides accessible in-game information that would otherwise be buried in the quest book or on external wikis.
 
 > [!IMPORTANT]
 > This is not intended to __replace__ the wiki, but instead provide vital in-game information to get started
 
 ## Usage
-Hovering your mouse on the left side brings up the "Navigation" bar. This will show the "top-level" categories defined by the guides. Guides are generally sectioned into relevant mods (for example, AE2 guides under AppliedEnergistics2), but there are some exceptions, such as the changelog you are now reading!
+Hovering your mouse on the left side brings up the "Navigation" bar. This will show the "top-level" categories defined by the guides. Guides are generally sectioned into relevant mods (for example, AE2 guides under AppliedEnergistics2).
 
 From here, those categories expand to show the guides within that category. The category index page can also be clicked for a basic overview of the category, and links to all sub-pages
 
@@ -34,8 +34,7 @@ The list of features is frankly too long to properly list here, so please accept
 <Color id="GREEN">This _is_ an __example__ of ~~the same~~ <u>different</u> ___formats___</Color>
 
 <GameScene width="420" height="280" zoom={3} interactive={true}>
-  <ImportStructure src="../reworks/assets/coke_oven.snbt" />
-  <ImportPonder src="../reworks/assets/coke_oven.json"/>
+  <Block id="hbm:block.machine_boiler_off" x="0" y="0" z="0" />
 </GameScene>
 
 <br clear="all"/>
@@ -54,12 +53,12 @@ The list of features is frankly too long to properly list here, so please accept
 
 <br clear="all"/>
 
-<RecipeFor id="gregtech:gt.blockmachines:15529" input="gregtech:gt.blockmachines:1246"/>
+<RecipeFor id="hbm:item.ingot_steel" />
 
 <br clear="all"/>
 
-<GameScene>
-  <ImportStructureLib controller="gregtech:gt.blockmachines:9500" />
+<GameScene zoom="4">
+  <Block id="hbm:block.machine_well" x="0" y="0" z="0" />
 </GameScene>
 
 ## Technical Details

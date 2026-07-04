@@ -2,15 +2,15 @@
 navigation:
   title: Full Color System
   parent: misc.md
-  icon: gregtech:gt.metaitem.02:32415
+  icon: hbm:item.crayolas
 categories:
-    - Miscellaneous Changes
+    - Features & Tweaks
 author: Skorched
 date: 2026-05-20
 ---
 
 # Full Color System
-What is life without a little <Color id="GREEN">Color!</Color> GTNH now has a fully built-in complete color system! This works with quests, signs, anvils, chat, and just about anywhere that text is rendered!
+NTNH includes a complete color system for text that works with quests, signs, anvils, chat, and anywhere text is rendered.
 
 ## Included Features
 - All 16 classic colors - just type "\&" and a color code!
