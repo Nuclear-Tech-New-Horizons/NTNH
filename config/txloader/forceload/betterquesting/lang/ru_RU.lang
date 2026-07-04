@@ -349,9 +349,9 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Пневмотрубы§r - 
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Графит
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
 
-# Quest: Useful Tools and Techniques
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Полезные инструменты и приёмы
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=§dFindIt§r - это мод, который поможет вам находить предметы, хранящиеся в разных сундуках. Наведите курсор на любой предмет в вашем инвентаре или §dNEI§r и нажмите §6T§r, чтобы подсветить хранилища с этим предметом.%n%nВы также можете проверить, где способны появиться мобы, нажав §6F7§r.
+# Quest: Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
 
 # Quest: From Flint to Oil
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремня до нефти
@@ -792,7 +792,7 @@ betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Дополнительные п
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3Спариватель термоядерного реактора§r преобразует исходящую плазменную энергию из тора в пригодные для использования §eKyE§r, которые затем можно использовать для питания другого тора. Некоторые комбинации топлива требуют этого, так как минимальная энергия §eKyE§r, необходимая для воспламенения плазмы, превышает то, что могли бы обеспечить четыре §3Клистрона§r.%n%n§3Камера размножения термоядерного реактора§r использует нейтронный поток от тора для обработки материалов. Она может выполнять любой рецепт из §3канала облучения РБМК§r, а также некоторые дополнительные рецепты. Нейтронный поток не зависит от правил совместного использования портов, и уровень выхода одинаков на любой стороне.%n%n§3Улавливающая термоядерного реактора§r увеличивает скорость производства побочных продуктов на §e50%%§r.
 
 # Quest: Desh Stamps
-betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh Stamps
+betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Штампы Деш
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Desh Stamps§r have infinite durability, perfect for automation.
 
 # Quest: High-Performance Solvent Bedrock Ore Processing
@@ -836,7 +836,7 @@ betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Запуск спутников
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=В NTM space спутники могут быть запущены с помощью Союз-а или кастомной ракетой.
 
 # Quest: Ferrouranium
-betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ferrouranium
+betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ферроуран
 betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.desc=§6Ferrouranium§r is an alloy of §6Uranium-238§r and §6Steel§r.
 
 # Quest: Heat Exchanging Heater
@@ -965,7 +965,7 @@ betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.name=Drive Processor Tier 1
 betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eIke§r and §eMoho§r.
 
 # Quest: Brine Processing
-betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.name=Brine Processing
+betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.name=Переработка Брина
 betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.desc=§bBrine§r, which is found in deposits similar to oil ones on earth, can be processed to obtain materials such as §6Nickel§r, §6Copper§r and §6Sulfur§r, and fluids such as §bHydrogen§r and §bOxygen§r.
 
 # Quest: Rocket Preparations
@@ -985,7 +985,7 @@ betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.name=Орбитальная стан
 betterquesting.quest.ZPHsRbLaQm60QluCeA8pVQ.desc=The §3Orbital Station§r is a space station which is located at the orbit of §eEarth§r. §3Solar Panels§r in combination with §3Air Vents§r can be used to make a sustainable living environment in the station. Make sure to make airlocks to minimise air loss.
 
 # Quest: Stardar and Drive Processor
-betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.name=Stardar and Drive Processor
+betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.name=Stardar и обработчик дисков
 betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.desc=The §3StarDar§r is your base of operations for mission planning, helping you to locate and scan potential landing zones on planets, and §6Program Drives§r that can be inserted into your rocket's astronavigational systems to make journeys to said planets.%n%nThe §3Drive Processor§r processes drives that have been programmed by the StarDar, allowing them to be inserted into rocket navigation computers.
 
 # Quest: Atmospheric Compressor

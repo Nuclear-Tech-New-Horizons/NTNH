@@ -12,6 +12,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "§dNTM§r offers a built-in §6Floppy Disk§r for monitoring the §3PWR§r reactor.\n\n§2This quest serves as a guide on how to set up an OC Computer using a PWRangler floppy disk.§r\n\nFirst of all, an OC computer with OpenOS must be constructed. For the purposes of this quest the computer that will be used will make use of §bTier 3§r components.\n\n[img height\u003d1000]betterquesting:textures/QB_OC1.png[/img]\n\n[img height\u003d1000]betterquesting:textures/QB_OC2.png[/img]\n\nAfter booting up the PC, install OpenOS.\n\nOnce the PC has been rebooted, switch out the OpenOS floppy disk with the PWRangler one. Once inserted, type §oinstall§r to install the PWRangler on the system.\n\nThe PWR needs to be linked to the computer using OC Cables directly on the controller.\n\n[img height\u003d1000]betterquesting:textures/QB_OC3.png[/img]\n\nFinally, type §oPWRangler§r in the computer to start the program.\n\n[img height\u003d1000]betterquesting:textures/QB_OC4.png[/img]\n",
       "globalShare:1": 0,
       "icon:10": {
@@ -31,6 +40,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "PWRangler",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -52,6 +76,7 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,

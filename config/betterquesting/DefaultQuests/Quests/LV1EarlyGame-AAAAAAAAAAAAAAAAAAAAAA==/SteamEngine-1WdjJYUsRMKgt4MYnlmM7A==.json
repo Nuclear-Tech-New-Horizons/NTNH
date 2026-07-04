@@ -13,6 +13,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. \n\nThe Steam Engine has an energy efficiency of §e85%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.\n\nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.",
       "globalShare:1": 0,
       "icon:10": {
@@ -25,6 +34,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Steam Engine",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "OR",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -46,6 +70,7 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,

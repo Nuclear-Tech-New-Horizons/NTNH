@@ -1,0 +1,12 @@
+/.idea/
+/.vscode/
+/eclipse/
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+*.bat
+*.DS_Store
+/.vs
+layout.json

@@ -8,6 +8,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:\n1) Report it to us, the developers\n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)\n\nOre generation spreadsheet\n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]",
       "globalShare:1": 0,
       "icon:10": {
@@ -20,6 +29,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Ore Generation System",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
