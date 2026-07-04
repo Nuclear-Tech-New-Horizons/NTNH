@@ -3,7 +3,7 @@
 ## What's changed?
 **Added**
 - GuideNH
-   - It is not perfect and does not contain a lot of info
+   - It is not perfect and does not contain a lot of info *yet*
    - Want to help? Contribute to [NTNH Guide Pack](https://github.com/NTNewHorizons/NTNH-Guide-Pack)
 
 
@@ -14,12 +14,7 @@
 
 
 
-**Changed**
-- 
-
-
-
-[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.11.0...2.12.0)
+[Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.11.0...2.11.1)
 
 ## Download
-[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.12.0)
+[GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.11.1)
