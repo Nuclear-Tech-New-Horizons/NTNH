@@ -1,17 +1,17 @@
 ---
 navigation:
   title: "AgriCraft Overview"
-  icon: agricraft:crops
+  icon: AgriCraft:crops
   parent: ./index.md
   position: 40
 item_ids:
-  - agricraft:crops
-  - agricraft:seedAnalyzer
-  - agricraft:magnifyingGlass
-  - agricraft:trowel
-  - agricraft:handRake
-  - agricraft:clipper
-  - agricraft:journal
+  - AgriCraft:crops
+  - AgriCraft:seedAnalyzer
+  - AgriCraft:magnifyingGlass
+  - AgriCraft:trowel
+  - AgriCraft:handRake
+  - AgriCraft:clipper
+  - AgriCraft:journal
 categories:
   - farming
   - agriculture

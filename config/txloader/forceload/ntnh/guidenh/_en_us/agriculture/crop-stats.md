@@ -1,7 +1,7 @@
 ---
 navigation:
   title: "Crop Stats & Genetics"
-  icon: agricraft:seedAnalyzer
+  icon: AgriCraft:seedAnalyzer
   parent: ./index.md
   position: 60
 categories:

@@ -1,7 +1,7 @@
 ---
 navigation:
   title: "Crop Cross-breeding"
-  icon: agricraft:crops
+  icon: AgriCraft:crops
   parent: ./index.md
   position: 50
 categories:
@@ -11,6 +11,13 @@ categories:
 # Crop Cross-breeding
 
 Cross-breeding is the core of AgriCraft. By placing mature crops next to a Crosscrop, you can produce mutations - entirely new plant species.
+
+<GameScene width="384" height="256" zoom={3} perspective="isometric-north-east" interactive={true}>
+  <ImportStructure src="/assets/agriculture_ponders/farm_plot.snbt" />
+  <ImportPonder src="/assets/agriculture_ponders/planting_and_crossbreeding.json" />
+</GameScene>
+
+Press **Play** to see an animated walkthrough of setting up a breeding plot.
 
 ## Setup
 
