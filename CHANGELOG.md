@@ -3,9 +3,10 @@
 ## What's changed?
 **Added**
 - Command history navigation using arrow buttons
-- Added Grass Is Annoting mod
+- Added Grass Is Annoying mod
     - Allows you to attack mobs through grass and non-solid blocks
     - Thank you @thomass47. !
+- Added some new GuideNH entries about agriculture and farming
 
 
 
@@ -13,6 +14,9 @@
 - Fixed a crash caused by typing any command on the server
 - Fixed pressing "/" not adding "/" in the chat
 - Fixed blur in Redstone-over-Radio Terminal
+- *Probably* fixed the brigadier issue (#92)
+- *Probably* fixed the skin issue
+- Fixed andesite, diorite, granite, limestone and marble generation
 
 
 

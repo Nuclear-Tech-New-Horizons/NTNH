@@ -108,11 +108,8 @@ config/CustomOreGen/modules/default/BiomesOPlenty.xml
 config/CustomOreGen/modules/default/ArsMagica2.xml
 config/CustomOreGen/CustomOreGen_Config_Default.xml
 
-falsepattern/fplib_deploader.jar
-
 gource.mp4
 mods/.index
-falsepattern/
 
 config/lanupnp-data.cfg
 
