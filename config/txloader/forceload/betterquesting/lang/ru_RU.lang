@@ -19,7 +19,7 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3Двигатель Стир�
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Паровой двигатель
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигатель§r - это ранний способ превращения §bПара§r в энергию. Он требует внешнего источника пара и способа сброса или переработки производимого им §bПара низкого давления§r. %n%nПаровой двигатель имеет энергетическую эффективность §e85%%§r, что делает его лучше §3Двигателя Стирлинга§r. Однако у него все еще есть ограничение пропускной способности, так как он может содержать только до 2000 mB пара. Его максимальная скорость обработки составляет 2000 mB/t, производя значительные §e3400 HE/t§r или §e68 kHE/s§r. Поэтому он является лучшим генератором, доступным до §3Паровых турбин§r.%n%nКотел, нагреваемый нагревательной печью с помощью угля, будет производить §e17kHE/s§r.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные структуры
@@ -47,7 +47,7 @@ betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Трубные якоря§r
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Автоматическая пила
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing behaviour of pushing force.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=С помощью §6§3Автоматической пилы§r можно автоматически срубать деревья для получения §6Древесины§r, а также другие культуры, такие как §6Конопля§r и §6Пшеница§r.%n%n§3Вентиляторы§r, при питании от редстоуна, могут использоваться для толкания выпавших предметов в воронки или на конвейеры для хранения. Используйте на них §6Дрель§r, чтобы убрать затухание силы толкания.
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Промышленный смеситель
