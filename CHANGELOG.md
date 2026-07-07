@@ -3,6 +3,9 @@
 ## What's changed?
 **Added**
 - Command history navigation using arrow buttons
+- Added Grass Is Annoting mod
+    - Allows you to attack mobs through grass and non-solid blocks
+    - Thank you @thomass47. !
 
 
 
