@@ -1,9 +1,3 @@
----
-navigation:
-  title: NTNH Features
-  icon: hbm:item.book_guide
-  position: 0
----
 # NTNH Modpack Features
 
 Nuclear Tech: New Horizons builds on HBM's Nuclear Tech Mod to deliver a unique modpack experience. Here are the main categories of features available in the pack:

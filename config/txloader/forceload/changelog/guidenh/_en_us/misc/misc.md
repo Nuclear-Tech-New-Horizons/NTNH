@@ -1,7 +1,6 @@
 ---
 navigation:
   title: Features & Tweaks
-  parent: /index.md
   icon: hbm:item.ingot_steel
 ---
 # Features & Tweaks

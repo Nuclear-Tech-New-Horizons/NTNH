@@ -2,7 +2,6 @@
 navigation:
   title: "Agriculture & Farming"
   icon: minecraft:wheat
-  parent: /index.md
   position: 5
 categories:
   - farming
