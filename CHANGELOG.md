@@ -6,7 +6,15 @@
 - Added Grass Is Annoying mod
     - Allows you to attack mobs through grass and non-solid blocks
     - Thank you @thomass47. !
-- Added some new GuideNH entries about agriculture and farming
+- Some new GuideNH entries about agriculture and farming
+- Modern copper items and blocks
+    - Glad you're here, modern version gooners >:D
+- Modern honey items and blocks
+- Modern lingering potions
+- Tipped arrows
+- The original crying obsidian
+    - Did you know it was a concept in 2011?
+    - Me neither
 
 
 
