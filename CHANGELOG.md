@@ -25,6 +25,7 @@
 - *Probably* fixed the brigadier issue (#92)
 - *Probably* fixed the skin issue
 - Fixed andesite, diorite, granite, limestone and marble generation
+- Fixed #83
 
 
 
