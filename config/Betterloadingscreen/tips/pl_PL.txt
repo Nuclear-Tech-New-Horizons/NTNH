@@ -99,7 +99,7 @@ Use HE to RF converters!
 Use RF to HE converters!
 Check the mod’s wiki for detailed information
 Experiment with machine upgrades to increase efficiency
-Account for pollution mechanics - they impact gameplay
+Pamiętaj o zanieczyszczeniach - mają znaczenie
 Control pollution to avoid problems with these cockroaches
 Use soot towers to reduce pollution
 Have fun and experiment - NTM offers endless possibilities
