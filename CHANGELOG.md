@@ -28,13 +28,17 @@
 - Fixed andesite, diorite, granite, limestone and marble generation
 - Fixed #83
 - Fixed shaders being enabled BY DEFAULT 😭😭😭💔💔
+- Fixed "HOW THE FUCK?!" quest showing
+    - It was supposed to be secret
+- Fixed #96
+    - That's basically a misinformation
 
 
 
 **Changed**
 - Fully reworked ExNihilo loot tables
 - Dev/contributor update - cleaned up .gitignore
-- Changed default render distance from 32 to 12 chunk
+- Changed default render distance from 32 to 12 chunks
     - To speed up world loading and not scare yall people
 
 

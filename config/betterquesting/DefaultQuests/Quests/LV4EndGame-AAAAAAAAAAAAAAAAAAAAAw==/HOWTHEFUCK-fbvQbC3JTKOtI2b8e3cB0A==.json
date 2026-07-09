@@ -51,7 +51,7 @@
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
       "taskLogic:8": "AND",
-      "visibility:8": "SECRET"
+      "visibility:8": "COMPLETED"
     }
   },
   "questIDHigh:4": 9060064238429097123,
