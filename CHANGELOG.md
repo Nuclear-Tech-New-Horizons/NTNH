@@ -24,14 +24,18 @@
 - Fixed blur in Redstone-over-Radio Terminal
 - *Probably* fixed the brigadier issue (#92)
 - *Probably* fixed the skin issue
+    - ~~Skill~~ Skin issue, my friend
 - Fixed andesite, diorite, granite, limestone and marble generation
 - Fixed #83
+- Fixed shaders being enabled BY DEFAULT 😭😭😭💔💔
 
 
 
 **Changed**
 - Fully reworked ExNihilo loot tables
-- Dev/contributor update - cleaned up .gitignore 
+- Dev/contributor update - cleaned up .gitignore
+- Changed default render distance from 32 to 12 chunk
+    - To speed up world loading and not scare yall people
 
 
 
