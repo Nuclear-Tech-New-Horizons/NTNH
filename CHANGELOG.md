@@ -30,7 +30,7 @@
 
 
 **Changed**
-- 
+- Fully reworked ExNihilo loot tables
 
 
 
