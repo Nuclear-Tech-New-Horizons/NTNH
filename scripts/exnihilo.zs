@@ -27,7 +27,6 @@ mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:2
 mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:7900>, 12);
 mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:2900>, 16);
 mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:8200>, 18);
-mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:2800>, 20);
 mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:1300>, 24);
 
 // --- Gravel ---
@@ -42,7 +41,6 @@ mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.aluminum
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:2600>, 8);
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:7900>, 12);
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:2900>, 16);
-mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:2800>, 20);
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:1300>, 24);
 
 // --- Dust ---
@@ -59,7 +57,6 @@ mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:26
 mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:7900>, 12);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:2900>, 16);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:8200>, 18);
-mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:2800>, 20);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:1300>, 24);
 
 // --- Nether Gravel ---
@@ -71,7 +68,6 @@ mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:ex
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.bedrock_ore_fragment:2600>, 8);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.powder_gold>, 12);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.bedrock_ore_fragment:2900>, 16);
-mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.bedrock_ore_fragment:2800>, 20);
 
 // --- Ender Gravel ---
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_ender>, <exnihilo:exnihilo.ender_lead_broken>);
