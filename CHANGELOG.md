@@ -31,6 +31,7 @@
 
 **Changed**
 - Fully reworked ExNihilo loot tables
+- Dev/contributor update - cleaned up .gitignore 
 
 
 
