@@ -17,7 +17,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.\n\nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.",
+      "desc:8": "§6Pollution§r is a mechanic affecting several machines related to industrialization. It must be properly mitigated, lest suffer the consequences of a polluted world. There are 3 subtypes of pollution - soot, poison and heavy metal.\n\n§6Soot§r is most common, produced by fossil fuel burning and some other sources. It increases generic mob health and strength. At high enough levels, it becomes visible as smog.\n\n§6Poison§r harms unprotected entities at high enough levels, and is produced exclusively as the consequence from spilling fluids such as CO2 or various oil products.\n\n§6Heavy metal§r comes from the combustion of leaded fuels. It also increases mob strength, but also harms them at high enough levels.\n\nIt can also be harmful to entities and players if they aren\u0027t wearing gas protection.\n\nCompatible machines can be connected to special exhaust pipes, which are effectively specialized box-ducts, to output to a §6Smokestack§r to reduce the amount of pollution.\n\nThe §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.\n\nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -28,7 +28,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Smokestack",
+      "name:8": "Pollution and Smokestack",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
