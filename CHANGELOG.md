@@ -62,6 +62,10 @@
 - Fixed mufflers not working on large doors
 - Fixed the electric press not displaying the currently pressed item in the model
 - Fixed flint craft
+- Air intake can dupe compressed air (if you need compressed air in a vacuum, you can use the air intake in a room full of any gas except compressed air)
+- Titanium deco has 16 variants for no reason
+- Crash on oil blob generation on celestials
+- Crash when setting gas output of oil blocks to 0 in config
 
 
 
@@ -141,6 +145,10 @@
   - baldie baldie hahaha he bald he has the no of hair
   - follically challenged baldie bald head
 - Increased flue gas burn value from 10kTU to 25kTU
+- Added criteria for secret overdrive mode??
+- Improved errors for station propulsion
+- Saltleaf is now edible (Laythe start approaches)
+- Improved Angelica shader compat (for those using Bountiful Stars)
 
 
 
