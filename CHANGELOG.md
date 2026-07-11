@@ -31,6 +31,9 @@
 - Cargo door
   - Steel grate door which goes well with the cargo elevators
 - Effortless Building Gadgets by @mellowarpeggiation (@MellowArpeggiation)
+- *Returned* InventoryBogoSorter and Mouse Tweaks
+- *Returned* Xaero's Minimap
+  - World Map is still broken
 
 
 
@@ -150,6 +153,8 @@
 - Improved errors for station propulsion
 - Saltleaf is now edible (Laythe start approaches)
 - Improved Angelica shader compat (for those using Bountiful Stars)
+- Removed water particles mod
+  - It was lagging so much
 
 
 
