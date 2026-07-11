@@ -30,6 +30,7 @@
   - Still in testing, there's no recipes for any of the parts yet
 - Cargo door
   - Steel grate door which goes well with the cargo elevators
+- Effortless Building Gadgets by @mellowarpeggiation (@MellowArpeggiation)
 
 
 
