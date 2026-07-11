@@ -139,7 +139,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=§6Устройство нас�
 
 # Quest: Backpacks and Exploration
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.name=Рюкзаки и исследование
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Исследование является важной частью опыта §dNTM§r, поскольку разграбление заброшенных структур - это жизнеспособная стратегия для ранней игры. В этом модпаке также существуют большие пещеры, так что не стесняйтесь отправляться в спелеологию.%n%n§dРюкзаки§r будут огромной помощью, так как их можно использовать для переноски большего количества добычи. Ящики также можно использовать для транспортировки предметов, но рюкзаки также оснащены специальными слотами для инструментов, верстаком, кроватью, а также резервуарами для жидкостей.%n%n§6Шланг§r можно использовать для быстрого ввода и вывода жидкостей, хранящихся в рюкзаке.%n%n§2Железные рюкзаки будут удалены в следующем обновлении, поэтому если вы все еще используете их, пожалуйста, опустошите их.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.%n%n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.%n%nA §dNature's Compass§r can be used to easily locate biomes of interest.%n%nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.
 
 # Quest: Rotary Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=Роторная печь
@@ -165,9 +165,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=§3Шахтёрский зар�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=Стальная наковальня
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=Улучшенная версия §3Наковальни§r, [T2], которая открывает дополнительные рецепты.
 
-# Quest: Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Дымовая труба
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§3Дымовая труба§r используется для снижения загрязнения, производимого машинами. §3Выхлопные трубы§r, изготовляемые на наковальнях, можно использовать для транспортировки дыма к Дымоходу. §3Промышленный дымоход§r необходим для производства §6Мелкой сажи§r, которая требуется для создания §6Фуллерита§r в поздней игре.%n%nПод Дымоходом можно установить §3Зольник§r, который будет собирать §6Золу§r. Золу можно использовать как дешёвую альтернативу чёрному красителю, а также в создании §6Промышленного удобрения§r.
+# Quest: Pollution and Smokestack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Pollution and Smokestack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§6Pollution§r is a mechanic affecting several machines related to industrialization. It must be properly mitigated, lest suffer the consequences of a polluted world. There are 3 subtypes of pollution - soot, poison and heavy metal.%n%n§6Soot§r is most common, produced by fossil fuel burning and some other sources. It increases generic mob health and strength. At high enough levels, it becomes visible as smog.%n%n§6Poison§r harms unprotected entities at high enough levels, and is produced exclusively as the consequence from spilling fluids such as CO2 or various oil products.%n%n§6Heavy metal§r comes from the combustion of leaded fuels. It also increases mob strength, but also harms them at high enough levels.%n%nIt can also be harmful to entities and players if they aren't wearing gas protection.%n%nCompatible machines can be connected to special exhaust pipes, which are effectively specialized box-ducts, to output to a §6Smokestack§r to reduce the amount of pollution.%n%nThe §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.
 
 # Quest: Player Decontaminator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Обеззараживатель игрока
@@ -203,15 +203,11 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3Генератор на др
 
 # Quest: Flint Tools
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Кремниевые инструменты
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Кремниевые инструменты§r нужны для добычи первого дерева и камня. Сломайте листву дерева, чтобы получить саженцы для создания палок.
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.%n%nAxes automatically break tree blocks from top to bottom to prevent floating trees. Hold Shift to disable this and break blocks normally.
 
 # Quest: Hunger System
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r делает голод реальной угрозой, а не легким неудобством.%n%nГолод теперь уменьшается пассивно со временем, даже в бездействии. Достижение нуля убивает вас мгновенно. Низкий уровень голода накладывает медлительность, слабость и снижает скорость добычи еще до смерти. Еда дает эффект §6Well Fed§r, который ускоряет регенерацию здоровья - чем больше порция, тем дольше он длится.%n%nПищевая ценность изменена в зависимости от размера порции. Сырые ингредиенты восстанавливают очень мало; приготовленные блюда восстанавливают значительно больше. Большие блюда едятся дольше и меньше стакаются в вашем инвентаре.%n%nСельскохозяйственные культуры растут только в дневное время и созревают гораздо дольше. Деревянные и каменные мотыги удалены - вам понадобится как минимум железная мотыга, чтобы вскопать почву. Грядки должны быть размещены рядом с водой, иначе они не будут функционировать.%n%n§dSpice of Life: Carrot Edition§r вознаграждает за разнообразие в рационе. Каждая уникальная еда, съеденная впервые, навсегда увеличивает ваше максимальное здоровье. Повторное употребление одной и той же еды не дает бонуса.%n%n§2Чем разнообразнее ваш рацион, тем больше у вас сердец - создайте разнообразную ферму как можно раньше.§r
-
-# Quest: Nature's Compass
-betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.name=Компас Природы
-betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.desc=§dКомпас Природы§r можно использовать для лёгкого поиска интересующих биомов.
 
 # Quest: Steel Furnace
 betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.name=Стальная печь
@@ -243,7 +239,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкост�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а §6Ф§9И§aЧ§bА§c!§d!§e!§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
@@ -295,7 +291,7 @@ betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Представьте, исп�
 
 # Quest: Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.name=Нагревательная печь/топка
-betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=§3Топка§r и §3Нагревательная печь§r - это механизмы, способные производить тепло (§eTU§r) из твёрдого топлива для любых механизмов, требующих тепло для работы.%n%nОба механизма схожи в работе. Чтобы они передавали тепло, другой механизм для получения тепла должен быть размещён сверху так, чтобы медная нагревательная пластина на принимающем механизме располагалась поверх медной нагревательной пластины теплопроизводящего механизма.%n%nПосле постройки эти механизмы можно заполнить твёрдым топливом, которое будет гореть до тех пор, пока либо топливо не закончится, либо буфер тепла не заполнится. Топливо не будет расходоваться, если его буфер полон - таким образом, оба механизма довольно эффективно экономят топливо.%n%nОсновное различие между этими двумя механизмами заключается в их скорости: топка сжигает топливо гораздо медленнее при полной эффективности, в то время как нагревательная печь производит в пять раз больше тепла (но в восемь раз быстрее). Несмотря на её неэффективность, нагревательная печь часто предпочтительнее из-за гораздо более высокой тепловой мощности и теплоёмкости. Однако она не может нагревать двигатель Стирлинга, так как её базовый выход (500 TU/t) автоматически разгонит двигатель; тяжёлый двигатель Стирлинга не имеет этой проблемы.%n%nДополнительно, нагревательная печь может получать тепло от других теплопроизводящих механизмов, размещённых под ней: несколько можно сложить в стопку для требовательных к теплу механизмов, таких как тигель. Однако получаемое тепло уменьшается вдвое при передаче к механизму выше.
+betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3Heating Oven§r are machines capable of producing heat from solid fuels for any machines that require heat to operate.%n%nHeat is measured in §eTU§r (§eThermal Units§r).%n%nBoth machines are similar in operation. In order for them to transfer heat, another machine for receiving the heat must be placed on top, such that the copper heat plate on the receiving machine sits on top of the copper heat plate of the heat producing machine.%n%nOnce constructed, these machines can be filled with solid fuel, which will burn until either the fuel runs out, or the heat buffer is filled. No fuel will be consumed if its buffer is full — as such, both machines are fairly efficient at conserving fuel.%n%nThe primary difference in these two machines lie in their speed: the firebox burns fuel much slower at full efficiency, whilst the heating oven produces five time the heat (but eight times faster). Despite its inefficiency, the heating oven is often preferred for its much higher heat outputs and heat capacity. However, it cannot heat a stirling engine, as its base output (500 TU/t) will automatically over-speed the engine; the heavy stirling engine does not have this issue.%n%nAdditionally, the heating oven can receive heat from other heat producing machines placed underneath it: multiple can be stacked for heat-hungry machines like the crucible. The heat received, however, is halved when transferring to the machine above.
 
 # Quest: Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Переработка
@@ -1256,10 +1252,6 @@ betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=Мод §dSignPicture§r поз
 betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.name=Три сотни крышек
 betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.desc=Добро пожаловать в магазин!
 
-# Quest: Buy Advanced Alloy
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.name=Купить продвинутый сплав
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.desc=Нужен продвинутый сплав? Купи его!
-
 # Quest: Sell Dust
 betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.name=Продать пыль
 betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.desc=Ненавижу пыль!
@@ -1661,7 +1653,7 @@ betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Dyson Swarms§r consist of t
 
 # Quest: Quests information
 betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Информация о квестах
-betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.%n
+betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This Questbook was originally made by _SkippyPlaysMC_ for NT:I/ST:I modpacks and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.
 
 # Quest: Modpack information
 betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Информация о модпаке
