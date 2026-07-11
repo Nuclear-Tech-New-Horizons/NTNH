@@ -70,6 +70,8 @@
 - Titanium deco has 16 variants for no reason
 - Crash on oil blob generation on celestials
 - Crash when setting gas output of oil blocks to 0 in config
+- Fixed horrible experience when generating new chunks
+- Reduced "hanging" when first loading into the world
 
 
 
