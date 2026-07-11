@@ -67,7 +67,6 @@ mods.nei.NEI.hide(<exnihilo:exnihilo.copper_crushed>);
 mods.nei.NEI.hide(<exnihilo:exnihilo.copper_powdered>);
 mods.nei.NEI.hide(<exnihilo:exnihilo.nether_copper_broken>);
 mods.nei.NEI.hide(<exnihilo:exnihilo.copper_ingot>);
-mods.nei.NEI.hide(<exnihilo:exnihilo.tin_ingot>);
 mods.nei.NEI.hide(<exnihilo:exnihilo.lead_broken>);
 mods.nei.NEI.hide(<exnihilo:exnihilo.lead_crushed>);
 mods.nei.NEI.hide(<exnihilo:exnihilo.lead_powdered>);
