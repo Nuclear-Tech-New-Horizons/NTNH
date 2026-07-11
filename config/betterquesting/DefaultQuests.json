@@ -36911,7 +36911,7 @@
           "isMain:1": 1,
           "isSilent:1": 0,
           "lockedProgress:1": 0,
-          "name:8": "From Flint to Oil",
+          "name:8": "From Flint to Oil - USA Simulator",
           "notification_duration:5": -1.0,
           "notification_effect:3": -1,
           "notification_fade_in:5": -1.0,
@@ -36958,6 +36958,24 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 1,
+          "index:3": 1,
+          "partialMatch:1": 1,
+          "requireOnlyOneItem:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:item.gun_maresleg"
+            }
+          },
+          "taskID:8": "bq_standard:optional_retrieval"
         }
       }
     },
@@ -44081,7 +44099,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -132,
-          "y:3": 612
+          "y:3": 624
         },
         "27:10": {
           "questIDHigh:4": 0,
@@ -44169,7 +44187,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -96,
-          "y:3": 624
+          "y:3": 636
         },
         "38:10": {
           "questIDHigh:4": 0,
@@ -44249,7 +44267,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -96,
-          "y:3": 600
+          "y:3": 612
         },
         "48:10": {
           "questIDHigh:4": 0,
@@ -44545,7 +44563,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -168,
-          "y:3": 612
+          "y:3": 624
         },
         "85:10": {
           "questIDHigh:4": -7809915145168335433,
@@ -44593,7 +44611,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -204,
-          "y:3": 612
+          "y:3": 624
         },
         "91:10": {
           "questIDHigh:4": -6504268382655527520,
@@ -46573,31 +46591,31 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 36,
-          "y:3": 12
+          "y:3": 84
         },
         "1:10": {
           "questIDHigh:4": -2046269294520939250,
           "questIDLow:4": -8782766154957464139,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -12,
-          "y:3": -36
+          "x:3": 36,
+          "y:3": -12
         },
         "2:10": {
           "questIDHigh:4": -1922987534854173511,
           "questIDLow:4": -8847684645341758176,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -60,
-          "y:3": -36
+          "x:3": -12,
+          "y:3": -12
         },
         "3:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 5,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 36,
-          "y:3": -84
+          "x:3": -60,
+          "y:3": 36
         },
         "4:10": {
           "questIDHigh:4": 0,
@@ -46605,7 +46623,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -60,
-          "y:3": 12
+          "y:3": 84
         },
         "5:10": {
           "questIDHigh:4": 3755626826330359926,
@@ -46613,7 +46631,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -12,
-          "y:3": -84
+          "y:3": 36
         },
         "6:10": {
           "questIDHigh:4": 6236478466157201943,
@@ -46621,15 +46639,23 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -12,
-          "y:3": 12
+          "y:3": 84
         },
         "7:10": {
+          "questIDHigh:4": -6119174840009735131,
+          "questIDLow:4": -5395189488122666770,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -60,
+          "y:3": -12
+        },
+        "8:10": {
           "questIDHigh:4": -4155868891706668172,
           "questIDLow:4": -5069944341791301115,
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 36,
-          "y:3": -36
+          "y:3": 36
         }
       }
     },
@@ -47038,7 +47064,7 @@
           "questIDLow:4": -8894540780510613677,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": 84,
+          "x:3": 72,
           "y:3": 96
         },
         "33:10": {
