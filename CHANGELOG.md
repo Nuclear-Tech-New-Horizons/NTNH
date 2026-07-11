@@ -155,6 +155,9 @@
 - Improved Angelica shader compat (for those using Bountiful Stars)
 - Removed water particles mod
   - It was lagging so much
+- Removed camera tilt and UI pop-up animation
+  - It was giving people motion sickness
+  - You can enable it back in An Extra Touch config
 
 
 
