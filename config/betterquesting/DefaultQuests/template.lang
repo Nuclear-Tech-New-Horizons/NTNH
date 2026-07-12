@@ -1211,6 +1211,11 @@ betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=Infinite Water Sources
 betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Tired of using buckets to give water to your machines? Try using water pumps or infinite water tanks!%n%nInfinite Water Tank will give 50mb/t%nEnhanced Infinite Water Tank will give 500mb/t%nPump will give 1000mb/t but requires steam to operate.
 
 
+## Quest Line: Farming and Cooking
+betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.name=Farming and Cooking
+betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Yeah
+
+
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Improve your builds by using Chisel, Architecturecraft and Better Builder's Wands.
