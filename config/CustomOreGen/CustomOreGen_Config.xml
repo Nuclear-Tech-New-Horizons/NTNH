@@ -27,7 +27,7 @@
       <Choice value='false' displayValue='Off' />
     </OptionChoice>
 
-    <OptionNumeric name='deferredPopulationRange' default='16' displayGroup='groupGeneral'>
+    <OptionNumeric name='deferredPopulationRange' default='32' displayGroup='groupGeneral'>
       <Min>0</Min>
       <Max>128</Max>
       <DisplayIncrement>16</DisplayIncrement>
@@ -221,6 +221,7 @@
       <Biome name="Mesa Plateau F M" />
       <Biome name="Mesa Plateau M" />
     </Cloud>
+
 
     <Cloud name="RedstoneCloudMesa"
       block="minecraft:redstone_ore" inherits="PresetBiomeCloudVerySmall">
@@ -509,6 +510,29 @@
       block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudMedium">
       <Biome name="Roofed Forest" />
       <Biome name="Roofed Forest M" />
+    </Cloud>
+
+    <Cloud name="RoofedForest"
+      block="harvestcraft:salt" inherits="PresetBiomeCloudMedium">
+      <Biome name="Roofed Forest" />
+      <Biome name="Roofed Forest M" />
+    </Cloud>
+
+    <Cloud name="NetherQuartz"
+      block="minecraft:quartz_ore">
+      <Setting name="DistributionFrequency" avg=":= 0.3 * oreFreq" />
+      <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
+      <Setting name="CloudRadius" avg=":=4 * oreSize" range=":= 8 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 7 * oreSize" range=":= 4 * oreSize" />
+      <Setting name="CloudSizeNoise" avg="0.2" />
+      <Setting name="CloudHeight" avg="20" range="20" type="normal" scaleTo="sealevel" />
+      <Setting name="CloudInclination" avg="0.05" range="0.9" />
+      <Setting name="OreRadiusMult" avg="1" range="0.1" />
+      <Setting name="OreDensity" avg="0.09" />
+      <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
+      <IfCondition Condition="dimension == -1" />
+      <ReplacesOre block="minecraft:netherrack" />
+      <Biome name="Hell" />
     </Cloud>
 
     <!-- === Mun === -->
