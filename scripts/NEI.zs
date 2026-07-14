@@ -104,3 +104,6 @@ mods.nei.NEI.hide(<exnihilo:nether_nickel_gravel>);
 mods.nei.NEI.hide(<exnihilo:aluminum_gravel>);
 mods.nei.NEI.hide(<exnihilo:aluminum_sand>);
 mods.nei.NEI.hide(<exnihilo:aluminum_dust>);
+mods.nei.NEI.hide(<ProjRed|Core:projectred.core.part:52>);
+mods.nei.NEI.hide(<etfuturum:copper_ingot>);
+mods.nei.NEI.hide(<etfuturum:copper_ore>);
