@@ -1,10 +1,10 @@
 name: Sync Beta to Server Repo
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - updates/upcoming
-  workflow_dispatch:
 
 jobs:
   sync-beta:
