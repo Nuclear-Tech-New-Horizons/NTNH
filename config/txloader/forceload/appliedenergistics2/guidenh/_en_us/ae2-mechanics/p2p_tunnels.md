@@ -58,7 +58,7 @@ In this example, the yellow controller-less small independent AE network transfe
   <IsometricCamera yaw="-60" pitch="30" />
 </GameScene>
   
-For another example (including its use with [Quantum Bridges](quantum_bridge.md)) see this MS Paint diagram I can't be bothered to touch up:
+For another example, including use with [Quantum Rings](quantum-bridge.md), see the following network diagram:
 
   ![P2P and quantum bridges](../assets/images/p2p_quantum_network.png)
 

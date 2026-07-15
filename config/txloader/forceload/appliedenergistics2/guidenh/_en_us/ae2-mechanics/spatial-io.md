@@ -9,12 +9,12 @@ navigation:
 
 Spatial IO is a way to cut-and-paste physical volumes of space in your world. Through a multiblock structure composed of <ItemLink id="appliedenergistics2:tile.BlockSpatialPylon" showIcon="left"/> and <ItemLink id="appliedenergistics2:tile.BlockSpatialIOPort" showIcon="left"/>, it allows you to compress a defined volume of space into a Spatial Storage Cell, carry it with you, and release the stored contents anywhere. You can even move end portal frames!
 
-Spatial Pylons can move blocks and entities, which means if you have the means to move storage cells across dimensions and automate the Spatial IO system, you can even use Spatial Pylons to teleport living entities, including players, across dimensions. However, do note that the energy cost of Spatial Pylons is quite significant. During periods when power generation is tight, its best to calculate the operation cost in advance.
+Spatial Pylons can move blocks and entities, which means if you have the means to move storage cells across dimensions and automate the Spatial IO system, you can even use Spatial Pylons to teleport living entities, including players, across dimensions. However, do note that the energy cost of Spatial Pylons is quite significant. During periods when power generation is tight, it is best to calculate the operating cost in advance.
 
 # Spatial Pylon Multiblock Structure
 The operation of Spatial IO requires a defined area, and the volume of this space must be less than or equal to the volume of the Spatial Storage Cell used.
 
-The area of effect is defined by Spatial Pylon blocks. All Spatial Pylons must be in the same ME Network; using a subnetwork is recommended. Using 1\*1\*n (n>1) adjacent Spatial Pylon blocks can form a Spatial Pylon pillar. Multiple pillars will construct a 1-block thick square shell, and the space inside it is the area of effect for the Spatial IO system. In other words, the area of effect for Spatial IO is one block smaller than the bounds of the entire Spatial Pylon multiblock structure.
+The area of effect is defined by Spatial Pylon blocks. All Spatial Pylons must be in the same ME Network; using a subnetwork is recommended. Using 1\*1\*n (n > 1) adjacent Spatial Pylon blocks can form a Spatial Pylon pillar. Multiple pillars will construct a 1-block-thick square shell, and the space inside it is the area of effect for the Spatial IO system. In other words, the area of effect for Spatial IO is one block smaller than the bounds of the entire Spatial Pylon multiblock structure.
 
 The construction of the Spatial IO multiblock system follows these rules:
   * Each Spatial Pylon pillar must be composed of at least 2 Spatial Pylon blocks, and the pillar must be a straight line.
@@ -55,7 +55,7 @@ After building the entire system, if you want to execute a Spatial IO operation,
 # Energy Consumption
 Each activation of the Spatial IO Port consumes the required energy all at once. The value is listed in the Spatial IO Port, so prepare enough [Energy Cells](../items-blocks/energy_cells.md) in advance.
 
-The energy consumption for a single Spatial IO operation grows exponentially with the volume of the area of effect, and it is influenced by the energy efficiency coefficient. During periods when power generation is tight, improving power generation is a wise choice.
+The energy consumption for a single Spatial IO operation grows rapidly with the volume of the area of effect, and it is influenced by the energy efficiency coefficient. During periods when power generation is tight, improving power generation is a wise choice.
 
 Simply put, energy efficiency is positively correlated with the number of Spatial Pylons constituting the multiblock structure, but the reduction effect of energy efficiency on power consumption decreases logarithmically. This means that achieving maximum reduction requires extremely high energy efficiency, which in turn requires more Spatial Pylon blocks. Considering the energy consumption alongside the crafting costs of the Energy Cells and Spatial Pylon blocks themselves, a balance is usually reached at around 50~60% efficiency.
 

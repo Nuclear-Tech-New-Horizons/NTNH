@@ -111,6 +111,6 @@ The upfront cost of types is such that a cell holding 1 type can hold 2x as much
 | <ItemLink id="appliedenergistics2:item.ItemAdvancedStorageCell.4096k" scale="4" />      |  33,292,288 | 17,039,360 |
 | <ItemLink id="appliedenergistics2:item.ItemAdvancedStorageCell.16384k" scale="4" />     | 133,169,152 | 68,157,440 |
 
-![A Cell With 1 Type](../assets/1_type_cell.png)
+![A Cell With 1 Type](../assets/images/1_type_cell.png)
 
-![A Cell With 63 Types](../assets/63_type_cell.png)
+![A Cell With 63 Types](../assets/images/63_type_cell.png)

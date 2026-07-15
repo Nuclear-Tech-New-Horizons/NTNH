@@ -1,26 +1,18 @@
 ---
 navigation:
-  parent: /ae2-mechanics-index.md
   title: Channels
-  icon: appliedenergistics2:tile.BlockController
+  parent: /ae2-mechanics-index.md
+  icon: appliedenergistics2:item.ItemMultiPart:56
 ---
 
 # Channels
 
-> [!NOTE]
-> Some links are broken due to their pages not being written at this time. Help support GTNH's development by contributing on the [GitHub](https://github.com/GTNewHorizons/GTNH-Guide-Pack)!
+## What Are Channels?
 
-Applied Energistics 2's [ME Networks]() require
-Channels to support [devices]() which use networked storage, or other network
-services. Think of channels like USB cables to all your devices. A computer only has so many USB ports and can only support
-so many devices connected to it. Most machines, full-block devices, and standard cables can only pass through
-up to 8 channels. You can think of full-block devices and standard cables as a bundle of 8 "channel wires". However, [dense cables]() can support up
-to 32 channels. The only other devices capable of transmitting 32 are <ItemLink id="appliedenergistics2:item.ItemMultiPart:460" showIcon="left" />
-and the [Quantum Network Bridge](). Each time a device uses up a channel, imagine pulling off a usb "wire" from
-the bundle, which obviously means that "wire" isn't available further down the line.
+Channels are a resource consumed by devices in an AE2 [ME Network](me-network-connections.md). An ME network uses channels to support [devices](devices.md) that provide networked storage and other network services. The number of channels available on cables is limited: each cable can only carry so many channels. When you connect a channel-using device to the network by cable, that device occupies one channel on the cable. Once the cable runs out of channels, newly added devices can no longer connect to the ME network.
 
 <GameScene zoom="4" background="transparent" width="300" rotateX={20} rotateY={-75}>
-  <ImportStructure src="/assets/structures/channels-channel_count.snbt" />
+  <ImportStructure src="../assets/structures/channels-channel_count.snbt" />
   <LineAnnotation
   points="0.35 0.65 5; 0.35 0.65 4.5;0.35 1.5 4.5"
   color="#00ff00"
@@ -105,39 +97,31 @@ the bundle, which obviously means that "wire" isn't available further down the l
   </DiamondAnnotation>
 </GameScene>
 
-An easy way to see how channels are being used and routed through your network is to use [smart cables](), which will display on them the paths and usage of channels.
+Normal cables can carry 8 channels, while dense cables can carry 32 channels. An easy way to observe channel usage is to use [Smart Cables](../items-blocks/cables.md#smart-cables), which show channel usage with their textures and lighting.
 
 
 # Channel Routing
 
-When using a <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" />,
-channels route via 3 steps. 
+In an ME network with an <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" />, channels are routed in three steps:
 
-1. They first take the shortest path through adjacent machines to the nearest normal cable
-(glass, covered, or smart). 
-2. They then take the shortest path through that normal cable to the nearest dense cable
-(dense or dense smart). 
-3. They then take the shortest path through that dense cable to the <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" />.
+1. The channel takes the shortest path from the adjacent device to the nearest normal cable, whether that is Glass Cable, Covered Cable, or Smart Cable.
+2. It then continues along that normal cable to the nearest dense cable.
+3. It finally travels along that dense cable to the ME Controller.
 
-If the shortest path is already maxed out, some [devices]() may not get their required channels, use
-colored cables, cable anchors and tunnels to your advantage to make sure your channels go in the path you desire.
+If the shortest path is already full, some devices may fail to receive the channels they need.
 
-Cable coloring, <ItemLink id="appliedenergistics2:item.ItemMultiPart:140" showIcon="left"/>, or <ItemImage id="appliedenergistics2:item.ItemMultiPart:120" yOffset="2" /><ItemLink id="appliedenergistics2:item.ItemMultiPart:120"/> help ensure channels are transmitted along the intended path.
+You can use cable coloring, <ItemLink id="appliedenergistics2:item.ItemMultiPart:140" showIcon="left"/>, and <ItemImage id="appliedenergistics2:item.ItemMultiPart:120" yOffset="2" /><ItemLink id="appliedenergistics2:item.ItemMultiPart:120"/> to force channels to travel along the path you want. Color does not affect channel priority. It only prevents cables of different colors from connecting to each other, which helps control channel routing.
 
-Note that channel colors do not affect channel priority; it only prevents cables of different colors from connecting to each other to control channel transmission.
+> [!NOTE]
+> Uncolored (Fluix) cables can connect to cables of any color.
 
->[!NOTE]
->Uncolored (Fluix) cables can connect to cables of any color.
-
-For example, in this case some drives don't get channels because although there is enough capacity in the cables, the
-channels try to take the shortest path, overloading some cables while leaving others empty.
+For example, in the following setup the cables form a loop. Because channels always try to use the shortest path, some Drives end up losing channels and going offline.
 
 <GameScene zoom="2" background="transparent" width="200" rotateX={90} rotateY={-90}>
     <ImportStructure src="../assets/structures/channels-channel_loop1.snbt" />
 </GameScene>
 
-This can be fixed by more carefully constraining the paths channels can take through the judicious use of colored cables, quartz fibers, and cable anchors. Networks should be treelike (or bushlike).
-Loops and ambiguous channel paths should be minimized.
+This can be fixed by carefully constraining channel paths with cable colors, Quartz Fiber, and Cable Anchors. Network structures should be tree-like, with as few loops and ambiguous mesh paths as possible.
 
 <GameScene zoom="2" background="transparent" width="200" rotateX={90} rotateY={-90}>
     <ImportStructure src="../assets/structures/channels-channel_loop2.snbt" />
@@ -146,41 +130,32 @@ Loops and ambiguous channel paths should be minimized.
 
 # Network Design
 
-As mentioned before in [channel routing](channels.md#channel-routing), it's best to design your network in a treelike structure, with dense cables branching out from the controller, regular cables
-branching out from the dense, and [devices]() in clusters of 8 or fewer on the regular cables.
+As described above, ME networks should be designed as branching trees. Use dense cables as the main trunk carrying channels out of the controller, then split off normal cables from the dense line to feed devices. Each normal cable group should serve no more than 8 devices. If you need more, split off another normal cable branch from the dense cable.
 
-The following is an example of a <Color id="RED">poorly structured</Color> network design: cables form loops, and direct channel transmissions between devices also create loops. 
-
-Ultimately, the entire network becomes nearly unreadable, making it difficult to analyze channel routing, and may result in some components going offline due to a lack of channels.
+The following is an example of a <Color id="RED">poorly structured</Color> network. It is full of loops: the cables form loops, and direct channel transmission between devices also creates loops. The result is a network that is hard to read, hard to analyze, and likely to leave some components offline because they do not receive channels.
 
 <GameScene zoom="4" background="transparent" width="400" rotateX={30} rotateY={100}>
     <ImportStructure src="../assets/structures/channels-bad_design.snbt" />
 </GameScene>
 
-Here is an example of a <Color id="GREEN">well-structured</Color> network design:
+Here is an example of a <Color id="GREEN">well-structured</Color> network:
 <GameScene zoom="2" background="transparent" width="400" rotateY={-115} rotateX={30}>
     <ImportStructure src="../assets/structures/channels-good_design.snbt" />
     <BoxAnnotation min="11 0 8" max="13 1 5" color="#00ff1a" thickness="1">
-      Use cables of different colors to separate sections, making them easier to identify and connect in series.
+      Use different cable colors to separate sections so they are easier to identify and less likely to connect accidentally.
     </BoxAnnotation>
     <BoxAnnotation min="5 0 4" max="3 4 6" color="#00ff1a" thickness="1">
-      Note that a single standard cable here carries exactly 8 channel ports, resulting in no channel shortage or waste (the molecular assembly room does not occupy any channels).
+      This normal cable carries exactly 8 channels for 8 Interfaces. There is no channel shortage and no waste here, because Molecular Assemblers themselves do not use channels.
     </BoxAnnotation>
 </GameScene>
 
 # Ad-Hoc Networks
 
-A Network without a <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" />
-is considered to be Ad-Hoc, and can support up to 8 channel using devices.
-Once you exceed 8 devices the network's channel using devices will shutdown,
-you can either remove devices, or add a <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" />.
+A network without an <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" /> is an ad-hoc network. It can support at most 8 channel-using devices. If you exceed 8 devices, the entire network fails instead of only the extra devices going offline. At that point, you must either remove some devices or add an ME Controller.
 
-Unlike with controllered networks, [smart cables]() on ad-hoc networks will show the number
-of channels in use network-wide instead of the number of channels flowing through that specific cable.
+Unlike a normal controller-based network, Smart Cables in an ad-hoc network show the total number of channels in use across the whole network, not the number passing through that specific cable.
 
-While using ad-hoc networks each device will
-use 1 channel network wide, this is very different from how <ItemLink id="appliedenergistics2:tile.BlockController" showIcon="left" /> allocate channels based on
-shortest route.
+In practice, every device in an ad-hoc network occupies one channel on every cable in the entire network. That is completely different from how an ME Controller allocates channels by shortest path. In other words, all used channels are spread evenly across the entire ad-hoc network, and there is no real notion of a routed channel path.
 
 <FloatingImage src="../assets/images/channels_normal_network.png"  wrap="top-bottom" align="left"  width="300" title="Normal Network" >
   <ImageAnnotation>

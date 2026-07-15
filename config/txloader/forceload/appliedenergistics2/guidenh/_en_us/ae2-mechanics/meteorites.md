@@ -7,13 +7,13 @@ navigation:
 
 # Meteorites
 
-Meteorites are the starting point for using AE2. Crucially, it has a <ItemLink id="appliedenergistics2:tile.BlockSkyChest" showIcon="left"/> in the center which may give you one of many inscribers.
+Meteorites are the starting point for AE2. Most importantly, there is a <ItemLink id="appliedenergistics2:tile.BlockSkyChest" showIcon="left"/> at the center, which may contain one of the Inscriber Presses.
 
 [Getting Started](../getting-started.md) will provide info on what to do once you find one.
 
 ## Finding Meteorites
 
-Meteorites are fairly common and leave massive holes in the ground, so you may have already found a few. if not, a
-<ItemLink id="appliedenergistics2:tile.BlockSkyCompass" showIcon="left" /> will point toward the nearest mysterious cube. If the needle is spinning rapidly and you can't see a meteorite in sight, it may be underground! Pair your <ItemLink id="appliedenergistics2:tile.BlockSkyCompass" /> with a <ItemLink id="ifu:ifu_buildingKit" showIcon="true" /> set to Sky Stone to narrow your search.
+Meteorites are fairly common. Some generate on the surface, but many are buried underground.
+You can use an <ItemLink id="appliedenergistics2:tile.BlockSkyCompass" showIcon="left" /> to find them. However, the Meteorite Compass only tells you that a meteorite exists in the current chunk; it does not point you precisely to its location.
 
 ![Meteorite Crater](../assets/images/meteorite-crater.png)

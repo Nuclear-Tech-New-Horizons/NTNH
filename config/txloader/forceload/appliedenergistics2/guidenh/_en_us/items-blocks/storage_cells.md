@@ -100,11 +100,11 @@ item_ids:
   </Row>
 </Column>
 
-Storage Cells are one of the primary methods of storage in Applied Energistics. They can be installed in <ItemLink id="appliedenergistics2:tile.BlockDrive" /> or <ItemLink id="appliedenergistics2:tile.BlockChest" />.
+Storage Cells are one of the primary storage methods in Applied Energistics 2. They can be installed in a <ItemLink id="appliedenergistics2:tile.BlockDrive" /> or a <ItemLink id="appliedenergistics2:tile.BlockChest" />.
 
 See [Bytes and Types](../ae2-mechanics/bytes-and-types.md) for an explanation of their capacities in bytes and types.
 
-Storage components can be removed from the housing if the cell is empty by shift-right clicking with the cell in your hand.
+If a Storage Cell is empty, hold it in your hand and Shift + Right-click to remove the storage component from its housing.
 
 ## Storage Capacity with Varying Type Count
 
@@ -145,10 +145,9 @@ The [upfront cost of types](../ae2-mechanics/bytes-and-types.md) is such that a 
 
 ## Partitioning
 
-Cells can be filtered to only accept certain items, similar to how <ItemLink id="appliedenergistics2:item.ItemMultiPart:220" />ses can be filtered. This is
-done in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" />.
+Cells can be filtered to accept only certain items, similar to the filtering on an <ItemLink id="appliedenergistics2:item.ItemMultiPart:220" />. This is done in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" />.
 
-Cells also support Cell Restrictior, allowing both the maximum byte capacity and type count to be limited below their normal values.
+Cells also support cell restrictions, allowing both the maximum byte capacity and the type count to be limited below their normal values.
 
 These settings are configured in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" />.
 
@@ -267,7 +266,9 @@ Standard Item Storage Cells can hold up to 63 distinct types of items, and are a
 
 ## Portable Item Storage
 
-These act as a tiny <ItemLink id="appliedenergistics2:tile.BlockChest" />in your pocket, or like a form of backpack.They can be charged in a <ItemLink id="appliedenergistics2:tile.BlockCharger" />
+Portable cells act like a tiny <ItemLink id="appliedenergistics2:tile.BlockChest" /> you can carry with you, similar to a backpack.
+
+They can be charged in a <ItemLink id="appliedenergistics2:tile.BlockCharger" />.
 
 Unlike standard Storage Cells, they can store only 27 item types and have a total capacity of 512 bytes.
 
@@ -288,8 +289,6 @@ Each tier increases capacity by a factor of four and requires four components of
 
 # Fluid Storage Cells
 
-Fluid storage cells can hold up to 5 distinct types of fluids, and are available in all the standard capacities.
-
 Standard Fluid Storage Cells are divided into two categories:
 
 Fluid Storage Cells can store only one fluid type.
@@ -308,7 +307,7 @@ Both are available in all standard capacity tiers.
 <br><Recipe id="ae2fc:fluid_storage.quantum" />
 *   <ItemLink id="ae2fc:fluid_storage.singularity" /> can store only a single fluid type and provides 2,251,799,813,685,247 bytes of storage capacity
 <br><Recipe id="ae2fc:fluid_storage.singularity" />
-*   <ItemLink id="ae2fc:fluid_storage.Universe" /> can store multiple fluid types and provides 4,503,599,627,370,495 bytes of storage capacity
+*   <ItemLink id="ae2fc:fluid_storage.Universe" /> can store up to 63 fluid types and provides 4,503,599,627,370,495 bytes of storage capacity
 <br><Recipe id="ae2fc:fluid_storage.Universe" />
 
 ## Portable Fluid Storage Cell
@@ -319,6 +318,27 @@ They do not support any upgrade cards.
 
 <RecipesFor id="ae2fc:portable_fluid_cell" />
 
+# Essentia Storage Components
+
+Essentia Storage Components are the core of ME Essentia Storage Cells and determine their storage capacity.
+
+Each tier increases capacity by a factor of four and requires four components of the previous tier to craft. They can also be manufactured directly in a Circuit Assembler.
+
+# Essentia Storage Cells
+
+1k - 64k Essentia Storage Cells support 12 Essentia types.
+
+Starting at 256k, each tier increases the supported Essentia type count by 12.
+
+## Special Essentia Storage Cells
+
+*   <ItemLink id="thaumicenergistics:storage.essentia:9" /> can store only a single Essentia type and provides 134,217,727 bytes of storage capacity
+<br><Recipe id="thaumicenergistics:storage.essentia:9" />
+*   <ItemLink id="thaumicenergistics:storage.essentia:10" /> can store only a single Essentia type and provides 2,305,843,009,213,693,951 bytes of storage capacity
+<br><Recipe id="thaumicenergistics:storage.essentia:10" />
+*   <ItemLink id="thaumicenergistics:storage.essentia:4" /> can provide infinite amounts of every Essentia type, up to 4,503,599,627,370,495 units per type
+<br><Recipe id="thaumicenergistics:storage.essentia:4" />
+
 # Creative Storage Cells
 
 <Row>
@@ -327,7 +347,4 @@ They do not support any upgrade cards.
   <ItemImage id="ae2fc:creative_fluid_storage" scale="2" />
 </Row>
 
-Creative cells **do not provide infinite storage**. Instead, they act as infinite sources and sinks of whatever
-item or fluid you [partition](cell_workbench.md) them to.
-
-they act as infinite sources(up to 4,503,599,627,370,495 units) and sinks of whatever item or fluid you partition them to.
+Creative cells **do not provide infinite storage**. Instead, they act as infinite sources and sinks for whatever item or fluid you [partition](cell_workbench.md) them to, up to 4,503,599,627,370,495 units.

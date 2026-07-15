@@ -7,7 +7,7 @@ navigation:
 
 # Devices
 
-A "Device" refers to an AE2 network component that performs some function related to the network itself. They almost always require a channel, with some exceptions, such as [Level Emitters](../items-blocks/level_emitter.md) or [Molecular Assemblers](../items-blocks/molecular-assembler.md).
+A "Device" refers to an AE2 network component that performs some function related to the network itself. They almost always require a channel, with some exceptions, such as [Level Emitters](../items-blocks/level_emitter.md) or [Molecular Assemblers](../items-blocks/molecular_assembler.md).
 
 Some examples include:
 

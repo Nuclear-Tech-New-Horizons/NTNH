@@ -24,7 +24,7 @@ navigation:
     </DiamondAnnotation>
 
     <DiamondAnnotation pos="1.5 2.5 6.5" color="#00ff00">
-            Transports the barrel's contents into a item void cell.
+            Transports the barrel's contents into an item void cell.
     </DiamondAnnotation>
 
     <DiamondAnnotation pos="1.5 2.5 5.5" color="#00ff00">
@@ -40,16 +40,16 @@ navigation:
     </DiamondAnnotation>
 </GameScene>
 
-"Subnetwork" is a rather loosely-defined term, but one might say that a subnetwork is any [network](../ae2-mechanics/me-network-connections.md) that supports your
+"Subnetwork" is a rather loosely-defined term, but one might say that a subnetwork is any [network](./me-network-connections.md) that supports your
 main network or does some small task. Early on, they are typically small enough to not require controllers, however that changes very quickly with the introduction of multiblocks into your AE2 system.
 
 Their main 3 uses tend to be:
 
-* To restrict what [devices](../ae2-mechanics/devices.md) have access to what storage (for example, you don't want your ore processing subnet to dump its products into your main network, but you still want to see them from main).
+* To restrict what [devices](./devices.md) have access to what storage (for example, you don't want your ore processing subnet to dump its products into your main network, but you still want to see them from the main network).
 * To save channels on your main network, like having an interface with patterns output to an interface connected to several storage buses on several machines, using 1 channel (from main network) instead of putting an interface on several machines, using several channels. 
 * To save on dense cables and space, packaging up to 32 main network channels into a single channel on a [P2P](./p2p_tunnels.md) carrier sub-network for efficient channel transport over long distances.
 
-Very important in making a subnet is keeping track of the [network connections](../ae2-mechanics/me-network-connections.md).
+Very important in making a subnet is keeping track of the [network connections](./me-network-connections.md).
 Often, people put together some jumble of interfaces and busses and stuff and expect it to be a subnet when
 all the devices are still connected to the main network through various fullblock devices.
 
@@ -68,7 +68,7 @@ Some examples include:
 * An import bus and storage bus set up to transfer items or fluids from one container to another like an item or fluid pipe.
 * An annihilation plane and storage bus, so that the only place the annihilation plane can put what it breaks is the storage bus, allowing you to filter the plane.
 * An interface and formation plane, so that whatever is inserted into the interface gets pushed to the formation plane and placed/dropped in the world.
-* A specialized storage system accessible from the main network via the special storage-bus-on-interface interaction, in order to store the output of a farm without endlessly overflowing your main storage.
+* A specialized storage system accessible from the main network via the special Storage Bus on Interface interaction, in order to store the output of a farm without endlessly overflowing your main storage.
 * And so on
 
 Very useful for making subnetworks is the <ItemLink id="appliedenergistics2:item.ItemMultiPart:140" showIcon="left" />. It transfers power between networks without

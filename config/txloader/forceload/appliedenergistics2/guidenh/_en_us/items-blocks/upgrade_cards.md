@@ -76,7 +76,7 @@ filter capacity, enabling redstone control, etc.
   <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:28" scale="2" />
 </Row>
 
-Cards are crafted with either basic or advanced card bases
+Upgrade cards are crafted using either a Basic Card or an Advanced Card as the base.
 
 <Row>
   <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:25" />
@@ -88,7 +88,7 @@ Cards are crafted with either basic or advanced card bases
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:26" scale="2" />
 
-Redstone cards add redstone control, adding a toggle button in the device's GUI to swap between various redstone conditions.
+Redstone Cards add redstone control to a device, including a toggle in its GUI for switching between redstone modes.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:26" />
 
@@ -96,7 +96,7 @@ Redstone cards add redstone control, adding a toggle button in the device's GUI 
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:27" scale="2" />
 
-Capacity cards increase the amount of filter slots in import, export, and storage busses, and formation planes.
+Capacity Cards increase the number of filter slots in Import Buses, Export Buses, Storage Buses, and Formation Planes.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:27" />
 
@@ -104,9 +104,9 @@ Capacity cards increase the amount of filter slots in import, export, and storag
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:68" scale="2" />
 
-Overflow Void Card can be applied to [storage cells](storage_cells.md) in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" />
-and will delete incoming items if the cell is full. (make sure to [partition](cell_workbench.md) your cells!) Combined with an equal distribution card,
-items will be voided if that specific item's section of the cell is full, even if other items' sections are empty.
+Overflow Void Cards can be applied to [Storage Cells](storage_cells.md) in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" />.
+They delete incoming items when the cell is full. Make sure to [partition](cell_workbench.md) your cells first.
+When combined with an Equal Distribution Card, an item is voided as soon as its own partition is full, even if other partitions still have room.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:68" />
 
@@ -114,11 +114,10 @@ items will be voided if that specific item's section of the cell is full, even i
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:29" scale="2" />
 
-Fuzzy cards let devices and tools with filters filter by damage level and/or ignore item NBT, allowing you to export
-all iron axes no matter the damage level and enchantments, or only export damaged diamond swords, not fully repaired ones.
+Fuzzy Cards let filtered devices and tools match by durability and/or ignore item NBT. That allows you to export
+all iron axes regardless of durability or enchantments, or export only damaged diamond swords instead of fully repaired ones.
 
-Below is an example of how Fuzzy Damage comparison mods work, left side is the
-bus config, top is the compared item.
+Below is an example of how fuzzy durability comparison modes work. The left side shows the bus configuration, and the top row shows the compared item.
 
 | 25%                    | 10% Damaged Pickaxe | 30% Damaged Pickaxe | 80% Damaged Pickaxe | Full Repair Pickaxe |
 | :--------------------: | :-----------------: | :-----------------: | :-----------------: | :-----------------: |
@@ -159,8 +158,8 @@ bus config, top is the compared item.
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:30" scale="2" />
 
-Acceleration cards make stuff go faster, making import and export busses move more items per operation, and making inscribers.
-and assemblers work faster.
+Acceleration Cards speed things up. They let Import and Export Buses move more items per operation, and make Inscribers
+and Molecular Assemblers work faster.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:30" />
 
@@ -168,7 +167,8 @@ and assemblers work faster.
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:56" scale="2" />
 
-Hyper-Acceleration cards are a faster version of the basic acceleration cards. but is only available on the ME-IO port, ME Input/Export Bus, ME fluid Input/Export Bus.
+Hyper-Acceleration Cards are a faster version of normal Acceleration Cards, but they can only be used in the ME-IO Port,
+ME Import/Export Buses, and ME Fluid Import/Export Buses.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:56" />
 
@@ -176,7 +176,8 @@ Hyper-Acceleration cards are a faster version of the basic acceleration cards. b
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:67" scale="2" />
 
-The Superluminal Acceleration card is the fastest AE card that you can use to transfer items or fluids. but is only available on the ME-IO port, ME Input/Export Bus.
+The Superluminal Acceleration Card is the fastest AE card for moving items or fluids, but it can only be used in the
+ME-IO Port and ME Import/Export Buses.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:67" />
 
@@ -184,7 +185,7 @@ The Superluminal Acceleration card is the fastest AE card that you can use to tr
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:31" scale="2" />
 
-Inverter cards swap filters in devices and tools from whitelist to blacklist.
+Inverter Cards switch a device or tool filter from whitelist mode to blacklist mode.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:31" />
 
@@ -192,8 +193,8 @@ Inverter cards swap filters in devices and tools from whitelist to blacklist.
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:53" scale="2" />
 
-Crafting cards let the device send crafting requests to your [autocrafting](../ae2-mechanics/autocrafting.md)
-system to get the items it desires.
+Crafting Cards let the device send requests to your [autocrafting](../ae2-mechanics/autocrafting.md)
+system for the items it needs.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:53" />
 
@@ -201,9 +202,8 @@ system to get the items it desires.
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:69" scale="2" />
 
-Equal distribution cards can be applied to [storage cells](storage_cells.md) in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" /> and
-split the cell into equally-sized sections based on what the card is [partitioned](cell_workbench.md) to. This prevents one item type from completely
-filling the cell.
+Equal Distribution Cards can be applied to [Storage Cells](storage_cells.md) in a <ItemLink id="appliedenergistics2:tile.BlockCellWorkbench" />.
+They divide the cell into equal partitions based on how the card is [partitioned](cell_workbench.md), which prevents a single item type from filling the whole cell.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:69" />
 
@@ -219,7 +219,7 @@ Each Pattern Capacity Card provides an additional 9 pattern slots to the interfa
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:55" scale="2" />
 
-Allows filtering using Ore Dictionary and supports regular expression matching.
+Allows filtering by Ore Dictionary entry and supports regular expression matching.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:55" />
 
@@ -227,7 +227,7 @@ Allows filtering using Ore Dictionary and supports regular expression matching.
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:64" scale="2" />
 
-Any items and fluids partitioned on this cell may only be stored in cells or storage buses with Sticky Cards, and will not be stored elsewhere in the network.
+Any items, fluids, or essentia partitioned onto this cell may only be stored in cells or Storage Buses that also have Sticky Cards, and nowhere else in the network.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:64" />
 
@@ -235,7 +235,7 @@ Any items and fluids partitioned on this cell may only be stored in cells or sto
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:63" scale="2" />
 
-Advanced Blocking Card extends blocking to the entire connected ME network instead of only adjacent inventories. When enabled, the interface will prevent importing recipe ingredients if the target network contains relevant items or fluids.
+Advanced Blocking Cards extend blocking to the entire connected ME network instead of only adjacent inventories. When enabled, the interface prevents recipe ingredients from being inserted if the target network already contains the relevant items or fluids.
 
 In Default mode, blocking is triggered only when recipe-relevant items or fluids are present in the network (excluding catalysts such as lenses, circuits, or molds).
 
@@ -247,7 +247,7 @@ In Loose mode, blocking is triggered by the presence of any item or fluid in the
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:65" scale="2" />
 
-Has 4 modes:
+This card has 4 modes:
 
 *   Mode 1: Never locks crafting
 *   Mode 2: Locks crafting until a redstone pulse is received
@@ -260,6 +260,6 @@ Has 4 modes:
 
 <ItemImage id="appliedenergistics2:item.ItemMultiMaterial:66" scale="2" />
 
-If an interface is equipped with this card, it will immediately complete the **crafting job** after submitting it, without waiting for the result. This effect only applies if the submitted job's final output is the intended product.
+If an Interface is equipped with this card, it immediately completes the **crafting job** after submitting it, without waiting for the result to return. This only works if the submitted job's final output is the intended product.
 
 <RecipeFor id="appliedenergistics2:item.ItemMultiMaterial:66" />
