@@ -165,6 +165,8 @@
   - Duna sand can be sieved now
 - Collapsed all the forge microblocks
   - They were so annoying weren't they?
+- Removed "Three Hundred Caps" questline
+  - I can just modify Bobmazon's code bruh
 
 
 
