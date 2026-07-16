@@ -2,72 +2,72 @@
 
 
 ## Quest Line: LV1 - Early Game
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=LV1 - Early Game
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=This is the beginning of HBM's Nuclear Tech mod. In this chapter you will learn about the basic mechanics of the mod, aswell as tips and tricks to help you progress.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.name=LV1 - Começo do jogo
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAA.desc=Este é o começo do mod HBM's Nuclear Tech. Neste capítulo você aprenderá sobre mecânicas básicas do mod, além de dicas para ajudá-lo a progredir.
 
 # Quest: Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Storage Drawers
-betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=Storage Drawers§r are an easy and cheap way of storing large amounts of items. They can be further upgraded to increase storage capacity as well as other abilities, such as voiding. They can also be §dChiseled§r to change their wood type.%n%n§2Many drawers may cause lag.
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.name=Gavetas de armazenamento
+betterquesting.quest.-7rSSbm6Q-qSPUPH2dapXA.desc=O mod Gavetas de armazenamento é uma forma fácil de barata de guardar uma grande quantidade de itens. Eles podem ser melhorados para aumentar a sua capacidade e adquirir novas funcionalidades, como exclusão de itens, Eles também podem ser §dChiseled§r para mudar seu tipo de madeira. Eles podem causar lag em grandes quantidades.
 
 # Quest: You WILL eat ze bugs!
-betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=You WILL eat ze bugs!
-betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Congratulations. You have done it. You have actually done it.%n%nWhile the rest of the world clung desperately to their beef and their bread, you - yes, YOU - reached into your inventory, pulled out a §6Silkworm§r, and thought: "yes. This is food now." Klaus is proud. Klaus is, in fact, emotional. Somewhere in a Swiss%nchalet, a single tear rolls down his turtleneck. You will own nothing. You will have no hunger bar. Und you will be happy.
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.name=Você VAI comer ozinsetos!
+betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Parabéns. Você conseguiu, você realmente conseguiu. %n%n Enquanto o resto do mundo não largava por nada o pão e a carne, você - sim, VOCÊ - abriu seu inventário, pegou um §6Bicho-da-seda§r, e pensou: "sim. Isso é comida agora." Klaus está orgulhoso. Klaus está, certamente, emocionado. Em algum lugar em uma chalé%nsuiça, uma única lágrima escorre pelo seu colarinho. Você não vai ter nada. Você não vai ter barra de fome. Und você vai ser feliz.
 
 # Quest: Stirling Engine
-betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Stirling Engine
-betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=The §3Stirling Engine§r uses heat from a §3Heating Oven§r or a §3§r§3Firebox§r to produce power. If a Heating Oven is used to heat a Stirling engine, it will likely over-speed and damage it, sending the main gear flying. The heavy Stirling engine does not have this issue.%n%nA firebox running on coal with a stirling engine produces §e2kHE/s§r, while a heating oven with a heavy stirling engine produces §e10kHE/s§r.
+betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Motor Stirling
+betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=O §3Motor Stirling§r usa calor de um §3Fogão§r ou um §3§r§3Caixa de fogo§r para produzir energia. Se uma Fogão é usado para aquecer um motor Stirling, ele provavelmente vai ir rápido demais e danificá-lo, fazendo com que a engrenagem principal saia voando. O motor stirling pesado não tem esse problema. %n%numa caixa de fogo movida a carvão com um motor stirling produz §e2kHE/s§r, enquanto um fogão com um motor stirling pesado produz §e10kHE/s§r.
 
 # Quest: Steam Engine
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Steam Engine
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Motor a vapor
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=O §3Motor a Vapor§r é um método inicial para transformar §bVapor§r em energia. Ele requer uma fonte externa para fornecer vapor e uma maneira de descartar ou reprocessar o §bVapor de Baixa Pressão§r que ele produz. %n%nO Motor a Vapor possui uma eficiência energética de §e85%%§r, tornando-o melhor que o §3Motor Stirling§r. No entanto, ele ainda possui um limite de vazão, pois consegue armazenar apenas até 2000 mB de vapor. Sua taxa máxima de processamento é de 2000 mB/t, produzindo consideráveis §e3400 HE/t§r ou §e68 kHE/s§r. É, portanto, o melhor gerador disponível antes das §3Turbinas a Vapor§r.%n%nUma caldeira sendo aquecida por um forno de aquecimento usando carvão produzirá §e17kHE/s§r.
 
 # Quest: Abandoned Structures
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Abandoned Structures
-betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Structures generate throughout the world and are among the best sources of early-game resources. Raiding them before investing heavily in production can save significant time and materials.%n%n§2Exploration pays off early - check your surroundings before grinding for resources you might find for free.§r
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Estruturas Abandonadas
+betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Estruturas são geradas por todo o mundo e estão entre as melhores fontes de recursos do início do jogo. Saqueá-las antes de investir pesadamente em produção pode economizar bastante tempo e materiais.%n%n§2A exploração compensa logo cedo - verifique seus arredores antes de farmar recursos que você pode encontrar de graça.§r
 
 # Quest: Flare Stack
-betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Flare Stack
-betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=The §3Flare Stack§r is a generator that produces energy by burning flammable liquids and gases. Any fluid tagged as Flammable can serve as fuel - supply it through pipes or directly via containers.%n%nOperation uses three steps. First, fill the internal buffer (capacity: §e64,000 mB§r) with fuel. Second, open the §6Flow Valve§r at the top of the middle section to release fuel from the buffer into the combustion system. Third, enable the §6Ignition§r switch at the bottom of the middle section to ignite the fuel and begin power generation.%n%nEfficiency is low: gases burn at §e50%%§r and liquids at only §e10%%§r. Output also varies by fuel type.%n%nTwo upgrades are available: the §6Speed Upgrade§r increases throughput, and the §6Effectiveness Upgrade§r improves fuel efficiency.
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Torre de Queima
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=A §3Torre de Queima§r é um gerador que produz energia queimando líquidos e gases inflamáveis. Qualquer fluido com a tag Inflamável pode servir como combustível - forneça-o através de tubos ou diretamente por meio de recipientes.%n%nA operação utiliza três etapas. Primeiro, encha o buffer interno (capacidade: §e64.000 mB§r) com combustível. Segundo, abra a §6Válvula de Fluxo§r na parte superior da seção do meio para liberar o combustível do buffer para o sistema de combustão. Terceiro, ative o interruptor de §6Ignição§r na parte inferior da seção do meio para inflamar o combustível e iniciar a geração de energia.%n%nA eficiência é baixa: gases queimam a §e50%%§r e líquidos a apenas §e10%%§r. A produção também varia conforme o tipo de combustível.%n%nDuas melhorias estão disponíveis: a §6Melhoria de Velocidade§r aumenta a vazão, e a §6Melhoria de Eficácia§r melhora a eficiência do combustível.
 
 # Quest: Batteries
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batteries
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Baterias
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=O §3Soquete de Bateria§r é usado para comportar §6Baterias§r ou §6Capacitores§r.%n%nAs baterias possuem maior armazenamento de energia, mas um tempo de descarga mais lento, o que significa que apenas uma pequena quantidade de energia armazenada pode ser fornecida para a rede.%n%nOs capacitores, por outro lado, possuem menos armazenamento de energia, mas um tempo de descarga mais rápido.
 
 # Quest: Stone Age
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Stone Age
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Welcome to the Stone Age. This stage covers the essential survival mechanics you will need to progress, as well as several changes made to vanilla Minecraft that affect how you play from the very beginning.%n%nWork through the quests in this chapter to get up to speed before moving on.%n%n§2Complete these quests before progressing - later stages assume you know this material.§r
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Idade da pedra
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Bem-vindo à Idade da Pedra. Esta fase abrange as mecânicas essenciais de sobrevivência de que você precisará para progredir, bem como várias mudanças feitas no Minecraft vanilla que afetam a forma como você joga desde o início.%n%nComplete as missões deste capítulo para ficar por dentro de tudo antes de seguir em frente.%n%n§2Conclua estas missões antes de progredir - as próximas fases presumem que você já domina este conteúdo.§r
 
 # Quest: Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r§2.%n§2Check NEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Na mosca!
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=O §6Martelo§r é uma ferramenta do §dEx Nihilo§r usada para triturar blocos em formas mais finas. Seu principal papel é produzir os materiais necessários para a §3Peneira§r: pedregulho é triturado em cascalho, cascalho em areia, e areia em pó, cada um deles podendo ser peneirado em busca de diferentes recursos.%n%nPara usá-lo, basta quebrar um bloco alvo com o §6Martelo§r como você faria com uma picareta. Os martelos vêm nos tiers padrão de ferramentas -%nmadeira a diamante - e diferem apenas na durabilidade. Eles podem ser encantados, embora os encantamentos disponíveis sejam diferentes daqueles de uma picareta.%n%nOs minérios também podem ser triturados com o martelo através de uma cadeia de processamento em várias etapas. Cada etapa tem uma pequena chance de render material%nbônus, fazendo do §6Martelo§r uma forma básica de multiplicação de minérios antes que máquinas de processamento dedicadas estejam disponíveis.%n%n§2O uso do martelo pode ser automatizado com máquinas que simulam a quebra de blocos, como o Martelo Automático do §dEx Compressum§r§2.%n§2Verifique o NEI para ver a cadeia de trituração completa de qualquer bloco.
 
 # Quest: Cable Network Analysis Tool
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Cable Network Analysis Tool
-betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=The §6Cable Network Analysis Tool§r is used to check the integrity of power grids and analyze their main functional components. To perform a test, right-click the analyzer on wires or mechanisms in the power grid. The device displays the following data:%n%n§eLinks§r - these include wires and mechanisms that can conduct energy (e.g., energy storage units, utility poles).%n%n§cProviders§r - all mechanisms capable of producing energy and/or feeding it into the grid (energy storage units in "§agreen§r" and "§6orange§r" modes, turbines, etc.).%n%n§9Receivers§r - everything that absorbs energy from the grid (energy storage units in "§9blue§r" mode, grinders, and other mechanisms).%n%n§2The analyzer not only displays the above components but also counts them. Each grid is assigned a unique code.%n%nParticles only spawn in a 20 block radius!
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Ferramenta de Análise de Rede de Cabos
+betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.desc=A §6Ferramenta de Análise de Rede de Cabos§r é usada para verificar a integridade das redes de energia e analisar seus principais componentes funcionais. Para realizar um teste, clique com o botão direito com o analisador em fios ou mecanismos na rede de energia. O dispositivo exibe os seguintes dados:%n%n§eConexões§r - incluem fios e mecanismos que podem conduzir energia (ex: unidades de armazenamento de energia, postes de energia).%n%n§cFornecedores§r - todos os mecanismos capazes de produzir energia e/ou alimentá-la na rede (unidades de armazenamento de energia nos modos "§averde§r" e "§6laranja§r", turbinas, etc.).%n%n§9Receptores§r - tudo que absorve energia da rede (unidades de armazenamento de energia no modo "§9azul§r", trituradores e outros mecanismos).%n%n§2O analisador não apenas exibe os componentes acima, mas também os conta. Cada rede recebe um código único.%n%nAs partículas surgem apenas em um raio de 20 blocos!
 
 # Quest: Pipe Anchors
-betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=Pipe Anchors
-betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Pipe Anchors§r are non solid fluid ducts which can be used instead of normal ducts.
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.name=Suportes de ancoragem
+betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Suportes de ancoragem§r são dutos de tubulação para não sólidos quem podem ser usados invés de tubos normais.
 
 # Quest: Automatic Buzz Saw
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Automatic Buzz Saw
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing behaviour of pushing force.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Serra Circular Automática
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=Com a §6§3Serra Circular Automática§r, é possível colher árvores automaticamente para obter sua §6Madeira§r, bem como outras plantações, como §6Cânhamo§r e §6Trigo§r.%n%nOs §3Ventiladores§r, quando alimentados por redstone, podem ser usados para empurrar os itens dropados para funis ou esteiras para armazenamento. Use uma §6Furadeira§r neles para remover o decaimento da força de empurrão.
 
 # Quest: Industrial Mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Industrial Mixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Misturador Industrial
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=O §3Misturador Industrial§r é uma máquina usada para misturar um fluido com um item e/ou com outro fluido. Ele pode ser usado no lugar de uma §3Planta Química§r para algumas receitas.
 
 # Quest: Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r are a tiered crafting station that allows for the creation of various machines, structures, and items in some cases. There are multiple tiers of anvils with greater anvil tier primarily corresponding to a greater quantity of recipes being available.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Bigorna
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=As §3Bigornas§r são uma estação de criação dividida em tiers que permite a fabricação de várias máquinas, estruturas e itens em alguns casos. Existem múltiplos tiers de bigornas, com um tier de bigorna maior correspondendo principalmente a uma quantidade maior de receitas disponíveis.
 
 # Quest: Burner Press
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Burner Press
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r on the §6Iron Anvil§r.%n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=As §3Prensas§r são máquinas que podem ser usadas para fazer §6Placas§r, §6Fios§r, §6Circuitos§r, §6Cápsulas de Bala§r, bem como para §6Comprimir§r pós não fundíveis de volta à sua forma normal. Elas requerem §6Moldes§r para funcionar, que podem ser feitos a partir do §6Molde Plano§r básico na §6Bigorna de Ferro§r.%n%n§2Um pré-aquecedor pode ser colocado ao lado da Prensa a Combustão para aumentar sua velocidade.
 
 # Quest: Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Save the Flue Gas byproduct - you can burn it in a Flare Stack later to recover some power.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Alto-forno
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=O §3Alto-forno§r é a base da criação de ligas metálicas no início do jogo, capaz de fundir dois insumos compatíveis em materiais como §6Aço§r, §6Metal Estelar§r e §6Cobre Vermelho§r. Crie-o em uma §3Bigorna de Tier 1§r usando tijolos de pedra, tijolos refratários e placas de cobre.%n%nColoque dois materiais compatíveis nos slots superior e inferior - a ordem não importa. A fornalha aceita insumos tanto em formato de lingote quanto de pó. Alimente-a com carvão, coque ou outros combustíveis sólidos; o coque e o combustível sólido enchem a barra de combustível de forma mais eficiente do que o carvão comum. Cada operação também produz §6Escória§r e §bGás de Combustão§r como subprodutos.%n%nPara um processamento mais rápido, injete §bAr Quente§r na fornalha via tubos a §e200 mB/t§r para acelerá-la em até §e500%%§r da sua velocidade base.%n%n§2Dica: Guarde o subproduto Gás de Combustão - você pode queimá-lo em uma Torre de Queima mais tarde para recuperar um pouco de energia.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
@@ -98,8 +98,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Assembly Machine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=The §3Assembly Machine§r is used in every stage of the game, with it being used to manufacture practically every other complex machine. Recipes for it can be chosen inside the GUI.%n%n§2Some unique recipes require blueprints, that can be found in dungeons and/or bought from Bobmazon.
 
 # Quest: Shredder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Shredder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=The §3Shredder§r is a machine that shreds resourses into their powder form, or in many cases, their crafting materials. It can also be used to double ores.%n%n§2Shredder blades are required in order for the machine to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Triturador
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=O §3Triturador§r é uma máquina que tritura recursos em pó ou, em muitos casos, em seus materiais de criação. Ele também pode ser usado para duplicar minérios.%n%n§2Lâminas do triturador são necessárias para que a máquina funcione.
 
 # Quest: Soldering Station
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Soldering Station
@@ -163,7 +163,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=The §3Mining Charge§r is an e
 
 # Quest: Steel Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=Steel Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=An upgraded version of the §3Anvil§r, [T2], which unlocks additional recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=Uma versão atualizada da §3Bigorna§r, [T2], que desbloqueia receitas adicionais.
 
 # Quest: Pollution and Smokestack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Pollution and Smokestack
@@ -349,12 +349,8 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an in
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
 
-# Quest: Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
-
-# Quest: From Flint to Oil
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil
+# Quest: From Flint to Oil - USA Simulator
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil - USA Simulator
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=The §6Oil Reservoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Long Distance Energy Transportation
@@ -1686,6 +1682,10 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used t
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the space stage of the game; now the entire space knows and fears you (you are a true space pirate). Here are a couple more nuances about the §3Dyson swarm§r:%n%n§2Do not place §3converters§r directly next to the §3receiver§r - this will cause a malfunction.§r%n%n§2Multiple players in the same game world can create multiple §3swarms§r, but keep in mind that different swarms reduce each other's §eefficiency§r. This can encourage players to either work together on one common §3swarm§r or compete to extract more §eenergy§r from their own §3swarm§r.§r
+
+# Quest: Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
 
 
 ### Quests in no quest lines ###

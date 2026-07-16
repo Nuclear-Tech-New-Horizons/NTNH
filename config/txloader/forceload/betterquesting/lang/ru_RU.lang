@@ -26,7 +26,7 @@ betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные стру
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Структуры генерируются по всему миру и являются одними из лучших источников ресурсов на ранней стадии игры. Их зачистка перед серьезными вложениями в производство может сэкономить значительное количество времени и материалов.%n%n§2Исследование окупается на ранних этапах - осмотрите окрестности, прежде чем гриндить ресурсы, которые можно найти в структурах.§r
 
 # Quest: Flare Stack
-betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Flare Stack
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Газовый Факел
 betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=The §3Flare Stack§r is a generator that produces energy by burning flammable liquids and gases. Any fluid tagged as Flammable can serve as fuel - supply it through pipes or directly via containers.%n%nOperation uses three steps. First, fill the internal buffer (capacity: §e64,000 mB§r) with fuel. Second, open the §6Flow Valve§r at the top of the middle section to release fuel from the buffer into the combustion system. Third, enable the §6Ignition§r switch at the bottom of the middle section to ignite the fuel and begin power generation.%n%nEfficiency is low: gases burn at §e50%%§r and liquids at only §e10%%§r. Output also varies by fuel type.%n%nTwo upgrades are available: the §6Speed Upgrade§r increases throughput, and the §6Effectiveness Upgrade§r improves fuel efficiency.
 
 # Quest: Batteries
@@ -239,7 +239,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкост�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а &q&zФИЧА§r!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
@@ -349,12 +349,8 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Пневмотрубы§r - 
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Графит
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Графит§r - это кристаллическая аллотропная форма углерода, состоящая из наложенных слоёв графена. Графит является наиболее стабильной формой углерода и полезен во многих случаях. Его способность замедлять нейтроны делает его незаменимым для §3ядерных реакторов§r, которые полагаются на тепловые нейтроны для поддержания критичности. Его способность выдерживать высокие температуры и электропроводность делают его полезным в качестве электродов в §3Дуговой печи§r и §3Дуговом сварщике§r.
 
-# Quest: Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=В то время как §6Квест книжка§r пытается дать как можно больше информации текстом, она не является полным руководством по содержанию сборки.%n%nВот для чего нужно §6Руководство§r! Поддерживаемое сообществом, постоянно расширяющееся и &q&zну ооооочень красивое§!
-
-# Quest: From Flint to Oil
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремня до нефти
+# Quest: From Flint to Oil - USA Simulator
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От Кремния к Нефти - симулятор США
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=§6Детектор нефтяного резервуара§r поможет найти §eзалежь нефти§r, указав на неё во всплывающем уведомлении. Если месторождение находится очень далеко, нефть можно добыть и перевезти на стационарный нефтеперерабатывающий завод.
 
 # Quest: Long Distance Energy Transportation
@@ -1686,6 +1682,10 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=§6Отвёртка§r испо
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=Край космоса...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Что ж, ты завершил космическую стадию игры; теперь весь космос знает и боится тебя (ты настоящий космический пират). Вот ещё несколько нюансов о §3Рое Дайсона§r:%n%n§2Не ставьте §3конвертеры§r вплотную к §3ресиверу§r - это вызовет ошибку в работе.§r%n%n§2Множестао игроков в одном мире могут создавать несколько §3роев§r, однако посните что разные рои уменьшают §eэффективность§r друг друга. Это модет заставить игроков либо работать вместе над одним оьщим §3роем§r, либо соревноваться, чтобы извлекать больше §eэнергии§r из их собственного §3роя§r.§r
+
+# Quest: Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=В то время как §6Квест книжка§r пытается дать как можно больше информации текстом, она не является полным руководством по содержанию сборки.%n%nВот для чего нужно §6Руководство§r! Поддерживаемое сообществом, постоянно расширяющееся и &q&zну ооооочень красивое§!
 
 
 ### Quests in no quest lines ###
