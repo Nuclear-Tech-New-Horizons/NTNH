@@ -160,6 +160,11 @@
 - Removed camera tilt and UI pop-up animation
   - It was giving people motion sickness
   - You can enable it back in An Extra Touch config
+- Made Martian mode *actually* playable by fixing Ex Nihilo
+  - Duna Cobble can be broken down to gravel now
+  - Duna sand can be sieved now
+- Collapsed all the forge microblocks
+  - They were so annoying weren't they?
 
 
 

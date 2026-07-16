@@ -1,5 +1,4 @@
-// --- Dirt ---
-// Remove ex nihilo seeds; keep stones and vanilla seeds
+// Dirt
 mods.exnihilo.Sieve.removeRecipe(<minecraft:dirt>, <exnihilo:seed_grass>);
 mods.exnihilo.Sieve.removeRecipe(<minecraft:dirt>, <exnihilo:seed_sugar_cane>);
 mods.exnihilo.Sieve.removeRecipe(<minecraft:dirt>, <exnihilo:seed_carrot>);
@@ -14,7 +13,7 @@ mods.exnihilo.Sieve.addRecipe(<minecraft:dirt>, <AgriCraft:seedCarrot>, 64);
 mods.exnihilo.Sieve.addRecipe(<minecraft:dirt>, <AgriCraft:seedSugarcane>, 32);
 mods.exnihilo.Sieve.addRecipe(<minecraft:dirt>, <AgriCraft:seedCactus>, 32);
 
-// --- Sand ---
+// Sand
 mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:seed_cactus>);
 mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.iron_crushed>);
 mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <exnihilo:exnihilo.gold_crushed>);
@@ -29,8 +28,13 @@ mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:2
 mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:8200>, 18);
 mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <hbm:item.bedrock_ore_fragment:1300>, 24);
 
-// --- Gravel ---
-// Remove broken ores; keep flint, coal, lapis, diamond, emerald
+mods.exnihilo.Sieve.addRecipe(<hbm:tile.duna_sands>, <hbm:item.bedrock_ore_fragment:2600>, 8);
+mods.exnihilo.Sieve.addRecipe(<hbm:tile.duna_sands>, <hbm:item.bedrock_ore_fragment:7900>, 12);
+mods.exnihilo.Sieve.addRecipe(<hbm:tile.duna_sands>, <hbm:item.bedrock_ore_fragment:2900>, 16);
+mods.exnihilo.Sieve.addRecipe(<hbm:tile.duna_sands>, <hbm:item.bedrock_ore_fragment:8200>, 18);
+mods.exnihilo.Sieve.addRecipe(<hbm:tile.duna_sands>, <hbm:item.bedrock_ore_fragment:1300>, 24);
+
+// Gravel
 mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.iron_broken>);
 mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.gold_broken>);
 mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <exnihilo:exnihilo.copper_broken>);
@@ -43,8 +47,7 @@ mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:2900>, 16);
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <hbm:item.bedrock_ore_fragment:1300>, 24);
 
-// --- Dust ---
-// Remove blaze powder & ex nihilo powders; keep dye, redstone, gunpowder, glowstone, AE2
+// Dust
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <minecraft:blaze_powder>);
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.iron_powdered>);
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:dust>, <exnihilo:exnihilo.gold_powdered>);
@@ -59,7 +62,7 @@ mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:29
 mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:8200>, 18);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <hbm:item.bedrock_ore_fragment:1300>, 24);
 
-// --- Nether Gravel ---
+// Nether Gravel
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_iron_broken>);
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_gold_broken>);
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_nether>, <exnihilo:exnihilo.nether_copper_broken>);
@@ -69,7 +72,7 @@ mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.bedro
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.powder_gold>, 12);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_nether>, <hbm:item.bedrock_ore_fragment:2900>, 16);
 
-// --- Ender Gravel ---
+// Ender Gravel
 mods.exnihilo.Sieve.removeRecipe(<exnihilo:exnihilo.gravel_ender>, <exnihilo:exnihilo.ender_lead_broken>);
 
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <HardcoreEnderExpansion:stardust>, 4);
@@ -77,3 +80,6 @@ mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <HardcoreEnderEx
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <hbm:tile.ore_tikite>, 80);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <hbm:item.powder_cobalt_tiny>, 24);
 mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <hbm:item.powder_niobium_tiny>, 24);
+
+// Hammer
+mods.exnihilo.Hammer.addRecipe(<hbm:tile.duna_cobble>, <minecraft:gravel>, 1.0, 0.0);
