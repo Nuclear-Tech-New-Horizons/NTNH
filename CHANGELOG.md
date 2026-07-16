@@ -167,6 +167,7 @@
   - They were so annoying weren't they?
 - Removed "Three Hundred Caps" questline
   - I can just modify Bobmazon's code bruh
+- There are x4 as much limestone underground
 
 
 
