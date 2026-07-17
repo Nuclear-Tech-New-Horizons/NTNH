@@ -31,7 +31,7 @@
 
 <h2 style="text-align:center">🌟 Our Amazing Contributors 🌟</h2>
 
-<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>2843 🏆</span></td>
+<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>2905 🏆</span></td>
 <td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>438 🏆</span></td>
 <td align="center"><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AniviaFlome</b></sub><br/><span>92 🏆</span></td>
 <td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>63 🏆</span></td>
@@ -61,7 +61,7 @@
           <br />
           <sub><b>Bufka2011</b></sub></a>
         <br />
-        <sub><b>447062 words</b></sub>
+        <sub><b>447361 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/BufkaSecond"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16895253/medium/0b29547a406506ea79d4bbd68608d6ed.png" />
@@ -230,6 +230,13 @@
     </tr>
     <tr>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/FOlkvangrField"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17559874/medium/8a8eba2951e60af080fab42d8d076c8a.png" />
+          <br />
+          <sub><b>FOlkvangrField</b></sub></a>
+        <br />
+        <sub><b>574 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Kosmek"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17792341/medium/d5b821b194698dd3b9b30da9c119a324.png" />
           <br />
           <sub><b>Kosmek</b></sub></a>
@@ -277,6 +284,8 @@
         <br />
         <sub><b>143 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/SYBAUpls"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17555804/medium/2991dd27ce2e1cdd034ca2d3c6d98d30.png" />
           <br />
@@ -286,8 +295,6 @@
         <br />
         <sub><b>52 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/TiBoio"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17231268/medium/45c25c8ad3b330434c8adc10eabc7931.jpeg" />
           <br />
@@ -326,13 +333,6 @@
           <sub><b>samuel buček</b></sub>
           <br />
           <sub><b>(samnothere25)</b></sub></a>
-        <br />
-        <sub><b>11 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/FOlkvangrField"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17559874/medium/8a8eba2951e60af080fab42d8d076c8a.png" />
-          <br />
-          <sub><b>FOlkvangrField</b></sub></a>
         <br />
         <sub><b>11 words</b></sub>
       </td>
