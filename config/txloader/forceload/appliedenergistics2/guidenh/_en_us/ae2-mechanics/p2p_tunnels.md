@@ -35,7 +35,7 @@ P2P tunnels are a way to move things like items, fluids, redstone signals, power
 only transports its specific type of thing. They essentially act like portals that directly connect
 two block faces at range. They are not bi-directional, there are defined inputs and outputs.
 
-![Portal](../assets/images/p2p_portal.png)
+![Portal](../../assets/images/p2p_portal.png)
 
 # <ItemLink id="appliedenergistics2:item.ItemMultiPart:460" showIcon="left"/>
 
@@ -60,7 +60,7 @@ In this example, the yellow controller-less small independent AE network transfe
   
 For another example, including use with [Quantum Rings](quantum-bridge.md), see the following network diagram:
 
-  ![P2P and quantum bridges](../assets/images/p2p_quantum_network.png)
+   ![P2P and quantum bridges](../assets/images/p2p_quantum_network.png)
 
 
 ## Types of P2P Tunnel and Attunement

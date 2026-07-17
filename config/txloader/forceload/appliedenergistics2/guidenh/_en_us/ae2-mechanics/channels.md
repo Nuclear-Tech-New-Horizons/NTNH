@@ -157,12 +157,12 @@ Unlike a normal controller-based network, Smart Cables in an ad-hoc network show
 
 In practice, every device in an ad-hoc network occupies one channel on every cable in the entire network. That is completely different from how an ME Controller allocates channels by shortest path. In other words, all used channels are spread evenly across the entire ad-hoc network, and there is no real notion of a routed channel path.
 
-<FloatingImage src="../assets/images/channels_normal_network.png"  wrap="top-bottom" align="left"  width="300" title="Normal Network" >
+<FloatingImage src="../../assets/images/channels_normal_network.png"  wrap="top-bottom" align="left"  width="300" title="Normal Network" >
   <ImageAnnotation>
   Normal Network
   </ImageAnnotation>
 </FloatingImage>
-<FloatingImage src="../assets/images/channels_ad-hoc_network.png"  wrap="top-bottom" align="left"  width="300" title="Ad-Hoc Network" >
+<FloatingImage src="../../assets/images/channels_ad-hoc_network.png"  wrap="top-bottom" align="left"  width="300" title="Ad-Hoc Network" >
   <ImageAnnotation>
   Ad-Hoc Network
   </ImageAnnotation>

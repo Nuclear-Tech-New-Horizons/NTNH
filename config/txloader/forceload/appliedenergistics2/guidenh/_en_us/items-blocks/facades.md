@@ -43,5 +43,3 @@ You can interact with the blocks behind hidden facades without removing the faca
 ## Recipe
 
 Place the block whose texture you want in the middle of 4 <ItemLink id="cable_anchor" />s.
-
-![Facade Recipe](../assets/diagrams/facade_recipe.png)
