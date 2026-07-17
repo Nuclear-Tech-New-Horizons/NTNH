@@ -1977,7 +1977,7 @@
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": "",
-            "id:8": "chisel:smashingrock"
+            "id:8": "minecraft:cobblestone"
           },
           "isMain:1": 1,
           "isSilent:1": 0,
@@ -16395,7 +16395,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "Flint Tools are required to obtain first wood and stone. To get some sticks, break some tree leaves.",
+          "desc:8": "§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -20642,7 +20642,7 @@
       "properties:10": {
         "betterquesting:10": {
           "autoClaim:1": 0,
-          "desc:8": "In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:\n1) Report it to us, the developers\n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)\n\n\nCurrent ore generation tables:\n\nOverworld (Earth/Kerbin): [url]https://docs.google.com/spreadsheets/d/1nwX0uxJUTovbEph-XRCitYieaNF-DDw4fnOUaMLChcw/edit?usp\u003dsharing[/url]\n\nOther Planets: [url]https://docs.google.com/spreadsheets/d/1bQqgfCJ6wX7YmLK9rDDukZX2rynQuJu2XyPYRFVeQmE/edit?usp\u003dsharing[/url]",
+          "desc:8": "In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:\n1) Report it to us, the developers\n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)\n\nOre generation spreadsheet\n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -33933,7 +33933,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -60,
-          "y:3": -288
+          "y:3": -276
         },
         "6:10": {
           "questIDHigh:4": -2171037489483201764,
@@ -33941,7 +33941,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 36,
-          "y:3": -216
+          "y:3": -204
         },
         "7:10": {
           "questIDHigh:4": -2005054634318282625,
@@ -33957,7 +33957,7 @@
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": -24,
-          "y:3": -312
+          "y:3": -300
         },
         "9:10": {
           "questIDHigh:4": -1480799430013988952,
@@ -33965,7 +33965,7 @@
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": -24,
-          "y:3": -216
+          "y:3": -204
         },
         "10:10": {
           "questIDHigh:4": -1558389905596596134,
@@ -34053,7 +34053,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 72,
-          "y:3": -192
+          "y:3": -180
         },
         "21:10": {
           "questIDHigh:4": 0,
@@ -34325,7 +34325,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -12,
-          "y:3": -156
+          "y:3": -144
         },
         "55:10": {
           "questIDHigh:4": 1597156130510686175,
@@ -34333,7 +34333,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 24,
-          "y:3": -156
+          "y:3": -144
         },
         "56:10": {
           "questIDHigh:4": 1615464386635711019,
@@ -34405,7 +34405,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 24,
-          "y:3": -348
+          "y:3": -336
         },
         "65:10": {
           "questIDHigh:4": 3561269112830971302,
@@ -34413,7 +34413,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -60,
-          "y:3": -312
+          "y:3": -300
         },
         "66:10": {
           "questIDHigh:4": 4202730796246256446,
@@ -34477,7 +34477,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 36,
-          "y:3": -192
+          "y:3": -180
         },
         "74:10": {
           "questIDHigh:4": 7393826177143426704,
@@ -34485,7 +34485,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -48,
-          "y:3": -156
+          "y:3": -144
         },
         "75:10": {
           "questIDHigh:4": -98395487086294723,
@@ -34533,7 +34533,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -12,
-          "y:3": -252
+          "y:3": -240
         },
         "81:10": {
           "questIDHigh:4": 8734571997805300442,
@@ -34541,7 +34541,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": 0,
-          "y:3": -348
+          "y:3": -336
         },
         "82:10": {
           "questIDHigh:4": 9098570208866746782,
@@ -34581,7 +34581,7 @@
           "sizeX:3": 48,
           "sizeY:3": 48,
           "x:3": 36,
-          "y:3": -312
+          "y:3": -300
         },
         "87:10": {
           "questIDHigh:4": -7938919840154957576,
@@ -34589,7 +34589,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -60,
-          "y:3": -192
+          "y:3": -180
         },
         "88:10": {
           "questIDHigh:4": -7623698422531862605,
@@ -34605,7 +34605,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -48,
-          "y:3": -348
+          "y:3": -336
         },
         "90:10": {
           "questIDHigh:4": -7018651477296855465,
@@ -34637,7 +34637,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -24,
-          "y:3": -348
+          "y:3": -336
         },
         "94:10": {
           "questIDHigh:4": -6005191642078558368,
@@ -34677,7 +34677,7 @@
           "sizeX:3": 24,
           "sizeY:3": 24,
           "x:3": -60,
-          "y:3": -216
+          "y:3": -204
         }
       }
     },
