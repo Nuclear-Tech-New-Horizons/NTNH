@@ -5,11 +5,11 @@
 #A linha abaixo, incluindo o "#" são 77 caracteres
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-Tem uma pergunta? Entre no servidor do Discord: discord.gg/wtNVzeE5QB
+Tem alguma pergunta? Entre no servidor do Discord: discord.gg/wtNVzeE5QB
 Você pode designar uma tecla para o menu de missões, invés de usar o livro
-Lembre-se de checar o que pode ser feito com o Mouse Tweaks
-Literalmente pederneira e aço!
-Mochila do aventureiro: tabela de criação integrada, cama e armazenamento para fluídos
+Lembre-se de conferir o que pode ser feito com o Mouse Tweaks
+Literalmente um isqueiro!
+Mochila do Aventureiro: bancada de trabalho integrada, cama e armazenamento de fluidos
 Tome cuidado com a poluição!
 Achou um bug? Reporte ele no Github ou Discord
 Você pode salvar itens no NEI ("a" por padrão)
@@ -23,19 +23,19 @@ As vezes é melhor fugir do que enfrentar alguns monstros
 Esteja preparado para levar horas na construção de uma máquina multiblock!
 Pressione F7 para ver lugares aonde os monstros podem spawnar!
 Pressione F9 para ver as bordas dos chunks!
-Microcrafting é vida, Microcrafting é amor
-Quantos circuitos você ja craftou na sua vida?
+Microcrafting é amor, Microcrafting é vida
+Quantos circuitos você já craftou na sua vida?
 MAPA GLOBAL XAERO: PRESSIONE[M]
 Você é a minha π-xão!
 (MultiMC > Curse) && (Technic > Curse): true
-All you had to do was tho follow the damn quest line, CJ!
-Click on an item in the quest book to show its recipe in NEI
-Why not visit Nuclear Tech? Nós temos... bombas de hidrogênio
+Tudo que você tinha que fazer era seguir a maldita linha de missões, CJ!
+Clique em um item no livro de missões para mostrar a receita dele no NEI
+Que tal visitar o Nuclear Tech? Nós temos... bombas de hidrogênio
 Se tá muito chato você ta fazendo errado
 Você também fica olhando o forno quando você cozinha?
 Sempre tem algo pra fazer enquanto você espera
 Use F3 + S para recarregar o aúdio se ele sumir
-Life's all about opening issues, not closing them - Rongmario
+A vida consiste em abrir issues, não em fechá-las. — Rongmario
 Visite r/feedthemems!
 EU QUERO FOGUETE EU QUERO LUA - St4o
 Oi @Bufka2011 porquê você copiou nossas (GTNH) regras :kekwhat:
@@ -45,78 +45,78 @@ Também experimente GregTech: New Horizons!
 3.6 Roentegen?
 Factory Must Grow!
 Você já usou Schematica?
-There is a swarm ahead!
+Tem um enxame adiante!
 Cuidado com os glyphids
 Bomba de Hidrogênio VS Bebê Tossindo
-Say hello to DreamMaster from Bufka2011!
-Que? O Warden é difícil? Pfft... Martian Invasion Ship
-This is not a bug, this is an anomaly!
-ZIRNOX going brrrrrr
-Oh no, ZIRNOX going BOOOOOM
-PotatOS is funny :D
-Did you checked graphics settings?
-How much RAM do you have? 6GB for NT:NH is perfect!
-Do not ragequit
-Historically accurate! Maybe...
-50% scientific accurate!
-How about to share this modpack with your friends?
-The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
-Do you have radiation protection with you?
-Be sure to check out if there is a new update!
-The best way to process ore is Acidizer + Centrifuge
-Crystallized ore gives you 2 ingots when smelting
-NTM's Electric Furnaces are must!
+O Bufka2011 manda um salve para o DreamMaster!
+Quê? Você acha o Warden difícil? Pfft... Nave de Invasão Marciana...
+Isso não é um bug, é uma anomalia!
+ZIRNOX tá pegando fogo bicho!
+Ah não, ZIRNOX vai EXPLODIR!
+PotatOS é divertido :D
+Você já mexeu nos gráficos?
+Quanto de RAM você tem? 6GB é perfeito pro NT:NH!
+Não dê ragequit
+Historicamente correto! Eu acho...
+50% cientificamente correto!
+Que tal divulgar esse modpack pros seus amigos?
+A desgraça do meteoro caiu DENTRO da nossa caverna!
+Ebaa! poluição! >:D
+Ah não, poluição. :(
+Você trouxe proteção contra radiação?
+Fique de olho pra ver se tem uma nova atualização!
+A melhor maneira de processar minério é Acidificador + Centrífuga
+Minério cristalizado rende 2 lingotes quando fundido
+As Fornalhas Elétricas do NTM são indispensáveis!
 Don't mine coal without breathing protection
-Number One Asbestos Fan
+Fã Número Um de Amianto
 She was 'Nuclear' on my 'Tech' until I 'New Horizons'
-Did you already automated food production?
-It's automated, not automized
-Don't forget to feed your cat!
-Minecraft loading can take a while
-World loading can take a while
-You can suggest your ideas on NTNH's GitHub repo!
-You can suggest your ideas on NTNH's Discord!
-You need help with NTM? Find SavageVegeta on YouTube!
-Do you know math? You'll need it
-2 idiots 1 reactor
-Night is REALLY scary!
-OMGWTF NUCLEAR CREEPER
-Pain-In-The-Ass modpack!
-Hello Mellow!
-Hello HBMTheBobcat!
-Hello DreamMaster!
-Hello JamesH2!
-Hello everyone!
-Explore structures like antennas for early resources  
-Build multiple furnaces to speed up alloy production  
-Sirens going UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro this RBMK is so hot... Nevermind
-Turrets are doing RATATATATATA
-Brother. The darkness is coming.
-Use HE to RF converters!
-Use RF to HE converters!
-Check the mod’s wiki for detailed information
-Experiment with machine upgrades to increase efficiency
-Account for pollution mechanics - they impact gameplay
-Control pollution to avoid problems with these cockroaches
-Use soot towers to reduce pollution
-Have fun and experiment - NTM offers endless possibilities
-Creepers are TERRIFYING in here
-Also try S.T.A.L.K.E.R. Anomaly GAMMA!
-Also try Factorio!
-Call your mom, make her happy
-NEI recipe lookup: hover + R
-Standard boilers may explode when running full.
-Fluids can be voided with a drainage pipe.
-Drainage pipe may not be too good for the environment.
-Foundry casts can be removed with a screwdriver.
-It's all about the game
-Craft flippers to swim faster.
-GregTech 6 is peak.
-Supersymmetry is peak.
-bob pls port to 1.20
+Você já automatizou a produção de comida?
+É automatizado, não "automizado"
+Não se esqueça de alimentar seu gato!
+O carregamento do Minecraft pode demorar um pouco
+O carregamento de Mundos pode demorar um pouco
+Você pode sugerir suas ideias no repositório do Github do NTNH
+Você pode sugerir suas ideias no Discord do NTNH
+Você precisa de ajuda com o NTM? Procure por SavageVegeta no YouTube!
+Você é bom em matemática? Porque vai precisar
+2 idiotas 1 reator
+A noite é REALMENTE assustadora!
+PUTA MERDA UM CREEPER NUCLEAR
+Modpack pé no saco!
+Oi Mellow!
+Oi HBMTheBobcat!
+Oi DreamMaster!
+Oi JamesH2!
+Oi pessoal!
+Explore estruturas como as antenas para recursos iniciais  
+Construa múltiplas fornalhas para acelerar a produção de lingotes  
+As sirenes fazem UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
+Mano esse RBMK é tão quente... Deixa pra lá
+As torretas fazem RATATATATATA
+Mano. A escuridão se aproxima.
+Use conversores de HE para RF!
+Use conversores de RF para HE!
+Dê uma olhada na wiki do mod para informações detalhadas
+Experimente com melhorias de máquina para aumentar a eficiência
+Fique de olho na mecânica de poluição — ela influencia o jogo
+Controle a poluição para evitar problemas com as baratas
+Use torres de fuligem para reduzir a poluição
+Divirta-se e experimente — o NTM oferece possibilidades infinitas
+Os Creepers daqui são ATERRORIZANTES
+Jogue também S.T.A.L.K.E.R. Anomaly GAMMA!
+Jogue também Factorio!
+Ligue pra sua mamãe, deixe ela feliz
+Para ver uma receita no NEI: passe o mouse por cima + R
+Caldeiras padrão podem explodir caso estejam funcionando cheias.
+Fluidos podem ser descartados com um tubo de drenagem.
+O tubo de drenagem pode não ser tão bom assim para o meio ambiente.
+Moldes de fundição podem ser removidos com uma chave de fenda.
+O jogo é o que importa
+Construa umas nadadeiras para nadar mais rápido
+GregTech 6 é foda.
+Supersimetria é foda.
+bob por favor faça um port para 1.20
 1.8.9 port is happening soon trust me guys.
 There's meteors. Build a roof. (#1)
 The blast furnace extension increases speed with the same fuel consumption. (#2)
