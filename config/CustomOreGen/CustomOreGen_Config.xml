@@ -325,6 +325,13 @@
       <Biome name="Flower Forest" />
     </Cloud>
 
+    <Cloud name="LapisForest"
+      block="minecraft:lapis_ore" inherits="PresetBiomeCloudVerySmall">
+      <Biome name="Forest" />
+      <Biome name="ForestHills" />
+      <Biome name="Flower Forest" />
+    </Cloud>
+
     <!-- === All TAIGA === -->
     <Cloud
       name="CloudVerySmallUraniumColdTaiga"
@@ -501,6 +508,12 @@
 
     <Cloud name="FluoriteOcean"
       block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudMedium">
+      <Biome name="Deep Ocean" />
+      <Biome name="Ocean" />
+    </Cloud>
+
+    <Cloud name="LapisOcean"
+      block="minecraft:lapis_ore" inherits="PresetBiomeCloudVerySmall">
       <Biome name="Deep Ocean" />
       <Biome name="Ocean" />
     </Cloud>

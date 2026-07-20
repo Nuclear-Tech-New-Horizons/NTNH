@@ -126,6 +126,7 @@ categories:
 | Fluorite | Deep Ocean / Ocean; Roofed Forest / Roofed Forest M | Cloud | Rare | ~16 – 48 |
 | Gold | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M | Cloud / StandardGen | Rare | ~0 – 40 |
 | Iron | Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | Cloud | Uncommon | ~16 – 52 |
+| Lapis Lazuli | Flower Forest / Forest / ForestHills; Deep Ocean / Ocean | Cloud | Rare | ~0 – 20 |
 | Lead | Flower Forest / Forest / ForestHills | Cloud | Rare | ~16 – 48 |
 | Lignite | Swampland / Swampland M | StandardGen | Common | ~26 – 54 |
 | Lithium | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | Cloud | Rare | ~16 – 48 |
