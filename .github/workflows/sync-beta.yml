@@ -2,9 +2,8 @@ name: Sync Beta to Server Repo
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - updates/upcoming
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   sync-beta:
