@@ -1520,15 +1520,15 @@ betterquesting.quest.QFKT5L7RSrKQIz-qYhUsVg.name=Servers
 betterquesting.quest.QFKT5L7RSrKQIz-qYhUsVg.desc=§6Servers§r are a form of higher tier computer. %n%nThey can be configured by holding them in the hand and using them - like opening a backpack for example. Servers can also be configured after having been installed into a Rack by activating them (aiming at the corresponding position on the frong face on the rack). To operate, the server has to be placed inside a §3Rack§r.
 
 # Quest: Computer Casings
-betterquesting.quest.XfkIHFJDRgSIyYD_F5b05g.name=Computer Casings
+betterquesting.quest.XfkIHFJDRgSIyYD_F5b05g.name=Computergehäuse
 betterquesting.quest.XfkIHFJDRgSIyYD_F5b05g.desc=§3Computer Casings§r come in 3 different tiers, which limit the amount of components that ca be placed inside of them.
 
 # Quest: Graphics Cards
-betterquesting.quest.b14L2QcPTRiHysGkQNkTUQ.name=Graphics Cards
+betterquesting.quest.b14L2QcPTRiHysGkQNkTUQ.name=Grafikkarten
 betterquesting.quest.b14L2QcPTRiHysGkQNkTUQ.desc=The §6Graphics Card§r is an essential part for most computers and allows the computer to display text on a connected §6Screen§r. %n%nGraphics cards come in several tiers, and like screens, support different resolutions and color depths.
 
 # Quest: Screens
-betterquesting.quest.fS6P083FQGWwxARPYM4eaA.name=Screens
+betterquesting.quest.fS6P083FQGWwxARPYM4eaA.name=Bildschirme
 betterquesting.quest.fS6P083FQGWwxARPYM4eaA.desc=A §3Screen§r is used in combination with a §6Graphics Card§r, to allow computers to display text. Different screen tiers have different capabilities, such as supporting different resolutions and olor depths. Screens range from low-resolution, monochrome displays to high-resolution displays with up to 256 colors.
 
 # Quest: OC Power
@@ -1541,48 +1541,48 @@ betterquesting.quest.zElcW5PDQwGOvbKnyroWEQ.desc=A §3Keyboard§r is needed to t
 
 
 ## Quest Line: Kill All the Things
-betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.name=Kill All the Things
-betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.desc=You monster.
+betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.name=Töte alle Dinge
+betterquesting.questline.DR3m8TVpSxKspj_MDcVlIA.desc=Du Monster!
 
 # Quest: Time to Kill (Pig)
-betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.name=Time to Kill (Pig)
-betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.desc=Mmm... turn on the grill. We need more meat.
+betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.name=Zeit zum Töten (Schwein)
+betterquesting.quest.0LPqIRRCTuayXjyNUaboNA.desc=Mmm... schalt den Grill an. Wir brauchen mehr Fleisch!
 
 # Quest: Time to Kill (Pigman)
-betterquesting.quest.2R1OOnI5S0K57TglRYmGng.name=Time to Kill (Pigman)
-betterquesting.quest.2R1OOnI5S0K57TglRYmGng.desc="Zombie Pigman"? What the hell is going on with you zombies?! Maybe you should encase your animals better at night...
+betterquesting.quest.2R1OOnI5S0K57TglRYmGng.name=Zeit zum Töten (Pigman)
+betterquesting.quest.2R1OOnI5S0K57TglRYmGng.desc="Zombie Pigman"? Was zur Hölle ist los mit euch Zoimbies?! Vielleicht solltest du deine Tiere in der Nacht besser einbauen...
 
 # Quest: Time to Kill (Cow)
-betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.name=Time to Kill (Cow)
-betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.desc=I think I need a new backpack. Let's slaughter a few cows.
+betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.name=Zeit zum Töten (Kuh)
+betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.desc=Ich glaube, ich brauche einen neuen Rucksack. Lass uns ein paar Kühe schlachten.
 
 # Quest: Time to Kill (Witch)
-betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.name=Time to Kill (Witch)
+betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.name=Zeit zum Töten (Hexe)
 betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.desc=Witches bring stitches because they are always infernal and very dangerous. Be careful since they throw potions at you.
 
 # Quest: Maskman
-betterquesting.quest.8b6batCvQvCiGknitRMrSQ.name=Maskman
-betterquesting.quest.8b6batCvQvCiGknitRMrSQ.desc=Maskman is first NTM boss. To summon it, you should be under radiation poisoning (50 rad). Just wait for him to arrive.
+betterquesting.quest.8b6batCvQvCiGknitRMrSQ.name=Maskenmann
+betterquesting.quest.8b6batCvQvCiGknitRMrSQ.desc=Maskenman ist der erste NTM-Boss. Um ihnzu beschwören, solltest du unter Strahlenvergiftung sein (50 rad). Warte nur, bis er erscheint.
 
 # Quest: MEGAKILL!
 betterquesting.quest.C7CLvAjyQUy2aNW1HiA7Ow.name=§4§lMEGAKILL!
-betterquesting.quest.C7CLvAjyQUy2aNW1HiA7Ow.desc=You killed them all! §cYou're monster!
+betterquesting.quest.C7CLvAjyQUy2aNW1HiA7Ow.desc=Du hast alle getötet! §cDu bist ein Monster!
 
 # Quest: Time to Kill (Chicken)
-betterquesting.quest.G8aNnibAQVuX1SG7XfuaeQ.name=Time to Kill (Chicken)
-betterquesting.quest.G8aNnibAQVuX1SG7XfuaeQ.desc=Screaming doesn't help. You're going in the soup.
+betterquesting.quest.G8aNnibAQVuX1SG7XfuaeQ.name=Zeit zum Töten (Hühner)
+betterquesting.quest.G8aNnibAQVuX1SG7XfuaeQ.desc=Schreien hilft nicht weiter. Du gehst in der Suppe hinein.
 
 # Quest: Time to Kill (Magma Cube)
-betterquesting.quest.JVB4_UIXR9SI2W66FWBnMw.name=Time to Kill (Magma Cube)
-betterquesting.quest.JVB4_UIXR9SI2W66FWBnMw.desc=Now a Hell version of your slime!
+betterquesting.quest.JVB4_UIXR9SI2W66FWBnMw.name=Zeit zum Töten (Magmawürfel)
+betterquesting.quest.JVB4_UIXR9SI2W66FWBnMw.desc=Jetzt eine Hölle-Version von deinen Schleimen!
 
 # Quest: Time to Kill (Sheep)
-betterquesting.quest.NASNKN6AQ52JY7XDbODGYQ.name=Time to Kill (Sheep)
-betterquesting.quest.NASNKN6AQ52JY7XDbODGYQ.desc=Oh no, not the poor sheep! Fluffy and red, I'm so sad.
+betterquesting.quest.NASNKN6AQ52JY7XDbODGYQ.name=Zeit zum Töten (Schaf)
+betterquesting.quest.NASNKN6AQ52JY7XDbODGYQ.desc=Oh nein, nicht die armen Schafe! Kuschelig und rot, ich bin so traurig.
 
 # Quest: Time to Kill (Blaze)
-betterquesting.quest.Q70rGIFTR6uMPmobimGr9g.name=Time to Kill (Blaze)
-betterquesting.quest.Q70rGIFTR6uMPmobimGr9g.desc=You should be careful with this task. Fire protection is highly recommended. [warn]Blazes are always spawning infernal.[/warn]
+betterquesting.quest.Q70rGIFTR6uMPmobimGr9g.name=Zeit zum Töten (Blaze)
+betterquesting.quest.Q70rGIFTR6uMPmobimGr9g.desc=Du solltest bei dieser Aufgabe vorsichtig sein. Brandschutz wird dringend empfohlen. [warn]Blazes spawnen immer höllisch.[/warn]
 
 # Quest: Martian Invasion Ship
 betterquesting.quest.Q8FZdwiURgC2PoD4IziLJg.name=Martian Invasion Ship
@@ -1621,39 +1621,39 @@ betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.name=Time to Kill (Ghast)
 betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.desc=They shoot you with explosive fireballs but they are weak when you hit them or knock the fireballs back with a weapon. Better upgrade your armor with fire and blast protection.
 
 # Quest: Time to Kill (Enderman)
-betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.name=Time to Kill (Enderman)
-betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You need them. All of them. Now!
+betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.name=Zeit zum Töten (Enderman)
+betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, schicke Teleportationsperlen. Du brauchst sie. Jetzt!
 
 # Quest: Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Zeit zum Töten (Skelett)
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Pfeile sind schön, solange du sie abfeuerst. Wenn einer dich trifft, siehts schlecht aus.
 
 # Quest: Time to Kill (Silverfish)
-betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Time to Kill (Silverfish)
-betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.desc=Be wary, they like to disguise and clone themselves in stone-related blocks! (Applies to Vanilla blocks only) Can be found within dungeons and hills. Can also be found in Drowning Creeper spawned cobblestone blocks.
+betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Zeit zum Töten (Silberfisch)
+betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.desc=Sei vorsichtig, sie verstecken sich gerne und klonen sich in Steinblöcken (gilt nur für Vanilla-Blöcke). Kann in Dungeons und Hügeln gefunden werden. Können auch in von ertrinkenden Creeper gespawnten Cobblestoneblöcken vorkommen.
 
 # Quest: Time to Kill (Wither)
-betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.name=Time to Kill (Wither)
-betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.desc=After collecting a couple of those wither skeleton heads, you feel like you could use some more action. So why not kill a wither?
+betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.name=Zeit zum Töten (Wither)
+betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.desc=Nachdem du ein paar dieser Witherskelettköpfe gesammelt hast, fühlst du dich als könntest du mehr Aufregung brauchen. Warum solltest du also nicht einen Wither töten?
 
 
 ### Quests in multiple quest lines ###
 
 # Quest: Armor Modifications
-betterquesting.quest.3J7vD46NQg6IMMDRALpT-A.name=Armor Modifications
+betterquesting.quest.3J7vD46NQg6IMMDRALpT-A.name=Rüstungsmodifikationen
 betterquesting.quest.3J7vD46NQg6IMMDRALpT-A.desc=The §3Armor Modification Table§r allows for armor modifications to be inserted in armor, giving either buffs, new abilities or extra resistance.
 
 # Quest: Dyson Swarms
-betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.name=Dyson Swarms
+betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.name=Dysonschwarm
 betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Dyson Swarms§r consist of thousands of swarm members encircling the parent star of a system, and energy production from the swarm scales based on the number of members in a swarm. These satellites do not last indefinitely however, they attenuate (decay) over time, with the chance of decay increasing as the number of swarm members increase.%n%n§6Dyson Swarm Members§r must be launched into solar orbit via the use of a huge centrifugal launch platform, known as the §3Spinlauncher§r. The spinlauncher launches 4 swarm members at a time, consuming a large amount of electricity to do so.%n%nThe §3Dyson Receiver§r is the main machine required for collecting energy from the swarm. It collimates the immense energy collected from the swarm into a immensely powerful beam. Setting up requires only a satellite ID chip that is matched to an existing swarm. The energy beam must be pointed towards a Dyson Power Converter.%n%nThe §3Satellite Dyson Relay§r can be used to allow dyson swarms to provide power during night time.
 
 # Quest: Quests information
-betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Quests information
+betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Quest-Informationen
 betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This Questbook was originally made by _SkippyPlaysMC_ for NT:I/ST:I modpacks and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.
 
 # Quest: Modpack information
-betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Modpack information
-betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.desc=§cWelcome to Nuclear Tech: New Horizons!§r%n%nPlease read the following information before starting out.%n%n§b1) Remember to Claim your base and Chunkload your reactors using Server Utilities (from the inventory).%n%n2) If shaders are glitching out try to use fancy textures.%n%n3) If you are encountering any rendering problems, try to scroll around in NEI.%n%n4) If you are playing with friends, make sure to invite them in your BetterQuesting Party as to share progression and rewards.%n
+betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Modpack-Informationen
+betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.desc=§cWillkommen bei Nuclear Tech: New Horizons!§r%n%nBitte lies die folgenden Informationen bevor du beginnst.%n%n§b1) Denke daran, deine Basis zu claimenund deine Reaktoren mit Server Utilities (aus dem Inventar) zu chunkloaden.%n%n2) Wenn Shader glitchen, versuchen fancy textures zu verwenden.%n%n3) Wenn du irgendwelche Rendering-Probleme hast, versuche in NEI zu scrollen.%n%n4) Wenn du mit Freunden spielst, solltest du sie in deine BetterQuesting-Party einladen, um Fortschritte und Belohnungen zu teilen.%n
 
 # Quest: Dyson Anatmogenesis Terraformer
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.name=Dyson Anatmogenesis Terraformer
@@ -1664,7 +1664,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=Glyphids
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Glyphids§r are large insects that have many different types. They primarily spawn with naturally generated §6§rhives§r structures. All of the types are armored and they take less damage than against normal mobs. Glyphids are normally attracted to pollution created by the player, and usually have to be dealt with by the player.%n%n§6§r§6Hives§r can spawn naturally in all non-ocean biomes and can also be created by glyphid scouts. They contain several glyphid egg blocks and some low-tier loot inside, lying on top of eggs. glyphid egg blocks spawn glyphids and drop glyphid eggs upon destruction.%n%n§2It is recommended that all hives are destroyed as soon as possible as to prevent their spread later on.
 
 # Quest: Useful Tools
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Useful Tools
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Nützliche Werkzeuge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=There are many tools which will help you progress through the mod, the most important ones being:%n%n§6Tungsten Reachers§r, which reduce the radiation the player gets exposed to from items in their inventory, as well as allowing them to hold some very hot items.%n%nThe §6Crowbar§r, which is used to open crates for loot such as food and ammunition found in various structures.
 
 # Quest: Tantalium
@@ -1672,7 +1672,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material needed for the creation of some items, most importantly §6Capacitor Boards§r. Tantalium Polycrystal production requires §6Coltan§r which can be located by the use of a §6Coltass§r. Coltan can also be obtained by using the mining drill in a §eBedrock Ore Coltan Deposit§r located randomly on planet Dres. Tantalum can also be obtained via §3Watz Reactor§r.%n%n§2Coltan Processing at its early stage can provide Niobium needed for Catalytic Cracking Towers.
 
 # Quest: Red Key
-betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Red Key
+betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Roter Schlüssel
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.desc=The §6Red Key§r is able to open any container that requires a regular key, regardless of the pin configuration of the lock, and it is one of the only two keys capable of opening the keyhole found on strange stone, in order to open a §eRed Room§r. The key has no durability, and can be reused indefinitely.%n%n
 
 # Quest: Safes and lockpicking
@@ -1680,11 +1680,11 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.name=Safes and lockpicking
 betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used to rotate conveyor blocks as well as to create a §3Chicago Pile§r. It can also be used in combination with §6Bobby Pins§r to unlock §6Safes§r found in various structures.
 
 # Quest: The End of Space...
-betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=The End of Space...
+betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=Das Ende des Weltraums...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the space stage of the game; now the entire space knows and fears you (you are a true space pirate). Here are a couple more nuances about the §3Dyson swarm§r:%n%n§2Do not place §3converters§r directly next to the §3receiver§r - this will cause a malfunction.§r%n%n§2Multiple players in the same game world can create multiple §3swarms§r, but keep in mind that different swarms reduce each other's §eefficiency§r. This can encourage players to either work together on one common §3swarm§r or compete to extract more §eenergy§r from their own §3swarm§r.§r
 
 # Quest: Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Handbuch
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
 
 
