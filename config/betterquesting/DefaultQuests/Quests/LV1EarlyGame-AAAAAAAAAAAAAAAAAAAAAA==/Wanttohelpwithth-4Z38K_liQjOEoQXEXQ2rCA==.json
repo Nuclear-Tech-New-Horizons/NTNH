@@ -1,12 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 7393826177143426704,
-      "questIDLow:4": -5800711279727378144
-    },
-    "1:10": {
-      "questIDHigh:4": 1597156130510686175,
-      "questIDLow:4": -8148762555774367770
+      "questIDHigh:4": -1922987534854173511,
+      "questIDLow:4": -8847684645341758176
     }
   },
   "properties:10": {
@@ -21,18 +17,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "So, you spent something like 20 minuets reading the other 2 quests and are wondering, \"so... what the hell does any of that mean?\" or you didnt read it at all, go back and read them you lazy bum or everything from here on will seem unclear. these food mods give a GTNH feel to hunger, you cant eat the same foods to many times in a row and eating a certain new foods can give extra hearts. this quest line will walk you thru how to use the food mods this pack ofers to there fullest potential (yes some of this is repeating what was said in the other 2 quests, no i will not be changing what this or the other quests say, if you want to complain DM I DARE YOU. gamernaut12)",
+      "desc:8": "If you want to support the pack theres a few things you can do, 1 join the discord! It has a decent community and a handful of devs and testers mostly willing to help you (you may get roasted tho) [url]https://discord.gg/x8kDsMHVY[/url]\n2 GIVE US MONEY!!!! We have a Ko-fi where you can donate to help us like allowing lord Bufka to buy more RAM for the servers and Bruh (a custom AI bot on the discord that will roast the shit out of you) and maybe if he gets enough income he can start paying his devs [url]https://ko-fi.com/ntnewhorizons[/url] you have me (Gamernaut12) and the other devs thanks!",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "betterquesting:placeholder"
+        "id:8": "minecraft:nether_star"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "What the hell does this all mean?",
+      "name:8": "Want to help with the pack?",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -58,12 +54,12 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 355965140665518242,
-  "questIDLow:4": -5852067216655729819,
+  "questIDHigh:4": -2189316578034433485,
+  "questIDLow:4": -8889817848519742712,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "index:3": 3,
+      "index:3": 0,
       "taskID:8": "bq_standard:checkbox"
     }
   }
