@@ -52,17 +52,7 @@ Right-click Crop Sticks on tilled soil, then right-click with any seed to plant 
 
 Bonemeal works on AgriCraft crops to speed growth, but **does not force mutations** on Crosscrops. Right-click a planted crop to accelerate it.
 
-## Irrigation System
 
-AgriCraft adds a water-based irrigation system to speed crop growth:
-
-| Component | Function |
-|-----------|----------|
-| Wooden Water Tank | Stores water (fills from rain or nearby water) |
-| Wooden Irrigation Channel | Transports water between tanks and sprinklers |
-| Sprinkler | Waters nearby crops, causing growth ticks |
-
-A sprinkler gives each plant in range a 20% chance to growth tick every 5 seconds, using 10mb of water per second from the network.
 
 ## Seed Storage
 
