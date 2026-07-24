@@ -34,6 +34,9 @@
 * *Returned* InventoryBogoSorter and Mouse Tweaks
 * *Returned* Xaero's Minimap
   * World Map is still broken
+* NTNH Modernity 2.1 resource pack
+* Added Flare Stack quest to the questbook
+* Added Bountiful Stars shader settings improvements for Angelica compatibility
 
 
 
@@ -80,15 +83,24 @@
 * Fixed various GUI title offsets
 * Fixed mask man announcement being sent 20 minutes before spawn (therefore never being sent at all) instead of one minute as intended
 * Fixed old BAT9000 recycling
+* Fixed crash in the controls menu when two keybind categories share the same localized name
+* Fixed Zombies & Skeletons from flickering with fire when exposed to the sun while immune to fire (Wither Skeletons)
 
 
 
 **Changed**
 * Fully reworked ExNihilo loot tables
+  * Removed all default ExNihilo ore gravel/sand/dust sieve drops
+  * Sieve now drops bedrock ore fragments instead
+  * Added Duna sands sieve support (for Martian mode)
+  * Added ender gravel drops (Stardust, End Powder, Tikite, Cobalt/Niobium dust)
+  * Added Duna Cobble hammer recipe to gravel (for Martian mode)
+  * Sieve seed drops now use AgriCraft seeds (potato, carrot, sugar cane, cactus) instead of ExNihilo seeds
 * Dev/contributor update - cleaned up .gitignore
 * Changed default render distance from 32 to 12 chunks
     * To speed up world loading and not scare yall people
 * Updated chinese localization
+* Updated Portuguese localization
 * Watz powerplant now has OC and RoR integration
 * The automatic thresher now has a fluid port on the bottom as well
 * The foundry basins and outlet filters now use the properly translated name instead of the internal name for the material
@@ -190,6 +202,19 @@
 * The magnetic storage barrel now uses BSCCO and has a new texture
 * Hunger depletes 2 times slower
   * Yeah, yeah, I know
+* Gas bubble spawn rate doubled, explosive gas bubbles now spawn
+* Enabled chisel cast iron block variant
+* Questbook: Removed "Buy Advanced Alloy", "Sell Dust" and "Buy Technetium Steel" Bobmazon quests
+* Questbook: Renamed "Smokestack" to "Pollution and Smokestack"
+* Questbook: Rewrote Hammer, Sieve and Flint Tools quest descriptions
+* Questbook: Updated "Time to Kill (Chicken)" and "Touch Grass" final quest descriptions
+* Questbook: Updated ore generation quest to note the online spreadsheet is deprecated
+* Questbook: Added optional Heavy Sieve task to the Sieve quest
+* Questbook: Fixed typo in "FEATURE" quest description
+* Removed ProjectRed copper ingot and copper ore from NEI (Et Futurum copper takes priority)
+* Added flint recipe change: 2x2 shaped recipe now yields 2 flint instead of 3 gravel -> 1 flint
+* Added iron door crafting recipe (removed default, added custom 2x3 ingot recipe)
+* BogoSorter: Added AE2 tooltip integration, drop-off highlight style options, hotbar drop-off option
 
 
 
