@@ -188,6 +188,8 @@
 * Cable diodes now have a GUI for configuration instead of requiring tools
   * The throughput can now be configured more precisely instead of increments of powers of 10
 * The magnetic storage barrel now uses BSCCO and has a new texture
+* Hunger depletes 2 times slower
+  * Yeah, yeah, I know
 
 
 
