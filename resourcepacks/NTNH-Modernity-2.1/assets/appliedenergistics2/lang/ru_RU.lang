@@ -543,7 +543,7 @@ item.appliedenergistics2.ToolDebugCard.name=Карта отладки разра
 item.appliedenergistics2.ToolReplicatorCard.name=Карта-репликатор разработчика
 
 // Commands
-commands.ae2.usage=Команды предоставляемые Applied Energistics 2 — используйте /ae2 list для списка, а /ae2 help _____ для справки по командам.
+commands.ae2.usage=Команды предоставляемые Applied Energistics 2 - используйте /ae2 list для списка, а /ae2 help _____ для справки по командам.
 commands.ae2.permissions=У Вас нет надлежащих прав, чтобы запустить эту команду.
 commands.ae2.ChunkLogger=Переключает загрузку и выгрузку фрагментов в журнал сервера (OP).
 commands.ae2.ChunkLoggerOn=Запись фрагментов теперь включена
@@ -573,7 +573,7 @@ achievement.ae2.Fluix=Неестественный
 achievement.ae2.Fluix.desc=Создайте флюисовые кристаллы
 achievement.ae2.Charger=Время подзарядки!
 achievement.ae2.Charger.desc=Изготовьте зарядник
-achievement.ae2.CrystalGrowthAccelerator=Ускоритель — это преуменьшение
+achievement.ae2.CrystalGrowthAccelerator=Ускоритель - это преуменьшение
 achievement.ae2.CrystalGrowthAccelerator.desc=Изготовьте ускоритель роста
 achievement.ae2.GlassCable=Флюисовое энергосоединение
 achievement.ae2.GlassCable.desc=Изготовьте МЭ стеклянный кабель

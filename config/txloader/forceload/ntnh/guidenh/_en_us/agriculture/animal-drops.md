@@ -30,7 +30,7 @@ categories:
 | Zombie Pigman | Cooked Porkchops instead of Rotten Flesh |
 | Witches | More potion types, more frequent drops |
 | Enderman | Always drops at least 1 Ender Pearl |
-| Iron Golem | 1–2 Iron Blocks (in addition to normal drops) |
+| Iron Golem | 1-2 Iron Blocks (in addition to normal drops) |
 | Creeper | Configurable TNT drop chance (disabled) |
 | Spider | Configurable Cobweb drop chance (6%) |
 
