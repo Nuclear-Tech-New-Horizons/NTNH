@@ -1,16 +1,16 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -1247131825417861085,
-      "questIDLow:4": -8936871827466092491
+      "questIDHigh:4": 0,
+      "questIDLow:4": 0
     },
     "1:10": {
-      "questIDHigh:4": -1027212781923908880,
-      "questIDLow:4": -6766014252121380023
+      "questIDHigh:4": 0,
+      "questIDLow:4": 114
     },
     "2:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 139
+      "questIDLow:4": 10
     }
   },
   "properties:10": {
@@ -25,18 +25,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "§4Balls-O-Tron§r is the second boss of §dNTM§r. It can be summoned by interracting the mechanist\u0027s circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.",
+      "desc:8": "Maskman is the first NTM boss. To summon it, you need to be under radiation poisoning (50 rad). A 20-minute timer starts per player when requirements are met. Once it runs out, Mask Man spawns. A warning appears 1 minute before spawn. If you are no longer irradiated, the timer resets.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:item.coin_worm"
+        "id:8": "hbm:item.coin_maskman"
       },
       "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Balls-O-Tron",
+      "name:8": "Maskman",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -52,19 +52,47 @@
       "notification_title:8": "",
       "notification_title_scale:5": -1.0,
       "particle_count:3": -1,
-      "questLogic:8": "AND",
+      "questLogic:8": "OR",
       "repeatTime:3": -1,
-      "repeat_relative:1": 0,
+      "repeat_relative:1": 1,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
-      "taskLogic:8": "OR",
+      "taskLogic:8": "AND",
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -7790681663354027687,
-  "questIDLow:4": -6732569179568742511,
-  "rewards:9": {},
+  "questIDHigh:4": -1027212781923908880,
+  "questIDLow:4": -6766014252121380023,
+  "rewards:9": {
+    "0:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 512,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.cap_nuka"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "enhancedlootbags:lootbag",
+          "tag:10": {
+            "ench:9": {
+              "0:10": {
+                "id:2": 35,
+                "lvl:2": 3
+              }
+            }
+          }
+        }
+      }
+    }
+  },
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
@@ -79,7 +107,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:item.coin_worm"
+          "id:8": "hbm:item.coin_maskman"
         }
       },
       "taskID:8": "bq_standard:retrieval"

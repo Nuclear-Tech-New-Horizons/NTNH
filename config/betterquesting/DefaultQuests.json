@@ -4538,7 +4538,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "Maskman is first NTM boss. To summon it, you should be under radiation poisoning (50 rad). Just wait for him to arrive.",
+          "desc:8": "Maskman is the first NTM boss. To summon it, you need to be under radiation poisoning (50 rad). A 20-minute timer starts per player when requirements are met. Once it runs out, Mask Man spawns. A warning appears 1 minute before spawn. If you are no longer irradiated, the timer resets.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -4608,106 +4608,22 @@
       },
       "tasks:9": {
         "0:10": {
-          "damageType:8": "",
+          "autoConsume:1": 0,
+          "consume:1": 0,
+          "groupDetect:1": 0,
           "ignoreNBT:1": 1,
           "index:3": 0,
-          "required:3": 1,
-          "subtypes:1": 1,
-          "target:8": "hbm.entity_mob_mask_man",
-          "targetNBT:10": {
-            "AbsorptionAmount:5": 0.0,
-            "Air:2": 300,
-            "AttackTime:2": 0,
-            "Attributes:9": {
-              "0:10": {
-                "Base:6": 1000.0,
-                "Name:8": "generic.maxHealth"
-              },
-              "1:10": {
-                "Base:6": 1.0,
-                "Name:8": "generic.knockbackResistance"
-              },
-              "2:10": {
-                "Base:6": 0.25,
-                "Name:8": "generic.movementSpeed"
-              },
-              "3:10": {
-                "Base:6": 100.0,
-                "Name:8": "generic.followRange"
-              },
-              "4:10": {
-                "Base:6": 15.0,
-                "Name:8": "generic.attackDamage"
-              }
-            },
-            "BookshelfData:10": {
-              "BookshelfBuff:9": {}
-            },
-            "CanPickUpLoot:1": 0,
-            "CustomName:8": "",
-            "CustomNameVisible:1": 0,
-            "DeathTime:2": 0,
-            "Dimension:3": 0,
-            "DropChances:9": {
-              "0:5": 0.085,
-              "1:5": 0.085,
-              "2:5": 0.085,
-              "3:5": 0.085,
-              "4:5": 0.085
-            },
-            "Equipment:9": {
-              "0:10": {},
-              "1:10": {},
-              "2:10": {},
-              "3:10": {},
-              "4:10": {}
-            },
-            "FallDistance:5": 0.0,
-            "Fire:2": 0,
-            "HbmLivingProps:10": {
-              "hfr_activation:5": 0.0,
-              "hfr_asbestos:3": 0,
-              "hfr_balefire:3": 0,
-              "hfr_blackfire:3": 0,
-              "hfr_blacklung:3": 0,
-              "hfr_bomb:3": 0,
-              "hfr_cont_count:3": 0,
-              "hfr_contagion:3": 0,
-              "hfr_digamma:5": 0.0,
-              "hfr_fire:3": 0,
-              "hfr_gravity:1": 0,
-              "hfr_oil:3": 0,
-              "hfr_oxygen:3": 100,
-              "hfr_phosphorus:3": 0,
-              "hfr_radiation:5": 0.0
-            },
-            "HealF:5": 1000.0,
-            "Health:2": 1000,
-            "HurtTime:2": 0,
-            "Invulnerable:1": 0,
-            "Leashed:1": 0,
-            "Motion:9": {
-              "0:6": 0.0,
-              "1:6": 0.0,
-              "2:6": 0.0
-            },
-            "OnGround:1": 0,
-            "PersistenceRequired:1": 0,
-            "PortalCooldown:3": 0,
-            "Pos:9": {
-              "0:6": 0.0,
-              "1:6": 0.0,
-              "2:6": 0.0
-            },
-            "Rotation:9": {
-              "0:5": 4.9558363,
-              "1:5": 0.0
-            },
-            "UUIDLeast:4": -8519835570299232460,
-            "UUIDMost:4": -4617932271151857536,
-            "id:8": "hbm.entity_mob_mask_man"
+          "partialMatch:1": 1,
+          "requireOnlyOneItem:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": "",
+              "id:8": "hbm:item.coin_maskman"
+            }
           },
-          "taskID:8": "bq_standard:hunt"
+          "taskID:8": "bq_standard:retrieval"
         }
       }
     },
@@ -6198,7 +6114,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "§6Glyphids§r are large insects that have many different types. They primarily spawn with naturally generated §6§rhives§r structures. All of the types are armored and they take less damage than against normal mobs. Glyphids are normally attracted to pollution created by the player, and usually have to be dealt with by the player.\n\n§6§r§6Hives§r can spawn naturally in all non-ocean biomes and can also be created by glyphid scouts. They contain several glyphid egg blocks and some low-tier loot inside, lying on top of eggs. glyphid egg blocks spawn glyphids and drop glyphid eggs upon destruction.\n\n§2It is recommended that all hives are destroyed as soon as possible as to prevent their spread later on.",
+          "desc:8": "§6Glyphids§r are large insects that have many different types. They primarily spawn with naturally generated §6§rhives§r structures. All of the types are armored and they take less damage than against normal mobs. Glyphids are normally attracted to pollution created by the player, and usually have to be dealt with by the player.\n\n§6§r§6Hives§r can spawn naturally in all non-ocean biomes and can also be created by glyphid scouts. They contain several glyphid egg blocks and some low-tier loot inside, lying on top of eggs. glyphid egg blocks spawn glyphids and drop glyphid eggs upon destruction.\n\nGlyphids now periodically retarget the closest player every 5 seconds if their current target is farther. 1/3 of glyphids do not have this behavior to prevent infinite trapping.\n\n§2It is recommended that all hives are destroyed as soon as possible as to prevent their spread later on.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -15374,7 +15290,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "The §3ZIRNOX§r is the first and cheapest nuclear reactor that one can make. Unlike the §3PWR§r and §3RBMK§r, it is a fully assembled reactor which requires §bWater§r and §bCarbon Dioxide§r to operate.\n\nDue to the low amount of steam the ZIRNOX makes, one can use the singleblock §3Steam Turbines§r, at the cost of §e85%§r efficiency, and a single §3Steam Condenser§r on lower power fuels. Thus, 24 §6Natural Uranium Fuel Rods§r using 14kmB of carbon dioxide will yield a power output of around §e160kHE/s§r.",
+          "desc:8": "The §3ZIRNOX§r is the first and cheapest nuclear reactor one can make. Unlike the §3PWR§r and §3RBMK§r, it is a fully assembled reactor which requires §bWater§r and §bCarbon Dioxide§r to operate.\n\nDue to its modest steam output, the ZIRNOX can be paired with several §3Steam Engines§r, though an §3Industrial Turbine§r is recommended for its §e100%§r efficiency. A single §3Steam Condenser§r handles the exhaust on lower power fuels. 24 §6Natural Uranium Fuel Rods§r using 14kmB of carbon dioxide will yield a power output of around §e240kHE/s§r.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -22019,7 +21935,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "Phew, that was quite a journey... Hopefully there is more to come with some modpack updates!\n\nNow [warn]GO TOUCH SOME GRASS IMMIDIATELY[/warn].",
+          "desc:8": "Phew, that was quite a journey... Hopefully there is more to come with some modpack updates!\n\nNow [warn]GO TOUCH SOME GRASS IMMIDIATELY[/warn].\n\n§6§lRATE OUR MODPACK: §r[url]https://moddex.gg/modpack/ntnewhorizons[/url]",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -33546,6 +33462,10 @@
           "questIDLow:4": -8936871827466092491
         },
         "1:10": {
+          "questIDHigh:4": -1027212781923908880,
+          "questIDLow:4": -6766014252121380023
+        },
+        "2:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 139
         }
@@ -33562,7 +33482,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "Balls-O-Tron is the second boss of §dNTM§r. It can be summoned by interracting the mechanist\u0027s circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.\n\nDue to the outdated nature of the bosses, aswell as the RNG needed to obtain some of the items, this quest provides an alternative way of obtaining the Balls-O-Tron coin.\n\n§2This quest can be repeated.",
+          "desc:8": "§4Balls-O-Tron§r is the second boss of §dNTM§r. It can be summoned by interracting the mechanist\u0027s circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -33590,8 +33510,8 @@
           "notification_title_scale:5": -1.0,
           "particle_count:3": -1,
           "questLogic:8": "AND",
-          "repeatTime:3": 60,
-          "repeat_relative:1": 1,
+          "repeatTime:3": -1,
+          "repeat_relative:1": 0,
           "simultaneous:1": 0,
           "snd_complete:8": "random.levelup",
           "snd_update:8": "random.levelup",
@@ -33601,21 +33521,7 @@
       },
       "questIDHigh:4": -7790681663354027687,
       "questIDLow:4": -6732569179568742511,
-      "rewards:9": {
-        "0:10": {
-          "ignoreDisabled:1": 0,
-          "index:3": 0,
-          "rewardID:8": "bq_standard:item",
-          "rewards:9": {
-            "0:10": {
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "hbm:item.coin_worm"
-            }
-          }
-        }
-      },
+      "rewards:9": {},
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -36003,8 +35909,8 @@
           "notification_title_scale:5": -1.0,
           "particle_count:3": -1,
           "questLogic:8": "AND",
-          "repeatTime:3": 60,
-          "repeat_relative:1": 1,
+          "repeatTime:3": -1,
+          "repeat_relative:1": 0,
           "simultaneous:1": 0,
           "snd_complete:8": "random.levelup",
           "snd_update:8": "random.levelup",
@@ -36014,21 +35920,7 @@
       },
       "questIDHigh:4": -6105693297056005552,
       "questIDLow:4": -5541291332173017941,
-      "rewards:9": {
-        "0:10": {
-          "ignoreDisabled:1": 0,
-          "index:3": 0,
-          "rewardID:8": "bq_standard:item",
-          "rewards:9": {
-            "0:10": {
-              "Count:3": 1,
-              "Damage:2": 0,
-              "OreDict:8": "",
-              "id:8": "hbm:item.coin_ufo"
-            }
-          }
-        }
-      },
+      "rewards:9": {},
       "tasks:9": {
         "0:10": {
           "autoConsume:1": 0,
@@ -45326,7 +45218,7 @@
           "questIDLow:4": -5019016907289366985,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": -168,
+          "x:3": -192,
           "y:3": 396
         },
         "2:10": {
@@ -45334,7 +45226,7 @@
           "questIDLow:4": -4649092236607223198,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": -168,
+          "x:3": -192,
           "y:3": 324
         },
         "3:10": {
@@ -45342,18 +45234,26 @@
           "questIDLow:4": -8145617194221990588,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": -240,
+          "x:3": -264,
           "y:3": 396
         },
         "4:10": {
+          "questIDHigh:4": -1027212781923908880,
+          "questIDLow:4": -6766014252121380023,
+          "sizeX:3": 24,
+          "sizeY:3": 24,
+          "x:3": -48,
+          "y:3": 372
+        },
+        "5:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 240,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -60,
+          "x:3": -84,
           "y:3": 180
         },
-        "5:10": {
+        "6:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 22,
           "sizeX:3": 24,
@@ -45361,7 +45261,7 @@
           "x:3": 108,
           "y:3": 336
         },
-        "6:10": {
+        "7:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 24,
           "sizeX:3": 24,
@@ -45369,7 +45269,7 @@
           "x:3": 108,
           "y:3": 288
         },
-        "7:10": {
+        "8:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 53,
           "sizeX:3": 24,
@@ -45377,7 +45277,7 @@
           "x:3": 48,
           "y:3": 576
         },
-        "8:10": {
+        "9:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 55,
           "sizeX:3": 48,
@@ -45385,7 +45285,7 @@
           "x:3": 36,
           "y:3": 480
         },
-        "9:10": {
+        "10:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 77,
           "sizeX:3": 24,
@@ -45393,47 +45293,47 @@
           "x:3": 108,
           "y:3": 132
         },
-        "10:10": {
+        "11:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 102,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": -120,
+          "x:3": -144,
           "y:3": 168
         },
-        "11:10": {
+        "12:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 252,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -96,
+          "x:3": -120,
           "y:3": 408
         },
-        "12:10": {
+        "13:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 253,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -60,
+          "x:3": -84,
           "y:3": 336
         },
-        "13:10": {
+        "14:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 254,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -60,
+          "x:3": -84,
           "y:3": 108
         },
-        "14:10": {
+        "15:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 255,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -60,
+          "x:3": -84,
           "y:3": 72
         },
-        "15:10": {
+        "16:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 109,
           "sizeX:3": 24,
@@ -45441,7 +45341,7 @@
           "x:3": 108,
           "y:3": 240
         },
-        "16:10": {
+        "17:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 138,
           "sizeX:3": 48,
@@ -45449,15 +45349,15 @@
           "x:3": 36,
           "y:3": 228
         },
-        "17:10": {
+        "18:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 260,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -60,
+          "x:3": -84,
           "y:3": 408
         },
-        "18:10": {
+        "19:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 261,
           "sizeX:3": 48,
@@ -45465,7 +45365,7 @@
           "x:3": 216,
           "y:3": 276
         },
-        "19:10": {
+        "20:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 263,
           "sizeX:3": 24,
@@ -45473,23 +45373,23 @@
           "x:3": 228,
           "y:3": 108
         },
-        "20:10": {
+        "21:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 272,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -96,
+          "x:3": -120,
           "y:3": 336
         },
-        "21:10": {
+        "22:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 277,
           "sizeX:3": 24,
           "sizeY:3": 24,
-          "x:3": -96,
+          "x:3": -120,
           "y:3": 636
         },
-        "22:10": {
+        "23:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 278,
           "sizeX:3": 48,
@@ -45497,7 +45397,7 @@
           "x:3": 216,
           "y:3": 624
         },
-        "23:10": {
+        "24:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 287,
           "sizeX:3": 48,
@@ -45505,7 +45405,7 @@
           "x:3": 36,
           "y:3": 324
         },
-        "24:10": {
+        "25:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 289,
           "sizeX:3": 24,
@@ -45513,7 +45413,7 @@
           "x:3": 48,
           "y:3": 408
         },
-        "25:10": {
+        "26:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 298,
           "sizeX:3": 24,
@@ -45521,7 +45421,7 @@
           "x:3": 48,
           "y:3": 540
         },
-        "26:10": {
+        "27:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 303,
           "sizeX:3": 24,
@@ -45529,7 +45429,7 @@
           "x:3": 84,
           "y:3": 576
         },
-        "27:10": {
+        "28:10": {
           "questIDHigh:4": 0,
           "questIDLow:4": 304,
           "sizeX:3": 24,
@@ -45537,7 +45437,7 @@
           "x:3": 12,
           "y:3": 576
         },
-        "28:10": {
+        "29:10": {
           "questIDHigh:4": 929055271446463347,
           "questIDLow:4": -6651168462273290191,
           "sizeX:3": 48,
@@ -45545,7 +45445,7 @@
           "x:3": 156,
           "y:3": 228
         },
-        "29:10": {
+        "30:10": {
           "questIDHigh:4": 1613890207724949047,
           "questIDLow:4": -8338018510326787210,
           "sizeX:3": 72,
@@ -45553,7 +45453,7 @@
           "x:3": 24,
           "y:3": 696
         },
-        "30:10": {
+        "31:10": {
           "questIDHigh:4": 2870886993118644556,
           "questIDLow:4": -7125728337715054175,
           "sizeX:3": 48,
@@ -45561,15 +45461,15 @@
           "x:3": 276,
           "y:3": 276
         },
-        "31:10": {
+        "32:10": {
           "questIDHigh:4": 6752243041174375590,
           "questIDLow:4": -5165550109238415698,
           "sizeX:3": 48,
           "sizeY:3": 48,
-          "x:3": -312,
+          "x:3": -336,
           "y:3": 396
         },
-        "32:10": {
+        "33:10": {
           "questIDHigh:4": -109905158396034403,
           "questIDLow:4": -5285318114980582696,
           "sizeX:3": 48,
@@ -45577,7 +45477,7 @@
           "x:3": 96,
           "y:3": 168
         },
-        "33:10": {
+        "34:10": {
           "questIDHigh:4": 9060064238429097123,
           "questIDLow:4": -5970815446373957168,
           "sizeX:3": 48,
@@ -45585,7 +45485,7 @@
           "x:3": 348,
           "y:3": 276
         },
-        "34:10": {
+        "35:10": {
           "questIDHigh:4": -8760625981484678792,
           "questIDLow:4": -7733189366283961606,
           "sizeX:3": 24,
@@ -45593,7 +45493,7 @@
           "x:3": -12,
           "y:3": 240
         },
-        "35:10": {
+        "36:10": {
           "questIDHigh:4": -7790681663354027687,
           "questIDLow:4": -6732569179568742511,
           "sizeX:3": 24,
@@ -45601,7 +45501,7 @@
           "x:3": -12,
           "y:3": 372
         },
-        "36:10": {
+        "37:10": {
           "questIDHigh:4": -7013887161315277003,
           "questIDLow:4": -6342970177126414439,
           "sizeX:3": 24,
@@ -45609,7 +45509,7 @@
           "x:3": 36,
           "y:3": 288
         },
-        "37:10": {
+        "38:10": {
           "questIDHigh:4": -6105693297056005552,
           "questIDLow:4": -5541291332173017941,
           "sizeX:3": 24,
@@ -45617,7 +45517,7 @@
           "x:3": -12,
           "y:3": 336
         },
-        "38:10": {
+        "39:10": {
           "questIDHigh:4": -4212680820990655932,
           "questIDLow:4": -5738584656499982622,
           "sizeX:3": 24,
@@ -46275,7 +46175,7 @@
         "betterquesting:10": {
           "bg_image:8": "",
           "bg_size:3": 256,
-          "desc:8": "Yeah",
+          "desc:8": "Everything about how to farm and cook.",
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 0,
