@@ -15,11 +15,11 @@ betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Felicitaciones. Lo has hecho. D
 
 # Quest: Stirling Engine
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Motor Stirling
-betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=Él §3Motor Stirling§r usa él calor de un §3Horno de calentamiento§r o una §3§r§3Cámara de combustión§r para producir energía. Si un Horno de calentamiento se utiliza para calentar un Motor Stirling, lo más probable es que supere la velocidad máxima y dañe él motor mandando a volar él engrane principal. El Motor Stirling Pesado no tiene ese problema.%n%nUna cámara de combustión quemando carbón con un motor stirling produce §e2kHE/s§r, mientras que un horno de calentamiento con un motor stirling pesado produce §e10kHE/s§r.
+betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=El §3Motor Stirling§r usa él calor de un §3Horno de calentamiento§r o una §3§r§3Cámara de combustión§r para producir energía. Si un Horno de calentamiento se utiliza para calentar un Motor Stirling, lo más probable es que supere la velocidad máxima y dañe él motor mandando a volar él engrane principal. El Motor Stirling Pesado no tiene ese problema.%n%nUna cámara de combustión quemando carbón con un motor stirling produce §e2kHE/s§r, mientras que un horno de calentamiento con un motor stirling pesado produce §e10kHE/s§r.
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Motor de Vapor
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=Él §3Motor de Vapor§r es un método temprano para convertir §bvapor§r en energía. Requiere una fuente externa de vapor y una forma de ventilar o reprocesar él §bVapor de Baja Presión§r que produce. %n%nEl Motor de Vapor tiene una eficiencia energética del §e85%%§r, haciéndolo mejor que él §3Motor Stirling§r. Sin embargo, todavía tiene un límite de rendimiento pues solo puede contener hasta 2000 mB/t de vapor. Su taza máxima de consumo es 2000 mB/t, produciendo unos considerables §e3400 HE/t§r o §e68 kHE/s§r. Por lo tanto es el mejor generador disponible antes de las §3Turbinas de vapor§r.%n%nUna caldera siendo calentada por un horno de calentamiento usando carbón producirá §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=El §3Motor de Vapor§r es un método temprano para convertir §bvapor§r en energía. Requiere una fuente externa de vapor y una forma de ventilar o reprocesar él §bVapor de Baja Presión§r que produce. %n%nEl Motor de Vapor tiene una eficiencia energética del §e85%%§r, haciéndolo mejor que él §3Motor Stirling§r. Sin embargo, todavía tiene un límite de rendimiento pues solo puede contener hasta 2000 mB/t de vapor. Su taza máxima de consumo es 2000 mB/t, produciendo unos considerables §e3400 HE/t§r o §e68 kHE/s§r. Por lo tanto es el mejor generador disponible antes de las §3Turbinas de vapor§r.%n%nUna caldera siendo calentada por un horno de calentamiento usando carbón producirá §e17kHE/s§r.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Estructuras Abandonadas
@@ -31,7 +31,7 @@ betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=La §3Chimenea de Antorcha§r e
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Baterías
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=Él §3Enchufe de Batería§r se utiliza para insertar §6Baterías§r o §6Condensadores§r.%n%nLas baterías tienen un mayor almacenamiento de energía, pero un tiempo de descarga más lento, lo que significa que solo una pequeña cantidad de energía almacenada puede ser suministrada a la red eléctrica.%n%nPor otro lado, los condensadores almacenan menos energía, pero la suministran más rápido.
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=El §3Enchufe de Batería§r se utiliza para insertar §6Baterías§r o §6Condensadores§r.%n%nLas baterías tienen un mayor almacenamiento de energía, pero un tiempo de descarga más lento, lo que significa que solo una pequeña cantidad de energía almacenada puede ser suministrada a la red eléctrica.%n%nPor otro lado, los condensadores almacenan menos energía, pero la suministran más rápido.
 
 # Quest: Stone Age
 betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Edad de piedra
@@ -39,7 +39,7 @@ betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Bienvenido a la Edad de Piedra.
 
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=¡En el clavo!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=Él §6Martillo§r es una herramienta de §dEx Nihilo§r usada para triturar bloques en formas más finas. Su uso primario es producir los materiales necesarios para él §3Tamiz§r: la roca se tritura a grava, la grava a arena y la arena a polvo, cada uno de estos puede ser tamizado para obtener diferentes recursos.%n%nPara usarlo, simplemente rompe el bloque objetivo con el §6Martillo§r como lo harías con un pico. Los martillos vienen en los niveles estándar de herramienta -%nde madera a diamante - y se diferencian únicamente en la durabilidad. Pueden ser encantados, pero los encantamientos disponibles son diferentes a los del pico.%n%nLos minerales también pueden ser martillados a través de una cadena de trituración de varios pasos. Cada paso tiene una pequeña posibilidad de dar material%nextra, haciendo al §6martillo§r una forma básica de multiplicación de minerales antes de que máquinas de procesamiento dedicado estén disponibles.%n%n§2Martillar puede ser automatizado con máquinas que simulan romper bloques, como el Martillo Automático de §dEx Compressum§r§2.%n§2Checa NEI para ver la cadena de trituración de cualquier bloque.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=El §6Martillo§r es una herramienta de §dEx Nihilo§r usada para triturar bloques en formas más finas. Su uso primario es producir los materiales necesarios para él §3Tamiz§r: la roca se tritura a grava, la grava a arena y la arena a polvo, cada uno de estos puede ser tamizado para obtener diferentes recursos.%n%nPara usarlo, simplemente rompe el bloque objetivo con el §6Martillo§r como lo harías con un pico. Los martillos vienen en los niveles estándar de herramienta -%nde madera a diamante - y se diferencian únicamente en la durabilidad. Pueden ser encantados, pero los encantamientos disponibles son diferentes a los del pico.%n%nLos minerales también pueden ser martillados a través de una cadena de trituración de varios pasos. Cada paso tiene una pequeña posibilidad de dar material%nextra, haciendo al §6martillo§r una forma básica de multiplicación de minerales antes de que máquinas de procesamiento dedicado estén disponibles.%n%n§2Martillar puede ser automatizado con máquinas que simulan romper bloques, como el Martillo Automático de §dEx Compressum§r§2.%n§2Checa NEI para ver la cadena de trituración de cualquier bloque.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Herramienta de análisis de red de cable
@@ -67,43 +67,43 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=Las §3Prensas§r son máquinas
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Alto Horno
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=Él §3Alto Horno§r es la base de las aleaciones al inicio del juego, capaz de fusionar dos recursos compatibles para hacer materiales como §6Acero§r, §6Metal Estelar§r, y §6Cobre Rojo§r. Constrúyelo en un §3Yunque Nivel 1§r utilizando ladrillos de piedra, ladrillos refractarios y placas de cobre.%n%nColoca dos materiales compatibles en la ranura superior e inferior - el orden no importa. El horno acepta materiales en ambas formas de lingote y polvo. Aliméntalo con carbón, coque u otro combustible sólido; el coque y combustible sólido llenaran la barra de combustible de forma más eficiente que el carbón normal. Cada operación también produce §6escoria§r y §bGases de Combustión§r como subproducto.%n%nPara un procesamiento más rápido bombea §bAire Caliente§r al horno a §e200 mB/t§r para acelerarlo hasta un §e500%%§r de la velocidad base.%n%n§2Consejo: Guarda el subproducto de Gases de Combustión - puedes quemarlo en una Chimenea de Antorcha después para recuperar algo de energía.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=El §3Alto Horno§r es la base de las aleaciones al inicio del juego, capaz de fusionar dos recursos compatibles para hacer materiales como §6Acero§r, §6Metal Estelar§r, y §6Cobre Rojo§r. Constrúyelo en un §3Yunque Nivel 1§r utilizando ladrillos de piedra, ladrillos refractarios y placas de cobre.%n%nColoca dos materiales compatibles en la ranura superior e inferior - el orden no importa. El horno acepta materiales en ambas formas de lingote y polvo. Aliméntalo con carbón, coque u otro combustible sólido; el coque y combustible sólido llenaran la barra de combustible de forma más eficiente que el carbón normal. Cada operación también produce §6escoria§r y §bGases de Combustión§r como subproducto.%n%nPara un procesamiento más rápido bombea §bAire Caliente§r al horno a §e200 mB/t§r para acelerarlo hasta un §e500%%§r de la velocidad base.%n%n§2Consejo: Guarda el subproducto de Gases de Combustión - puedes quemarlo en una Chimenea de Antorcha después para recuperar algo de energía.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Máscara de Trinchera
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=The §6Trench Mask§r is a basic mask that will protect the user from some dangerous airborne particles while mining. To craft one you must first obtain §6Cloth§r and then piss on it by right clicking while holding it.%n%n§2String can be easily obtained by harvesting Hemp, found in the wild.%n%n§rI hate to say it, but you are basically sniffing your own piss...
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.desc=La §6Máscara de Trinchera§r es una máscara básica que protege al usuario de algunas partículas peligrosas suspendidas en el aire al minar Para hacer una, primero debes conseguir §6Paño§r y después orinarlo haciendo click derecho mientras lo sujetas.%n%n§2La cuerda puede ser fácilmente obtenida recogiendo cáñamo, encontrado en la naturaleza.%n%n§rOdio decirte esto, pero estas básicamente respirando tu propia orina...
 
 # Quest: Hazmat Suits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=Hazmat Suits
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=§6Hazmat Suits§r provide protection against many hazards, mainly radiation. §6Hazmat Cloth§r can be further strengthened to create more resistant hazmat suits.%n%nTo provide additional protection against environmental dangers, a §6Gas Mask Filter§r is needed, which can be equiped by right-clicking while holding it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.name=Trajes de Protección
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADw.desc=Los §6Trajes de Protección§r ofrecen protección contra muchos peligros, principalmente radiación. La §6Tela de Protección§r puede ser reforzada aún más para crear trajes de protección más resistentes.%n%nPara proveer protección adicional, contra peligros ambientales, se necesita un §6Filtro de Máscara Antigás§r, el cual puede ser equipado al hacer click derecho mientras lo sujetas.
 
 # Quest: Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Energy Cables
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=The most basic block for transmission is the §3Red Copper Cable§r, which comes in two varieties, a block form and a skinnier cable form. The block form also has a paintable version which can help it blend into your designs better.%n%nFor better looking, as well as longer distance energy transportation, a §l§r§6Cable Drum§r with §3Electricity Connectors§r can be used. These powerlines are non solid and can also pass through floors and walls.%n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.name=Cables de Energía
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEQ.desc=El bloque más básico para transmitir energía es él §3Cable de Cobre Rojo§r, el cual viene en dos variantes, una forma de bloque y una forma de cable más delgada. La forma de bloque también tiene una versión pintable la cual puede ayudar a integrarlo mejor en tus diseños.%n%nPara mayor estética, y una distancia de transporte mucho mayor, un §l§r§6Tambor de cable§r con §3Conectores Eléctricos§r puede ser utilizado. Estas líneas eléctricas no son sólidas, pueden pasar a través de los suelos y las paredes.%n%n
 
 # Quest: Pollution Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Pollution Detector
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=The §6Pollution Detector§r will monitor and show the levels of pollution present in the environment. High levels of pollution will decrease the visibility, give debuffs to the player and buff mobs, including skeletons spawning with firearms.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.name=Detector de Contaminación
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEg.desc=El §6Detector de Contaminación§r monitorea y muestra los niveles de contaminación presentes en el ambiente. Altos niveles de contaminación reducirán la visibilidad, dan efectos negativos al jugador y hacen a los monstruos más fuertes, eso incluye esqueletos apareciendo con armas de fuego.
 
 # Quest: Electricity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Electricity
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM's NTM§r is an industrial mod, so you'll need §eelectricity§r to continue your journey. The energy is measured in §6HE (HBM Energy)§r.%n%n§2If the wood-burning generator is not enough, more advanced energy sources can be unlocked on the left side of this questbook, such as the §3Stirling Engine§2, §3Solar Tower Boiler§2, or §3Radial Performance Engine§2.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.name=Electricidad
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAEw.desc=§dHBM's NTM§r es un mod industrial, así que necesitaras §eelectricidad§r para continuar tu viaje. La energía es medida en §6HE (HBM Energy)§r.%n%n§2Si el generador de leña no es suficiente, puedes desbloquear fuentes de energía más avanzadas en el lado izquierdo de este libro de misiones, como el §3Motor Stirling§2, §3Caldera de Torre Solar§2, o el §3Motor Radial§2.§r
 
 # Quest: Analog Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Analog Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=The §6Analog Circuit§r is the first true circuit board used in crafting certain essential machines and tools such as the §6Oil Deposit Detector§r, the §3Chemical Plant§r, and the §3Electric Arc Furnace§r.%n%n§2A cheaper recipe for Capacitors will be available if a Shredder is owned.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.name=Placa de Circuito Analógico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFA.desc=El §6Circuito Analógico§r es la primer placa de circuitos de verdad utilizada para construir ciertas máquinas esenciales y herramientas como el §6Detector de Yacimientos de Petróleo§r, la §3Planta Química§r, y el §3Horno de Arco Eléctrico§r.%n%n§2Una receta más barata para los condensadores estará disponible si se posee una trituradora.
 
 # Quest: Assembly Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Assembly Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=The §3Assembly Machine§r is used in every stage of the game, with it being used to manufacture practically every other complex machine. Recipes for it can be chosen inside the GUI.%n%n§2Some unique recipes require blueprints, that can be found in dungeons and/or bought from Bobmazon.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.name=Máquina de Ensamblaje
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGQ.desc=La §3Máquina de Ensamblaje§r se utiliza en cada etapa del juego, está siendo utilizada para manufacturar prácticamente todas las otras máquinas complejas. Las recetas pueden ser escogidas dentro de la interfaz.%n%n§2Algunas recetas únicas requieren planos, que pueden ser encontrados en estructuras y/o comprados en Bobmazon.
 
 # Quest: Shredder
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.name=Trituradora
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=The §3Shredder§r is a machine that shreds resourses into their powder form, or in many cases, their crafting materials. It can also be used to double ores.%n%n§2Shredder blades are required in order for the machine to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGg.desc=La §3Trituradora§r es una máquina que tritura recursos para convertirlos en polvos, o en muchos casos, sus ingredientes. También puede ser utilizada para duplicar minerales.%n%n§2Cuchillas de Trituradora son requeridas para que la máquina pueda funcionar.
 
 # Quest: Soldering Station
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Soldering Station
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=The §3Soldering Station§r is the machine in which §6§rcircuit components§r can be combined§6§r into §6Circuits§r and where §6Machine Upgrades§r can be created.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.name=Estación de Soldadura
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHA.desc=La §3Estación de Soldadura§r es la máquina en la que §6§rcomponentes de circuito§r pueden ser combinados§6§r para hacer §6Circuitos§r y donde §6Mejoras de Máquina§r pueden ser creadas.
 
 # Quest: Crucible
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=Crucible
