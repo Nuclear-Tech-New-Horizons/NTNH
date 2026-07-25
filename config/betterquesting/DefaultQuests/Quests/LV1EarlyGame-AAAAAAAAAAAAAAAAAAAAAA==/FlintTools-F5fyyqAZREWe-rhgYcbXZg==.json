@@ -17,7 +17,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.",
+      "desc:8": "§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.\n\nAxes automatically break tree blocks from top to bottom to prevent floating trees. Hold Shift to disable this and break blocks normally.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

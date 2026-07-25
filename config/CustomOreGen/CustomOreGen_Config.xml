@@ -126,15 +126,7 @@
       <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
       <ReplacesOre block="stone" />
     </CloudPreset>
-
-
-    <Substitute name="OreRareNo"
-      block="stone">
-      <Replaces block="hbm:tile.ore_rare" />
-      <IfCondition Condition="dimension == 0" />
-    </Substitute>
-
-    <!-- === HILLS / MOUNTAINS: rare hard-rock ores and coal seams === -->
+<!-- === HILLS / MOUNTAINS: rare hard-rock ores and coal seams === -->
     <Cloud
       name="CoalSeamExtremeHills"
       block="minecraft:coal_ore" inherits="PresetCoalSeamCloud">
@@ -520,6 +512,29 @@
       <Biome name="Roofed Forest M" />
     </Cloud>
 
+    <Cloud name="RoofedForest"
+      block="harvestcraft:salt" inherits="PresetBiomeCloudMedium">
+      <Biome name="Roofed Forest" />
+      <Biome name="Roofed Forest M" />
+    </Cloud>
+
+    <Cloud name="NetherQuartz"
+      block="minecraft:quartz_ore">
+      <Setting name="DistributionFrequency" avg=":= 0.3 * oreFreq" />
+      <Setting name="ParentRangeLimit" avg="32" range="32" type="normal" />
+      <Setting name="CloudRadius" avg=":=4 * oreSize" range=":= 8 * oreSize" />
+      <Setting name="CloudThickness" avg=":= 7 * oreSize" range=":= 4 * oreSize" />
+      <Setting name="CloudSizeNoise" avg="0.2" />
+      <Setting name="CloudHeight" avg="20" range="20" type="normal" scaleTo="sealevel" />
+      <Setting name="CloudInclination" avg="0.05" range="0.9" />
+      <Setting name="OreRadiusMult" avg="1" range="0.1" />
+      <Setting name="OreDensity" avg="0.09" />
+      <Setting name="OreVolumeNoiseCutoff" avg="0.5" />
+      <IfCondition Condition="dimension == -1" />
+      <ReplacesOre block="minecraft:netherrack" />
+      <Biome name="Hell" />
+    </Cloud>
+
     <!-- === Mun === -->
     <CloudPreset name="PresetMun">
       <Setting name="DistributionFrequency" avg=":= 0.03 * oreFreq" />
@@ -530,19 +545,7 @@
       <IfCondition Condition="dimension == 15" />
       <Biome name="Mun" />
     </CloudPreset>
-
-    <Substitute name="Mun_Cleanup"
-      block="hbm:tile.moon_rock">
-      <Replaces block="hbm:tile.ore_iron:2" />
-      <Replaces block="hbm:tile.ore_quartz:2" />
-      <Replaces block="hbm:tile.ore_gold:2" />
-      <Replaces block="hbm:tile.ore_redstone:2" />
-      <Replaces block="hbm:tile.ore_diamond:2" />
-      <Replaces block="hbm:tile.ore_cinnebar:2" />
-      <IfCondition Condition="dimension == 15" />
-    </Substitute>
-
-    <Cloud name="Mun_Nickel"
+<Cloud name="Mun_Nickel"
       block="hbm:tile.ore_nickel:2" inherits="PresetMun">
       <Setting name="CloudHeight" avg="30" range="15" />
     </Cloud>
@@ -579,17 +582,7 @@
       <Biome name="Minmus Basins" />
       <Biome name="Minmus Hills" />
     </CloudPreset>
-
-    <Substitute name="Minmus_Cleanup"
-      block="hbm:tile.minmus_stone">
-      <Replaces block="hbm:tile.ore_iron:3" />
-      <Replaces block="hbm:tile.ore_diamond:3" />
-      <Replaces block="hbm:tile.ore_gold:3" />
-      <Replaces block="hbm:tile.ore_redstone:3" />
-      <IfCondition Condition="dimension == 21" />
-    </Substitute>
-
-    <Cloud name="Minmus_Copper"
+<Cloud name="Minmus_Copper"
       block="hbm:tile.ore_copper:3" inherits="PresetMinmus">
       <Setting name="CloudHeight" avg="45" range="15" />
     </Cloud>
@@ -620,19 +613,8 @@
       <Biome name="Dunaian Lowland Plains" />
       <Biome name="Dunaian Ice Sheet" />
 
-
     </VeinsPreset>
-
-    <Substitute name="Duna_Cleanup"
-      block="hbm:tile.duna_rock">
-      <Replaces block="hbm:tile.ore_iron:4" />
-      <Replaces block="hbm:tile.ore_gold:4" />
-      <Replaces block="hbm:tile.ore_diamond:4" />
-      <Replaces block="hbm:tile.ore_redstone:4" />
-      <IfCondition Condition="dimension == 16" />
-    </Substitute>
-
-    <Veins name="Duna_Redstone"
+<Veins name="Duna_Redstone"
       block="hbm:tile.ore_redstone:4" inherits="PresetDuna" />
     <Veins name="Duna_Titanium"
       block="hbm:tile.ore_titanium:4" inherits="PresetDuna" />
@@ -656,18 +638,7 @@
       <IfCondition Condition="dimension == 17" />
       <Biome name="Ike" />
     </VeinsPreset>
-
-    <Substitute name="Ike_Cleanup"
-      block="hbm:tile.ike_stone">
-      <Replaces block="hbm:tile.ore_iron:8" />
-      <Replaces block="hbm:tile.ore_gold:8" />
-      <Replaces block="hbm:tile.ore_diamond:8" />
-      <Replaces block="hbm:tile.ore_redstone:8" />
-      <Replaces block="hbm:tile.ore_cinnebar:8" />
-      <IfCondition Condition="dimension == 17" />
-    </Substitute>
-
-    <Veins name="Ike_Uranium"
+<Veins name="Ike_Uranium"
       block="hbm:tile.ore_uranium:8" inherits="PresetIke" />
     <Veins name="Ike_Plutonium"
       block="hbm:tile.ore_plutonium:8" inherits="PresetIke" />
@@ -689,13 +660,7 @@
       <Biome name="Laythe Reef" />
       <Biome name="Sagan Sea" />
     </CloudPreset>
-
-    <Substitute name="Laythe_Cleanup" block="stone">
-        <Replaces block="hbm:tile.ore_cinnebar:9" />
-        <IfCondition Condition="dimension == 22" />
-    </Substitute>
-
-    <Cloud name="Laythe_Aluminium"
+<Cloud name="Laythe_Aluminium"
       block="hbm:tile.ore_aluminium:9" inherits="PresetLaythe">
       <Setting name="CloudHeight" avg="40" range="15" />
     </Cloud>
@@ -726,22 +691,7 @@
       <Biome name="Eve Seismic Plains" />
       <Biome name="Explodium Ocean" />
     </CloudPreset>
-
-    <Substitute name="Eve_Cleanup"
-      block="hbm:tile.eve_rock">
-      <Replaces block="hbm:tile.ore_iron:7" />
-      <Replaces block="hbm:tile.ore_gold:7" />
-      <Replaces block="hbm:tile.ore_diamond:7" />
-      <Replaces block="hbm:tile.ore_schrabidium:7" />
-      <Replaces block="hbm:tile.ore_niobium:7" />
-      <Replaces block="hbm:tile.ore_cobalt:7" />
-      <Replaces block="hbm:tile.ore_iodine:7" />
-      <Replaces block="hbm:tile.ore_redstone:7" />
-      <Replaces block="hbm:tile.ore_cinnebar:7" />
-      <IfCondition Condition="dimension == 18" />
-    </Substitute>
-
-    <Cloud name="Eve_Schrabidium"
+<Cloud name="Eve_Schrabidium"
       block="hbm:tile.ore_schrabidium:7" inherits="PresetEve">
       <Setting name="CloudHeight" avg="15" range="10" />
     </Cloud>
@@ -776,20 +726,7 @@
       <Biome name="Dres Large Basins" />
       <Biome name="Dresian Flains" />
     </CloudPreset>
-
-    <Substitute name="Dres_Cleanup"
-      block="hbm:tile.dres_rock">
-      <Replaces block="hbm:tile.ore_iron:6" />
-      <Replaces block="hbm:tile.ore_gold:6" />
-      <Replaces block="hbm:tile.ore_diamond:6" />
-      <Replaces block="hbm:tile.ore_coltan:6" />
-      <Replaces block="hbm:tile.ore_redstone:6" />
-      <Replaces block="hbm:tile.ore_cinnebar:6" />
-      <Replaces block="hbm:tile.ore_niobium:6" />
-      <IfCondition Condition="dimension == 19" />
-    </Substitute>
-
-    <Cloud name="Dres_Diamond"
+<Cloud name="Dres_Diamond"
       block="hbm:tile.ore_diamond:6" inherits="PresetDres">
       <Setting name="CloudHeight" avg="12" range="8" />
     </Cloud>
@@ -823,18 +760,7 @@
       <Biome name="Moho Crag" />
       <Biome name="Moho Plateau" />
     </CloudPreset>
-
-    <Substitute name="Moho_Cleanup"
-      block="hbm:tile.moho_stone">
-      <Replaces block="hbm:tile.ore_iron:5" />
-      <Replaces block="hbm:tile.ore_gold:5" />
-      <Replaces block="hbm:tile.ore_diamond:5" />
-      <Replaces block="hbm:tile.ore_australium:5" />
-      <Replaces block="hbm:tile.ore_redstone:5" />
-      <IfCondition Condition="dimension == 20" />
-    </Substitute>
-
-    <Cloud name="Moho_Australium"
+<Cloud name="Moho_Australium"
       block="hbm:tile.ore_australium:5" inherits="PresetMoho">
       <Setting name="CloudHeight" avg="12" range="4" />
     </Cloud>
@@ -869,18 +795,7 @@
       <Biome name="Vinyl Desert" />
       <Biome name="Tekto Forest" />
     </VeinsPreset>
-
-    <Substitute name="Tekto_Cleanup"
-      block="hbm:tile.basalt">
-      <Replaces block="hbm:tile.ore_iron:10" />
-      <Replaces block="hbm:tile.ore_gold:10" />
-      <Replaces block="hbm:tile.ore_diamond:10" />
-      <Replaces block="hbm:tile.ore_redstone:10" />
-
-      <IfCondition Condition="dimension == 24" />
-    </Substitute>
-
-    <Veins name="Tekto_Lithium"
+<Veins name="Tekto_Lithium"
       block="hbm:tile.ore_lithium:10" inherits="PresetTekto">
       <Setting name="MotherlodeHeight" avg="39" range="10" />
     </Veins>

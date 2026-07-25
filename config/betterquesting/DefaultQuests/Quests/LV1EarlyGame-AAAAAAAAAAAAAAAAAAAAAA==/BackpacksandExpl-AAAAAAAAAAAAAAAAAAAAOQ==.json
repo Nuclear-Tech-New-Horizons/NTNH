@@ -17,7 +17,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.\n\n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.\n\nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.\n\n§2Iron Backpacks will be removed next update so if you still use them, please empty them.",
+      "desc:8": "Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.\n\n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.\n\nA §dNature\u0027s Compass§r can be used to easily locate biomes of interest.\n\nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -67,7 +67,7 @@
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
       "requireOnlyOneItem:1": 0,
@@ -79,6 +79,7 @@
           "id:8": "adventurebackpack:adventureBackpack",
           "tag:10": {
             "wearableData:10": {
+              "inventory:9": {},
               "type:1": 0
             }
           }
@@ -92,6 +93,25 @@
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 1,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "naturescompass:NaturesCompass",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
       "partialMatch:1": 1,
       "requireOnlyOneItem:1": 0,
       "requiredItems:9": {

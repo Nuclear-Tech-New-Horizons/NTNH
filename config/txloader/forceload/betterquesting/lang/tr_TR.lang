@@ -25,6 +25,10 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an ea
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Terk Edilmiş Yapı
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Structures generate throughout the world and are among the best sources of early-game resources. Raiding them before investing heavily in production can save significant time and materials.%n%n§2Exploration pays off early - check your surroundings before grinding for resources you might find for free.§r
 
+# Quest: Flare Stack
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Flare Stack
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=The §3Flare Stack§r is a generator that produces energy by burning flammable liquids and gases. Any fluid tagged as Flammable can serve as fuel - supply it through pipes or directly via containers.%n%nOperation uses three steps. First, fill the internal buffer (capacity: §e64,000 mB§r) with fuel. Second, open the §6Flow Valve§r at the top of the middle section to release fuel from the buffer into the combustion system. Third, enable the §6Ignition§r switch at the bottom of the middle section to ignite the fuel and begin power generation.%n%nEfficiency is low: gases burn at §e50%%§r and liquids at only §e10%%§r. Output also varies by fuel type.%n%nTwo upgrades are available: the §6Speed Upgrade§r increases throughput, and the §6Effectiveness Upgrade§r improves fuel efficiency.
+
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Bataryalar
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
@@ -35,7 +39,7 @@ betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Welcome to the Stone Age. This 
 
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Başardım!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r.%n§2Check JEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r§2.%n§2Check NEI for the full crushing chain of any block.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Cable Network Analysis Tool
@@ -63,7 +67,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines 
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Burn the Flue Gas byproduct in a Flare Stack to recover a small amount of power.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Save the Flue Gas byproduct - you can burn it in a Flare Stack later to recover some power.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
@@ -135,7 +139,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=The §6Settings Tool§r is used
 
 # Quest: Backpacks and Exploration
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.name=Backpacks and Exploration
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.%n%n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.%n%nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.%n%n§2Iron Backpacks will be removed next update so if you still use them, please empty them.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.%n%n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.%n%nA §dNature's Compass§r can be used to easily locate biomes of interest.%n%nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.
 
 # Quest: Rotary Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=Rotary Furnace
@@ -161,9 +165,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=The §3Mining Charge§r is an e
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=Çelik Örs
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=An upgraded version of the §3Anvil§r, [T2], which unlocks additional recipes.
 
-# Quest: Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=The §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.
+# Quest: Pollution and Smokestack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Pollution and Smokestack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§6Pollution§r is a mechanic affecting several machines related to industrialization. It must be properly mitigated, lest suffer the consequences of a polluted world. There are 3 subtypes of pollution - soot, poison and heavy metal.%n%n§6Soot§r is most common, produced by fossil fuel burning and some other sources. It increases generic mob health and strength. At high enough levels, it becomes visible as smog.%n%n§6Poison§r harms unprotected entities at high enough levels, and is produced exclusively as the consequence from spilling fluids such as CO2 or various oil products.%n%n§6Heavy metal§r comes from the combustion of leaded fuels. It also increases mob strength, but also harms them at high enough levels.%n%nIt can also be harmful to entities and players if they aren't wearing gas protection.%n%nCompatible machines can be connected to special exhaust pipes, which are effectively specialized box-ducts, to output to a §6Smokestack§r to reduce the amount of pollution.%n%nThe §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.
 
 # Quest: Player Decontaminator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Player Decontaminator
@@ -183,7 +187,7 @@ betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Barrels§r are storage block
 
 # Quest: Sieving
 betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Sieving
-betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.%n%nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.%n%nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r - unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.%n%n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.%n§2The Sieve can be automated with any machine that simulates a right-click.
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r filters gravel, dirt, stone, and other blocks to yield useful material fragments - including iron, copper, lead, and more.%n%nUse §3Heavy Sieve§r with §6Compressed Blocks§r to get more fragments.%n%n§2Use NEI to list all possible drops.
 
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Charm of Protection
@@ -199,15 +203,11 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=The §3Wood-Burning Generator§
 
 # Quest: Flint Tools
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Çakmaktaşı Aletler
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.%n%nAxes automatically break tree blocks from top to bottom to prevent floating trees. Hold Shift to disable this and break blocks normally.
 
 # Quest: Hunger System
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Açlık Sistemi
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r makes hunger a genuine threat rather than a mild inconvenience.%n%nHunger now drains passively over time, even while idle. Reaching zero kills you instantly. Low hunger inflicts slowness, weakness, and reduced mining speed before that point. Eating grants a §6Well Fed§r effect that boosts health regeneration - the larger the meal, the longer it lasts.%n%nFood values are re-balanced by meal size. Raw ingredients restore very little; prepared meals restore substantially more. Larger meals take longer to eat and stack less in your inventory.%n%nCrops only grow during daytime and take much longer to mature. Wood and stone hoes are removed - you need at least an iron hoe to till soil. Farmland must be placed adjacent to water or it will not function.%n%n§dSpice of Life: Carrot Edition§r rewards dietary variety. Each unique food eaten for the first time permanently increases your maximum health. Eating the same food repeatedly provides no bonus.%n%n§2The more diverse your diet, the more hearts you have - build a varied farm as early as possible.§r
-
-# Quest: Nature's Compass
-betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.name=Doğanın Pusulası
-betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.desc=§dDoğanın Pusulası§r ilgilenilen biyomları kolaylıkla konumlandırmayı sağlar.
 
 # Quest: Steel Furnace
 betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.name=Çelik Fırın
@@ -239,7 +239,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=The §6Multi Fluid Identifier§
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Bilinen Sorunlar
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Hata değil, bu bir §6F§9E§aA§bT§cU§dR§eE§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=İsteğe Bağlı NTM Modları
@@ -259,7 +259,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Cladding§r is one of the mo
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Ore Generation System
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%nOre generation spreadsheet%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n[warn]Important![/warn]%nThe online Google Docs spreadsheet was DEPRECATED, use the one in Guide Book.%n%nOnline ore generation spreadsheet [warn](DEPRECATED)[/warn]%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Dosimeter
@@ -291,7 +291,7 @@ betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Aynı kimya tesisini sülfirik 
 
 # Quest: Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.name=Heating Oven/Firebox
-betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3Heating Oven§r are machines capable of producing heat (§eTU§r) from solid fuels for any machines that require heat to operate.%n%nBoth machines are similar in operation. In order for them to transfer heat, another machine for receiving the heat must be placed on top, such that the copper heat plate on the receiving machine sits on top of the copper heat plate of the heat producing machine.%n%nOnce constructed, these machines can be filled with solid fuel, which will burn until either the fuel runs out, or the heat buffer is filled. No fuel will be consumed if its buffer is full — as such, both machines are fairly efficient at conserving fuel.%n%nThe primary difference in these two machines lie in their speed: the firebox burns fuel much slower at full efficiency, whilst the heating oven produces five time the heat (but eight times faster). Despite its inefficiency, the heating oven is often preferred for its much higher heat outputs and heat capacity. However, it cannot heat a stirling engine, as its base output (500 TU/t) will automatically over-speed the engine; the heavy stirling engine does not have this issue.%n%nAdditionally, the heating oven can receive heat from other heat producing machines placed underneath it: multiple can be stacked for heat-hungry machines like the crucible. The heat received, however, is halved when transferring to the machine above.
+betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3Heating Oven§r are machines capable of producing heat from solid fuels for any machines that require heat to operate.%n%nHeat is measured in §eTU§r (§eThermal Units§r).%n%nBoth machines are similar in operation. In order for them to transfer heat, another machine for receiving the heat must be placed on top, such that the copper heat plate on the receiving machine sits on top of the copper heat plate of the heat producing machine.%n%nOnce constructed, these machines can be filled with solid fuel, which will burn until either the fuel runs out, or the heat buffer is filled. No fuel will be consumed if its buffer is full — as such, both machines are fairly efficient at conserving fuel.%n%nThe primary difference in these two machines lie in their speed: the firebox burns fuel much slower at full efficiency, whilst the heating oven produces five time the heat (but eight times faster). Despite its inefficiency, the heating oven is often preferred for its much higher heat outputs and heat capacity. However, it cannot heat a stirling engine, as its base output (500 TU/t) will automatically over-speed the engine; the heavy stirling engine does not have this issue.%n%nAdditionally, the heating oven can receive heat from other heat producing machines placed underneath it: multiple can be stacked for heat-hungry machines like the crucible. The heat received, however, is halved when transferring to the machine above.
 
 # Quest: Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Geri Dönüşüm
@@ -349,12 +349,8 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an in
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
 
-# Quest: Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
-
-# Quest: From Flint to Oil
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil
+# Quest: From Flint to Oil - USA Simulator
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil - USA Simulator
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=The §6Oil Reservoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
 
 # Quest: Long Distance Energy Transportation
@@ -367,7 +363,7 @@ betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block f
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Silkworms can also be composted in a Barrel if you have a surplus.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Industrial Hemp & Mustard Willow
@@ -1171,7 +1167,7 @@ betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.desc=§3Magnetohydrodynamic Turbines
 
 # Quest: Done
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cDone
-betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Are you okay? Go touch some grass.
+betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Phew, that was quite a journey... Hopefully there is more to come with some modpack updates!%n%nNow [warn]GO TOUCH SOME GRASS IMMIDIATELY[/warn].
 
 # Quest: Secret Catalogue
 betterquesting.quest.J9dwgncgSUydHFPUoI85oQ.name=Secret Catalogue
@@ -1251,10 +1247,6 @@ betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=The §dSignPicture§r mod allow
 ## Quest Line: Three hundred caps
 betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.name=Three hundred caps
 betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.desc=Welcome to the shop!
-
-# Quest: Buy Advanced Alloy
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.name=Buy Advanced Alloy
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.desc=Need some advanced alloy? Buy some!
 
 # Quest: Sell Dust
 betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.name=Sell Dust
@@ -1657,7 +1649,7 @@ betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Dyson Swarms§r consist of t
 
 # Quest: Quests information
 betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Quests information
-betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.%n
+betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This Questbook was originally made by _SkippyPlaysMC_ for NT:I/ST:I modpacks and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.
 
 # Quest: Modpack information
 betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Modpack information
@@ -1690,6 +1682,10 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=The §6Screwdriver§r is used t
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the space stage of the game; now the entire space knows and fears you (you are a true space pirate). Here are a couple more nuances about the §3Dyson swarm§r:%n%n§2Do not place §3converters§r directly next to the §3receiver§r - this will cause a malfunction.§r%n%n§2Multiple players in the same game world can create multiple §3swarms§r, but keep in mind that different swarms reduce each other's §eefficiency§r. This can encourage players to either work together on one common §3swarm§r or compete to extract more §eenergy§r from their own §3swarm§r.§r
+
+# Quest: Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
 
 
 ### Quests in no quest lines ###

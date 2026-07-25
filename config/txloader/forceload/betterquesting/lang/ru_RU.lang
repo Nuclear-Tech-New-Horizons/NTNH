@@ -19,11 +19,15 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3Двигатель Стир�
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Паровой двигатель
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигатель§r - это ранний способ превращения §bПара§r в энергию. Он требует внешнего источника пара и способа сброса или переработки производимого им §bПара низкого давления§r. %n%nПаровой двигатель имеет энергетическую эффективность §e85%%§r, что делает его лучше §3Двигателя Стирлинга§r. Однако у него все еще есть ограничение пропускной способности, так как он может содержать только до 2000 mB пара. Его максимальная скорость обработки составляет 2000 mB/t, производя значительные §e3400 HE/t§r или §e68 kHE/s§r. Поэтому он является лучшим генератором, доступным до §3Паровых турбин§r.%n%nКотел, нагреваемый нагревательной печью с помощью угля, будет производить §e17kHE/s§r.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные структуры
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Структуры генерируются по всему миру и являются одними из лучших источников ресурсов на ранней стадии игры. Их зачистка перед серьезными вложениями в производство может сэкономить значительное количество времени и материалов.%n%n§2Исследование окупается на ранних этапах - осмотрите окрестности, прежде чем гриндить ресурсы, которые можно найти в структурах.§r
+
+# Quest: Flare Stack
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Газовый факел
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=The §3Flare Stack§r is a generator that produces energy by burning flammable liquids and gases. Any fluid tagged as Flammable can serve as fuel - supply it through pipes or directly via containers.%n%nOperation uses three steps. First, fill the internal buffer (capacity: §e64,000 mB§r) with fuel. Second, open the §6Flow Valve§r at the top of the middle section to release fuel from the buffer into the combustion system. Third, enable the §6Ignition§r switch at the bottom of the middle section to ignite the fuel and begin power generation.%n%nEfficiency is low: gases burn at §e50%%§r and liquids at only §e10%%§r. Output also varies by fuel type.%n%nTwo upgrades are available: the §6Speed Upgrade§r increases throughput, and the §6Effectiveness Upgrade§r improves fuel efficiency.
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Батареи
@@ -35,7 +39,7 @@ betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Добро пожаловать
 
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Молоток!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=§6Молот§r это инструмент из мода §dEx Nihilo§r, используемый для дробления блоков в более мелкие формы. Его основная задача - производство материалов, необходимых для §3Сита§r: булыжник дробится в гравий, гравий в песок, а песок в пыль, и каждый из них можно просеять для получения разных ресурсов.%n%nЧтобы использовать его, просто разбейте целевой блок §6Молотом§r, как если бы вы использовали кирку. Молоты бывают стандартных уровней инструментов -%nот дерева до алмаза - и отличаются только прочностью. Их можно зачаровывать, хотя доступные чары отличаются от тех, что на кирке.%n%nРуды также можно дробить через многоступенчатую цепочку измельчения. Каждый шаг имеет небольшой шанс дать бонусный%nматериал, что делает §6Молот§r базовым способом умножения руды до появления специализированных перерабатывающих машин.%n%n§2Дробление можно автоматизировать с помощью машин, имитирующих разрушение блоков, таких как авто молот из мода §dEx Compressum§r.%n%n§2Полную цепочку дробления любого блока можно посмотреть в JEI.§r
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r§2.%n§2Check NEI for the full crushing chain of any block.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Анализатор энергосети
@@ -47,7 +51,7 @@ betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Трубные якоря§r
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Автоматическая пила
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing behaviour of pushing force.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=С помощью §6§3Автоматической пилы§r можно автоматически срубать деревья для получения §6Древесины§r, а также другие культуры, такие как §6Конопля§r и §6Пшеница§r.%n%n§3Вентиляторы§r, при питании от редстоуна, могут использоваться для толкания выпавших предметов в воронки или на конвейеры для хранения. Используйте на них §6Дрель§r, чтобы убрать затухание силы толкания.
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Промышленный смеситель
@@ -63,7 +67,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3Прессы§r - это м�
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Доменная печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Burn the Flue Gas byproduct in a Flare Stack to recover a small amount of power.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.%n%nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.%n%nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%%§r of its base speed.%n%n§2Tip: Save the Flue Gas byproduct - you can burn it in a Flare Stack later to recover some power.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Траншейная маска
@@ -111,7 +115,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=§3Дуговой сварщи�
 
 # Quest: Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Коксовая печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=§3Коксовая печь§r - тип печи, что помимо твёрдого материала вырабатывает жидкий побочный продукт. Может быть использована для более эффективного получения §6Кокса§r, §bДревесного масла§r и §6Алюминия§r.
 
 # Quest: Chemical Plant
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Химическая установка
@@ -127,7 +131,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAJQ.desc=§6Быстрорежущая �
 
 # Quest: Conveyor Belt
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.name=Конвейерная лента
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=§3Conveyors§r provide the simplest way of moving items around. There are multiple blocks that can interface with machines as well as items moving along conveyor belts.%n%n§3Conveyor Belts§r are blocks used to transport items. They can pick up dropped items or items from conveyor ejectors. Conveyor inserters can take items from conveyor belts. If there are no conveyor inserters present, the item will be dropped at the end of the conveyor belt line.%n%n§3Conveyor Inserters§r are blocks that take items from conveyor belts and outputs them into a storage space. Conveyor ejectors are the opposite, they take items from storage and place them onto conveyor belts. %n%nInserters have an option to destroy surplus items if the input buffer has run full, otherwise the items that can neither be inserted in the target nor the inserter's buffer is simply dropped.%n%nThe ejector has a whitelist/blacklist system (the default mode is blacklist with no restrictions - this means that everything will go through). Right-clicking the white arrow will toggle between whitelist and blacklist. An item can be added to the blacklist/whitelist by "depositing" it into the blue inventory square - the item will not be consumed, however.%n%nThe §3Conveyor Splitter§r is a type of conveyor belt that splits items evenly onto 2 lanes.%n%n§3Conveyor Sorters§r are blocks that can sort various items to a specific conveyor belt. They do not have a buffer and simple move items to connected conveyor belts based on their filter options, therefore they can sort items as quickly as they receive them.%nThe sorter has six outputs with five slots each, making it able to route multiple items to one belt.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKg.desc=§3Конвейеры§r, пожалуй, самый простой способ перемещения предметов. Есть несколько блоков способных взаимодействовать как с механизмами, так и предметами движущимися по конвейеру. %n%n§3Конвейер§r - сам блок перевозящий предметы. Конвейерный вставщик - блок забирающий предметы с конвейерной ленты, если конвейерного вставщика на конце ленты нет, блок упадёт на землю. Если перед вставщиком стоит хранилище, предметы с ленты будут переносится в это хранилище. Конвейерные извлекатели, в свою очередь, это просто противоположность вставщика - выводят предметы из хранилища на ленту. %n%nВставщики имеют функцию удаления излишних предметов - если подключённое хранилище заполнено, излишки будут безвозвратно удалены. %n%nИзвлекатели имеют функцию белых/черных списков (белый список - только определённые предметы пропускаются, черный список - определённые предметы не пропускаются вовсе). Нажав правой кнопкой мыши на иконки листков в интерфейсе извлекателя переключить режим списка. Чтобы добавить предмет в черный/белый список, "положите" предмет в синию сетку инвентаря - сам предмет использован не будет.%n%n§3Конвейерный разделитель§r - блок который равномерно разделяет предметы с одной ленты на 2 раздельные.%n%n§3Конвейерные сортировщики§r - блок который сортирует предметы на конвейерной ленте, позволяя поставить белые/черные списки на каждую из сторон блока. В отличии от вставщиков и извлекателей, сортировщик не имеет буффера, поэтому сортирует предметы как только они поподают в блок.%nСортировщик имеет 6 выходов и 5 слотов для белого/черного списка на каждый выход, позволяя пропускать несколько определённых типов предметов на один конвейер.
 
 # Quest: Settings Tool
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.name=Инструмент настройки
@@ -135,7 +139,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAMQ.desc=§6Устройство нас�
 
 # Quest: Backpacks and Exploration
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.name=Рюкзаки и исследование
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Исследование является важной частью опыта §dNTM§r, поскольку разграбление заброшенных структур - это жизнеспособная стратегия для ранней игры. В этом модпаке также существуют большие пещеры, так что не стесняйтесь отправляться в спелеологию.%n%n§dРюкзаки§r будут огромной помощью, так как их можно использовать для переноски большего количества добычи. Ящики также можно использовать для транспортировки предметов, но рюкзаки также оснащены специальными слотами для инструментов, верстаком, кроватью, а также резервуарами для жидкостей.%n%n§6Шланг§r можно использовать для быстрого ввода и вывода жидкостей, хранящихся в рюкзаке.%n%n§2Железные рюкзаки будут удалены в следующем обновлении, поэтому если вы все еще используете их, пожалуйста, опустошите их.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOQ.desc=Exploration is an important part of the §dNTM§r experience as salvaging abandoned structures is a viable strategy for early game. Large caverns also exist in this modpack, so dont hesistate going caving.%n%n§dBackpacks§r will be a massive help, as they can be used to carry around more loot. Crates can also be used to transport items, but backpacks also come packed with dedicated tool slots, a crafting table, a bed aswell as fluid tanks.%n%nA §dNature's Compass§r can be used to easily locate biomes of interest.%n%nA §6Hose§r can be used to quickly input and output fluids stored in the backpack.
 
 # Quest: Rotary Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPQ.name=Роторная печь
@@ -147,7 +151,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=§3Бойлер§r, получ�
 
 # Quest: Solar Tower Boiler
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Солнечный бойлер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=The §3Solar Tower Boiler§r is an earlygame machine that can use sunlight from heliostat mirrors to boil water and therefore turn it into steam.%n%nThe Solar Tower Boiler gets heat from heliostat mirrors pointed at it. Aiming a mirror at the boiler can be done using the mirror adjustment tool, right-click on the boiler will save its position to the tool, and subsequently clicking on mirrors will aim them at the linked boiler. The maximum range for mirrors is 25 blocks, mirror efficiency does not degrade with range. A boiler consumes 1mB of water for every 12.5 mirrors each tick at full sunlight level, and 100mB of steam per mB of water consumed. However, the water consumption rate is rounded down to the millibucket. Thus it takes 13 mirrors to raise your first 100mB/t of steam, 12 mirrors for the next hundred, then 13, 12, and so on.%n%nAs the heat provided by each mirror is based on sunlight, mirrors with solid blocks above them will not work, and the amount of heat diminishes with the amount of light in the evening until it produces no heat at night.%n%nThe solar tower boiler can only produce regular steam, and thus the liquid type cannot be changed using fluid identifiers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=§3Бойлер солнечной башни§r является полезным механизмом в начальной игре, который с помощью зеркал-гелиостатов и солнечного света позволяет производить пар из воды.%n%nБойлер солнечной башни получает тепло с помощью направленных на него зеркал. Чтобы направить зеркала на бойлер, нажмите правой кнопкой мыши по нужному бойлеру с §bИнструментом для регулировки зеркал§r, а затем нажмите на зеркало, чтобы направить его на выбраный бойлер. Максимальная дальность зеркал - 25 блоков, однако расстояние не влияет на их эффективность. Бойлер потребляет 1 mB/t воды за каждые 12,5 направленных на него зеркал при максимальном солнечным светом, а из 1 mB воды получается 100 mB пара. Стоит учитывать то, что скорость потребления округляется до целого числа, то бишь, чтобы получить ваши первые 100mB/t пара, вам понадобится 13 зеркал, для следующей сотни 12, потом 13, и так по кругу.%n%nКак мы выяснили раньше, выроботка тепла равна солнечному свету: Чем ниже солнце - тем ниже выработка тепла, ночью тепло вырабатыватся не будет вовсе. Зеркала с любыми твёрдыми блоками над ними просто не будут работать.%n%nСолнечный бойлер может перерабатывать только воду, и тип перерабатываемой жидкости не может быть изменён жидкостным идентификатором.
 
 # Quest: Ammo Press and Guns
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.name=Пресс для патронов и пушки
@@ -155,15 +159,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaA.desc=С помощью литья, �
 
 # Quest: Mining Charge
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.name=Шахтёрский заряд
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=The §3Mining Charge§r is an explosive made with the express purpose of mining, as such it's commonly used to mine depth ores, since it doesn't destroy drops, before getting a pickaxe that can do the same. Mining Charges are a great way of obtaining §6Zirconium§r from depth ores for nuclear fuel rods.%n%nIt has an explosion radius of about 3 blocks and explodes instantly upon being powered by redstone, while exploding it does no damage to entities.%n%nThere are two other variants of this, being the §3Timed Mining Charge§r and the §b§3Semtex Mining Charge§r, they are both timed explosives with the semtex one being stronger than the regular one and having §eFortune 3§r, meanwhile the timed mining charge does not seem to have enhanced capabilities, other than being timed and thus more convinient to use.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhQ.desc=§3Шахтёрский заряд§r идеален тем, что заменит дорогую кирку в начале игры, так как взорванные зарядом блоки выпадают как предметы, он позволяет вскапывать глубинные руды раньше, чем у вас появится кирка способная их вскопать. Шахтёрский заряд является отличным способом для получения §6Циркония§r из глубинной руды для топливных стержней.%n%nРадиус взрыва составляет примерно 3 блока, моментально взрывается при подаче редстоун сигнала, а взрыв не наносит урона существам.%n%nЕсть две разновидности заряда, ими являются §3Заряд с таймером§r и §3Заряд с cемтексом§r. Обе разновидности имеют таймер, но заряд с семтексом имеет гораздо больший радиус взрыва и §eУдачу 3§r.
 
 # Quest: Steel Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.name=Стальная наковальня
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAuw.desc=Улучшенная версия §3Наковальни§r, [T2], которая открывает дополнительные рецепты.
 
-# Quest: Smokestack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Дымовая труба
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§3Дымовая труба§r используется для снижения загрязнения, производимого машинами. §3Выхлопные трубы§r, изготовляемые на наковальнях, можно использовать для транспортировки дыма к Дымоходу. §3Промышленный дымоход§r необходим для производства §6Мелкой сажи§r, которая требуется для создания §6Фуллерита§r в поздней игре.%n%nПод Дымоходом можно установить §3Зольник§r, который будет собирать §6Золу§r. Золу можно использовать как дешёвую альтернативу чёрному красителю, а также в создании §6Промышленного удобрения§r.
+# Quest: Pollution and Smokestack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.name=Pollution and Smokestack
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAyg.desc=§6Pollution§r is a mechanic affecting several machines related to industrialization. It must be properly mitigated, lest suffer the consequences of a polluted world. There are 3 subtypes of pollution - soot, poison and heavy metal.%n%n§6Soot§r is most common, produced by fossil fuel burning and some other sources. It increases generic mob health and strength. At high enough levels, it becomes visible as smog.%n%n§6Poison§r harms unprotected entities at high enough levels, and is produced exclusively as the consequence from spilling fluids such as CO2 or various oil products.%n%n§6Heavy metal§r comes from the combustion of leaded fuels. It also increases mob strength, but also harms them at high enough levels.%n%nIt can also be harmful to entities and players if they aren't wearing gas protection.%n%nCompatible machines can be connected to special exhaust pipes, which are effectively specialized box-ducts, to output to a §6Smokestack§r to reduce the amount of pollution.%n%nThe §3Smokestack§r is used to reduce pollution made from machines. §3Exhaust Pipes§r, made in anvils, can be used to transport the fumes to the Smokestack. The §3Industrial Smokestack§r is needed to produce §6Fine Soot§r, required for making §6Fullerite§r in the late game.%n%nAn §3Ashpit§r can be installed beneath the Smokestack which will collect §6Ash§r, that can be used as a cheap black dye alternative as well as in the creation of §6Industrial Fertilizer§r.
 
 # Quest: Player Decontaminator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABCw.name=Обеззараживатель игрока
@@ -183,7 +187,7 @@ betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Бочки§r — это б�
 
 # Quest: Sieving
 betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Просеивание
-betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=§3Сито§r это блок из §dEx Nihilo§r используемый для получения руд, семян, и других материалов из блоков грязи, гравия и песка. Перед его использованием, поместите в него сетку.%n%nДля просеивания чего-либо, держа нужный блок нажмите ПКМ по §3Ситу§r чтобы положить его внутрь, затем продолжайте нажимать пкм, пока блок полностью не просеится, и предметы не выпадут сверху. Каждый дроп выпадает с отдельной вероятностью, так что может выпасть сразу несколько разных предметов с одного блока.%n%nПри использовании блоее крутых сеток - от §6Нитевой сетки§r до §6Кремниевой§r, §6Железной§r, и §6«Укреплённой алмазами сетки§r - дроп будет выпадать чаще, и начнут выпадать более редкие предметы. От установленной сетки зависит, что можно просеять, и что можно от этого получить.%n%n§2Проверьте рецепты сита в JEI, чтобы увидеть для чего нужна каждая сетка или просеиваемый материал.%n§2Сито может быть автоматизировано при помощи любого механизма, эмулирующего ПКМ.
+betterquesting.quest.CAGBwqHLQBStKodq03kwyw.desc=The §3Sieve§r filters gravel, dirt, stone, and other blocks to yield useful material fragments - including iron, copper, lead, and more.%n%nUse §3Heavy Sieve§r with §6Compressed Blocks§r to get more fragments.%n%n§2Use NEI to list all possible drops.
 
 # Quest: Charm of Protection
 betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.name=Талисман защиты
@@ -199,15 +203,11 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3Генератор на др
 
 # Quest: Flint Tools
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Кремниевые инструменты
-betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Кремниевые инструменты§r нужны для добычи первого дерева и камня. Сломайте листву дерева, чтобы получить саженцы для создания палок.
+betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.%n%nAxes automatically break tree blocks from top to bottom to prevent floating trees. Hold Shift to disable this and break blocks normally.
 
 # Quest: Hunger System
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r делает голод реальной угрозой, а не легким неудобством.%n%nГолод теперь уменьшается пассивно со временем, даже в бездействии. Достижение нуля убивает вас мгновенно. Низкий уровень голода накладывает медлительность, слабость и снижает скорость добычи еще до смерти. Еда дает эффект §6Well Fed§r, который ускоряет регенерацию здоровья - чем больше порция, тем дольше он длится.%n%nПищевая ценность изменена в зависимости от размера порции. Сырые ингредиенты восстанавливают очень мало; приготовленные блюда восстанавливают значительно больше. Большие блюда едятся дольше и меньше стакаются в вашем инвентаре.%n%nСельскохозяйственные культуры растут только в дневное время и созревают гораздо дольше. Деревянные и каменные мотыги удалены - вам понадобится как минимум железная мотыга, чтобы вскопать почву. Грядки должны быть размещены рядом с водой, иначе они не будут функционировать.%n%n§dSpice of Life: Carrot Edition§r вознаграждает за разнообразие в рационе. Каждая уникальная еда, съеденная впервые, навсегда увеличивает ваше максимальное здоровье. Повторное употребление одной и той же еды не дает бонуса.%n%n§2Чем разнообразнее ваш рацион, тем больше у вас сердец - создайте разнообразную ферму как можно раньше.§r
-
-# Quest: Nature's Compass
-betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.name=Компас Природы
-betterquesting.quest.FmtITPC3QiuMRrIhIkfHFw.desc=§dКомпас Природы§r можно использовать для лёгкого поиска интересующих биомов.
 
 # Quest: Steel Furnace
 betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.name=Стальная печь
@@ -239,7 +239,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкост�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а §6Ф§9И§aЧ§bА§c!§d!§e!§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а &q&zФИЧА§r!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
@@ -259,7 +259,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Обшивки§r - это �
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Система генерации руд
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%nOre generation spreadsheet%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n[warn]Important![/warn]%nThe online Google Docs spreadsheet was DEPRECATED, use the one in Guide Book.%n%nOnline ore generation spreadsheet [warn](DEPRECATED)[/warn]%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Дозиметр
@@ -275,7 +275,7 @@ betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.desc=Этот мод добавля�
 
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Агрокультура и земледелие
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=На сборке есть 3 мода, что перерабатывают фермерство и добавляют еду.%n%n§dPam's HarvestCraft§r добавляет 40+ новых культур, плодовых деревьев, пчеловодство, 10 рыб, и 75+ блюд. Нажимая по созревшому растению, выпадут плоды и растение посадится обратно автоматически. Основные блоки: %n§3Прессовщик§r, для получения масла, мёда, и других предметов.%n§3Рынок§r, позволяющий покупать саженцы и семена за изумруды.%n%n§dAgriCraft§r добавляет скрещивание культур с капелькой генетики. У каждого растения теперь есть 3 характеристики - Рост, Уражай(ность), и Сила. Гены высоких статов доминантные, то есть при скрещивании расстения с силой 1 и 2, плод получит силу 2. Сорняки будут появлятся на грядках и постепенно губить ваши растения. Расположение грядок теперь имеет значения, так как у расстений есть требованию к почве, cвету, и жидкостям.%n%n§dHunger Overhaul§r требует вскапывать почву только у водоёмов - поставить дёрн где-то в пустыне теперь не выйдет.%n%n
 
 # Quest: Stirling Sawmill
 betterquesting.quest._qJt02i4ST2iccmkHudKCg.name=Лесопика на генераторе Стирлинга
@@ -291,7 +291,7 @@ betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Представьте, исп�
 
 # Quest: Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.name=Нагревательная печь/топка
-betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=§3Топка§r и §3Нагревательная печь§r - это механизмы, способные производить тепло (§eTU§r) из твёрдого топлива для любых механизмов, требующих тепло для работы.%n%nОба механизма схожи в работе. Чтобы они передавали тепло, другой механизм для получения тепла должен быть размещён сверху так, чтобы медная нагревательная пластина на принимающем механизме располагалась поверх медной нагревательной пластины теплопроизводящего механизма.%n%nПосле постройки эти механизмы можно заполнить твёрдым топливом, которое будет гореть до тех пор, пока либо топливо не закончится, либо буфер тепла не заполнится. Топливо не будет расходоваться, если его буфер полон - таким образом, оба механизма довольно эффективно экономят топливо.%n%nОсновное различие между этими двумя механизмами заключается в их скорости: топка сжигает топливо гораздо медленнее при полной эффективности, в то время как нагревательная печь производит в пять раз больше тепла (но в восемь раз быстрее). Несмотря на её неэффективность, нагревательная печь часто предпочтительнее из-за гораздо более высокой тепловой мощности и теплоёмкости. Однако она не может нагревать двигатель Стирлинга, так как её базовый выход (500 TU/t) автоматически разгонит двигатель; тяжёлый двигатель Стирлинга не имеет этой проблемы.%n%nДополнительно, нагревательная печь может получать тепло от других теплопроизводящих механизмов, размещённых под ней: несколько можно сложить в стопку для требовательных к теплу механизмов, таких как тигель. Однако получаемое тепло уменьшается вдвое при передаче к механизму выше.
+betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3Heating Oven§r are machines capable of producing heat from solid fuels for any machines that require heat to operate.%n%nHeat is measured in §eTU§r (§eThermal Units§r).%n%nBoth machines are similar in operation. In order for them to transfer heat, another machine for receiving the heat must be placed on top, such that the copper heat plate on the receiving machine sits on top of the copper heat plate of the heat producing machine.%n%nOnce constructed, these machines can be filled with solid fuel, which will burn until either the fuel runs out, or the heat buffer is filled. No fuel will be consumed if its buffer is full — as such, both machines are fairly efficient at conserving fuel.%n%nThe primary difference in these two machines lie in their speed: the firebox burns fuel much slower at full efficiency, whilst the heating oven produces five time the heat (but eight times faster). Despite its inefficiency, the heating oven is often preferred for its much higher heat outputs and heat capacity. However, it cannot heat a stirling engine, as its base output (500 TU/t) will automatically over-speed the engine; the heavy stirling engine does not have this issue.%n%nAdditionally, the heating oven can receive heat from other heat producing machines placed underneath it: multiple can be stacked for heat-hungry machines like the crucible. The heat received, however, is halved when transferring to the machine above.
 
 # Quest: Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Переработка
@@ -347,14 +347,10 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Пневмотрубы§r - 
 
 # Quest: Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Графит
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Графит§r - это кристаллическая аллотропная форма углерода, состоящая из наложенных слоёв графена. Графит является наиболее стабильной формой углерода и полезен во многих случаях. Его способность замедлять нейтроны делает его незаменимым для §3ядерных реакторов§r, которые полагаются на тепловые нейтроны для поддержания критичности. Его способность выдерживать высокие температуры и электропроводность делают его полезным в качестве электродов в §3Дуговой печи§r и §3Дуговом сварщике§r.
 
-# Quest: Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
-
-# Quest: From Flint to Oil
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремня до нефти
+# Quest: From Flint to Oil - USA Simulator
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=От кремня к нефти - США симулятор
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=§6Детектор нефтяного резервуара§r поможет найти §eзалежь нефти§r, указав на неё во всплывающем уведомлении. Если месторождение находится очень далеко, нефть можно добыть и перевезти на стационарный нефтеперерабатывающий завод.
 
 # Quest: Long Distance Energy Transportation
@@ -363,11 +359,11 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=Для больших расс�
 
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Примитивная плавильня
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check NEI for all valid heat sources and their melt rates.
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=§3Тигель§r является блоком из §dEx Nihilo§r, с помощью которого можно переплавить твёрдый блок в определённую жидкость. Сначала, из фарфоровой глины делается необожжённый тигель, ложится в печь, и превращается в полноценный §3Тигель§r.%n%nЧтобы использовать его, поставьте §3Тигель§r над источником тепла, и нажмите правой кнопкой мыши по тигелю, держа в руке нужный предмет. Скорость плавки зависит только от источника тепла - чем он сильнее, тем быстрее плавка. Самый лучший ванильный вариант - подожённый адский камень (незерак).%n%nОсновной способ применения - получение §bлавы§r из булыжника, камня, и других подобных блоков. Жидкости из §3тигеля§r никуда не пропадают, делаю его крайне дешёвым хранилищем жидкостей (хоть и не самым вместимым). Для откачки жидкости подключите трубы по бокам или ко дну. %n%n§2A Если поставите кучу тигелей, и подожгёте под ними незерак, вы получите отличный источник лавы для ранних этапов игры.%n%n§2В NEI показаны все доступные источники тепла и их эффективность.
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Тутовый шелкопряд
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Cook Silkworms in a furnace for a small food source in a pinch.%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Silkworms can also be composted in a Barrel if you have a surplus.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Конопля и горчичная ива
@@ -476,7 +472,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=§3Вспомогательна
 
 # Quest: Refinery Power
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Нефтеэнергия
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Oil products can be combusted or burnt to produce massive amounts of energy.%n%nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.%n%nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%%§r power efficiency. Be careful not to stand infront of it while its operational!%n%nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.%n%nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, as well as dealing with excess fluids.%n%nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.%n%nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Многие нефтепродукты можно использовать для выработки энергии.%n%n3Промышленный двигатель внутреннего сгорания§r используется для получения энергии из горючего, такого как §bМазут§r и §bДизель§r. Существуют разные наборы поршней для двигателей, и у каждого есть бонусы к определёнными типам топлива.%n%n§4§3Турбовентилятор§r сделан специально для топлива авиационного уровня, такого как §bКеросин§r, позволяя реализовывать топливо со §e100%%§r эффективностью. Настоятельно не рекомендуем стоять спереди генератора пока он работает!%n%n§3Газовая турбина комбинированного цикла§r (Далее - ГТКЦ) - единственный генератор способный сжигать газообразное топливо со §eстопроцентной§r эффективностью. ГТКЦ помимо топлива требует §3§bМашинную смазку§r, и вырабатывает §bГорячий Пар§r.%n%n Фишка §3Газовой башни§r в том, что она может сжигать почти любой нефтепродукт и не только, к примеру §bНепредельные Водороды§r, избавляя вас от ненужных продуктов.%n%n§3Жидкостный котёл§r - непрямой способ выработки энергии из газов. Поставьте на него бойлер, качайте воду, а пар пускайте в турбины для выработки электричества.%n%nСовет: установите на все перечисленные механизмы улучшение §6"Глушитель"§r, ну очень они уж громкие. Чтобы применить улучшение, возьмите его в руку и нажмите по блоку зажав Shift.
 
 # Quest: Pumpjack
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Станок-качалка
@@ -544,7 +540,7 @@ betterquesting.quest.Lc9HRIDwRZa0u-M3Ze6ZiQ.desc=§6Микрочипы§r - эт
 
 # Quest: Fiberglass
 betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.name=Стекловолокно
-betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.desc=Sand in an §3Ore Acidizer§r can be turned into §6Fiberglass§r, which provides more than §e4x§r the amount of §6Silicon§r in an §3Arc Furnace§r. Additionally, it provides a great recipe for insulators.
+betterquesting.quest.Q3y_TPhGTWe6JvLSRDrfBw.desc=Положив песок в §3Рудный окислитель§r, вы получите §6Стекловату§r, которая позволит вам производить в §e4 раза§r больше §6Кремния§r в §3Дуговой Печи§r. Также предлагает очень выгодный рецепт для изоляторов.
 
 # Quest: Powered Drill
 betterquesting.quest.UWNifpoeQfypMwfGniM40w.name=Силовой бур
@@ -669,7 +665,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAANg.desc=§3Пиролизная печ�
 
 # Quest: Reformate Gas
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.name=Реформированный газ
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=§bReformate Gas§r is used in welding very durable materials, as well as used in making §6Saturnite§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPg.desc=§bРеформированый газ§r используется при сварке очень прочных материалов, а также применяется в создании §6Сатурнита§r.
 
 # Quest: FEL and SILEX
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQw.name=Лазер на свободных электронах (FEL) и Камера лазерного разделения изотопов (SILEX)
@@ -793,7 +789,7 @@ betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3Спариватель те�
 
 # Quest: Desh Stamps
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Штампы Деш
-betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Desh Stamps§r have infinite durability, perfect for automation.
+betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Штампы из Деша§r имеют бесконечную прочность, идеально подходят для автоматизации.
 
 # Quest: High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=Обработка бедроковой руды с использованием высокоэффективного растворителя
@@ -837,7 +833,7 @@ betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=В NTM space спутники �
 
 # Quest: Ferrouranium
 betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ферроуран
-betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.desc=§6Ferrouranium§r is an alloy of §6Uranium-238§r and §6Steel§r.
+betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.desc=§6Ферруран§r это сплав §6Урана-238§r со §6Сталью§r.
 
 # Quest: Heat Exchanging Heater
 betterquesting.quest.rRJfZe74TXqpP-q2faX7bA.name=Теплообменный нагреватель
@@ -921,8 +917,8 @@ betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.name=Башня сжижения в�
 betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.desc=Башня сжижения воздуха предназначена для получения жидкого азота из сжатого воздуха.
 
 # Quest: Drive Processor Tier 3
-betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.name=Drive Processor Tier 3
-betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.desc=The §3Drive Processor Tier 3§r allows for travel to §eLaythe§r.
+betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.name=Процессор обработки 3-го уровня
+betterquesting.quest.LKTbDe35Rte7XOisZoywOQ.desc=§3Процессор обработки 3-го уровня§r даёт возможность летать на §eЛейт§r.
 
 # Quest: Atmospheric Scanner
 betterquesting.quest.MqqnLpS-RLK6oNw12wzI7Q.name=Сканер атмосферы
@@ -941,8 +937,8 @@ betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.name=Нержавеющая стал
 betterquesting.quest.Q0hC3CjIR4GB7MtYPpxXgA.desc=§6Нержавеющая сталь§r - это сплав из §6Стали§r и §6Никеля§r.
 
 # Quest: Drive Processor Tier 2
-betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.name=Drive Processor Tier 2
-betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.desc=The §3Drive Processor Tier 2§r allows for travel to §eDres§r and §eEve§r.
+betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.name=Процессор обработки 2-го уровня
+betterquesting.quest.QVJAi3JOR5in6VwMOEyL6w.desc=§3Процессор обработки 2-го уровня§r позволяет летать на §eДрес§r и §eЕву§r.
 
 # Quest: Jool
 betterquesting.quest.Rln_1bNXSHmwrz3lNURhwA.name=Джул
@@ -961,8 +957,8 @@ betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.name=Лэйт
 betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.desc=A beautiful water world, teeming with life, oceans lit up with fields of glowgrass. §bJool gas§r can be harvested from here using a §3Gas Giant Harvester§r.
 
 # Quest: Drive Processor Tier 1
-betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.name=Drive Processor Tier 1
-betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Drive Processor Tier 1§r allows for travel to §eDuna§r, §eIke§r and §eMoho§r.
+betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.name=Процессор обработки 1-го уровня
+betterquesting.quest.VetSLWDYS8OTb7T4X9aAEw.desc=§3Процессор обработки 1-го уровня§r открывает возможность летать на §eДюну§r, §eАйк§r и §eМохо§r.
 
 # Quest: Brine Processing
 betterquesting.quest.WRZqHx4ZRia4S1zEWYFg-Q.name=Переработка Брина
@@ -1045,7 +1041,7 @@ betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.name=Volcanic Gem
 betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.desc=A very valuable gemstone that is used to create a §6Cast Pickaxe§r, §6Meteorite Talisman§r, §6Black Diamond§r, §6Composite Euphemium Plates§r and §6Special 227mm Shells§r.
 
 # Quest: Hydrazine
-betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.name=Hydrazine
+betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.name=Гидразин
 betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.desc=§bHydrazine§r is a powerful rocket fuel which is needed to operate a §3Drop Pod§r.
 
 # Quest: Rocket Transporter Pad
@@ -1171,7 +1167,7 @@ betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.desc=§3Magnetohydrodynamic Turbines
 
 # Quest: Done
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cВсе
-betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Ты в порядке? Пойди потрогай траву.
+betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Phew, that was quite a journey... Hopefully there is more to come with some modpack updates!%n%nNow [warn]GO TOUCH SOME GRASS IMMIDIATELY[/warn].
 
 # Quest: Secret Catalogue
 betterquesting.quest.J9dwgncgSUydHFPUoI85oQ.name=Секретный каталог
@@ -1251,10 +1247,6 @@ betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=Мод §dSignPicture§r поз
 ## Quest Line: Three hundred caps
 betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.name=Три сотни крышек
 betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.desc=Добро пожаловать в магазин!
-
-# Quest: Buy Advanced Alloy
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.name=Купить продвинутый сплав
-betterquesting.quest.-cnZWNjQRf6c1btgaDWOyA.desc=Нужен продвинутый сплав? Купи его!
 
 # Quest: Sell Dust
 betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.name=Продать пыль
@@ -1657,7 +1649,7 @@ betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Dyson Swarms§r consist of t
 
 # Quest: Quests information
 betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Информация о квестах
-betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This version of the Questbook was originally made by _SkippyPlaysMC_ and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§c§lDo not use the quests for a modpack that is to be published, unless given explicit permission.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.%n
+betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This Questbook was originally made by _SkippyPlaysMC_ for NT:I/ST:I modpacks and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.
 
 # Quest: Modpack information
 betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Информация о модпаке
@@ -1673,7 +1665,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Глифиды§r — это
 
 # Quest: Useful Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Полезные инструменты
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=Существует множество инструментов, которые помогут вам продвигаться по моду, к наиболее важным относятся:\n\n§6Вольфрамовые хваталки§r — они снижают уровень радиационного облучения, получаемого игроком от предметов в инвентаре, а также позволяют удерживать в руках особо горячие предметы.\n\n§6Mk.V Устройство Для Вскрытия Ящиков "Лом"§r — используется для вскрытия ящиков, в которых можно найти еду и боеприпасы, на территории различных сооружений.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=Существует множество инструментов, которые помогут вам продвигаться по моду, к наиболее важным относятся:%n%n§6Вольфрамовые хваталки§r — они снижают уровень радиационного облучения, получаемого игроком от предметов в инвентаре, а также позволяют удерживать в руках особо горячие предметы.%n%n§6Mk. V Устройство Для Вскрытия Ящиков "Лом"§r — используется для вскрытия ящиков, в которых можно найти еду и боеприпасы, на территории различных сооружений.
 
 # Quest: Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Тантал
@@ -1690,6 +1682,10 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=§6Отвёртка§r испо
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=Край космоса...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Что ж, ты завершил космическую стадию игры; теперь весь космос знает и боится тебя (ты настоящий космический пират). Вот ещё несколько нюансов о §3Рое Дайсона§r:%n%n§2Не ставьте §3конвертеры§r вплотную к §3ресиверу§r - это вызовет ошибку в работе.§r%n%n§2Множестао игроков в одном мире могут создавать несколько §3роев§r, однако посните что разные рои уменьшают §eэффективность§r друг друга. Это модет заставить игроков либо работать вместе над одним оьщим §3роем§r, либо соревноваться, чтобы извлекать больше §eэнергии§r из их собственного §3роя§r.§r
+
+# Quest: Guide Book
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=В то время как §6Квест книжка§r пытается дать как можно больше информации текстом, она не является полным руководством по содержанию сборки.%n%nВот для чего нужно §6Руководство§r! Поддерживаемое сообществом, постоянно расширяющееся и ну &q&zооооочень§r красивое!
 
 
 ### Quests in no quest lines ###

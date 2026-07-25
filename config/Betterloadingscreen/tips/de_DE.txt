@@ -23,15 +23,15 @@ Sometimes it's better to flee than fight some mobs
 Be prepared to take hours to build a single multiblock machine!
 Press F7 to see spots where mobs can spawn!
 Press F9 to see chunk borders!
-Microcrafting is love, microcrafting is life
+Mikrocraften ist Liebe, Microcraften ist Leben
 Wie viele Schaltkreise hast du in deinem Leben gefertigt?
 XAERO's WELTKARTE: DRÜCKEN[M]
 sqrt(-1) liebt dich!
 (MultiMC > Curse) && (Technic > Curse): richtig
 Alles, was du tun musstest, war, der verdammten Quest zu folgen, CJ!
-Click on an item in the quest book to show its recipe in NEI
+
 Warum nicht Nuclear Tech besuchen? Wir haben... Wasserstoffbombe
-If it's too tedious you're doing it wrong
+Wenn es zu mühsam ist, machst du was falsch
 Do you also watch your oven while baking food?
 There's always something else you can do while waiting
 Use F3 + S to reload the sound if it's gone
