@@ -215,6 +215,9 @@
 * Added flint recipe change: 2x2 shaped recipe now yields 2 flint instead of 3 gravel -> 1 flint
 * Added iron door crafting recipe (removed default, added custom 2x3 ingot recipe)
 * BogoSorter: Added AE2 tooltip integration, drop-off highlight style options, hotbar drop-off option
+* Horses float on the water now
+* End update
+  * Confirmed
 
 
 
