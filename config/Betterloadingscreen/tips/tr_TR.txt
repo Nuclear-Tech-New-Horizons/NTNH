@@ -2,7 +2,7 @@
 #Teşekkürler 0lafe, boubou19, chochem, interstingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji ve diğerleri önerdiğiniz ipuçları için
 #
 #Maximum karakter sayısı ipucu için: 77 (fazlası ekran dışına taşabilir)
-#aşağıdaki satır, "#" dahil 77 karakter
+#The line below, including the "#" is 77 chars
 #Maceracının çantası? Entegre üretim ızgarası, yatak ve sıvı mı demek istediniz
 #
 Sorun mu var? Discord sunucumuza katıl: discord.gg/wtNVzeE5QB
@@ -28,7 +28,7 @@ Hayatında kaç tane devre ürettin?
 XAERO'nun DÜNYA HARİTASI: BAS[M]
 sqrt(-1) seni seviyor!
 (MultiMC > Lanet) && (Teknik > Lanet): doğru
-Tüm yapacağın iş lanet olası görev sırasını takip etmekti, CJ!
+All you had to do was to follow the damn quest line, CJ!
 Görev kitabındaki bir eşyaya tıklayarak NEI'deki tarifini görüntüleyebilirsiniz
 Nükleer Teknolojiyi neden ziyaret etmiyorsun? Şeye sahibiz... hidrojen bombaları
 Eğer çok can sıkıcıysa sen yanlış yapıyorsun
@@ -38,11 +38,11 @@ Eğer sesler gittiyse F3 + S kullanarak sesleri yenile
 Hayat, sorunları kapatmak değil, onları açmakla ilgilidir - Rongmario
 R/feedthemems'i ziyaret et!
 ROKET İSTİYORUM AY İSTİYORUM - St4o
-Merhaba @Bufka2011, neden bizim (GTNH) kurallarımızı kopyaladın? :kekwhat:
-Şimdiden AE2 sistemini ürettin mi?
+Hello @Bufka2011 why did you copy our (GTNH) rules :kekwhat:
+Did you already craft an AE2 system?
 NEI katmanını gizlemek için O tuşuna basın
 Also try GregTech: New Horizons!
-3,6 Röntgen?
+3.6 Roentgen?
 Fabrika Büyümeli!
 Schematica'yı hiç denedin mi?
 There is a swarm ahead!
@@ -54,11 +54,11 @@ Bu bir hata değil, bu bir anomali!
 ZIRNOX going brrrrrr
 Olamaz, ZIRNOX patlayacaaaaak
 PotatOS eğlenceli :D
-Grafik ayarlarını kontrol ettin mi?
+Did you check graphics settings?
 Ne kadarlık RAM'e sahipsin? 6GB, NT:NH için mükemmel!
 Sinirlenip çıkma
 Historically accurate! Belki...
-50% scientific accurate!
+50% scientifically accurate!
 Bu mod paketini arkadaşlarınla paylaşmaya ne dersin?
 Lanet olası meteor taş mağaramızın içinde düştü!
 Yaşasın, kirlilik! >:D
@@ -67,11 +67,11 @@ Yanında radyasyon koruman var mı?
 Be sure to check out if there is a new update!
 The best way to process ore is Acidizer + Centrifuge
 Crystallized ore gives you 2 ingots when smelting
-NTM's Electric Furnaces are must!
+NTM's Electric Furnaces are a must!
 Don't mine coal without breathing protection
 Number One Asbestos Fan
 O, 'Yeni Ufuklar'a kadar benim 'Teknoloji'mde 'Nükleer'di.
-Şimdiden otomatik yemek üretimine başladın mı?
+Did you already automate food production?
 O otomatik, otomatikleştirilmiş değil
 Kedini beslemeyi unutma!
 Minecraft'ın yüklenmesi biraz zaman alabilir
@@ -110,7 +110,7 @@ Anneni ara, onu mutlu et
 NEI recipe lookup: hover + R
 Standard boilers may explode when running full.
 Fluids can be voided with a drainage pipe.
-Drainage pipe may not be too good for the environment.
+A drainage pipe may not be too good for the environment.
 Foundry casts can be removed with a screwdriver.
 Hepsi oyunla alakalı
 Craft flippers to swim faster.
@@ -131,7 +131,7 @@ Pneumatic pipes move items instantly, and through unloaded chunks. (#10)
 Fluids can be voided with a drainage pipe. Çevre için çok iyi değil, yine de. (#11)
 Fanlar kızıl taş ile aktif edildi ve canlıları etrafa itiyor. Ağaç çiftliği için ideal. (#12)
 Mikro dalgayı en yüksek ayara ayarlama. (#13)
-Fractioning towers connect vertically, stacking them increases throughput. (#14)
+Fractionating towers connect vertically, stacking them increases throughput. (#14)
 Fullerite too difficult? Make fine soot with a pyrolysis oven. (#15)
 Exploration pays off. Ne bulucağını kim bilebilir. (#16)
 Hasta mı hissediyorsun? Check for nearby asbestos. (#17)
@@ -144,7 +144,7 @@ Using a screwdriver on a fluid burner will increase its burn rate. (#23)
 Using dye on a pylon will change the color of the connected wires. (#24)
 Capacitors are cheaper than energy storage blocks, and have faster discharging rates. (#25)
 Any foundry part can be emptied by using a shovel. This drops the contents as foundry scraps. (#26)
-Işınlayıcılar herhangi bir canlıyı ışınlıyabilir, taşıma bandında eşya olsa bile. (#27)
+Teleporters can teleport any entity, even items on a conveyor belt. (#27)
 Bazı tarifler yapılarda bulunan planlar gerektiriyor. You can also buy them from Bobmazon. (#28)
 Hepsi oyunla alakalı. (#V9)
 Winter will end just the same, no matter what. (#V9)
@@ -161,9 +161,9 @@ Uzayda nefes almak için bir zırh modifikasyon masasında zırhına PLSS ekleye
 Dost ateşi tolere edilemez! (#S8)
 Daha hızlı yüzmek için yüzgeç üret. (#S9)
 Bazen ağır botlar düşük yer çekiminde iş görüyor. (#S10)
-0.1atm basınç kadar küçük saf O2 içinde yaşayabilirsin. (#S11)
+You can survive in as little as 0.1 atm of pure O2. (#S11)
 Yardımsız nefes almak için sadece bir tane havalandırma lazım. (#S12)
 CO2 temizleyiciler ve alg filmleri, yörüngede sürekli olarak O2 geri kazanabilir. (#S13)
-Yörünge istasyonu gezemez mi? Daha fazla motor! (#S14)
+Your orbital station can't make a trip? Daha fazla motor! (#S14)
 Yörünge istasyonu sürücüsünü klonlamayı unutma! (#S15)
 vi vi vi. (#???)

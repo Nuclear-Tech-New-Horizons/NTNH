@@ -183,7 +183,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABdg.desc=§3Сливная труба§r
 
 # Quest: Do a Barrel!
 betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.name=Сделай бочку!
-betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Бочки§r - это блоки хранения, которые могут вмещать как жидкости, так и твёрдые блоки. Деревянные бочки со временем протекают и сгорают, если наполнены лавой, поэтому для таких рецептов используйте каменную бочку.%n%nБочки, размещённые под открытым небом, будут собирать дождевую воду во время осадков.%n%nКогда бочка наполнена органическим материалом, после полного заполнения начинается компостирование. Примерно через 100 секунд она производит блок земли, который извлекается нажатием правой кнопки мыши. Земля, оставленная рядом с мицелием, медленно превратится в блок мицелия - Шёлковое Касание не требуется.%n%nДеревянная бочка, наполненная §bВодой§r, размещённая рядом с булыжником, медленно превратит его в замшелый булыжник, тратя §e100 мБ§r на блок. Окружающие блоки не должны быть подвержены дождю. Размещение бочки на мицелии превращает её воду в §5Ведьмину Воду§r, хотя сама бочка может исчезнуть в процессе. Вода, текущая над бочкой, наполненной лавой, превращается в обсидиан.%n%nКаменные бочки могут призывать существ при использовании куклы: бочка с лавой и Злая Кукла призывает Ифрита, а бочка с §5Ведьминой Водой§r и Жуткая Кукла призывает Странника Края.%n%nБочки могут преобразовывать предметы с помощью жидкостей: §5Ведьмина Вода§r превращает песок в песок душ, лава превращает редстоун в незерак или светокаменную пыль в эндер-камень, а §bВода§r может превращать пыль в глину, молоко в шары слизи или грибное рагу в §5Ведьмину Воду§r.%n%n§2Воронки можно использовать для вставки и извлечения предметов из бочек, что позволяет легко автоматизировать компостирование.§r
+betterquesting.quest.Ba9zHp22SvGkBCr8xF5oQQ.desc=§3Бочки§r — это блоки хранения, которые могут вмещать как жидкости, так и твёрдые блоки. Деревянные бочки со временем протекают и сгорают, если наполнены лавой, поэтому для таких рецептов используйте каменную бочку.%n%nБочки, размещённые под открытым небом, будут собирать дождевую воду во время осадков.%n%nКогда бочка наполнена органическим материалом, после полного заполнения начинается компостирование. Примерно через 100 секунд она производит блок земли, который извлекается нажатием правой кнопки мыши. Земля, оставленная рядом с мицелием, медленно превратится в блок мицелия — Шёлковое Касание не требуется.%n%nДеревянная бочка, наполненная §bВодой§r, размещённая рядом с булыжником, медленно превратит его в замшелый булыжник, тратя §e100 мБ§r на блок. Окружающие блоки не должны быть подвержены дождю. Размещение бочки на мицелии превращает её воду в §5Ведьмину Воду§r, хотя сама бочка может исчезнуть в процессе. Вода, текущая над бочкой, наполненной лавой, превращается в обсидиан.%n%nКаменные бочки могут призывать существ при использовании куклы: бочка с лавой и Злая Кукла призывает Ифрита, а бочка с §5Ведьминой Водой§r и Жуткая Кукла призывает Странника Края.%n%nБочки могут преобразовывать предметы с помощью жидкостей: §5Ведьмина Вода§r превращает песок в песок душ, лава превращает редстоун в незерак или светокаменную пыль в эндер-камень, а §bВода§r может превращать пыль в глину, молоко в шары слизи или грибное рагу в §5Ведьмину Воду§r.%n%n§2Воронки можно использовать для вставки и извлечения предметов из бочек, что позволяет легко автоматизировать компостирование.§r
 
 # Quest: Sieving
 betterquesting.quest.CAGBwqHLQBStKodq03kwyw.name=Просеивание
@@ -195,7 +195,7 @@ betterquesting.quest.D0bv2vfWSkK1soyqHDwqjQ.desc=§6Талисман защит�
 
 # Quest: Diesel Generator
 betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.name=Дизельный генератор
-betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.desc=§3Дизельный Генератор§r - это компактный одноблочный генератор, который сжигает жидкое топливо для производства энергии. Благодаря своим небольшим размерам и совместимости с распространёнными побочными продуктами переработки нефти он является отличным выбором для источников энергии на раннем и среднем этапах игры.%n%nВнутри он вмещает до §b4,000 мБ§r жидкости, потребляемой с постоянной скоростью §e20 мБ/с§r. Также у него есть буфер энергии на §e50 кHE§r - но горение не останавливается, когда буфер заполнен, поэтому любая лишняя энергия теряется. Чтобы избежать этого, убедитесь, что ваши машины постоянно потребляют энергию.%n%nТопливо можно подавать через жидкостные трубы или помещая бочки во внутренние слоты для предметов. Можно вставить §6Идентификатор Жидкости§r, чтобы зафиксировать принимаемый тип топлива. Не все виды топлива одинаковы - эффективность зависит от сорта: топливо среднего качества работает с эффективностью §e50%%%%§r, высококачественное - §e75%%§r, а авиационное топливо - всего §e10%%§r. Низкосортное и газообразное топливо полностью отвергается.%n%n§2Совет: высококачественное топливо, такое как дизель, бензин и биотопливо, даёт лучшую отдачу - по возможности перерабатывайте нефть именно в них.§r
+betterquesting.quest.Eh_ylJU8TiiScjLN2_qmMA.desc=§3Дизельный Генератор§r — это компактный одноблочный генератор, который сжигает жидкое топливо для производства энергии. Благодаря своим небольшим размерам и совместимости с распространёнными побочными продуктами переработки нефти он является отличным выбором для источников энергии на раннем и среднем этапах игры.%n%nВнутри он вмещает до §b4,000 мБ§r жидкости, потребляемой с постоянной скоростью §e20 мБ/с§r. Также у него есть буфер энергии на §e50 кHE§r — но горение не останавливается, когда буфер заполнен, поэтому любая лишняя энергия теряется. Чтобы избежать этого, убедитесь, что ваши машины постоянно потребляют энергию.%n%nТопливо можно подавать через жидкостные трубы или помещая бочки во внутренние слоты для предметов. Можно вставить §6Идентификатор Жидкости§r, чтобы зафиксировать принимаемый тип топлива. Не все виды топлива одинаковы — эффективность зависит от сорта: топливо среднего качества работает с эффективностью §e50%%%%§r, высококачественное — §e75%%§r, а авиационное топливо — всего §e10%%§r. Низкосортное и газообразное топливо полностью отвергается.%n%n§2Совет: высококачественное топливо, такое как дизель, бензин и биотопливо, даёт лучшую отдачу — по возможности перерабатывайте нефть именно в них.§r
 
 # Quest: Wood-Burning Generator
 betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.name=Генератор на дровах
@@ -204,10 +204,6 @@ betterquesting.quest.Ek7Xr3XfSm-U7BYuBOACSA.desc=§3Генератор на др
 # Quest: Flint Tools
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Кремниевые инструменты
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=§6Flint Tools§r are required to obtain first wood and stone. Break some tree leaves and get saplings, to recraft them into sticks.%n%nAxes automatically break tree blocks from top to bottom to prevent floating trees. Hold Shift to disable this and break blocks normally.
-
-# Quest: Hunger System
-betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
-betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r делает голод реальной угрозой, а не легким неудобством.%n%nГолод теперь уменьшается пассивно со временем, даже в бездействии. Достижение нуля убивает вас мгновенно. Низкий уровень голода накладывает медлительность, слабость и снижает скорость добычи еще до смерти. Еда дает эффект §6Well Fed§r, который ускоряет регенерацию здоровья - чем больше порция, тем дольше он длится.%n%nПищевая ценность изменена в зависимости от размера порции. Сырые ингредиенты восстанавливают очень мало; приготовленные блюда восстанавливают значительно больше. Большие блюда едятся дольше и меньше стакаются в вашем инвентаре.%n%nСельскохозяйственные культуры растут только в дневное время и созревают гораздо дольше. Деревянные и каменные мотыги удалены - вам понадобится как минимум железная мотыга, чтобы вскопать почву. Грядки должны быть размещены рядом с водой, иначе они не будут функционировать.%n%n§dSpice of Life: Carrot Edition§r вознаграждает за разнообразие в рационе. Каждая уникальная еда, съеденная впервые, навсегда увеличивает ваше максимальное здоровье. Повторное употребление одной и той же еды не дает бонуса.%n%n§2Чем разнообразнее ваш рацион, тем больше у вас сердец - создайте разнообразную ферму как можно раньше.§r
 
 # Quest: Steel Furnace
 betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.name=Стальная печь
@@ -273,10 +269,6 @@ betterquesting.quest.XNHsXFGWTvW9dhuen9iEFg.desc=§3Радиальный про�
 betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.name=Злопасности
 betterquesting.quest.Zd1HNIsxSRees_4of0ezDw.desc=Этот мод добавляет несколько смертельных природных опасностей, которые не стоит игнорировать.%n%n§6Радиация§r измеряется в  RAD. Эффекты начинаются от §e200 RAD§r и постепенно страновятся хуже. Вплоть до моментальной смерти на §c1000 RAD§r. Используй §6Счётчик гейгера§r чтобы узнадь дозу полученной радиации. Броня с радиационной защитой и §6Рад-X§r уменьшат получемые RAD; §3Обеззараживатель игрока§r или §6Антирадин§r уберут полученную радиацию.%n%n§lМезотелиома§r развивается при вдыхании асбеста. Предметы с тегом §c[Содержит асбест]§r и некоторые блоки как Хризотил или Разбитая лабораторная плитка выделяют частички асбеста в воздух. Мезотелиома приводит к смерти без лечения.%n%n§lАнтракоз§r (чёрное лёгкое) развивается при вдыхании угольной пыли. Добыча угольной руды и предметы с тегом §c[Coal Dust]§r это основне её источники. Так же смертельна.%n%nПротивогаз защищает от обеих болезней одновременно. Так же их можно вылечить§6Лекарством от рака "SIOx"§r или в начале игры §6Травяной пастой§r - что является не очень хорошей идеей и имеет побочные эфекты.
 
-# Quest: Agriculture and Farming
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Агрокультура и земледелие
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=На сборке есть 3 мода, что перерабатывают фермерство и добавляют еду.%n%n§dPam's HarvestCraft§r добавляет 40+ новых культур, плодовых деревьев, пчеловодство, 10 рыб, и 75+ блюд. Нажимая по созревшому растению, выпадут плоды и растение посадится обратно автоматически. Основные блоки: %n§3Прессовщик§r, для получения масла, мёда, и других предметов.%n§3Рынок§r, позволяющий покупать саженцы и семена за изумруды.%n%n§dAgriCraft§r добавляет скрещивание культур с капелькой генетики. У каждого растения теперь есть 3 характеристики - Рост, Уражай(ность), и Сила. Гены высоких статов доминантные, то есть при скрещивании расстения с силой 1 и 2, плод получит силу 2. Сорняки будут появлятся на грядках и постепенно губить ваши растения. Расположение грядок теперь имеет значения, так как у расстений есть требованию к почве, cвету, и жидкостям.%n%n§dHunger Overhaul§r требует вскапывать почву только у водоёмов - поставить дёрн где-то в пустыне теперь не выйдет.%n%n
-
 # Quest: Stirling Sawmill
 betterquesting.quest._qJt02i4ST2iccmkHudKCg.name=Лесопика на генераторе Стирлинга
 betterquesting.quest._qJt02i4ST2iccmkHudKCg.desc=§3Лесопилка на генераторе Стирлинга§r использует тепло для распиливания деревянных предметов, производя §6Опилки§r в процессе. Опилки можно использовать для получения §6Бумаги§r, и при дальнейшей обработке их можно превратить в §6Древесный уголь§r в §3Коксовой печи§r.
@@ -327,7 +319,7 @@ betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=Эта сборка позво�
 
 # Quest: Oily Sand
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Маслянистый песок
-betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Маслянистый песок§r - это поверхностный блок, который генерируется посреди обычного песка, обычно в пустынях. Он служит индикатором залегающих непосредственно под ним месторождений §bбедроковых залежей нефти§r: если вы его нашли, значит, под землей есть нефть.%n%nВ §3дробилке§r этот песок можно переработать в §6нефтяные отходы§r, из которых затем получают §6мышьяк§r.%n%n§2Скопления маслянистого песка - самый надежный способ обнаружить бедроковую нефть, не прибегая к слепому бурению.\n
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Маслянистый песок§r — это поверхностный блок, который генерируется посреди обычного песка, обычно в пустынях. Он служит индикатором залегающих непосредственно под ним месторождений §bбедроковых залежей нефти§r: если вы его нашли, значит, под землей есть нефть.%n%nВ §3дробилке§r этот песок можно переработать в §6нефтяные отходы§r, из которых затем получают §6мышьяк§r.%n%n§2Скопления маслянистого песка — самый надежный способ обнаружить бедроковую нефть, не прибегая к слепому бурению.\n
 
 # Quest: Highway To Hell
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Дорога в Ад
@@ -396,7 +388,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Деш-сервоприво�
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=Защитный костюм M1TTY
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=§6Защитный костюм M1TTY§r - это недорогой комплект электрической брони, обладающий множеством полезных свойств. Он отлично подходит для исследования мира, так как значительно повышает скорость передвижения и позволяет быстро плавать.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=§6Защитный костюм M1TTY§r — это недорогой комплект электрической брони, обладающий множеством полезных свойств. Он отлично подходит для исследования мира, так как значительно повышает скорость передвижения и позволяет быстро плавать.
 
 # Quest: Antimatter
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=Антиматерия
@@ -464,7 +456,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=§3Промышленная п�
 
 # Quest: Coker Unit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Коксовая установка
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=§3Коксовая Установка§r - это машина, которая превращает нефтепродукты в §6Нефтяной Кокс§r, аналогичный другим видам кокса, а также в дополнительные жидкости в качестве побочных продуктов. Для работы коксовальной установки требуется внешний источник тепла, аналогично §Литейной§r.%n%n§2§r§2Наряду с §2§r§2§r§2Дуговой Электропечью, коксовальная установка является одной из самых загрязняющих машин в моде. Она распространяет 20 частиц сажи в секунду, что делает её опасной для использования рядом с гнездом глифидов.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=§3Коксовая Установка§r — это машина, которая превращает нефтепродукты в §6Нефтяной Кокс§r, аналогичный другим видам кокса, а также в дополнительные жидкости в качестве побочных продуктов. Для работы коксовальной установки требуется внешний источник тепла, аналогично §Литейной§r.%n%n§2§r§2Наряду с §2§r§2§r§2Дуговой Электропечью, коксовальная установка является одной из самых загрязняющих машин в моде. Она распространяет 20 частиц сажи в секунду, что делает её опасной для использования рядом с гнездом глифидов.
 
 # Quest: Auxilary Cooling Tower
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Вспомогательная градирня
@@ -601,7 +593,7 @@ betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=С помощью §3Бочки
 
 # Quest: Fusion Reactor
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=Термоядерный реактор
-betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=§3Термоядерный Реактор§r - большой, дорогой и продвинутый тип реактора, который работает за счёт синтеза различных видов плазмы для генерации тепла.%n%nОсновная часть термоядерного реактора, §3"Тор"§r, имеет четыре соединительных порта для внешних компонентов. Для работы требуется электричество и охлаждение §bПерфторметилом§r.%n%n§3Клистрон§r - основной источник энергии термоядерного реактора, который использует электричество и сжатый воздух для генерации входной энергии, §eKyU§r, для подключённого тора. Он будет снижать мощность, если запас электричества или сжатого воздуха упадёт ниже §e50%%§r, а если он упадёт ниже требуемого тором уровня, плазма погаснет.%n%nРазные виды плазмы также производят разные полезные побочные продукты и различные уровни нейтронного потока для наработки больших количеств материалов, таких как §6Литий§r в §6Тритий§r.%n%nДля сварки катушек потребуется §6Паяльная Лампа§r или §6Ацетиленовая Сварочная Горелка§r.%n%n§2Для получения информации о дополнительных компонентах и методах выработки энергии, пожалуйста, ознакомьтесь с двумя квестами ниже.§r
+betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=§3Термоядерный Реактор§r — большой, дорогой и продвинутый тип реактора, который работает за счёт синтеза различных видов плазмы для генерации тепла.%n%nОсновная часть термоядерного реактора, §3"Тор"§r, имеет четыре соединительных порта для внешних компонентов. Для работы требуется электричество и охлаждение §bПерфторметилом§r.%n%n§3Клистрон§r — основной источник энергии термоядерного реактора, который использует электричество и сжатый воздух для генерации входной энергии, §eKyU§r, для подключённого тора. Он будет снижать мощность, если запас электричества или сжатого воздуха упадёт ниже §e50%%§r, а если он упадёт ниже требуемого тором уровня, плазма погаснет.%n%nРазные виды плазмы также производят разные полезные побочные продукты и различные уровни нейтронного потока для наработки больших количеств материалов, таких как §6Литий§r в §6Тритий§r.%n%nДля сварки катушек потребуется §6Паяльная Лампа§r или §6Ацетиленовая Сварочная Горелка§r.%n%n§2Для получения информации о дополнительных компонентах и методах выработки энергии, пожалуйста, ознакомьтесь с двумя квестами ниже.§r
 
 # Quest: Large Factory Multiblocks
 betterquesting.quest.8XHLo-wQRN28gu4AwCtHVQ.name=Большие мультиблочные заводы
@@ -701,7 +693,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcA.desc=§6Нейтринные лин�
 
 # Quest: ZIRNOX
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.name=Цирнокс
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=§3ЦИРНОКС§r - это первый и самый дешёвый ядерный реактор, который можно создать. В отличие от §3ВВЭР§r и §3РБМК§r, это полностью собранный реактор, который для работы требует §bВоды§r и §bУглекислого газа§r.%n%nИз-за низкого количества пара, которое производит ЦИРНОКС, можно использовать одноблочные §3Паровые турбины§r, ценой эффективности в §e85%%§r, и один §3Паровой конденсатор§r на топливе низкой мощности. Таким образом, 24 §6Топливных стержня природного урана§r при использовании 14kmB диоксида углерода дадут выходную мощность около §e160kHE/s§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcg.desc=The §3ZIRNOX§r is the first and cheapest nuclear reactor one can make. Unlike the §3PWR§r and §3RBMK§r, it is a fully assembled reactor which requires §bWater§r and §bCarbon Dioxide§r to operate.%n%nDue to its modest steam output, the ZIRNOX can be paired with several §3Steam Engines§r, though an §3Industrial Turbine§r is recommended for its §e100%%§r efficiency. A single §3Steam Condenser§r handles the exhaust on lower power fuels. 24 §6Natural Uranium Fuel Rods§r using 14kmB of carbon dioxide will yield a power output of around §e240kHE/s§r.
 
 # Quest: Cooling Tower
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdQ.name=Градирня
@@ -950,7 +942,7 @@ betterquesting.quest.S0AQWdCYSeiUnhi2CmLszA.desc=§6Hafnium§r is a rare light m
 
 # Quest: Mun/Minmus
 betterquesting.quest.SyNchvx5TpG6S7lF4jtiOA.name=Мун (Луна)/Минмус
-betterquesting.quest.SyNchvx5TpG6S7lF4jtiOA.desc=Ваша первая точка назначения! Она буквально забита §6литием§r, §6кварцем§r и, что самое важное, является вашим первым источником §6никеля§r для начала производства §6нержавеющей стали§r для космического оборудования. §eЛуна§r - это первое небесное тело без атмосферы, доступное при обычном прохождении, необходимое для создания первого тира §6процессоров привода§r в §3вакуумном паяльнике§r.%n%n§eМинмус§r, альтернатива Луне (вариант «стороны Б»), отличается характерной эстетикой мятного мороженого с шоколадной крошкой. §3Помпы§r здесь работают, но вместо §bводы§r эта луна странным образом производит §bмолоко§r, что позволяет полностью автоматизировать производство §6масла§r, §6молочных коктейлей§r и §6мороженого§r.
+betterquesting.quest.SyNchvx5TpG6S7lF4jtiOA.desc=Ваша первая точка назначения! Она буквально забита §6литием§r, §6кварцем§r и, что самое важное, является вашим первым источником §6никеля§r для начала производства §6нержавеющей стали§r для космического оборудования. §eЛуна§r — это первое небесное тело без атмосферы, доступное при обычном прохождении, необходимое для создания первого тира §6процессоров привода§r в §3вакуумном паяльнике§r.%n%n§eМинмус§r, альтернатива Луне (вариант «стороны Б»), отличается характерной эстетикой мятного мороженого с шоколадной крошкой. §3Помпы§r здесь работают, но вместо §bводы§r эта луна странным образом производит §bмолоко§r, что позволяет полностью автоматизировать производство §6масла§r, §6молочных коктейлей§r и §6мороженого§r.
 
 # Quest: Laythe
 betterquesting.quest.Tz9bzhSZQLGbAIEh4Zckbg.name=Лэйт
@@ -1026,7 +1018,7 @@ betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.desc=A strange world, similar to §e
 
 # Quest: My First Volcano!
 betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.name=Мой первый вулкан!
-betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.desc=Формирование вулкана происходит благодаря §3вулканическому ядру§r - блоку, который непрерывно извергает §bлаву§r, позволяя вулкану расти. §bЛава§r быстро остывает, превращаясь в §6базальт§r или §6базальтовую руду§r.%n%nВ результате вулкан растёт довольно медленно, достигая высоты около 60 блоков за 20-30 минут.%n%n§bВулканическая лава§r отличается от §bобычной лавы§r не только внешним видом. Она «расплавляет» любые блоки, не обладающие взрывоустойчивостью, поэтому вулкан может разрастаться и под землёй.%n%n§6Базальтовые руды§r (§6асбест§r, §6сера§r, §6флюорит§r, §6молизит§r) образуются при остывании §bлавы§r, каждая с шансом 0,5%%.%n%n§6Руда вулканических самоцветов§r появляется с шансом 5%% при соблюдении следующих условий:%n- Все 6 блоков вокруг остывающей §bлавы§r являются §6базальтом§r или §bлавой§r;%n- Блок на 10 блоков выше остывающей §bлавы§r является §6базальтом§r или §bлавой§r;%n- Вокруг остывающей §bлавы§r находится менее 3 блоков §bлавы§r.%n%n§6Руда§r также образуется при контакте §bвулканической лавы§r с §6алмазной рудой§r.%nЭто означает, что §6вулканические самоцветы§r чаще всего появляются рядом с §3ядром§r или в §3кратере§r вулкана.%n%n§3Формирование радиоактивного вулкана§r%nЕсли §3вулканическое ядро§r в течение некоторого времени подвергается воздействию радиоактивных осадков (например, после ядерного взрыва неподалёку), §3ядро§r начнёт генерировать новую §bвулканическую радиоактивную лаву§r (жёлтого цвета), что в конечном итоге приведёт к формированию так называемого §3радиоактивного вулкана§r. Такой вулкан будет состоять не из §6базальта§r, а из различных типов §6закалённых селлафитовых блоков§r и §6селлафитовых руд§r. §bЛава§r будет превращать §6алмазную руду§r в §6радиоактивную самоцветную руду§r.%n
+betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.desc=Формирование вулкана происходит благодаря §3вулканическому ядру§r — блоку, который непрерывно извергает §bлаву§r, позволяя вулкану расти. §bЛава§r быстро остывает, превращаясь в §6базальт§r или §6базальтовую руду§r.%n%nВ результате вулкан растёт довольно медленно, достигая высоты около 60 блоков за 20–30 минут.%n%n§bВулканическая лава§r отличается от §bобычной лавы§r не только внешним видом. Она «расплавляет» любые блоки, не обладающие взрывоустойчивостью, поэтому вулкан может разрастаться и под землёй.%n%n§6Базальтовые руды§r (§6асбест§r, §6сера§r, §6флюорит§r, §6молизит§r) образуются при остывании §bлавы§r, каждая с шансом 0,5%%.%n%n§6Руда вулканических самоцветов§r появляется с шансом 5%% при соблюдении следующих условий:%n- Все 6 блоков вокруг остывающей §bлавы§r являются §6базальтом§r или §bлавой§r;%n- Блок на 10 блоков выше остывающей §bлавы§r является §6базальтом§r или §bлавой§r;%n- Вокруг остывающей §bлавы§r находится менее 3 блоков §bлавы§r.%n%n§6Руда§r также образуется при контакте §bвулканической лавы§r с §6алмазной рудой§r.%nЭто означает, что §6вулканические самоцветы§r чаще всего появляются рядом с §3ядром§r или в §3кратере§r вулкана.%n%n§3Формирование радиоактивного вулкана§r%nЕсли §3вулканическое ядро§r в течение некоторого времени подвергается воздействию радиоактивных осадков (например, после ядерного взрыва неподалёку), §3ядро§r начнёт генерировать новую §bвулканическую радиоактивную лаву§r (жёлтого цвета), что в конечном итоге приведёт к формированию так называемого §3радиоактивного вулкана§r. Такой вулкан будет состоять не из §6базальта§r, а из различных типов §6закалённых селлафитовых блоков§r и §6селлафитовых руд§r. §bЛава§r будет превращать §6алмазную руду§r в §6радиоактивную самоцветную руду§r.%n
 
 # Quest: Eve
 betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.name=Ева
@@ -1091,7 +1083,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=The §6Chicken Nugget§r is the
 
 # Quest: Exposure Chamber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Камера облучения
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=§3Камера облучения§r - это устройство, в котором можно создавать множество материалов, подвергая слитки воздействию определённых частиц. Наиболее важным из них является §6Динeйтроний§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=§3Камера облучения§r — это устройство, в котором можно создавать множество материалов, подвергая слитки воздействию определённых частиц. Наиболее важным из них является §6Динeйтроний§r.
 
 # Quest: Euphemium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=Эвфемий
@@ -1143,7 +1135,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate
 
 # Quest: Gerald the Construction Android
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Строительный андроид Геральд
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=§6Геральд, Строительный Андроид§r - самое мощное оружие в моде. Его использование вызывает побочный эффект в виде поджога всего мира, но также позволяет добыть тектит, содержащий §6Осмиридий§r.%n%nГеральд обладает самым сложным рецептом в моде, требующим сотен тысяч предметов, в основном связанных со схемами.%n%nПотребуются огромные количества §6Висмута§r, §6Тантала§r и §6Кремния§r, так что не сдерживайте себя в переработке бедроковой руды и распараллеливании многих процессов. Если вы ещё не использовали §dAE2§r, на данном этапе игры это настоятельно рекомендуется.%n%nЗапуск Геральда приведёт к глобальному огненному шторму, который уничтожит всё живое, включая все деревья и траву. Обязательно сделайте резервную копию своего мира перед его запуском.%n%n§2Чертежи для Геральда и Орбитального модуля можно найти в структурах или купить у Бобмазона.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=§6Геральд, Строительный Андроид§r — самое мощное оружие в моде. Его использование вызывает побочный эффект в виде поджога всего мира, но также позволяет добыть тектит, содержащий §6Осмиридий§r.%n%nГеральд обладает самым сложным рецептом в моде, требующим сотен тысяч предметов, в основном связанных со схемами.%n%nПотребуются огромные количества §6Висмута§r, §6Тантала§r и §6Кремния§r, так что не сдерживайте себя в переработке бедроковой руды и распараллеливании многих процессов. Если вы ещё не использовали §dAE2§r, на данном этапе игры это настоятельно рекомендуется.%n%nЗапуск Геральда приведёт к глобальному огненному шторму, который уничтожит всё живое, включая все деревья и траву. Обязательно сделайте резервную копию своего мира перед его запуском.%n%n§2Чертежи для Геральда и Орбитального модуля можно найти в структурах или купить у Бобмазона.
 
 # Quest: Osmiridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Осмиридий
@@ -1167,7 +1159,7 @@ betterquesting.quest.DOSq2NdFQ3Ojsk2F4OtgMQ.desc=§3Magnetohydrodynamic Turbines
 
 # Quest: Done
 betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.name=§cВсе
-betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Phew, that was quite a journey... Hopefully there is more to come with some modpack updates!%n%nNow [warn]GO TOUCH SOME GRASS IMMIDIATELY[/warn].
+betterquesting.quest.FmWwl9ntTjeMSWhXcVcTdg.desc=Phew, that was quite a journey... Hopefully there is more to come with some modpack updates!%n%nNow [warn]GO TOUCH SOME GRASS IMMIDIATELY[/warn].%n%n§6§lRATE OUR MODPACK: §r[url]https://moddex.gg/modpack/ntnewhorizons[/url]
 
 # Quest: Secret Catalogue
 betterquesting.quest.J9dwgncgSUydHFPUoI85oQ.name=Секретный каталог
@@ -1187,7 +1179,7 @@ betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.desc=The §3ICF Laser Turbocharger§
 
 # Quest: Balls-O-Tron
 betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.name=Баллс-О-Трон
-betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.desc=Balls-O-Tron is the second boss of §dNTM§r. It can be summoned by interracting the mechanist's circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.%n%nDue to the outdated nature of the bosses, aswell as the RNG needed to obtain some of the items, this quest provides an alternative way of obtaining the Balls-O-Tron coin.%n%n§2This quest can be repeated.
+betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.desc=§4Balls-O-Tron§r is the second boss of §dNTM§r. It can be summoned by interracting the mechanist's circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.
 
 # Quest: ICF Laser
 betterquesting.quest.nqmqybchRzWn-T46-3vHmQ.name=ICF лазер
@@ -1209,6 +1201,11 @@ betterquesting.questline.MJP4MeAmSTm_Di0iRHoQuw.desc=Советы и подск�
 # Quest: Infinite Water Sources
 betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.name=Источники бесконечной воды
 betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Устали от использования вёдер для питания ваших машин водой? Попробуйте использовать водяные насосы или бесконечные водонапорные баки!%n%nBесконечный водонапорный бак подаёт 50mb/t%nУлучшенный бесконечный водонапорный бак подаёт 500mb/t%nНасос подаёт 1000mb/t, но для работы требует пара.
+
+
+## Quest Line: Farming and Cooking
+betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.name=Farming and Cooking
+betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Everything about how to farm and cook.
 
 
 ## Quest Line: Building and Decorating
@@ -1242,27 +1239,6 @@ betterquesting.quest.p7NNm2NvRgWz37LQO6yraw.desc=§dArchitectureCraft§r пре�
 # Quest: Sign Pictures
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.name=Изображения на табличказ
 betterquesting.quest.wAu-q390TlKihyp-bEI2lw.desc=Мод §dSignPicture§r позволяет размещать любое изображение на табличке, открывая двери к множеству уникальных строительных дизайнов. Нажмите \\, чтобы начать.
-
-
-## Quest Line: Three hundred caps
-betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.name=Три сотни крышек
-betterquesting.questline.PUpgFX1lTJePHTcvicBC8g.desc=Добро пожаловать в магазин!
-
-# Quest: Sell Dust
-betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.name=Продать пыль
-betterquesting.quest.7NPMYwlyRnuUYaXsIwEgRg.desc=Ненавижу пыль!
-
-# Quest: Buy Minecraft Grade Copper
-betterquesting.quest.D2Exp9OuTbyYS9fJwtw2-g.name=Купить красную медь
-betterquesting.quest.D2Exp9OuTbyYS9fJwtw2-g.desc=Нужна красная медь? Купи её!
-
-# Quest: Buy Technetium Steel
-betterquesting.quest.QoKnQH_ETbiodGyDlEZzuA.name=Купить технециевую сталь
-betterquesting.quest.QoKnQH_ETbiodGyDlEZzuA.desc=Нужна технециевая сталь? Купи её!
-
-# Quest: Buy Steel
-betterquesting.quest.r6_zzsvOSRWQ6N6YCBilvw.name=Купить сталь
-betterquesting.quest.r6_zzsvOSRWQ6N6YCBilvw.desc=Нужна сталь? Купи её!
 
 
 ## Quest Line: Reward Area
@@ -1560,10 +1536,6 @@ betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.desc=Думаю, мне нужен �
 betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.name=Время убивать (Ведьма)
 betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.desc=Witches bring stitches because they are always infernal and very dangerous. Be careful since they throw potions at you.
 
-# Quest: Maskman
-betterquesting.quest.8b6batCvQvCiGknitRMrSQ.name=Время убивать (Маскмен)
-betterquesting.quest.8b6batCvQvCiGknitRMrSQ.desc=Маскмен - это первый босс НТМ. Чтобы призвать его, вы должны находиться под воздействием радиационного отравления (50 рад). Просто подождите, пока он прибудет.
-
 # Quest: MEGAKILL!
 betterquesting.quest.C7CLvAjyQUy2aNW1HiA7Ow.name=§4§lMEGAKILL!
 betterquesting.quest.C7CLvAjyQUy2aNW1HiA7Ow.desc=Ты убил их всех! §cТы монстр!
@@ -1659,17 +1631,25 @@ betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.desc=§cДобро пожалова�
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.name=Терраформер Дайсона
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.desc=The §3Dyson Anatmogenesis Terraformer§r provides the most utility out of all the currently available §3Dyson converters§r, accepting a beam from a receiver and providing a direct energy to mass conversion, producing planetary scale atmospheric gases, terraforming any planet or moon as a player sees fit.%n%nBy default it will release oxygen into an atmosphere, making it breathable once it crosses the 0.1atm threshold for breathing. A fluid identifier can be used to switch the gas emitted, and a screwdriver can switch it between emitting or extracting gases from the atmosphere.%n%nIf powered with §e150THE/s§r power from a swarm (equivalent to a swarm size of 1,024), it will take 8 hours to reach 0.1atm of pressure.
 
+# Quest: Maskman
+betterquesting.quest.8b6batCvQvCiGknitRMrSQ.name=Время убивать (Маскмен)
+betterquesting.quest.8b6batCvQvCiGknitRMrSQ.desc=Maskman is the first NTM boss. To summon it, you need to be under radiation poisoning (50 rad). A 20-minute timer starts per player when requirements are met. Once it runs out, Mask Man spawns. A warning appears 1 minute before spawn. If you are no longer irradiated, the timer resets.
+
 # Quest: Glyphids
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=Глифиды
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Глифиды§r - это крупные насекомые, представленные множеством разновидностей. В основном они появляются рядом с естественными гнездами. Все виды этих существ защищены панцирем, поэтому получают меньше урона по сравнению с обычными мобами. Глифидов обычно привлекает загрязнение, создаваемое игроком, и с ними, как правило, приходится сражаться самому игроку.\n\n§6Гнезда§r могут появляться естественным образом во всех биомах, кроме океанических, а также создаваться глифидами-разведчиками. Внутри них находятся блоки яиц глифидов и неплохой лут для начала игры, лежащий поверх этих яиц. При разрушении, блоки яиц порождают глифидов и дают предмет «Яйцо глифидов».\n\n§2Рекомендуется уничтожать все гнезда как можно скорее, чтобы предотвратить их дальнейшее распространение.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Glyphids§r are large insects that have many different types. They primarily spawn with naturally generated §6§rhives§r structures. All of the types are armored and they take less damage than against normal mobs. Glyphids are normally attracted to pollution created by the player, and usually have to be dealt with by the player.%n%n§6§r§6Hives§r can spawn naturally in all non-ocean biomes and can also be created by glyphid scouts. They contain several glyphid egg blocks and some low-tier loot inside, lying on top of eggs. glyphid egg blocks spawn glyphids and drop glyphid eggs upon destruction.%n%nGlyphids now periodically retarget the closest player every 5 seconds if their current target is farther. 1/3 of glyphids do not have this behavior to prevent infinite trapping.%n%n§2It is recommended that all hives are destroyed as soon as possible as to prevent their spread later on.
 
 # Quest: Useful Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Полезные инструменты
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=Существует множество инструментов, которые помогут вам продвигаться по моду, к наиболее важным относятся:%n%n§6Вольфрамовые хваталки§r - они снижают уровень радиационного облучения, получаемого игроком от предметов в инвентаре, а также позволяют удерживать в руках особо горячие предметы.%n%n§6Mk. V Устройство Для Вскрытия Ящиков "Лом"§r - используется для вскрытия ящиков, в которых можно найти еду и боеприпасы, на территории различных сооружений.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=Существует множество инструментов, которые помогут вам продвигаться по моду, к наиболее важным относятся:%n%n§6Вольфрамовые хваталки§r — они снижают уровень радиационного облучения, получаемого игроком от предметов в инвентаре, а также позволяют удерживать в руках особо горячие предметы.%n%n§6Mk. V Устройство Для Вскрытия Ящиков "Лом"§r — используется для вскрытия ящиков, в которых можно найти еду и боеприпасы, на территории различных сооружений.
 
 # Quest: Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Тантал
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material needed for the creation of some items, most importantly §6Capacitor Boards§r. Tantalium Polycrystal production requires §6Coltan§r which can be located by the use of a §6Coltass§r. Coltan can also be obtained by using the mining drill in a §eBedrock Ore Coltan Deposit§r located randomly on planet Dres. Tantalum can also be obtained via §3Watz Reactor§r.%n%n§2Coltan Processing at its early stage can provide Niobium needed for Catalytic Cracking Towers.
+
+# Quest: Hunger System
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
+betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.desc=§dHunger Overhaul§r делает голод реальной угрозой, а не легким неудобством.%n%nГолод теперь уменьшается пассивно со временем, даже в бездействии. Достижение нуля убивает вас мгновенно. Низкий уровень голода накладывает медлительность, слабость и снижает скорость добычи еще до смерти. Еда дает эффект §6Well Fed§r, который ускоряет регенерацию здоровья - чем больше порция, тем дольше он длится.%n%nПищевая ценность изменена в зависимости от размера порции. Сырые ингредиенты восстанавливают очень мало; приготовленные блюда восстанавливают значительно больше. Большие блюда едятся дольше и меньше стакаются в вашем инвентаре.%n%nСельскохозяйственные культуры растут только в дневное время и созревают гораздо дольше. Деревянные и каменные мотыги удалены - вам понадобится как минимум железная мотыга, чтобы вскопать почву. Грядки должны быть размещены рядом с водой, иначе они не будут функционировать.%n%n§dSpice of Life: Carrot Edition§r вознаграждает за разнообразие в рационе. Каждая уникальная еда, съеденная впервые, навсегда увеличивает ваше максимальное здоровье. Повторное употребление одной и той же еды не дает бонуса.%n%n§2Чем разнообразнее ваш рацион, тем больше у вас сердец - создайте разнообразную ферму как можно раньше.§r
 
 # Quest: Red Key
 betterquesting.quest.NB6qs0xZSHaY5Sik2IoTxg.name=Красный ключ
@@ -1682,6 +1662,10 @@ betterquesting.quest.VoxsH2isSheNEKaJ3_Ikgg.desc=§6Отвёртка§r испо
 # Quest: The End of Space...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.name=Край космоса...
 betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Что ж, ты завершил космическую стадию игры; теперь весь космос знает и боится тебя (ты настоящий космический пират). Вот ещё несколько нюансов о §3Рое Дайсона§r:%n%n§2Не ставьте §3конвертеры§r вплотную к §3ресиверу§r - это вызовет ошибку в работе.§r%n%n§2Множестао игроков в одном мире могут создавать несколько §3роев§r, однако посните что разные рои уменьшают §eэффективность§r друг друга. Это модет заставить игроков либо работать вместе над одним оьщим §3роем§r, либо соревноваться, чтобы извлекать больше §eэнергии§r из их собственного §3роя§r.§r
+
+# Quest: Agriculture and Farming
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Агрокультура и земледелие
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=На сборке есть 3 мода, что перерабатывают фермерство и добавляют еду.%n%n§dPam's HarvestCraft§r добавляет 40+ новых культур, плодовых деревьев, пчеловодство, 10 рыб, и 75+ блюд. Нажимая по созревшому растению, выпадут плоды и растение посадится обратно автоматически. Основные блоки: %n§3Прессовщик§r, для получения масла, мёда, и других предметов.%n§3Рынок§r, позволяющий покупать саженцы и семена за изумруды.%n%n§dAgriCraft§r добавляет скрещивание культур с капелькой генетики. У каждого растения теперь есть 3 характеристики - Рост, Уражай(ность), и Сила. Гены высоких статов доминантные, то есть при скрещивании расстения с силой 1 и 2, плод получит силу 2. Сорняки будут появлятся на грядках и постепенно губить ваши растения. Расположение грядок теперь имеет значения, так как у расстений есть требованию к почве, cвету, и жидкостям.%n%n§dHunger Overhaul§r требует вскапывать почву только у водоёмов - поставить дёрн где-то в пустыне теперь не выйдет.%n%n
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
