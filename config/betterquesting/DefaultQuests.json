@@ -5326,7 +5326,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "So you might be wondering where the farming quest line is well its not coming... this update that is, due to my busy schedule i didnt have enough time to finish it so here is a stack of cookies and a fun \"toy\" as a gift, have fun!",
+          "desc:8": "So you might be wondering where the farming quest line is well its not coming... this update that is, due to my busy schedule i didnt have enough time to finish it so here is a stack of cookies as a gift, have fun!",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -5376,12 +5376,6 @@
               "Damage:2": 0,
               "OreDict:8": "",
               "id:8": "minecraft:cookie"
-            },
-            "1:10": {
-              "Count:3": 1,
-              "Damage:2": 4,
-              "OreDict:8": "",
-              "id:8": "hbm:item.bomb_caller"
             }
           }
         }
