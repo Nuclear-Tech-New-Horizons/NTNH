@@ -65,15 +65,15 @@
 * Fixed a crash caused by typing any command on the server
 * Fixed pressing "/" not adding "/" in the chat
 * Fixed blur in Redstone-over-Radio Terminal
-* *Probably* fixed the brigadier issue (#92)
+* *Probably* fixed the brigadier issue ([#92](https://github.com/NTNewHorizons/NTNH/issues/92))
 * *Probably* fixed the skin issue
     * ~~Skill~~ Skin issue, my friend
 * Fixed andesite, diorite, granite, limestone and marble generation
-* Fixed #83
+* Fixed [#83](https://github.com/NTNewHorizons/NTNH/issues/83)
 * Fixed shaders being enabled BY DEFAULT 😭😭😭💔💔
 * Fixed "HOW THE FUCK?!" quest showing
     * It was supposed to be secret
-* Fixed #96
+* Fixed [#96](https://github.com/NTNewHorizons/NTNH/issues/96)
     * That's basically a misinformation
 * Fixed AUTOCAL's number comparison functions not working with variable substitution as advertised
 * Fixed broken thorium ore centrifuging recipe shown in NEI
