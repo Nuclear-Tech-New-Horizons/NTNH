@@ -283,3 +283,6 @@
 
 ## Download
 [GitGub](https://github.com/Nuclear-Tech-New-Horizons/NTNH/releases/tag/2.12.0)
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/ntnewhorizons)
+[Website](https://ntnewhorizons.com/download)
+[Technic](https://www.technicpack.net/modpack/nuclear-tech-new-horizons)
