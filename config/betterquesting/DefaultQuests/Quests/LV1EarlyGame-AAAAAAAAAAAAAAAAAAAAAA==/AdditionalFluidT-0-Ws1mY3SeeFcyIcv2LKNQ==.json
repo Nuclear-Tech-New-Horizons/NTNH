@@ -2,7 +2,7 @@
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 4
+      "questIDLow:4": 34
     }
   },
   "properties:10": {
@@ -17,18 +17,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.\n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.\n\nSteel tools come equiped with vein mining, making them an excellent early-game tool.\n\n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r",
+      "desc:8": "The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it\u0027s input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).\n\n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_blast_furnace"
+        "id:8": "hbm:item.siphon"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Blast Furnace",
+      "name:8": "Additional Fluid Tools",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -54,38 +54,20 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 9,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 1,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag",
-          "tag:10": {
-            "ench:9": {
-              "0:10": {
-                "id:2": 35,
-                "lvl:2": 3
-              }
-            }
-          }
-        }
-      }
-    }
-  },
+  "questIDHigh:4": -3177943925202138649,
+  "questIDLow:4": -8830676937478059467,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    },
+    "1:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
-      "index:3": 0,
+      "index:3": 1,
       "partialMatch:1": 1,
       "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
@@ -93,10 +75,33 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:tile.machine_blast_furnace"
+          "id:8": "hbm:item.siphon"
         }
       },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.pipette",
+          "tag:10": {
+            "capacity:2": 1000,
+            "fill:2": 0,
+            "type:2": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

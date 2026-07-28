@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 4
+      "questIDHigh:4": -1137739474903742698,
+      "questIDLow:4": -6514017938369638213
     }
   },
   "properties:10": {
@@ -17,18 +17,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.\n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.\n\nSteel tools come equiped with vein mining, making them an excellent early-game tool.\n\n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r",
+      "desc:8": "§6Chlorophyte§r is a product of fusion and is used in the §3DFC§r and §6Digamma Particle§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_blast_furnace"
+        "id:8": "hbm:item.powder_chlorophyte"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Blast Furnace",
+      "name:8": "Chlorophyte",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -54,31 +54,9 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 9,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 1,
-          "OreDict:8": "",
-          "id:8": "enhancedlootbags:lootbag",
-          "tag:10": {
-            "ench:9": {
-              "0:10": {
-                "id:2": 35,
-                "lvl:2": 3
-              }
-            }
-          }
-        }
-      }
-    }
-  },
+  "questIDHigh:4": 4525230689685946928,
+  "questIDLow:4": -8703660919680246660,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
@@ -93,7 +71,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:tile.machine_blast_furnace"
+          "id:8": "hbm:item.powder_chlorophyte"
         }
       },
       "taskID:8": "bq_standard:retrieval"

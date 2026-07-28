@@ -123,7 +123,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=The §3Arc Welder§r is a machi
 
 # Quest: Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Combination Oven
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently. 
 
 # Quest: Chemical Plant
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Chemical Plant
@@ -347,7 +347,7 @@ betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an in
 
 # Quest: Graphite
 betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r. 
 
 # Quest: From Flint to Oil - USA Simulator
 betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil - USA Simulator
@@ -1626,7 +1626,7 @@ betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You 
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Time to Kill (Skeleton)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen. 
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Time to Kill (Silverfish)
