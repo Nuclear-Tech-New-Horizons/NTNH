@@ -115,10 +115,15 @@
 * Fixed some issues regarding the new crane structure
 * Fixed skeletonizer ashes floating over the floor after landing
 * Fixed backface rendering of the capacitor frames when inserted in the battery socket
+* Fixed crash caused by crafting in the backpack GUI
 
 
 
 **Changed**
+* Removed Lan UPnP and E4mc due to high instability
+  * You may download and use those mods on your own risk
+* Removed Village Names
+  * Byee
 * Fully reworked ExNihilo loot tables
   * Removed all default ExNihilo ore gravel/sand/dust sieve drops
   * Sieve now drops bedrock ore fragments instead
@@ -218,7 +223,7 @@
 * Removed "Three Hundred Caps" questline
   * I can just modify Bobmazon's code bruh
 * There are x4 as much limestone underground
-* Updated russian and chinese localization
+* Updated russian, chinese, portugese and french localization
 * Updated the trinitite ore textures
   * The ore spots are now smaller and more shard-like
   * Each trinitite ore block now has four randomized texture variants
@@ -276,6 +281,12 @@
 * Updated the GUI textures for the refinery, various particle accelerator parts and a few other machines
 * Glyphid hive blocks now use state-of-the-fart flesh sounds
 * Mun/Minmus sulfuric non-metal bedrock is now lapis
+* Removed percipitation stat from the InGameInfo
+  * Useless broken shit
+* Removed AgriCraft's irrigation systems to fix weird rendering artifacts
+* Locked questlines are hidden by default
+* Removed instant night skip
+* Difficulty does not affect hunger rate anymore
 
 
 
