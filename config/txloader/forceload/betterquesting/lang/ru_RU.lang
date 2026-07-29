@@ -17,9 +17,17 @@ betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Поздравляю. Ты сд
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Двигатель Стирлинга
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3Двигатель Стирлинга§r использует тепло от §3Нагревательной печи§r или §3§r§Топки§r для производства энергии. Если для нагрева двигателя использовать нагревательную печь, он, вероятно, разгонится сверх нормы и повредится, отправив главную шестерню в полёт. У стального двигателя Стирлинга этой проблемы нет.%n%nТопка, работающая на угле с двигателем, производит §e2kHE/s§r, тогда как нагревательная печь с тяжёлым двигателем Стирлинга производит §e10kHE/s§r.
 
+# Quest: Additional Fluid Tools
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Additional Fluid Tools
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Паровой двигатель
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигатель§r - это ранний способ превращения §bПара§r в энергию. Он требует внешнего источника пара и способа сброса или переработки производимого им §bПара низкого давления§r. %n%nПаровой двигатель имеет энергетическую эффективность §e85%%§r, что делает его лучше §3Двигателя Стирлинга§r. Однако у него все еще есть ограничение пропускной способности, так как он может содержать только до 2000 mB пара. Его максимальная скорость обработки составляет 2000 mB/t, производя значительные §e3400 HE/t§r или §e68 kHE/s§r. Поэтому он является лучшим генератором, доступным до §3Паровых турбин§r.%n%nКотел, нагреваемый нагревательной печью с помощью угля, будет производить §e17kHE/s§r.
+
+# Quest: Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=The §3Automatic Thresher§r harvests crops such as §6Wheat§r, §6Hemp§r, §6Sugarcane§r, ect in a 7x7 area when supplied with fuel. It will eject all items from the back.%n%n[F1] for more information.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные структуры
@@ -67,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3Прессы§r - это м�
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Доменная печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3Доменная печь§r является основой ранних сплавов, способной производить сплавы, такие как §6Сталь§r, §6Звёздный метал§r и §6Красная медь§r. Создать доменную печь можно в §3наковальне 1-го уровня§r из каменных кирпичей, шамотных кирпичей и медных пластин.%n%nПоместите два совместимых материала в верхние и нижние слоты - порядок не имеет значения. Печь принимает как слитки, так и порошки. Принимает топливо в виде угля, кокса или другие твердые виды топлива; кокс и твердое топливо заполняют топливный бак эффективнее, чем обычный уголь. Каждая операция также производит §6Шлак§r и §bДымовой газ§r в качестве побочных продуктов.%n%nДля ускорения производства, подайте §bГорячий воздух§r в печь на §e200 mB/t§r для ускорения в §e500%%§r.%n%n§2Подсказка: Сохраните Дымовой газ - вы можете сжечь его в Газовой башне, чтобы получить немного энергии.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.%n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.%n%nSteel tools come equiped with vein mining, making them an excellent early-game tool.%n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Траншейная маска
@@ -235,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкост�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а &q&zФИЧА§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
@@ -255,7 +263,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Обшивки§r - это �
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Система генерации руд
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n[warn]Important![/warn]%nThe online Google Docs spreadsheet was DEPRECATED, use the one in Guide Book.%n%nOnline ore generation spreadsheet [warn](DEPRECATED)[/warn]%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=В §6NTNH§r, Система генерации руды была §полностью§r переработана и она продолжает получать обновления и исправления. Если она вам не нравится или кажется слишком сложной, у вас есть два варианта:%n1) Сообщить об этом нам, разработчикам%n2) Отключить мод Custom Ore Generation и настроить генерацию руды в файле hbm.cfg по своему усмотрению (за помощью можно обратиться в дискорд)%n%n[warn]Важно! [/warn]%nОнлайн таблица в Google Docs больше НЕ ПОДДЕРЖИВАЕТСЯ, используйте таблицу из внутриигрового руководства в (Guide Book).%n%nОнлайн-таблица генерации руды[warn]Устарела[/warn]%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Дозиметр
@@ -283,7 +291,7 @@ betterquesting.quest.bXgPsVSbTy6Az8yENEF99w.desc=Представьте, исп�
 
 # Quest: Heating Oven/Firebox
 betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.name=Нагревательная печь/топка
-betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=The §3Firebox§r and the §3Heating Oven§r are machines capable of producing heat from solid fuels for any machines that require heat to operate.%n%nHeat is measured in §eTU§r (§eThermal Units§r).%n%nBoth machines are similar in operation. In order for them to transfer heat, another machine for receiving the heat must be placed on top, such that the copper heat plate on the receiving machine sits on top of the copper heat plate of the heat producing machine.%n%nOnce constructed, these machines can be filled with solid fuel, which will burn until either the fuel runs out, or the heat buffer is filled. No fuel will be consumed if its buffer is full - as such, both machines are fairly efficient at conserving fuel.%n%nThe primary difference in these two machines lie in their speed: the firebox burns fuel much slower at full efficiency, whilst the heating oven produces five time the heat (but eight times faster). Despite its inefficiency, the heating oven is often preferred for its much higher heat outputs and heat capacity. However, it cannot heat a stirling engine, as its base output (500 TU/t) will automatically over-speed the engine; the heavy stirling engine does not have this issue.%n%nAdditionally, the heating oven can receive heat from other heat producing machines placed underneath it: multiple can be stacked for heat-hungry machines like the crucible. The heat received, however, is halved when transferring to the machine above.
+betterquesting.quest.cUWyKdzATTSYaMg1MxZqYw.desc=§3Топка§r и §3Нагревательная печь§r - это механизмы, способные производить тепло из твёрдого топлива для любых механизмов, требующих тепло для работы.%n%nТепло измеряется в §eTU§r (§eThermal Units§r).%n%nОба механизма схожи в работе. Чтобы они передавали тепло, другой механизм для получения тепла должен быть размещён сверху так, чтобы медная нагревательная пластина на принимающем механизме располагалась поверх медной нагревательной пластины теплопроизводящего механизма.%n%nПосле постройки эти механизмы можно заполнить твёрдым топливом, которое будет гореть до тех пор, пока либо топливо не закончится, либо буфер тепла не заполнится. Топливо не будет расходоваться, если его буфер полон - таким образом, оба механизма довольно эффективно экономят топливо.%n%nОсновное различие между этими двумя механизмами заключается в их скорости: топка сжигает топливо гораздо медленнее при полной эффективности, в то время как нагревательная печь производит в пять раз больше тепла (но в восемь раз быстрее). Несмотря на её неэффективность, нагревательная печь часто предпочтительнее из-за гораздо более высокой тепловой мощности и теплоёмкости. Однако она не может нагревать двигатель Стирлинга, так как её базовый выход (500 TU/t) автоматически разгонит двигатель; тяжёлый двигатель Стирлинга не имеет этой проблемы.%n%nДополнительно, нагревательная печь может получать тепло от других теплопроизводящих механизмов, размещённых под ней: несколько можно сложить в стопку для требовательных к теплу механизмов, таких как тигель. Однако получаемое тепло уменьшается вдвое при передаче к механизму выше.
 
 # Quest: Recycling
 betterquesting.quest.ceT8V2MeRz2u-FR9Uckarw.name=Переработка
@@ -353,9 +361,13 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=Для больших расс�
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Примитивная плавильня
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=§3Тигель§r является блоком из §dEx Nihilo§r, с помощью которого можно переплавить твёрдый блок в определённую жидкость. Сначала, из фарфоровой глины делается необожжённый тигель, ложится в печь, и превращается в полноценный §3Тигель§r.%n%nЧтобы использовать его, поставьте §3Тигель§r над источником тепла, и нажмите правой кнопкой мыши по тигелю, держа в руке нужный предмет. Скорость плавки зависит только от источника тепла - чем он сильнее, тем быстрее плавка. Самый лучший ванильный вариант - подожённый адский камень (незерак).%n%nОсновной способ применения - получение §bлавы§r из булыжника, камня, и других подобных блоков. Жидкости из §3тигеля§r никуда не пропадают, делаю его крайне дешёвым хранилищем жидкостей (хоть и не самым вместимым). Для откачки жидкости подключите трубы по бокам или ко дну. %n%n§2A Если поставите кучу тигелей, и подожгёте под ними незерак, вы получите отличный источник лавы для ранних этапов игры.%n%n§2В NEI показаны все доступные источники тепла и их эффективность.
 
+# Quest: Air Intake
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Air Intake
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=The §3Air Intake§r, when powered, produces §bCompressed Air§r needed in §3Pneumatic Pipes§r and §bHot Air Blast§r.
+
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Тутовый шелкопряд
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Шелкопряды§r - предметы из §dEx Nihilo§r и главный способ производства §6Ниток§r в условиях ограниченных ресурсов. Их нельзя создать, единственный способ их получить сломать листву с помощью §6Посоха§r.%n%nЧтобы использовать §6Шелкопряда§r, нажмите правую кнопки мыши с ним в руках на любую листву. Листва постепенно будет заражаться, становясь белой, а заражение будет переходить от листве к листве. Полностью белые листья дают больше §6Ниток§r чем не полностью заражённые.%n%nПосле того как листья полностью заразились, сломайте их с помощью §6Посоха§r или рукой для получения §6Ниток§r и дополнительных §6Шелкопрядов§r, позволяя возобновить процесс. Из заражённых листьев не падают саженцы или яблоки, так что вам стоит иметь лишние саженцы перед %niзаражением дерева.%n%n§2Шелкопряды так же могут быть использованы в качестве компоста в бочке.
 
 # Quest: Industrial Hemp & Mustard Willow
 betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Конопля и горчичная ива
@@ -579,6 +591,10 @@ betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=§3Лазерный шахтё�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Эпоха Реакторов
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=По мере роста потребностей в энергии потребуются более мощные источники энергии. Эта глава охватывает ядерные реакторы, а также другие продвинутые машины, необходимые для производства все более прочных материалов.
 
+# Quest: Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.name=Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.desc=§6Tungsten Carbide§r is an alloy made from §6Tungsten§r and §bSyngas§r in a §3Pyrolysis Oven§r. It is mainly used in crafting neutron reflectors for reactors and nukes.
+
 # Quest: Plasma Forge
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=Плазменная кузница
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.desc=The §3Plasma Forge§r is a large and advanced assembler that requires a running fusion reactor to work. It can weld plates at twice the speed of a normal welder. It does not accept upgrades, however, it can use up otherwise useless fission fragments and unstable isotopes to gain a temporary §ex4§r speed bonus with no penalty.
@@ -705,7 +721,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeA.desc=§6Ionized Particles§r are the
 
 # Quest: HEV Mark IV
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.name=Костюм HEV модели IV
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=The §6HEV Mark IV§r is a strong electric armor set, with the intent of keeping the user safe primarely from dangerous hazards, such as high levels of radiation, fire, certain air particles and more. The suit comes equiped with an §6Geiger Counter§r and custom hud.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=§6HEV Модель IV§r это мощная электрическая броня, создана для защиты пользователя от опасностей, таких как высокие уровни радиации, огонь, небезопасные частицы в воздухе и многое другое. В костюм встроен §6Счётчик Гейгера§r и уникальный интерфейс.
 
 # Quest: Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Висмут
@@ -761,7 +777,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAww.desc=§6Кристаллически
 
 # Quest: High-Performance Solvent
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.name=Высокоэффективный растворитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bHigh-Performance Solvent§r is a solvent which is used in an §3Ore Acidizer§r to further increase the products of bedrock ores, as well as other recipes. It can be created from §bReformate Gas§r, from a §3Vacuum Refinery§r, and §bChlorine§r in an §3Industrial Mixer§r or be obtained from an §3RBMK§r Irradiation Channel.%n%nTo transport High-Performance Solvent by hand, a §6Hazardous Material Tank§r is needed.%n%n§2High-Performance Solvent made from an RBMK irradiation channel requires an ore acidizer.%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABPQ.desc=§bВысокоэффективный растворитель§r - это растворитель, который используется в §3Рудном окислителе§r для дальнейшего увеличения продуктов бедроковых руд, а также в других рецептах. Его можно создать из §bРеформированного газа§r, из §3Вакуумной нефтеперерабатывающей установки§r, и §bХлора§r в §3Промышленном смесителе§r или получить из канала облучения §3РБМК§r.%n%nДля транспортировки высокоэффективного растворителя вручную необходим §6Резервуар для опасных материалов§r.%n%n§2Высокоэффективный растворитель, произведённый из канала облучения РБМК, требует рудный окислитель.%n
 
 # Quest: Radiation-Powered Engine
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABeA.name=Радиационный двигатель
@@ -782,6 +798,10 @@ betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3Спариватель те�
 # Quest: Desh Stamps
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Штампы Деш
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Штампы из Деша§r имеют бесконечную прочность, идеально подходят для автоматизации.
+
+# Quest: Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.name=Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.desc=§6Chlorophyte§r is a product of fusion and is used in the §3DFC§r and §6Digamma Particle§r.
 
 # Quest: High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=Обработка бедроковой руды с использованием высокоэффективного растворителя
@@ -818,6 +838,10 @@ betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.desc=§3Бочка с отработ
 # Quest: Technetium-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.name=Технеций-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Технеций-99§r является распространённым побочным продуктом деления §6Урана§r и §6Плутония§r. Он в основном используется для изготовления §6Технециевой Стали§r и §dAE2 компонентов хранения§r.
+
+# Quest: Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bHelium-4§r is a product of fusion and is mainly used in crafting §6Quantum Processing Units§r.
 
 # Quest: Satellite Launching
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Запуск спутников
@@ -902,7 +926,7 @@ betterquesting.quest.HvPzivF4SWWIDt5syO87xA.desc=§6PLSS§r - это модиф�
 
 # Quest: Ike
 betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.name=Айк
-betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.desc=§eIke§r, the sole moon of §eDuna§r, has hints of a past as a significant hazardous waste dump, with large spires and pyramids reminiscent of potential designs on Earth for warning future civilizations of great danger in relation to nuclear waste. §eMeteor dungeons§r spawn more frequently here, and pools of §bAlkyl Bromide§r can be found on the surface.%n
+betterquesting.quest.KItM5UOCSNmCMNKnohadaQ.desc=§eАйк§r, единственная луна §eДюны§r, имеет намеки на то, что в прошлом она использовалась как мусорка для опасных веществ, с большими каменными штыками и пирамидами. §eМетеоритные подземелья§r появляются чаще, и озера состоящие из §bСмеси алкилбромидов§r можно найти на поверхности.%n
 
 # Quest: Armospheric Liquefaction Tower
 betterquesting.quest.KQqx-tttRfG2DNO4tLbSCw.name=Башня сжижения воздуха
@@ -1009,8 +1033,8 @@ betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.name=Дрес
 betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.desc=This planet has some of the most prized resources in the whole system, with even the primary fraction of bedrock ore consisting of incredibly valuable metals and materials. §6Niobium§r, §6Coltan§r, and §6Lanthanium§r ore is present here in vast quantities.
 
 # Quest: StarDar Remote Access Console
-betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.name=StarDar Remote Access Console
-betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.desc=Enables remote access to StarDar.
+betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.name=Консоль удалённого доступа к радиотелескопу StarDar
+betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.desc=Позволяет пользоваться StarDar дистанционно.
 
 # Quest: Tekto
 betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.name=Текто
@@ -1034,10 +1058,10 @@ betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.desc=A very valuable gemstone that i
 
 # Quest: Hydrazine
 betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.name=Гидразин
-betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.desc=§bHydrazine§r is a powerful rocket fuel which is needed to operate a §3Drop Pod§r.
+betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.desc=§bГидразин§r это мощное ракетное топливо, которое необходимо для §3Десантной капсулы§r.
 
 # Quest: Rocket Transporter Pad
-betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.name=Rocket Transporter Pad
+betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.name=Станция ракетного транспортера
 betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.desc=§3Станция ракетного транспорта§r необходима для отправки и получения грузов между небесными телами.%n%n§3Транспортные ракеты§r, подобные §3ресурсным модулям§r или §3сборщикам газовых гигантов§r, автоматически перемещают различные грузы. Чтобы система заработала, вам потребуется как минимум одна пара связанных платформ§r.%n%nПлатформы имеют отсеки для исходящих и входящих предметов (синий и оранжевый соответственно)§r, а также могут работать с жидкостями при помощи §3специальных буферов§r.%n%nЧтобы связать платформы, нажмите Shift+ПКМ §6соединителем ракетного транспорта§r по одной платформе, чтобы сохранить её, а затем нажмите ПКМ по другой платформе. Чтобы открыть интерфейс связки§r, нажмите ПКМ по платформе с соединителем в руке: в нём отобразится информация о местоположении связанных платформ.%n%nЧтобы назначить одну из этих точек пунктом приёма, нажмите кнопку в начале строки§r.%n%nДля запуска транспортной ракеты§r станцию необходимо заправить §bжидким кислородом§r и §bводородом§r.
 
 # Quest: Moho
@@ -1059,27 +1083,27 @@ betterquesting.quest.6PZEF2npTwy_exs-JQAKYg.desc=Увиличиваит палу
 
 # Quest: Particle Capsules
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.name=Капсулы частиц
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Particles are important items required to create exotic materials which are needed for most of the endgame content.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Частицы являются важными предметами, требующимися для создания экзотических материалов, которые необходимы для большей части контента в эндгейме.
 
 # Quest: Quantum Computer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=Квантовый компьютер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r. %n%n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=§6Quantum Computer§r является самым мощным из любых других устройств управления. В настоящее время он используется только для построения §6Gerald§r. %n%n§2A потребуется целый стак, так что сейчас самое время для улучшения инфраструктуры создания.
 
 # Quest: Solid State Quantum Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=Solid State Quantum Processor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=The §6Solid State Quantum Processor§r is the first quantum circuit related component needed to make §6Quantum Processing Units§r and §6Quantum Computers§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=§6Solid State Quantum Processor§r является первым квантовым процессором, который необходим для того, чтобы сделать §6Quantum Processing Units§r и §6Quantum Computers§r.
 
 # Quest: DNT Nanosuit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.name=DNT-Нанокостюм
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.desc=The §6DNT Nanosuit§r is final goal of the mod. By crafting this armor you have reached the end of progression.%n%n§5Thanks for playing!
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.desc=§6DNT Nanosuit§r — это конечная цель мода. Создавая эту броню вы закончили прогресс.%n%n§5Спасибо за игру!
 
 # Quest: DFC
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=DFC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=The §3DFC§r is the last reactor of the mod and as such is very expensive to craft. Apart from the DFC parts, two §6Catalysts§r are needed for the reactor to work.%n%nIt is recommended that the wiki is checked out.%n%n[url]https://nucleartech.wiki/wiki/DFC[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=§3DFC§r является последним реактором мода и поэтому крафт очень дорогой. Помимо частей DFC, необходимы два §6Catalysts§r для работы реактора.%n%nрекомендуется проверить wiki.%n%n[url]https://nucleartech.wiki/wiki/DFC[/url]
 
 # Quest: Chicken Nugget
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.name=Куриный наггетс
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=The §6Chicken Nugget§r is the best food item in the mod, completely filling up both hunger and saturation. It is made by colliding 2 raw chickens in a §3Particle Accelerator§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATQ.desc=§6Куринный нагетс§r — это лучший предмет еды, полностью заполняющий голод и насыщенность. Засуньте в §3Ускоритель частиц§r 2 куска сырого мяса курицы.
 
 # Quest: Exposure Chamber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.name=Камера облучения
@@ -1087,23 +1111,23 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZg.desc=§3Камера облучен�
 
 # Quest: Euphemium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.name=Эвфемий
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=§6Euphemium§r is a fictional material which serves as one of the mod's most endgame materials. It's extremely expensive to produce in large amounts and you will need great advancement through the mod to use it effectively.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_A.desc=§6Эфемиум§r — это выдуманный материал, который является одним из самых конечных материалов в моде. Его очень дорого производить в больших количествах и вам потребуется большой прогресс в моде чтобы эффективно использовать его.
 
 # Quest: Dineutronium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.name=Динетроний
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=§6Dineutronium§r is the mod's (almost) ultimate material. It's a final tier material and is a higher tier than even §6Euphemium§r. It is very difficult to produce and it's used to make the most absurd and broken items this mod has. The only material that is more difficult to make, would be §6Osmiridium§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_Q.desc=§6Динетрониум§r это (почти) самый последний материал. Это материал последнего уровня, он даже выше чем §6Эфемиум§r. Его очень сложно производить. Используется для того, чтобы сделать самые абсурдные и сломанные вещи, которые имеет этот мод. Единственный материал, который крафтится сложнее, §6Осмиридиум§r.
 
 # Quest: The Digamma Particle
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=The Digamma Particle
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.name=Частица «Дигамма»
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_g.desc=The §c§r§4§r§6Digamma Particle§r is created by colliding a §6Sparkticle Capsule§r with a §6Higgs Boson Capsule§r in a §3Particle Accelerator§r. Making it in the particle accelerator will require §6Chlorophyte Coils§r and momentum of 70,000.%n%nThe digamma particle emits a different kind of radiation, §4DRX§r, which currently can only be countered by the use of digamma medication, most notably §6Enteramine Pills§r, which provide full immunity against DRX for 10 minutes. After the §3DFC§r, Fau armor can be crafted which provides full resistance against DRX.
 
 # Quest: Murky Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.name=Мрачная наковальня
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=The§3 Murky Anvil§r is the ultimate version of the §3Anvil§r, having all recipes unlocked.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA_w.desc=§3 Murky Anvil§r является последней версией §3Наковальни§r, в которой все рецепты разблокированы.
 
 # Quest: Quantum Processing Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=Quantum Processing Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=The §6Quantum Processing Unit§r is the first quantum circuit one makes, used in the §3Particle Accelerator§r and §3ICF§r reactor.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.name=Квантовая обработка
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=§6Квантовая обработка§r это первая квантовая схема, используемая в §3Ускорителе частиц§r и §3ICF§r реакторе.
 
 # Quest: ICF
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=ИТС
@@ -1205,12 +1229,16 @@ betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Устали от исполь�
 
 ## Quest Line: Farming and Cooking
 betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.name=Farming and Cooking
-betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Everything about how to farm and cook.
+betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Всё что нужно знать о том, как готовить еду и добывать её.
 
 
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Строительство и декорирование
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Улучшите свои постройки, используя Chisel, Architecturecraft и Better Builder's Wands.
+
+# Quest: Building Gadget
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.name=Building Gadget
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.desc=The §6Building Gadget§r is an advanced building tool which allows the user to create many complex shapes with ease. Press the ALT key to open its menu.%n%n§2It consumes power for blocks placed.§r
 
 # Quest: Auto Chisel
 betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.name=Автоматическая стамеска
@@ -1280,7 +1308,7 @@ betterquesting.quest.1rIaClFKQbGXrdGi5-Eppg.desc=Parallelisation of processes ca
 
 # Quest: ME IO Port
 betterquesting.quest.4DM_-wpzThCM_KaSMIPmNA.name=МЭ порт ввода/вывода
-betterquesting.quest.4DM_-wpzThCM_KaSMIPmNA.desc=The §3ME IO Port§r can transfer the contents of storage cells into an ME Network and back.
+betterquesting.quest.4DM_-wpzThCM_KaSMIPmNA.desc=§3МЭ порт ввода/вывода§r может перенести содержимое ячеек хранения в MЭ сеть и обратно.
 
 # Quest: Spatial IO
 betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.name=Spatial IO
@@ -1288,15 +1316,15 @@ betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.desc=§3Spatial IO§r is a way to cu
 
 # Quest: AE2 Changes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.name=Изменения в AE2
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=In this modpack, §dApplied Energistics 2§r has been changed to fit in more with §dNTM§r. Many components have been changed to include NTM materials and some machines, like the §3Grinder§r and §3Inscriber§r, have had their functions moved to the §3Shredder§r and §3Press§r. The meteors have also been removed, but §6Skystone§r can still be crafted for building purposes.%n%nThis Chapter of the quests has its information derived from the FTB Wiki. If anything else is missing from the quest book, please visit the wiki.%n%n[url]https://ftbwiki.org/Applied_Energistics_2[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=В данной сборке, §dApplied Energistics 2§r был переработан чтобы лучше сочитаться с §dNTM§r. Многие вещи были изменены чтобы включить в них предметы и механизмы из NTM, механизмы из AE2 такие как §3Дробитель§r и §3Высекатель§r, были убраны, а их крафты пересены в §3Измельчитель§r и §3Пресс§r. Метеориты были убраны, но §6Небесный камень§r может быть создан и использован в виде строительного материала.%n%nВся информация из квестов была взята с вики FTB. Если чего-то не хватает, пожалуйста обратитесь к вики FTB.%n%n[url]https://ftbwiki.org/Applied_Energistics_2[/url]
 
 # Quest: Certus Quartz Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=Кристалл истинного кварца
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=§6Certus Quartz§r is an important material in AE2. It is dropped when mining or processing certus quartz ore at the rate of one to four, the yield is affected by a tool's Fortune enchantment. Certus Quartz is often interchangeable with vanilla §6Nether Quartz§r in the recipes for basic tools, such as the §6Quartz Cutting Knife§r. Certus quartz ore can be acidized or centrifuged for an increased yield.%n%n§2Certus quartz can later be made in a Chemical Plant using nether quartz.
 
 # Quest: Crystal Growth Chamber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.name=Crystal Growth Chamber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.desc=The§3 Crystal Growth Chamber§r is a machine in which crystals can grow at an increased speed, while also being in a block instead of being dropped in the ground.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.name=Камера роста кристаллов
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.desc=§3 Камера роста кристаллов§r - механизм в котором ваши кристаллы будут расти с увеличенной скоростью. Так же ваши кристаллы будут находиться внутри самой камеры, а не на земле.
 
 # Quest: Wireless Terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=Беспроводной терминал
@@ -1312,11 +1340,11 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.desc=§6Fluix Crystals§r are anothe
 
 # Quest: Crystal Growth Accelerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=Ускоритель роста кристаллов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=The §3Crystal Growth Accelerator§r is a machine that uses energy to accelerate the process of crystal purification. This process transforms crystal seeds into pure versions of their fully developed counterparts.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.desc=§3Ускоритель роста кристаллов§r это машина, которая использует энергию для ускорения процесса роста кристаллов. Этот процесс преобразует кристальные семена в чистые версии самих кристаллов.
 
 # Quest: Charger
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.name=Зарядник
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=The §3Charger§r is a machine which will charge §6Certus Quartz Crystals§r into their charged form at the expense of power.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcw.desc=§3Зарядное устройство§r это машина, которая заряжает §6Кристаллы истинного кварца§r в их заряженную форму используя энергию.
 
 # Quest: Cable Fluix
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAeQ.name=Изменчивый кабель
@@ -1355,8 +1383,8 @@ betterquesting.quest.Ig84-U5cRH-rxH76bIGE9A.name=P2P
 betterquesting.quest.Ig84-U5cRH-rxH76bIGE9A.desc=§6P2P§r Tunnel or "Point to Point Tunnels" are a versatile configurable system to move items / redstone / power / and fluids from one location to another though an existing ME Network without storage.%n%nTunnels are §e1 input to N outputs§r. This means you can output to as many points as you want, but only input at a single point per tunnel.%n%nNetworks can support any number of tunnels, of any different types, and they all function independently.%n%nME tunnels can be used to carry channels from one location to another, and can carry up to §e32 channels§r, same as a §6ME Dense Cable§r, while only requiring a single channel per point, making tunnels a very powerful tool to expand me networks, especially over a distance. However with the great flex-ability they give you comes a limitation, the channel of a p2p tunnel cannot be carried by another p2p tunnel, meaning that you cannot nest them recursively.%n%nTo configure a P2P tunnel you must first attune the tunnel to carry what you want it to, then you need to configure the outputs to their input. You configure the connections by using the §6Memory Card§r. First Shift+Right Click the input to save it on your memory card, then simply right click the different outputs to store the input onto the outputs. this also sets the type of the output to match the type of the input.%n%n§2An advanced version of the Memory Card can also be made, which interacts with the entire network.
 
 # Quest: Wireless Crafting Terminal
-betterquesting.quest.Iyj0bDhVRpCgzmAF4vP30A.name=Wireless Crafting Terminal
-betterquesting.quest.Iyj0bDhVRpCgzmAF4vP30A.desc=An upgraded version of the §6Wireless Terminal§r, capable of crafting items on the go.
+betterquesting.quest.Iyj0bDhVRpCgzmAF4vP30A.name=Беспроводной терминал крафта
+betterquesting.quest.Iyj0bDhVRpCgzmAF4vP30A.desc=Улучшенная версия §6Беспроводного терминала§r, позволяющая создавать предметы дистанционно.
 
 # Quest: Interface P2P
 betterquesting.quest.Kcfw9puQQo-iehBFrlOp4g.name=Интерфейс P2P
@@ -1669,7 +1697,7 @@ betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=На сборке есть 3 м
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=В то время как §6Квест книжка§r пытается дать как можно больше информации текстом, она не является полным руководством по содержанию сборки.%n%nВот для чего нужно §6Руководство§r! Поддерживаемое сообществом, постоянно расширяющееся и ну &q&zооооочень§r красивое!
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!%n%n§2Note: this Guide Book can be opened via the keybind
 
 
 ### Quests in no quest lines ###
