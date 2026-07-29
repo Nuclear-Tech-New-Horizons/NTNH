@@ -17,9 +17,17 @@ betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=Parabéns. Você conseguiu, voc
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Motor Stirling
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=O §3Motor Stirling§r usa calor de um §3Fogão§r ou um §3§r§3Caixa de fogo§r para produzir energia. Se uma Fogão é usado para aquecer um motor Stirling, ele provavelmente vai ir rápido demais e danificá-lo, fazendo com que a engrenagem principal saia voando. O motor stirling pesado não tem esse problema. %n%numa caixa de fogo movida a carvão com um motor stirling produz §e2kHE/s§r, enquanto um fogão com um motor stirling pesado produz §e10kHE/s§r.
 
+# Quest: Additional Fluid Tools
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Additional Fluid Tools
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Motor a vapor
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=O §3Motor a Vapor§r é um método inicial para transformar §bVapor§r em energia. Ele requer uma fonte externa para fornecer vapor e uma maneira de descartar ou reprocessar o §bVapor de Baixa Pressão§r que ele produz. %n%nO Motor a Vapor possui uma eficiência energética de §e85%%§r, tornando-o melhor que o §3Motor Stirling§r. No entanto, ele ainda possui um limite de vazão, pois consegue armazenar apenas até 2000 mB de vapor. Sua taxa máxima de processamento é de 2000 mB/t, produzindo consideráveis §e3400 HE/t§r ou §e68 kHE/s§r. É, portanto, o melhor gerador disponível antes das §3Turbinas a Vapor§r.%n%nUma caldeira sendo aquecida por um forno de aquecimento usando carvão produzirá §e17kHE/s§r.
+
+# Quest: Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=The §3Automatic Thresher§r harvests crops such as §6Wheat§r, §6Hemp§r, §6Sugarcane§r, ect in a 7x7 area when supplied with fuel. It will eject all items from the back.%n%n[F1] for more information.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Estruturas Abandonadas
@@ -67,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=As §3Prensas§r são máquinas
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Alto-forno
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=O §3Alto-forno§r é a base da criação de ligas metálicas no início do jogo, capaz de fundir dois insumos compatíveis em materiais como §6Aço§r, §6Metal Estelar§r e §6Cobre Vermelho§r. Crie-o em uma §3Bigorna de Tier 1§r usando tijolos de pedra, tijolos refratários e placas de cobre.%n%nColoque dois materiais compatíveis nos slots superior e inferior - a ordem não importa. A fornalha aceita insumos tanto em formato de lingote quanto de pó. Alimente-a com carvão, coque ou outros combustíveis sólidos; o coque e o combustível sólido enchem a barra de combustível de forma mais eficiente do que o carvão comum. Cada operação também produz §6Escória§r e §bGás de Combustão§r como subprodutos.%n%nPara um processamento mais rápido, injete §bAr Quente§r na fornalha via tubos a §e200 mB/t§r para acelerá-la em até §e500%%§r da sua velocidade base.%n%n§2Dica: Guarde o subproduto Gás de Combustão - você pode queimá-lo em uma Torre de Queima mais tarde para recuperar um pouco de energia.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.%n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.%n%nSteel tools come equiped with vein mining, making them an excellent early-game tool.%n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Trench Mask
@@ -235,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=The §6Multi Fluid Identifier§
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Known Issues
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Additional NTM Modes
@@ -352,6 +360,10 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=For greater distances, and impr
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check NEI for all valid heat sources and their melt rates.
+
+# Quest: Air Intake
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Air Intake
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=The §3Air Intake§r, when powered, produces §bCompressed Air§r needed in §3Pneumatic Pipes§r and §bHot Air Blast§r.
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
@@ -579,6 +591,10 @@ betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=The §3Mining Laser§r is a las
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Reactors Age
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=As energy needs increase, more powerful energy sources will be needed. This chapter covers Nuclear Reactors aswell as other advanced machines needed to produce ever stronger materials.
 
+# Quest: Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.name=Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.desc=§6Tungsten Carbide§r is an alloy made from §6Tungsten§r and §bSyngas§r in a §3Pyrolysis Oven§r. It is mainly used in crafting neutron reflectors for reactors and nukes.
+
 # Quest: Plasma Forge
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=Plasma Forge
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.desc=The §3Plasma Forge§r is a large and advanced assembler that requires a running fusion reactor to work. It can weld plates at twice the speed of a normal welder. It does not accept upgrades, however, it can use up otherwise useless fission fragments and unstable isotopes to gain a temporary §ex4§r speed bonus with no penalty.
@@ -783,6 +799,10 @@ betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=The §3Fusion Reactor Coupler§
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh Stamps
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Desh Stamps§r have infinite durability, perfect for automation.
 
+# Quest: Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.name=Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.desc=§6Chlorophyte§r is a product of fusion and is used in the §3DFC§r and §6Digamma Particle§r.
+
 # Quest: High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.desc=§bHigh-Performance Solvent§r is the best tier of solvent which can be used in bedrock ore processing, yielding many rare materials such as§6 Bismuth§r and §6Technetium-99§r.%n%n§2These materials are not available from earth bedrock ores.
@@ -818,6 +838,10 @@ betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.desc=The §3Spent Fuel Pool Drum§r 
 # Quest: Technetium-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.name=Technetium-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Technetium-99§r is a common waste product from the fission of §6Uranium§r and §6Plutonium§r. It is mainly used in making §6Technetium Steel§r and §dAE2 Storage Components§r.
+
+# Quest: Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bHelium-4§r is a product of fusion and is mainly used in crafting §6Quantum Processing Units§r.
 
 # Quest: Satellite Launching
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Satellite Launching
@@ -1211,6 +1235,10 @@ betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Everything about how to far
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Improve your builds by using Chisel, Architecturecraft and Better Builder's Wands.
+
+# Quest: Building Gadget
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.name=Building Gadget
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.desc=The §6Building Gadget§r is an advanced building tool which allows the user to create many complex shapes with ease. Press the ALT key to open its menu.%n%n§2It consumes power for blocks placed.§r
 
 # Quest: Auto Chisel
 betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.name=Auto Chisel
@@ -1669,7 +1697,7 @@ betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!%n%n§2Note: this Guide Book can be opened via the keybind
 
 
 ### Quests in no quest lines ###

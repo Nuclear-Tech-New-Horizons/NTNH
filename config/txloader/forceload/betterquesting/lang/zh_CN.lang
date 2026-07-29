@@ -17,9 +17,17 @@ betterquesting.quest.-FdHmQJDSNCih5noZiI5-w.desc=恭喜你，你做到了，你�
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=斯特林发电机
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3斯特林发动机§r使用来自§3加热炉§r或§3§r§3燃烧室§r产生的热量来产生动力。如果使用加热炉来加热斯特林发动机，它可能会超速并损坏发动机，导致主齿轮飞出。重型斯特林发动机没有这个问题。%n%n使用煤炭作为燃料的燃烧室配合斯特林发动机工作时，其能量输出为§e2kHE/s§r；而配备加热炉的重型斯特林发动机则具有§e10kHE/s§r的能量输出。
 
+# Quest: Additional Fluid Tools
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Additional Fluid Tools
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=蒸汽机
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3蒸汽机§r是一种在游戏早期用于将§b蒸汽§r转化为能量的方法。蒸汽机需要外部蒸汽来源，并且还需要处理或重新利用它所产生的§b低压蒸汽§r的装置。%n%n蒸汽机的能源利用效率高达§e85%§r，因此它的性能优于§3斯特林发电机§r。然而，它仍然存在处理能力上的限制——因为它最多只能容纳2000mB的蒸汽。它的最大处理速度为2000mB/t，因此每tick产生§e3400HE§r的能量，或者每秒§e68kHE§r的能量。因此，在制造出§3汽轮机§r之前，这种蒸汽机确实是最优秀的发电机。%n%n通过使用煤炭的加热炉进行加热的锅炉，可以达到§e17kHE/s§r的发电效率。
+
+# Quest: Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=The §3Automatic Thresher§r harvests crops such as §6Wheat§r, §6Hemp§r, §6Sugarcane§r, ect in a 7x7 area when supplied with fuel. It will eject all items from the back.%n%n[F1] for more information.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=废弃结构
@@ -67,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3锻压机§r是一种可以�
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3高炉§r是游戏初期进行合金制造的基础设备，它可以将两种材料融合在一起，从而制成§6钢铁§r、§6星金属§r和§6紫铜§r之类的材料。需要在§3一级砧§r使用石砖、耐火砖和铜板来制造它。%n%n将两种材料分别放入顶部和底部的物品槽中——顺序无关紧要。该炉子可以接受锭状或粉末状的原料。使用用煤、焦炭或其他固体燃料作为燃料；与普通煤相比，焦炭和固体燃料能更有效地填充燃料槽。在运行过程中，还会产生§6炉渣§r和§b烟道气§r作为副产品。%n%n为加快处理速度，以§e200 mB/t§r的速率将§b热空气§r注入炉中，从而使其速度提升至基础速度的§e500%%§r。%n%n§2 副产品烟道气可以先储存起来，日后可在高架火炬中燃烧它，从而回收部分能量。§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.%n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.%n%nSteel tools come equiped with vein mining, making them an excellent early-game tool.%n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=战壕面具
@@ -235,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6多类型流体识别码§r�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=已知问题
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=不是漏洞, 是&q&z特性§r!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=NTM的其他模式
@@ -352,6 +360,10 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=对于远距离电力传输及�
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=原始坩埚
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel%nand power production.%n§2Check NEI for all valid heat sources and their melt rates.
+
+# Quest: Air Intake
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Air Intake
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=The §3Air Intake§r, when powered, produces §bCompressed Air§r needed in §3Pneumatic Pipes§r and §bHot Air Blast§r.
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=蚕
@@ -579,6 +591,10 @@ betterquesting.quest.zYS6AlyFSuuMUErAJqPcTg.desc=§3采矿激光§r是一种可�
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=NTM: 反应堆
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=随着能源需求的增加，你需要更强大的能源来源。本章介绍了核反应堆以及那些用于制造更强材料的先进设备。
 
+# Quest: Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.name=Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.desc=§6Tungsten Carbide§r is an alloy made from §6Tungsten§r and §bSyngas§r in a §3Pyrolysis Oven§r. It is mainly used in crafting neutron reflectors for reactors and nukes.
+
 # Quest: Plasma Forge
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.name=等离子锻炉
 betterquesting.quest.29WtP39ZRSClYLinoAxQpQ.desc=§3等离子锻炉§r是一种功能强大且先进的焊接设备，其运行需要依赖正在运行的聚变反应堆。它的焊接速度是普通焊接设备的两倍。这种设备无法进行升级处理。不过，它可以利用那些原本无用的裂变碎片和不稳定的同位素来获得暂时的§e4倍§r高速焊接效果，而且没有任何负面后果。
@@ -783,6 +799,10 @@ betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3聚变反应堆等离子体�
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh锻模
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Desh锻模§r具有无限的耐久，非常适合用于自动化生产线。
 
+# Quest: Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.name=Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.desc=§6Chlorophyte§r is a product of fusion and is used in the §3DFC§r and §6Digamma Particle§r.
+
 # Quest: High-Performance Solvent Bedrock Ore Processing
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.name=高性能溶剂处理基岩矿石
 betterquesting.quest.QusK-8T-TGmBWETwmxosJQ.desc=§b高性能溶剂§r属于最优质的溶剂，可用于基岩矿石的加工，从而获得多种稀有材料，如§6铋§r和§6锝-99§r。%n%n§2这些材料无法从地球上的基岩矿石中获取。
@@ -818,6 +838,10 @@ betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.desc=§3乏燃料池§r用于为从�
 # Quest: Technetium-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.name=锝-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6锝-99§是§6铀§r和§6钚§r裂变过程中产生的常见副产品。它主要用于制造§6锝钢§以及§dAE2的储存组件§r。
+
+# Quest: Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bHelium-4§r is a product of fusion and is mainly used in crafting §6Quantum Processing Units§r.
 
 # Quest: Satellite Launching
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=卫星发射
@@ -1211,6 +1235,10 @@ betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Everything about how to far
 ## Quest Line: Building and Decorating
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=建筑与装饰
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=更好的建筑之杖
+
+# Quest: Building Gadget
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.name=Building Gadget
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.desc=The §6Building Gadget§r is an advanced building tool which allows the user to create many complex shapes with ease. Press the ALT key to open its menu.%n%n§2It consumes power for blocks placed.§r
 
 # Quest: Auto Chisel
 betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.name=自动雕刻机
@@ -1669,7 +1697,7 @@ betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=指导书
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=虽然§6任务书§r会尽力提供尽可能多的信息，但它并不能涵盖游戏中的所有内容。%n%n而这正是§6指导书§r的作用——由玩家社区共同编写，内容不断更新，而且外观也&q&z非常出色§r！
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!%n%n§2Note: this Guide Book can be opened via the keybind
 
 
 ### Quests in no quest lines ###
