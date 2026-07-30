@@ -75,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3Прессы§r - это м�
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Доменная печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.%n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.%n%nSteel tools come equiped with vein mining, making them an excellent early-game tool.%n%n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3Доменная печка§r это твердотопливная печка, используемая для создания различных сплавов из двух материалов. Основные начальные сплавы: §6Красная медь§r и §6Сталь§r. При подаче §bГорячего воздуха§r, который создаётся нагревом §bСжатого воздуха§r в §3Бойлере§r, скорость доменной печи улучшается в §e3x§r.%n§bДымовой газ§r, который производит доменная печь, можно сжечь для получения энергии.%n%nСтальные предметы имеют жилковый майнер, что делает их отличными инструментами в ранней игре.%n%n§2Для более продвинутых инструментов позже, нажатие клавиши ALT вызовет меню, из которого можно выбрать несколько способностей одновременно.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Траншейная маска
@@ -243,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкост�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а &q&zФИЧА§r!%n%nКогда вы потребляете еду, ваши руки могут трястись, как если бы Стив был СЛИШКОМ СИЛЬНО рад то что он ест.%n%nВ настоящее время у нас нет идеи, как исправить эту ошибку, но мы пытаемся!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
@@ -362,8 +362,8 @@ betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Примитивная плав
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=§3Тигель§r является блоком из §dEx Nihilo§r, с помощью которого можно переплавить твёрдый блок в определённую жидкость. Сначала, из фарфоровой глины делается необожжённый тигель, ложится в печь, и превращается в полноценный §3Тигель§r.%n%nЧтобы использовать его, поставьте §3Тигель§r над источником тепла, и нажмите правой кнопкой мыши по тигелю, держа в руке нужный предмет. Скорость плавки зависит только от источника тепла - чем он сильнее, тем быстрее плавка. Самый лучший ванильный вариант - подожённый адский камень (незерак).%n%nОсновной способ применения - получение §bлавы§r из булыжника, камня, и других подобных блоков. Жидкости из §3тигеля§r никуда не пропадают, делаю его крайне дешёвым хранилищем жидкостей (хоть и не самым вместимым). Для откачки жидкости подключите трубы по бокам или ко дну. %n%n§2A Если поставите кучу тигелей, и подожгёте под ними незерак, вы получите отличный источник лавы для ранних этапов игры.%n%n§2В NEI показаны все доступные источники тепла и их эффективность.
 
 # Quest: Air Intake
-betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Air Intake
-betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=The §3Air Intake§r, when powered, produces §bCompressed Air§r needed in §3Pneumatic Pipes§r and §bHot Air Blast§r.
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Воздухозаборник
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=§3Воздухозаборник§r, когда включен, производит §bСжатый воздух§r, необходимый для §3Пневмотруб§r и §bГорячего воздуха§r.
 
 # Quest: Silkworm
 betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Тутовый шелкопряд
@@ -800,7 +800,7 @@ betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Штампы Деш
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.desc=§6Штампы из Деша§r имеют бесконечную прочность, идеально подходят для автоматизации.
 
 # Quest: Chlorophyte
-betterquesting.quest.PszZViltQjCHNmKB7QJcfA.name=Chlorophyte
+betterquesting.quest.PszZViltQjCHNmKB7QJcfA.name=Хлорофит
 betterquesting.quest.PszZViltQjCHNmKB7QJcfA.desc=§6Chlorophyte§r is a product of fusion and is used in the §3DFC§r and §6Digamma Particle§r.
 
 # Quest: High-Performance Solvent Bedrock Ore Processing
@@ -840,7 +840,7 @@ betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.name=Технеций-99
 betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Технеций-99§r является распространённым побочным продуктом деления §6Урана§r и §6Плутония§r. Он в основном используется для изготовления §6Технециевой Стали§r и §dAE2 компонентов хранения§r.
 
 # Quest: Helium-4
-betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Helium-4
+betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Гелий-4
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bHelium-4§r is a product of fusion and is mainly used in crafting §6Quantum Processing Units§r.
 
 # Quest: Satellite Launching
@@ -1002,7 +1002,7 @@ betterquesting.quest.ZPfHiJvPQIutgvhSROlbeQ.desc=The §3StarDar§r is your base 
 
 # Quest: Atmospheric Compressor
 betterquesting.quest.aZBaZGfVRHeXWmLqDHjuUw.name=Атмосферный компрессор
-betterquesting.quest.aZBaZGfVRHeXWmLqDHjuUw.desc=The §3Atmospheric Compressor§r collects air from different planets. In combination with a §3Cryogenic Distillation Machine§r it can produce many useful fluids and gasses.
+betterquesting.quest.aZBaZGfVRHeXWmLqDHjuUw.desc=§3Atmospheric Compressor§r собирает воздух с разных планет. В сочетании с §3Cryogenic Distillation Machine§r он может производить много полезных жидкостей и газов.
 
 # Quest: Solar Panel
 betterquesting.quest.dVwxKlQ5SzaxZjGNcLFMEw.name=Солнечная панель
@@ -1018,19 +1018,19 @@ betterquesting.quest.gaeSExcOTaawSPifbbIVtg.desc=В отличие от свое
 
 # Quest: Orbital Station Computer
 betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.name=Компьютер орбитальной станции
-betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.desc=The §3Orbital Station Computer§r, when having a drive inserted into it, can move the station to its destination.%n%n§3Thrusters§r with fuel are required to be attached to the station.
+betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.desc=§3Компьютер орбитальной станции§r, при наличии в нём "drive inserted" может переместить станцию ​​к месту назначения.%n%n§3Thrusters§r с топливом должны быть установлены на станции.
 
 # Quest: Alkylation Unit
 betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.name=Alkylation Unit
-betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.desc=The §3Alkylation Unit§r is designed to convert lighter hydrocarbons into useful heavier hydrocarbon products. From §bNatural Gas§r it can produce §bUnsaturated§r and §bAromatic hydrocarbons§r, commonly used for §6Rubber§r and §6Bakelite§r, and even produce §bBTX§r via the use of §bHigh-Performance Solvent§r. As a utility, it can also alkylate §bPetroleum Gas§r into §bLight Oil§r.
+betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.desc=§3Alkylation Unit§r предназначен, чтобы превратить лёгкие углеводороды в полезные более тяжелые углеводородные продукты. Из §bNatural Gas§r он может производить §bUnsaturated§r и §bAromatic hydrocarbons§r, обычно используется для §6резины§r и §6Bakelite§r и даже производить §bBTX§r с помощью §bHigh-Performance Solvent§r. Кроме того, это сооружение позволяет проводить алкилирование §bPetroleum Gas§r, превращая его в §bLight Oil§r.
 
 # Quest: Microgravity Algae Film
 betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.name=Microgravity Algae Film
-betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.desc=The §3Microgravity Algae Film§r is a machine is made of specialized layers of laythe plants that will convert §bCarbon Dioxide§r directly into §bLiquid Oxygen§r. They however only function when in orbit.%n%nThe §3CO2 Scrubber§r allows you to recover carbon dioxide from a pressurized room. This is occasionally useful when building space stations.
+betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.desc=§3Microgravity Algae Film§r это машина из специализированных слоёв растений, которые преобразуют §bУглекислый газ§r прямо в §bLiquid Oxygen§r. Однако они функционируют только на орбите.%n%n§3CO2 Scrubber§r позволяет извлекать углекислый газ из помещения, находящегося под давлением. Это иногда бывает полезно при строительстве космических станций.
 
 # Quest: Dres
 betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.name=Дрес
-betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.desc=This planet has some of the most prized resources in the whole system, with even the primary fraction of bedrock ore consisting of incredibly valuable metals and materials. §6Niobium§r, §6Coltan§r, and §6Lanthanium§r ore is present here in vast quantities.
+betterquesting.quest.rkMKa7TCT5u0jJsdH6TWnw.desc=На этой планете сосредоточены одни из самых ценных ресурсов во всей системе: даже основная часть добываемой из бедроковых пород руды состоит из невероятно ценных металлов и материалов. §6Ниобиум§r, §6Coltan§r и §6Lanthanium§r руды присутствуют здесь в огромных количествах.
 
 # Quest: StarDar Remote Access Console
 betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.name=Консоль удалённого доступа к радиотелескопу StarDar
@@ -1038,7 +1038,7 @@ betterquesting.quest.seA5V2QkTCO9NcMwAjcDIA.desc=Позволяет пользо
 
 # Quest: Tekto
 betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.name=Текто
-betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.desc=A strange world, similar to §eEarth§r, where life is different because the vegetation, the only form of life there, is made of complex polymers, like rubber§r and plastic§r.%n%nTekto bedrock ore doesn’t have the non-metal variant; instead, it is replaced by the plastic variant, from which the player can obtain §6Polymer§r, §6Rubber§r, §6Semtex§r and §6PVC§r.
+betterquesting.quest.tryLG0jySbGKMHzTFhvWOA.desc=Странный мир, похожий на §eЗемлю§r, где жизнь устроена иначе, поскольку растительность это единственная форма жизни там - состоит из сложных полимеров, таких как резина§r и пластик§r.%n%nTekto бедрок руда не имеет неметаллической разновидности; вместо неё используется пластиковый вариант, из которой игрок может получить §6полимер§r, §6резину§r, §6Semtex§r и §6PVC§r.
 
 # Quest: My First Volcano!
 betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.name=Мой первый вулкан!
@@ -1046,15 +1046,15 @@ betterquesting.quest.vTg3C5JATXuER43bG5IiiQ.desc=Формирование вул
 
 # Quest: Eve
 betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.name=Ева
-betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.desc=While it is possible to travel here with only a tier 2 drive processor to exploit the incredibly powerful schrabidic resources that exist here, players will not last long without the appropriate armor inserts, due to the highly corrosive atmosphere melting any armor it comes into contact with.%n
+betterquesting.quest.vWpv_FM5QYqYHsRsaNNwog.desc=Хотя сюда можно отправиться, имея лишь процессор 2-го уровня, чтобы воспользоваться невероятно мощными "Шрабидиевыми ресурсами", игроки не продержатся долго без соответствующих вставок для брони: здешняя крайне агрессивная атмосфера разъедает любую броню при контакте.%n
 
 # Quest: Rocket Assembling and Launching
 betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.name=Сборка и запуск ракет
-betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.desc=The §3Vehicle Assembly Base§r is a structure which is one of the most vital parts of your space-faring efforts. It'll allow you to stack your rockets and plan out each segment of your journey. Note that each rocket stage allows for one launch from a celestial body to another, so a two-stage rocket can make a round-trip between, say, the Earth and the Mun.%n%nThe §3Rocket Launch Pad§r is the only launch pad capable of supporting the various fuel loads and complex requirements of the stacked rockets. This is the only way to fuel up a rocket too, so you'll want to make multiple stages for launching from bodies without a pad. The pad itself has a GUI that'll indicate what your rocket requires to be launched.
+betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.desc=§3Vehicle Assembly Base§r это структура, являющееся одним из важнейших элементов вашей деятельности по освоению космоса. Он позволит вам собрать ракеты и спланировать каждый сегмент вашего путешествия. Следует отметить, что каждая ступень ракеты позволяет совершить один запуск с одного небесного тела на другое, поэтому двухступенчатая ракета может совершить круговой полет, например, между Землей и Луной.%n%n§3Rocket Launch Pad§r — это единственная стартовая площадка, способная обеспечить различные варианты заправки топливом и удовлетворить сложные требования, предъявляемые к собранным ракетам. Это единственный способ заправить ракету, поэтому для запуска с небесных тел, не оборудованных стартовой площадкой, вам придется создавать многоступенчатые конструкции. У самой стартовой площадки есть графический интерфейс, который показывает, что требуется для запуска вашей ракеты.
 
 # Quest: Volcanic Gem
-betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.name=Volcanic Gem
-betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.desc=A very valuable gemstone that is used to create a §6Cast Pickaxe§r, §6Meteorite Talisman§r, §6Black Diamond§r, §6Composite Euphemium Plates§r and §6Special 227mm Shells§r.
+betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.name=Вулканический Самоцвет
+betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.desc=Очень ценный драгоценный камень, который используется для создания §6Cast Pickaxe§r, §6Meteorite Talisman§r, §6Black Diamond§r, §6Composite Euphemium Plates§r и §6Special 227mm Shells§r.
 
 # Quest: Hydrazine
 betterquesting.quest.xo0vihnyQgq8RTEi2c_ZZQ.name=Гидразин
@@ -1066,16 +1066,16 @@ betterquesting.quest.y2yrIQ6QRve-p9fRVJD0YA.desc=§3Станция ракетн�
 
 # Quest: Moho
 betterquesting.quest.yWu2LtytQjGg65tFXTo2ow.name=Мохо
-betterquesting.quest.yWu2LtytQjGg65tFXTo2ow.desc=A fair-dinkum planet, hot as hell, and full of rare resources generally only found in the Nether. §6Australium§r is only found here, in vast quantities deep under the surface. Some of the largest caves ever generated within Minecraft can be found here.
+betterquesting.quest.yWu2LtytQjGg65tFXTo2ow.desc=Настоящая планета, жаркая как ад и полная редких ресурсов, которые обычно встречаются только в Незере. §6Australium§r встречается только здесь, в огромных количествах глубоко под поверхностью. Некоторые крупнейшие пещеры, созданные в Minecraft, можно найти здесь.
 
 
 ## Quest Line: LV4 - End Game
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.name=LV4 - Конец Игры
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=Delve into Impossible Physics, Quantum Computing, Magic and maybe even destroy the world.%nThis chapter is about building the most advanced machines to reach the end goal of the mod.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAw.desc=Погрузитесь в невозможную физику, квантовые вычисления, магию и, возможно, даже уничтожьте мир.%nЭта глава рассказывает о создании самых продвинутых машин для достижения конечной цели мода.
 
 # Quest: ICF Fuels
 betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.name=Топлива ICF
-betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.desc=The §3ICF§r can process different combinations of fuels at different laser power levels. A cheap and renewable fuel that can be used to gather the §bStellar Flux§r needed for §6Gerald§r and make decent power is §bHelium-4 - Hydrogen§r.%n%nApplying a Muon Particle to a fuel pellet will decrease the power that is needed to run it.
+betterquesting.quest.2BKf-swBTG61f8eVn9ynhw.desc=§3ICF§r может обрабатывать различные комбинации топлива на различных уровнях лазерной мощности. Дешевое и возобновляемое топливо, которое может быть использовано для сбора §bStellar Flux§r нужного для §6Gerald§r и получения достойной энергии §bHelium-4 - Гидроген§r.%n%nПрименение Muon Particle на топливную таблетку снизит мощность, необходимую для её работы.
 
 # Quest: Dineurtom amrr
 betterquesting.quest.6PZEF2npTwy_exs-JQAKYg.name=Динетронима браня
@@ -1131,31 +1131,31 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbQ.desc=§6Квантовая обра�
 
 # Quest: ICF
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=ИТС
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=The §3ICF§r reactor is a very expensive and powerful reactor, which can produce a substantial amount of energy. Apart from the multiblock itself, §3ICF Lasers§r must be constructed for the reactor to work. §bStellar Flux§r will be produced during its operation which is needed to craft §6Gerald§r. Consider making use of §bLiquid Lead§r as it is a very efficient coolant for the ICF.%n%nIt is recommended that the wiki is checked out as it has built-in calculators for the laser power consumption and the amount of hot coolant it produces.%n%n[url]https://nucleartech.wiki/wiki/Inertial_Confinement_Fusion_Reactor[/url]
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=§3ICF§r реактор очень дорогой и мощный, он может производить значительное количество энергии. Кроме самого мультиблока, §3ICF Lasers§r должен быть построен для работы реактора. В процессе работы будет вырабатываться §bStellar Flux§r, необходимый для создания §6Gerald§r. Рассмотрите возможность использования §bLiquid Lead§r, так как это очень эффективный охладитель для ICF.%n%nРекомендуется ознакомиться с вики, так как на ней есть встроенные калькуляторы для расчета энергопотребления лазера и и количество горячей охлаждающей жидкости.%n%n[url]https://nucleartech.wiki/wiki/Inertial_Confinement_Fusion_Reactor[/url]
 
 # Quest: Spark Laser Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=Spark Laser Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=The §6Spark Laser Crystal§r unlocks new recipes, most importantly it is used to create §6Osmiridium§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=§6Spark Laser Crystal§r открывает новые рецепты, самое главное используется для создания §6Осмиридиума§r.
 
 # Quest: The Book of Boxcars
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=Книга Вагонов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.desc=The §6Book of Boxcars§r is an item which allows the crafting of many special items. The book can be found inside §eMeteorite Dungeons§r found randomly in the wilderness on extra-terrestial bodies, indicated by a black pillar, or in §eRed Rooms§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.desc=§6Book of Boxcars§r это предмет, который позволяет создавать множество специальных предметов. Книга может быть найдена внутри §eМетеоритных подземелий§r случайным образом в дикой природе на внеземных телах, указанных черным столбом, или в §eRed Rooms§r.
 
 # Quest: Digamma Laser Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.name=Digamma Laser Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.desc=The §6Digamma Laser Crystal§r is the fastest and final laser crystal which can be used in a SILEX.%n%n§2If the laser touches any block, the surrounding area will be atomized.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.desc=§6Digamma Laser Crystal§r это самый быстрый и последний лазерный кристалл, который можно использовать в SILEX.%n%n§2Если лазер касается любого блока, окружающая область будет удалена.
 
 # Quest: Dineutronium Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABEA.name=Динетрониевая наковальня
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABEA.desc=An upgraded version of the §3Anvil§r, [T7], which unlocks additional recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABEA.desc=Улучшенная версия §3наковальни§r, [T7], которая открывает дополнительные рецепты.
 
 # Quest: Spark Singularity
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.name=Спарк-сингулярность
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=The §6Spark Singularity§r is a singularity made from combining all the types of singularities with §6Dineutronium§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=§6Spark Singularity§r это сингулярность, созданная из объединения всех типов сингулярностей с §6Динейтрониумом§r.
 
 # Quest: FEnSU
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=ЭМЭХ
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate energy storage block, being able to store 9.22EHE.%n%n[F1] For more information.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=§3FenSU§r это совершенный блок для накопления энергии, который может хранить 9.22EHE.%n%n[F1] Для получения дополнительной информации.
 
 # Quest: Gerald the Construction Android
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Строительный андроид Геральд
@@ -1163,7 +1163,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.desc=§6Геральд, Строит
 
 # Quest: Osmiridium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Осмиридий
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=§6Osmiridium§r is the second most expensive material and is used primarely in the §3DFC§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=§6Осмиридиум§r это второй по стоимости материал и в первую очередь используется в §3DFC§r.
 
 # Quest: Yharonite Billet
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=Yharonite Billet
@@ -1360,27 +1360,27 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.desc=The §3ME Terminal§r is used t
 
 # Quest: ME Drive
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.name=МЭ накопитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.desc=The §3ME Drive§r serves as the storage of the ME system, in which §6Storage Cells§r can be put and store items.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.desc=§3ME Drive§r служит хранилищем ME системы, в которые можно поместить §6ячейки хранения§r для хранения предметов.
 
 # Quest: ME Interface
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.name=МЭ интерфейс
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.desc=The §3ME Interface§r is a block which allows the ME Network to interact with machines and inventories. On their own, they can be used to automatically stock inventories, but can be used with §6ME Patterns§r later on for autocrafting.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfg.desc=§3ME Interface§r это блок, который позволяет сети ME взаимодействовать с механизмами и инвентарями. Сами по себе они могут использоваться для автоматического пополнения запасов, но в дальнейшем их можно применять совместно с §6ME Patterns§r для автоматического создания предметов.
 
 # Quest: ME Controller
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.name=МЭ контроллер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.desc=The ME Controller acts as the routing hub of an ME network. It can support up to 8 devices connected to it.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgA.desc=МЕ контроллер выполняет функцию маршрутизации сети ME. Он может поддерживать до 8 подключенных к нему устройств.
 
 # Quest: ME Buses
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=МЭ шины
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=The §3ME Export Bus§r is an ME component which is used to export items from the ME network into a machine or other input inventory. %n%nThe §3ME Import Bus§r is an ME component which is used to import items directly into the ME Network from a machine or other output inventory.%n%n§2It is recommended that Interfaces are used over Export/Import buses for performance reasons.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=§3ME Export Bus§r это компонент ME, который используется для экспорта предметов из сети ME в механизмы или другой инвентарь. %n%n§3ME Import Bus§r это ME компонент, который используется для импорта предметов непосредственно в ME сеть с механизма или другого инвентаря.%n%n§2Из соображений производительности рекомендуется использовать интерфейсы вместо шин экспорта/импорта.
 
 # Quest: Infinity Booster Card
 betterquesting.quest.EPrM6umbSw2e8c3-9XF9Wg.name=Infinity Booster Card
-betterquesting.quest.EPrM6umbSw2e8c3-9XF9Wg.desc=The §6Infinity Booster Card§r allows one to access their ME system across any distance and dimension. To apply simply open the §6Wireless Crafting Terminal§r and insert the card in it.
+betterquesting.quest.EPrM6umbSw2e8c3-9XF9Wg.desc=§6Infinity Booster Card§r позволяет получить доступ к системе ME на любом расстоянии и в любом измерении. Чтобы применить просто откройте §6Wireless Crafting Terminal§r и вставьте в него карту.
 
 # Quest: P2P
 betterquesting.quest.Ig84-U5cRH-rxH76bIGE9A.name=P2P
-betterquesting.quest.Ig84-U5cRH-rxH76bIGE9A.desc=§6P2P§r Tunnel or "Point to Point Tunnels" are a versatile configurable system to move items / redstone / power / and fluids from one location to another though an existing ME Network without storage.%n%nTunnels are §e1 input to N outputs§r. This means you can output to as many points as you want, but only input at a single point per tunnel.%n%nNetworks can support any number of tunnels, of any different types, and they all function independently.%n%nME tunnels can be used to carry channels from one location to another, and can carry up to §e32 channels§r, same as a §6ME Dense Cable§r, while only requiring a single channel per point, making tunnels a very powerful tool to expand me networks, especially over a distance. However with the great flex-ability they give you comes a limitation, the channel of a p2p tunnel cannot be carried by another p2p tunnel, meaning that you cannot nest them recursively.%n%nTo configure a P2P tunnel you must first attune the tunnel to carry what you want it to, then you need to configure the outputs to their input. You configure the connections by using the §6Memory Card§r. First Shift+Right Click the input to save it on your memory card, then simply right click the different outputs to store the input onto the outputs. this also sets the type of the output to match the type of the input.%n%n§2An advanced version of the Memory Card can also be made, which interacts with the entire network.
+betterquesting.quest.Ig84-U5cRH-rxH76bIGE9A.desc=§6P2P§r Туннель или "Точка-точка туннель" это универсальная настраиваемая система для перемещения предметов / редстоуна / питания / и жидкости из одной точки в другую, через существующую сеть ME без использования хранилища.%n%nТуннели работают по принципу «§e1 вход — N выходов§r». Это означает, что вы можете выводить данные в любое количество точек, но для каждого туннеля ввод осуществляется только в одной точке.%n%nСети могут поддерживать любое количество туннелей различных типов, и все они работают самостоятельно.%n%nТуннели ME могут использоваться для прокладки каналов из одного места в другое и могут пропускать до §e32-ух каналов§r, столько же, сколько §6ME Dense Cable§r, при этом занимая всего по одному каналу с каждой стороны. Это делает туннели мощным инструментом для расширения ME сетей, особенно на больших расстояниях. Однако высокая гибкость, которую они обеспечивают, сопряжена с ограничением: канал P2P туннеля не может быть передан внутри другого P2P туннеля, то есть их нельзя вкладывать друг в друга рекурсивно.%n%nДля настройки P2P туннеля необходимо сначала настроить его для передачи нужных данных, а затем сконфигурировать выходы в соответствии с входами. Настройка соединений осуществляется с помощью §6Memory Card§r. Сначала нажмите правой кнопкой мыши на вход, удерживая клавишу Shift, чтобы сохранить его на карту памяти, а затем просто нажмите правой кнопкой мыши на нужные выходы, чтобы назначить им этот вход; при этом тип выхода автоматически приводится в соответствие с типом входа.%n%n§2Можно создать усовершенствованную версию карты памяти, взаимодействующую со всей сетью.
 
 # Quest: Wireless Crafting Terminal
 betterquesting.quest.Iyj0bDhVRpCgzmAF4vP30A.name=Беспроводной терминал крафта
@@ -1388,23 +1388,23 @@ betterquesting.quest.Iyj0bDhVRpCgzmAF4vP30A.desc=Улучшенная верси
 
 # Quest: Interface P2P
 betterquesting.quest.Kcfw9puQQo-iehBFrlOp4g.name=Интерфейс P2P
-betterquesting.quest.Kcfw9puQQo-iehBFrlOp4g.desc=The §3P2P Interface§r is a P2P device which can be used to easily paralellize recipes across many machines.
+betterquesting.quest.Kcfw9puQQo-iehBFrlOp4g.desc=§3P2P Интерфейс§r это P2P устройство, которое можно использовать для легкой параллелизации выполнения рецептов на множестве машин.
 
 # Quest: Energy Cell
 betterquesting.quest.Npl3Ifl9RvW8JZRicJaP2A.name=Энергетическая ячейка
-betterquesting.quest.Npl3Ifl9RvW8JZRicJaP2A.desc=The §3Energy Cell§r acts as a battery for the ME network. It becomes useful when the ME system begins to consume large amounts of energy, so a buffer is needed so it doesnt turn on and off constantly.
+betterquesting.quest.Npl3Ifl9RvW8JZRicJaP2A.desc=§3Энергетический терминал§r работает в качестве батареи для сети ME. Он будет полезен, когда система ME начинает потреблять большое количество энергии, так что необходим буфер, чтобы он не включался и не выключался постоянно.
 
 # Quest: Modifier Cards
-betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.name=Modifier Cards
-betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.desc=§6Modifier Cards§r allow for modification to various ME components, such as speeding them up or being able to toggle them on and off using redstone.
+betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.name=Карточки модификации
+betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.desc=§6Карточки модификации§r позволяют модифицировать различные компоненты ME, например, ускорять их работу или включать и выключать их с помощью редстоуна.
 
 # Quest: Wireless Connectors
-betterquesting.quest.ReqBRrKdR2WFSp9ILSPk5w.name=Wireless Connectors
-betterquesting.quest.ReqBRrKdR2WFSp9ILSPk5w.desc=§3Wireless Connectors§r allow for channel linking without ME cables, making it possible to send channels through walls. The further away the connectors are the more energy consuming they become.%n%nA §3Wireless Hub§r can be used to link channels between multiple wireless connectors.
+betterquesting.quest.ReqBRrKdR2WFSp9ILSPk5w.name=Беспроводные коннекторы
+betterquesting.quest.ReqBRrKdR2WFSp9ILSPk5w.desc=§3Беспроводные коннекторы§r позволяют соединять каналы без ME кабелей, что позволяет отправлять каналы через стены. Чем дальше друг от друга расположены каналы, тем больше энергии они потребляют.%n%nA §3Wireless Hub§r можно использовать для связи между несколькими беспроводными коннекторами.
 
 # Quest: Network Tool
 betterquesting.quest.VE7Ty89_SMW45uAVQdD32g.name=Сетевой инструмент
-betterquesting.quest.VE7Ty89_SMW45uAVQdD32g.desc=The §6Network Tool§r, when right-clicking on any network device will bring up the tool's interface showing all devices connected to the network as well as network details. As any wrench, shift clicking on a cable will remove it.
+betterquesting.quest.VE7Ty89_SMW45uAVQdD32g.desc=§6Сетевые инструменты§r, при щелчке правой кнопкой мыши по любому сетевому устройству открывается интерфейс инструмента, отображающий все подключенные к сети устройства, а также сведения о сети. Как и в случае с любым гаечным ключом, щелчок по кабелю с зажатой клавишей Shift удалит его.
 
 # Quest: AE2 Autocrafting
 betterquesting.quest.WUUIPZ-KQFCpsXAcpOxwqw.name=AE2 автокрафт
@@ -1412,18 +1412,18 @@ betterquesting.quest.WUUIPZ-KQFCpsXAcpOxwqw.desc=§2This quest serves an a guide
 
 # Quest: Cell Workbench
 betterquesting.quest._RJ-wMmFRWepNEgav4H2ZQ.name=Cell Workbench
-betterquesting.quest._RJ-wMmFRWepNEgav4H2ZQ.desc=The §3Cell Workbench§r allow to filter cells to accept specific items. It can prove useful for when making a subnet for §eBedrock Ore Processing§r.
+betterquesting.quest._RJ-wMmFRWepNEgav4H2ZQ.desc=§3Cell Workbench§r позволяет отфильтровать ячейки для принятия определенных предметов. Он может оказаться полезным при создании подсети для §eBedrock Ore Processing§r.
 
 # Quest: ME Storage Bus
 betterquesting.quest.b4Wb4VV0RkSBMjTUJj8Idg.name=МЭ шина хранения
-betterquesting.quest.b4Wb4VV0RkSBMjTUJj8Idg.desc=The §3ME Storage Bus§r, when attached to an block/tile entity with an inventory (generally a storage unit, such as chests or a §3Drawer Controller§r), will include that inventory's contents in the ME System.%n
+betterquesting.quest.b4Wb4VV0RkSBMjTUJj8Idg.desc=§3ME Storage Bus§r, при подключении к блоку или сущности блока, имеющим инвентарь (как правило, к хранилищу - например, сундуку или §3Drawer Controller§r), содержимое этого инвентаря станет доступным в ME системе.%n
 
 # Quest: Pattern Capacity Card
 betterquesting.quest.d4NudAjPT3G3f26jL0-SaA.name=Pattern Capacity Card
-betterquesting.quest.d4NudAjPT3G3f26jL0-SaA.desc=The §6Pattern Capacity Card§r can be used to add 9 more slots for patterns in an §3ME Interface§r. Up to 3 cards can be inserted.
+betterquesting.quest.d4NudAjPT3G3f26jL0-SaA.desc=§6Pattern Capacity Card§r можно использовать для добавления 9 дополнительных слотов для шаблонов в §3ME интерфейсе§r. Можно установить до 3 карт.
 
 # Quest: Quantum Network Bridge
-betterquesting.quest.di_RfA7kSDGB_3iCgsfVaQ.name=Quantum Network Bridge
+betterquesting.quest.di_RfA7kSDGB_3iCgsfVaQ.name=Квантовый сетевой мост
 betterquesting.quest.di_RfA7kSDGB_3iCgsfVaQ.desc=A §3Quantum Network Bridge§r is a multiblock structure that connects 2 potentially distant, or even in different dimensions, network fragments together. Created by crafting 8 §3ME Quantum Ring§r and a §3ME Quantum Link Chamber§r and placing the ME quantum link chamber in the center, and sourrounding it in the 8 ME quantum rings.%n%n[img height=1000]betterquesting:textures/QB_Qring1.png[/img]%n%nEach quantum network bridge requires power to function. This power must be provided from the network fragment it is attached to until the bridge is linked; at which time power from either side will be available. However if power is lost, connectivity will fail and power will be drained from the side the bridge is on in attempt to restore connection.%n%nTo establish a link between 2 quantum network bridges, you must create a pair of §6Quantum Entangled Singularities§r. One of each will be placed inside of a particular connection. Each Bridge may only connect to one other bridge.%n%n[img height=1000]betterquesting:textures/QB_Qring2.png[/img]%n%nAE2 Singularities are created by dumping 256k of any block inside a §3Matter Condenser§r. Singularities can become quantum entangled by dropping a singularity and ender dust and then exploding them together.
 
 # Quest: Acceleration Card
