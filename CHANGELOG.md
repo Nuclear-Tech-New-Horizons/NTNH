@@ -32,8 +32,7 @@
   * Steel grate door which goes well with the cargo elevators
 * Effortless Building Gadgets by @mellowarpeggiation (@MellowArpeggiation)
 * *Returned* InventoryBogoSorter and Mouse Tweaks
-* *Returned* Xaero's Minimap
-  * World Map is still broken
+* *Returned* Xaero's Minimap and World Map
 * NTNH Modernity 2.1 resource pack
 * Added Flare Stack quest to the questbook
 * Added Bountiful Stars shader settings improvements for Angelica compatibility
@@ -120,8 +119,7 @@
 
 
 **Changed**
-* Removed Lan UPnP and E4mc due to high instability
-  * You may download and use those mods on your own risk
+* Removed Lan UPnP due to high instability
 * Removed Village Names
   * Byee
 * Fully reworked ExNihilo loot tables
