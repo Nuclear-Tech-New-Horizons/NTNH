@@ -8,156 +8,172 @@ categories:
   - ores
 ---
 
-# Ore Generation Reference (v2.12.0)
+# &6Ore Generation Reference (v2.12.0)
 
 > [!NOTE]
 > This page lists all known ore generation rules for NT:NH v2.12.0, covering planetary bodies and the Overworld.
 
 ---
 
-## Planetary Ores (Kerbol System Bodies)
+## &6Planetary Ores (Kerbol System Bodies)
 
-### Mun
+### &eKerbin (Overworld)
 
-| Ore Name | Biomes | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bBiomes / Regions | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|---|
-| Fluorite | Mun | Cloud | Very Rare | ~25 - 45 |
-| Iron | Mun | Cloud | Very Rare | ~30 - 60 |
-| Lead | Mun | Cloud | Very Rare | ~10 - 30 |
-| Nickel | Mun | Cloud | Very Rare | ~15 - 45 |
-| Sulfur | Mun | Cloud | Very Rare | ~45 - 65 |
+| Aluminium | Jungle / Jungle Edge / Jungle Edge M / Jungle M / JungleHills; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | &bCloud / &9StandardGen | &eUncommon | ~0 - 60 |
+| Asbestos | Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | &bCloud | &cRare | ~16 - 48 |
+| Beryllium | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains | &bCloud | &4Very Rare | ~0 - 40 |
+| Coal | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains / Stone Beach | &bCloud | &eUncommon | ~20 - 60 |
+| Cobalt | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~0 - 40 |
+| Coltan | Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M; Deep Ocean / Ocean | &9StandardGen | &cRare | ~-2 - 30 |
+| Copper | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains | &bCloud | &eUncommon | ~16 - 52 |
+| Diamond | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | &9StandardGen | &4Very Rare | ~5 - 13 |
+| Emerald | Extreme Hills / Ice Mountains | &5Cluster | &cRare | ~18 - 38 |
+| Fluorite | Deep Ocean / Ocean; Roofed Forest / Roofed Forest M | &bCloud | &cRare | ~16 - 48 |
+| Gold | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M | &bCloud / &9StandardGen | &cRare | ~0 - 40 |
+| Iron | Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~16 - 52 |
+| Lapis Lazuli | Flower Forest / Forest / ForestHills; Deep Ocean / Ocean | &bCloud | &cRare | ~0 - 20 |
+| Lead | Flower Forest / Forest / ForestHills | &bCloud | &cRare | ~16 - 48 |
+| Lignite | Swampland / Swampland M | &9StandardGen | &aCommon | ~26 - 54 |
+| Lithium | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | &bCloud | &cRare | ~16 - 48 |
+| Niter | Desert / Desert M / DesertHills | &bCloud | &cRare | ~16 - 48 |
+| Quartz (AE2) | Deep Ocean / Ocean | &bCloud | &4Very Rare | ~16 - 48 |
+| Redstone | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Flower Forest / Forest / ForestHills; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~0 - 48 |
+| Sulfur | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Swampland / Swampland M | &bCloud / &9StandardGen | &aCommon | ~10 - 50 |
+| Thorium | Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~0 - 40 |
+| Titanium | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | &bCloud | &cRare | ~0 - 40 |
+| Tungsten | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains | &bCloud | &cRare | ~16 - 48 |
+| Uranium | Deep Ocean / Ocean; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | &bCloud | &eUncommon | ~0 - 48 |
+| Zinc | Flower Forest / Forest / ForestHills | &bCloud | &cRare | ~0 - 40 |
 
-### Minmus
+---
 
-| Ore Name | Biomes | Distribution | Rarity | Height Range (Y) |
+### &eMun
+
+| &bOre Name | &bBiomes | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|---|
-| Copper | Minmus Basins, Minmus Hills | Cloud | Very Rare | ~30 - 60 |
-| Niter | Minmus Basins, Minmus Hills | Cloud | Very Rare | ~15 - 35 |
-| Quartz | Minmus Basins, Minmus Hills | Cloud | Very Rare | ~15 - 35 |
+| Fluorite | Mun | &bCloud | &4Very Rare | ~25 - 45 |
+| Iron | Mun | &bCloud | &4Very Rare | ~30 - 60 |
+| Lead | Mun | &bCloud | &4Very Rare | ~10 - 30 |
+| Nickel | Mun | &bCloud | &4Very Rare | ~15 - 45 |
+| Sulfur | Mun | &bCloud | &4Very Rare | ~45 - 65 |
 
-### Duna
+---
+
+### &eMinmus
+
+| &bOre Name | &bBiomes | &bDistribution | &bRarity | &bHeight Range (Y) |
+|---|---|---|---|---|
+| Copper | Minmus Basins, Minmus Hills | &bCloud | &4Very Rare | ~30 - 60 |
+| Niter | Minmus Basins, Minmus Hills | &bCloud | &4Very Rare | ~15 - 35 |
+| Quartz | Minmus Basins, Minmus Hills | &bCloud | &4Very Rare | ~15 - 35 |
+
+---
+
+### &eDuna
 
 *Biomes: Dunaian Ice Sheet, Dunaian Lowland Plains, Dunaian Plains, Dunaian Polar Mountains, Weathered Dunaian Hills*
 
-| Ore Name | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
-| Beryllium | Veins | Rare | ~15 - 55 |
-| Rare Earth | Veins | Rare | ~15 - 55 |
-| Redstone | Veins | Rare | ~15 - 55 |
-| Titanium | Veins | Rare | ~15 - 55 |
-| Aluminium | Veins | Rare | ~15 - 55 |
-| Zinc | Veins | Rare | ~15 - 55 |
+| Beryllium | &dVeins | &cRare | ~15 - 55 |
+| Rare Earth | &dVeins | &cRare | ~15 - 55 |
+| Redstone | &dVeins | &cRare | ~15 - 55 |
+| Titanium | &dVeins | &cRare | ~15 - 55 |
+| Aluminium | &dVeins | &cRare | ~15 - 55 |
+| Zinc | &dVeins | &cRare | ~15 - 55 |
 
-### Ike
+---
 
-| Ore Name | Biomes | Distribution | Rarity | Height Range (Y) |
+### &eIke
+
+| &bOre Name | &bBiomes | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|---|
-| Lanthanum | Ike | Veins | Rare | ~15 - 55 |
-| Plutonium | Ike | Veins | Rare | ~15 - 55 |
-| Uranium | Ike | Veins | Rare | ~15 - 55 |
+| Lanthanum | Ike | &dVeins | &cRare | ~15 - 55 |
+| Plutonium | Ike | &dVeins | &cRare | ~15 - 55 |
+| Uranium | Ike | &dVeins | &cRare | ~15 - 55 |
 
-### Laythe
+---
+
+### &eLaythe
 
 *Biomes: Laythe Islands, Laythe Poles, Laythe Reef, Sagan Sea*
 
-| Ore Name | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
-| Aluminium | Cloud | Very Rare | ~25 - 55 |
-| Asbestos | Cloud | Very Rare | ~40 - 60 |
-| Tungsten | Cloud | Very Rare | ~10 - 20 |
+| Aluminium | &bCloud | &4Very Rare | ~25 - 55 |
+| Asbestos | &bCloud | &4Very Rare | ~40 - 60 |
+| Tungsten | &bCloud | &4Very Rare | ~10 - 20 |
 
-### Eve
+---
+
+### &eEve
 
 *Biomes: Eve Mountains, Eve Plains, Eve Seismic Plains, Explodium Ocean*
 
-| Ore Name | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
-| Cobalt | Cloud | Common | ~40 - 70 |
-| Iodine | Cloud | Common | ~2 - 62 |
-| Niobium | Cloud | Common | ~20 - 50 |
-| Schrabidium | Cloud | Common | ~5 - 25 |
+| Cobalt | &bCloud | &aCommon | ~40 - 70 |
+| Iodine | &bCloud | &aCommon | ~2 - 62 |
+| Niobium | &bCloud | &aCommon | ~20 - 50 |
+| Schrabidium | &bCloud | &aCommon | ~5 - 25 |
 
-### Dres
+---
+
+### &eDres
 
 *Biomes: Dres Large Basins, Dresian Flains*
 
-| Ore Name | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
-| Coltan | Cloud | Common | ~15 - 45 |
-| Diamond | Cloud | Common | ~4 - 20 |
-| Lanthanum | Cloud | Common | ~10 - 40 |
-| Niobium | Cloud | Common | ~20 - 50 |
+| Coltan | &bCloud | &aCommon | ~15 - 45 |
+| Diamond | &bCloud | &aCommon | ~4 - 20 |
+| Lanthanum | &bCloud | &aCommon | ~10 - 40 |
+| Niobium | &bCloud | &aCommon | ~20 - 50 |
 
-### Moho
+---
+
+### &eMoho
 
 *Biomes: Moho Crag, Moho Flateau, Moho Lava Sea*
 
-| Ore Name | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
-| Australium | Cloud | Very Rare | ~8 - 16 |
-| Cinnabar | Cloud | Very Rare | ~20 - 40 |
-| Phosphorus | Cloud | Very Rare | ~40 - 60 |
+| Australium | &bCloud | &4Very Rare | ~8 - 16 |
+| Cinnabar | &bCloud | &4Very Rare | ~20 - 40 |
+| Phosphorus | &bCloud | &4Very Rare | ~40 - 60 |
 
-### Tekto
+---
+
+### &eTekto
 
 *Biomes: Halogen Hills, Polyvinyl Plains, Tekto Forest, Vinyl Desert*
 
-| Ore Name | Distribution | Rarity | Height Range (Y) |
+| &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
-| Beryllium | Veins | Rare | ~45 - 65 |
-| Lithium | Veins | Rare | ~29 - 49 |
-| Plutonium | Veins | Rare | ~10 - 20 |
+| Beryllium | &dVeins | &cRare | ~45 - 65 |
+| Lithium | &dVeins | &cRare | ~29 - 49 |
+| Plutonium | &dVeins | &cRare | ~10 - 20 |
 
 ---
 
-## Earth (Overworld) Ores
+## &6Reference Tables
 
-| Ore Name | Biomes / Regions | Distribution | Rarity | Height Range (Y) |
-|---|---|---|---|---|
-| Aluminium | Jungle / Jungle Edge / Jungle Edge M / Jungle M / JungleHills; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | Cloud / StandardGen | Uncommon | ~0 - 60 |
-| Asbestos | Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | Cloud | Rare | ~16 - 48 |
-| Beryllium | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains | Cloud | Very Rare | ~0 - 40 |
-| Coal | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains / Stone Beach | Cloud | Uncommon | ~20 - 60 |
-| Cobalt | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | Cloud | Uncommon | ~0 - 40 |
-| Coltan | Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M; Deep Ocean / Ocean | StandardGen | Rare | ~-2 - 30 |
-| Copper | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains | Cloud | Uncommon | ~16 - 52 |
-| Diamond | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | StandardGen | Very Rare | ~5 - 13 |
-| Emerald | Extreme Hills / Ice Mountains | Cluster | Rare | ~18 - 38 |
-| Fluorite | Deep Ocean / Ocean; Roofed Forest / Roofed Forest M | Cloud | Rare | ~16 - 48 |
-| Gold | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M | Cloud / StandardGen | Rare | ~0 - 40 |
-| Iron | Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | Cloud | Uncommon | ~16 - 52 |
-| Lapis Lazuli | Flower Forest / Forest / ForestHills; Deep Ocean / Ocean | Cloud | Rare | ~0 - 20 |
-| Lead | Flower Forest / Forest / ForestHills | Cloud | Rare | ~16 - 48 |
-| Lignite | Swampland / Swampland M | StandardGen | Common | ~26 - 54 |
-| Lithium | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | Cloud | Rare | ~16 - 48 |
-| Niter | Desert / Desert M / DesertHills | Cloud | Rare | ~16 - 48 |
-| Quartz (AE2) | Deep Ocean / Ocean | Cloud | Very Rare | ~16 - 48 |
-| Redstone | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Flower Forest / Forest / ForestHills; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | Cloud | Uncommon | ~0 - 48 |
-| Sulfur | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Swampland / Swampland M | Cloud / StandardGen | Common | ~10 - 50 |
-| Thorium | Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | Cloud | Uncommon | ~0 - 40 |
-| Titanium | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | Cloud | Rare | ~0 - 40 |
-| Tungsten | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains | Cloud | Rare | ~16 - 48 |
-| Uranium | Deep Ocean / Ocean; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | Cloud | Uncommon | ~0 - 48 |
-| Zinc | Flower Forest / Forest / ForestHills | Cloud | Rare | ~0 - 40 |
+### &eRarity Tiers
 
----
-
-## Reference Tables
-
-### Rarity Tiers
-
-| Rarity Tier | Meaning |
+| &bRarity Tier | &bMeaning |
 |---|---|
-| Common | Frequent, large deposits - easy to find |
-| Uncommon | Moderate deposits - requires some exploration |
-| Rare | Small or infrequent deposits - seek out specific biomes |
-| Very Rare | Tiny/sparse deposits - major effort to locate |
+| &aCommon | Frequent, large deposits - easy to find |
+| &eUncommon | Moderate deposits - requires some exploration |
+| &cRare | Small or infrequent deposits - seek out specific biomes |
+| &4Very Rare | Tiny/sparse deposits - major effort to locate |
 
-### Distribution Types
+### &eDistribution Types
 
-| Distribution Type | Description |
+| &bDistribution Type | &bDescription |
 |---|---|
-| Cloud | Large, diffuse ore clouds with variable radius and thickness. Deposits spread across a wide area with noise-based density, replacing stone in blob-like formations. |
-| StandardGen | Classic Minecraft-style ore clusters. Uses fixed Size and Frequency values to generate compact, spherical ore blobs at specific height ranges (like vanilla iron or diamond). |
-| Veins | Long, branching vein networks using Bezier curves. Motherlodes spawn branch segments that snake through the rock, creating realistic geological vein patterns. |
-| Cluster | Dense, localized ore concentrations. Smaller and more compact than Clouds, these form tight groups of ore blocks in a confined area. |
+| &bCloud | Large, diffuse ore clouds with variable radius and thickness. Deposits spread across a wide area with noise-based density, replacing stone in blob-like formations. |
+| &9StandardGen | Classic Minecraft-style ore clusters. Uses fixed Size and Frequency values to generate compact, spherical ore blobs at specific height ranges (like vanilla iron or diamond). |
+| &dVeins | Long, branching vein networks using Bezier curves. Motherlodes spawn branch segments that snake through the rock, creating realistic geological vein patterns. |
+| &5Cluster | Dense, localized ore concentrations. Smaller and more compact than Clouds, these form tight groups of ore blocks in a confined area. |
