@@ -243,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6多类型流体识别码§r�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=已知问题
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nIf you experience any stutters/micro-lags while playing, try turning Vsync on/off. If that does not help, contact in Discord #help.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=NTM的其他模式
