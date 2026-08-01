@@ -26,7 +26,7 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Паровой двигател
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигатель§r - это ранний способ превращения §bПара§r в энергию. Он требует внешнего источника пара и способа сброса или переработки производимого им §bПара низкого давления§r. %n%nПаровой двигатель имеет энергетическую эффективность §e85%%§r, что делает его лучше §3Двигателя Стирлинга§r. Однако у него все еще есть ограничение пропускной способности, так как он может содержать только до 2000 mB пара. Его максимальная скорость обработки составляет 2000 mB/t, производя значительные §e3400 HE/t§r или §e68 kHE/s§r. Поэтому он является лучшим генератором, доступным до §3Паровых турбин§r.%n%nКотел, нагреваемый нагревательной печью с помощью угля, будет производить §e17kHE/s§r.
 
 # Quest: Automatic Thresher
-betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Автоматическая молотилка
 betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=§3Automatic Thresher§r собирает такие культуры как §6Пшеница§r, §6Конопля§r, §6Тростник§r, выбрасывает предметы в зоне 7x7 при наличии топлива. Все предметы выбрасываются через заднюю сторону.%n%n[F1] для дополнительной информации.
 
 # Quest: Abandoned Structures
@@ -243,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6Мульти-жидкост�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Известные проблемы
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nIf you experience any stutters/micro-lags while playing, try turning Vsync on/off. If that does not help, contact in Discord #help.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Не баг, а &q&zФИЧА§r!%n%nКогда вы едите, ваши руки могут странно дрожать словно стив ЧРЕЗВЫЧАЙНО рад этому обеду.%n%nЕсли во время игры возникают подергивания или микро-лаги, попробуйте включить или выключить вертикальную синхронизацию "Vsync". Если это не поможет, напишите в Discord. #help.%n%nНа данный момент мы понятия не имеем, как исправить эти ошибки, но делаем всё возможное!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Дополнительные режимы NTM
@@ -592,7 +592,7 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.name=LV3 - Эпоха Реакт
 betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAg.desc=По мере роста потребностей в энергии потребуются более мощные источники энергии. Эта глава охватывает ядерные реакторы, а также другие продвинутые машины, необходимые для производства все более прочных материалов.
 
 # Quest: Tungsten Carbide
-betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.name=Tungsten Carbide
+betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.name=Карбид вольфрама
 betterquesting.quest.-KF6RRqRSdG58hgsbtwsgg.desc=§6Tungsten Carbide§r это сплав из §6Tungsten§r и §bSyngas§r в §3Pyrolysis Oven§r. В основном он используется при изготовлении нейтронных отражателей для реакторов и ядерного оружия.
 
 # Quest: Plasma Forge
@@ -735,9 +735,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.desc=§3Исследовательс
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=Сваренная пластина из технециевой/кадмиевой стали
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.desc=§6Сварная пластина из технециевой/кадмиевой стали§r - это сварной вариант литой пластины из технециевой/кадмиевой стали, используемый в некоторых рецептах, требующих прочных материалов. %n%n§2Убедитесь, что у вас есть хорошая инфраструктура генерации и хранения энергии, так как каждая пластина стоит 1.2 миллиарда HE.
 
-# Quest: Big-Ass Tank 9000
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=Охереть-большая цистерна 9000
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=§3Охереть-большая цистерна 9000§r - это крупнейший резервуар для хранения жидкостей, способный вмещать 2048000mB жидкостей, а также удерживать сильно коррозионные жидкости.
+# Quest: Big-Ass Tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=Big-Ass Tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=The §3Big-Ass Tank§r is the largest fluid storage container, capable of storing 2048000mB of fluids, aswell as being able to hold strongly corrosive fluids. It has to be placed on the solid surface, otherwise it is going to break.
 
 # Quest: Heavy Magnetic Storage Tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.name=Тяжелый магнитный контейнер для антиматерии
@@ -1021,11 +1021,11 @@ betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.name=Компьютер орбита
 betterquesting.quest.hG3STfQVT8uxD0PMB58DOQ.desc=§3Компьютер орбитальной станции§r, при наличии в нём "drive inserted" может переместить станцию ​​к месту назначения.%n%n§3Thrusters§r с топливом должны быть установлены на станции.
 
 # Quest: Alkylation Unit
-betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.name=Alkylation Unit
+betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.name=Аппарат алкилирования
 betterquesting.quest.icj9Y8q0QiWjFk2g7dTnww.desc=§3Alkylation Unit§r предназначен, чтобы превратить лёгкие углеводороды в полезные более тяжелые углеводородные продукты. Из §bNatural Gas§r он может производить §bUnsaturated§r и §bAromatic hydrocarbons§r, обычно используется для §6резины§r и §6Bakelite§r и даже производить §bBTX§r с помощью §bHigh-Performance Solvent§r. Кроме того, это сооружение позволяет проводить алкилирование §bPetroleum Gas§r, превращая его в §bLight Oil§r.
 
 # Quest: Microgravity Algae Film
-betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.name=Microgravity Algae Film
+betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.name=Картридж с водорослями
 betterquesting.quest.nfgxBE2jRE2InE-vMVEfRQ.desc=§3Microgravity Algae Film§r это машина из специализированных слоёв растений, которые преобразуют §bУглекислый газ§r прямо в §bLiquid Oxygen§r. Однако они функционируют только на орбите.%n%n§3CO2 Scrubber§r позволяет извлекать углекислый газ из помещения, находящегося под давлением. Это иногда бывает полезно при строительстве космических станций.
 
 # Quest: Dres
@@ -1090,7 +1090,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=Квантовый компью
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=§6Quantum Computer§r является самым мощным из любых других устройств управления. В настоящее время он используется только для построения §6Gerald§r. %n%n§2A потребуется целый стак, так что сейчас самое время для улучшения инфраструктуры создания.
 
 # Quest: Solid State Quantum Processor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=Solid State Quantum Processor
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=Твердотельный квантовый процессор
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.desc=§6Solid State Quantum Processor§r является первым квантовым процессором, который необходим для того, чтобы сделать §6Quantum Processing Units§r и §6Quantum Computers§r.
 
 # Quest: DNT Nanosuit
@@ -1134,7 +1134,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.name=ИТС
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAig.desc=§3ICF§r реактор очень дорогой и мощный, он может производить значительное количество энергии. Кроме самого мультиблока, §3ICF Lasers§r должен быть построен для работы реактора. В процессе работы будет вырабатываться §bStellar Flux§r, необходимый для создания §6Gerald§r. Рассмотрите возможность использования §bLiquid Lead§r, так как это очень эффективный охладитель для ICF.%n%nРекомендуется ознакомиться с вики, так как на ней есть встроенные калькуляторы для расчета энергопотребления лазера и и количество горячей охлаждающей жидкости.%n%n[url]https://nucleartech.wiki/wiki/Inertial_Confinement_Fusion_Reactor[/url]
 
 # Quest: Spark Laser Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=Spark Laser Crystal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.name=Спарк-лазерный кристалл
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBA.desc=§6Spark Laser Crystal§r открывает новые рецепты, самое главное используется для создания §6Осмиридиума§r.
 
 # Quest: The Book of Boxcars
@@ -1142,7 +1142,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.name=Книга Вагонов
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBQ.desc=§6Book of Boxcars§r это предмет, который позволяет создавать множество специальных предметов. Книга может быть найдена внутри §eМетеоритных подземелий§r случайным образом в дикой природе на внеземных телах, указанных черным столбом, или в §eRed Rooms§r.
 
 # Quest: Digamma Laser Crystal
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.name=Digamma Laser Crystal
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.name=Дигамма-лазерный кристалл
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABBw.desc=§6Digamma Laser Crystal§r это самый быстрый и последний лазерный кристалл, который можно использовать в SILEX.%n%n§2Если лазер касается любого блока, окружающая область будет удалена.
 
 # Quest: Dineutronium Anvil
@@ -1166,7 +1166,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.name=Осмиридий
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABIQ.desc=§6Осмиридиум§r это второй по стоимости материал и в первую очередь используется в §3DFC§r.
 
 # Quest: Yharonite Billet
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=Yharonite Billet
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.name=Яронитовая заготовка
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABKg.desc=§6Yharonite Billet§r создается в вольфрамовом ящике, который имеет §6Polonium Billets§r в нём, пока по нему стреляют из §3DFC Emitter§r. Это конечный материал, получаемый в данном моде.
 
 # Quest: The Crucible
@@ -1198,12 +1198,12 @@ betterquesting.quest.fbvQbC3JTKOtI2b8e3cB0A.name=§c§l§4§lТВОЮ МАТЬ, 
 betterquesting.quest.fbvQbC3JTKOtI2b8e3cB0A.desc=Лови, твоя награда
 
 # Quest: ICF Laser Turbocharger
-betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.name=ICF Laser Turbocharger
-betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.desc=The §3ICF Laser Turbocharger§r can be placed next to §3ICF Laser Capacitors§r to increase the laser's power by a substantial amount, allowing for the §3ICF§r to run higher grade fuels.
+betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.name=Лазерный турбоусилитель
+betterquesting.quest.hmwBFeuMQXiUrjE-WdD6-g.desc=§3ICF Laser Turbocharger§r можно разместить рядом с §3ICF Laser Capacitors§r что значительно увеличить мощность лазера и вы сможете использовать в §3ICF§r более качественное топливо.
 
 # Quest: Balls-O-Tron
 betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.name=Баллс-О-Трон
-betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.desc=§4Balls-O-Tron§r is the second boss of §dNTM§r. It can be summoned by interracting the mechanist's circle, found in the §eEnargite Temple§r which spawns in jungles, with a §6Silver Key§r, made using the Maskman Coin, or from crafting the Balls-O-Tron spawn item.
+betterquesting.quest.k-HwTdGiQVmikRwAeg_fkQ.desc=§4Balls-O-Tron§r это второй босс §dNTM§r. Его можно вызвать, взаимодействуя с кругом механиста, который находится в §eEnargite Temple§r, он появляется в джунглях при использовании §6Серебряного ключа§r (создаваемого из Монеты Маскмена) или предмета для призыва "Balls-O-Tron".
 
 # Quest: ICF Laser
 betterquesting.quest.nqmqybchRzWn-T46-3vHmQ.name=ICF лазер
@@ -1215,7 +1215,7 @@ betterquesting.quest.q0Q4S7F-QlCzGWDkdOBMqw.desc=Марсианский кора
 
 # Quest: Welded Osmiridium Plate
 betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.name=Сварные пластины из Осмиридия
-betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Welded Osmiridium Plates§r cost 300 Billion §eHE§r to produce, so good energy generation and storage infrastructure is needed.
+betterquesting.quest.xYmNHPDAQkSwXHOow8--4g.desc=§6Сварные пластины из осмиридия§r стоят 300 миллиардов §eHE§r для производства, поэтому необходима хорошая инфраструктура для производства и хранения энергии.
 
 
 ## Quest Line: Tips and Tricks
@@ -1228,7 +1228,7 @@ betterquesting.quest.xlNjQwC6S3S5o_B7nIciBQ.desc=Устали от исполь�
 
 
 ## Quest Line: Farming and Cooking
-betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.name=Farming and Cooking
+betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.name=Сельское хозяйство и кулинария
 betterquesting.questline.UJ4N6pDhQ5aGBxBW9j-BVw.desc=Всё что нужно знать о том, как готовить еду и добывать её.
 
 
@@ -1237,8 +1237,8 @@ betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.name=Строительство 
 betterquesting.questline.7-1bBIkKRc6xhh5bwIGsjg.desc=Улучшите свои постройки, используя Chisel, Architecturecraft и Better Builder's Wands.
 
 # Quest: Building Gadget
-betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.name=Building Gadget
-betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.desc=The §6Building Gadget§r is an advanced building tool which allows the user to create many complex shapes with ease. Press the ALT key to open its menu.%n%n§2It consumes power for blocks placed.§r
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.name=Строительный гаджет
+betterquesting.quest.8voIl_BdSZWqZcTPQVjo9Q.desc=§6Строительный гаджет§r это продвинутый инструмент строительства, позволяющий легко создавать сложные фигуры. Нажмите клавишу ALT, чтобы открыть ее меню.%n%n§2Потребляет энергию для размещенных блоков.§r
 
 # Quest: Auto Chisel
 betterquesting.quest.QS-1ophNScaPpKGGoCqFMQ.name=Автоматическая стамеска
@@ -1300,19 +1300,19 @@ betterquesting.questline.AAAAAAAAAAAAAAAAAAAABQ.desc=Автоматизируй�
 
 # Quest: P2P ME Networking
 betterquesting.quest.1bFqt414QEOwMpAVRSd3zg.name=МЭ P2P сеть
-betterquesting.quest.1bFqt414QEOwMpAVRSd3zg.desc=§3P2P ME§r can be used to transport massive amounts of channels without laying many cables.%n%n§2This quest serves as a guide on how to effectively use P2P ME.§r%n%nOnce an §3Energy Acceptor§r has been set up, it is highly recommended (and likely needed) that an §3Energy Cell§r is placed next to it as to ensure that there is enough power going to the system, as more components increase the energy demands of the ME system.%n%nAfter that, 2 §3ME Controllers§r are required, one to provide the channels that machines will use, and another to transport the other's channels by the P2P connections. The top controller can be made bigger by attaching more controllers next to it.%n%n[img height=1000]betterquesting:textures/QB_Controller1.png[/img]%n%nAfter the controllers are placed, on the top controller, a P2P Tunnel - ME needs to be placed on any side. The §9Blue Cable§r will serve as the cable that connects the P2P connections, and as such, it needs to be connected to the bottom controller.%n%n[img height=1000]betterquesting:textures/QB_Controller2.png[/img]%n%nBy linking the P2P connections together using a §6Memory Card§r, the 32 channels from one side of the top controller will only use 1 channel from the bottom controller to be transported to any destination. The §cRed Cable§r now has access to 32 channels.%n%n[img height=1000]betterquesting:textures/QB_Controller3.png[/img]%n%n[img height=1000]betterquesting:textures/QB_Controller4.png[/img]%n%nBy expanding on the previous example, more connections can be added to fully utilize all channels.%n%n[img height=1000]betterquesting:textures/QB_Controller5.png[/img]%n%n[img height=1000]betterquesting:textures/QB_controller6.png[/img]%n
+betterquesting.quest.1bFqt414QEOwMpAVRSd3zg.desc=§3P2P ME§r может использоваться для передачи огромного количества каналов без прокладки множества кабелей%n%n§2Это руководство поможет вам эффективно использовать P2P ME.§r%n%nПосле установки §3Energy Acceptor§r настоятельно рекомендуется (и, скорее всего, потребуется) разместить рядом с ним §3Энергоячейки§r, чтобы обеспечить систему достаточным количеством энергии, так как увеличение числа компонентов повышает энергопотребление ME системы.%n%nПосле этого потребуются два §3МЕ контроллера§r: один для обеспечения каналов, которые будут использовать механизмы, а второй для передачи каналов первого через P2P соединения. Верхний контроллер можно увеличить, присоединив к нему дополнительные контроллеры.%n%n[img height=1000]betterquesting:textures/QB_Controller1.png[/img]%n%nПосле установки контроллеров на верхний контроллер (с любой стороны) необходимо разместить P2P МЕ туннель. §9Синий кабель§r будет служить линией связи для P2P соединений, поэтому его нужно подключить к нижнему контроллеру.%n%n[img height=1000]betterquesting:textures/QB_Controller2.png[/img]%n%nПри объединении P2P соединений с помощью §6Карты памяти§r 32 канала от одной стороны верхнего контроллера будут использовать лишь 1 канал нижнего контроллера для передачи в любой пункт назначения. Теперь §cКрасный кабель§r получает доступ к 32 каналам.%n%n[img height=1000]betterquesting:textures/QB_Controller3.png[/img]%n%n[img height=1000]betterquesting:textures/QB_Controller4.png[/img]%n%nРазвивая предыдущий пример, можно добавить дополнительные соединения, чтобы в полной мере задействовать все каналы.%n%n[img height=1000]betterquesting:textures/QB_Controller5.png[/img]%n%n[img height=1000]betterquesting:textures/QB_controller6.png[/img]%n
 
 # Quest: P2P Interface Parallelisation
-betterquesting.quest.1rIaClFKQbGXrdGi5-Eppg.name=P2P Interface Parallelisation
-betterquesting.quest.1rIaClFKQbGXrdGi5-Eppg.desc=Parallelisation of processes can significantly cut down on waiting time and as such it is highly recommended that P2P Interfaces are used.%n%n§2This quest serves as a guide on how to use P2P Interfaces.§r%n%nAs any P2P Connection goes, there needs to be one input, which in this case, holds the §6ME Patterns§r.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface1.png[/img]%n%nAfter patterns are inserted in the first P2P interface, place down the rest of the output interfaces you want and link them together using a §6Memory Card§r.%n%nIn the image below, the P2P interface highlighted in green stores the patterns, while the ones in blue, are the output ones which will connect machines to the ME system.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface2.png[/img]%n%nMake sure to have blocking mode enabled on all output P2P interfaces as to prevent clogging and having multiple recipes trying to be executed at once in the same machine.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface3.png[/img]%n%nFinally, place your desired machines at the output P2P interfaces and add a way of retrieving the items once the operation is done, in this case import buses.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface4.png[/img]%n
+betterquesting.quest.1rIaClFKQbGXrdGi5-Eppg.name=Параллелизация P2P интерфейса
+betterquesting.quest.1rIaClFKQbGXrdGi5-Eppg.desc=Параллелизация процессов позволяет существенно сократить время ожидания, в связи с чем настоятельно рекомендуется использовать P2P интерфейсы.%n%n§2Это задание служит руководством по использованию P2P интерфейсов.§r%n%nКак и в любом P2P соединении, необходим один вход, который в данном случае содержит §6ME Patterns§r.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface1. ng[/img]%n%nПосле добавления шаблонов в первый P2P интерфейс, разместите остальные необходимые интерфейсы и свяжите их вместе с помощью §6карт памяти§r.%n%nНа изображении ниже интерфейс P2P, выделенный зеленым цветом, хранит шаблоны, а интерфейсы, выделенные синим, это выходные интерфейсы, которые подключают механизмы к МЕ системе.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface2. ng[/img]%n%nУбедитесь, что на всех выходных P2P интерфейсах включен режим блокировки; это предотвратит заторы и попытки одновременного выполнения нескольких рецептов на одном и том же станке.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface3. ng[/img]%n%nНаконец, разместите нужные вам механизмы у выходных P2P интерфейсов и добавьте способ извлечения предметов по завершении операции, в данном случае шины импорта.%n%n[img height=1000]betterquesting:textures/QB_P2P_Interface4.png[/img]%n
 
 # Quest: ME IO Port
 betterquesting.quest.4DM_-wpzThCM_KaSMIPmNA.name=МЭ порт ввода/вывода
 betterquesting.quest.4DM_-wpzThCM_KaSMIPmNA.desc=§3МЭ порт ввода/вывода§r может перенести содержимое ячеек хранения в MЭ сеть и обратно.
 
 # Quest: Spatial IO
-betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.name=Spatial IO
-betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.desc=§3Spatial IO§r is a way to cut-and-paste physical volumes of space in your world. It works by swapping the defined volume with an identically-sized volume in the spatial storage dimension, sending whatever's in the pylon array to the spatial storage dimension, and whatever's in the dimension to the pylon array.%n%nSpatial IO requires a specific arrangement of its components in order to function, and define the volume to be cut-and-pasted. All of the components must be on the same network in order to function, and you can have only one spatial IO setup on a network. Thus, a subnetwork is recommended.%n%nThe §3Spatial IO Port§r controls the spatial IO operation. It shows stats on the multiblock setup, and holds the spatial cells%n%nTo perform a spatial IO operation, place a §6Spatial Storage Cell§r in the input slot and give the spatial IO port a redstone pulse. It will then swap the volume in the pylons with the volume in the spatial storage dimension. This means that if you send some set of blocks to the spatial storage dimension, then put another set of blocks in the pylons, put the cell back in the input slot, and trigger the IO port again, the 2nd set of blocks will disappear and the 1st set of blcks will reappear.%n%nAny entity in the defined volume, including you, will be carried along, and if you have no way of getting out, you will be trapped in the spatial storage dimension.%n%n§3Spatial Pylons§r are the main part of a spatial IO setup, and define the volume to be affected. The volume is defined by the bounding box of the outside of the pylons, contracted in by 1 block in all directions.
+betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.name=Пространственный порт ввода/вывода
+betterquesting.quest.5PE7heWhR4qG8AcOcZ0VWQ.desc=§3Spatial IO§r это способ вырезать и вставлять физические объемы пространства в вашем мире. Механизм работает за счет обмена выбранного объема с равновеликим объемом в измерении пространственного хранилища: содержимое массива пилонов перемещается в это измерение, а то, что находилось в измерении, в массив пилонов.%n%nДля работы системы "Spatial IO" и определения объема, подлежащего операции «вырезать и вставить», требуется определенное взаимное расположение ее компонентов. Для функционирования все компоненты должны находиться в одной сети, при этом в рамках одной сети допускается использование только одного комплекта "Spatial IO". В связи с этим рекомендуется использовать подсеть.%n%n§3Spatial IO Port§r управляет операцией пространственного ввода-вывода. Устройство отображает статистику многоблочной конструкции и содержит пространственные ячейки.%n%nЧтобы выполнить операцию пространственного ввода-вывода, поместите §6ячейку пространственного хранения§r во входной слот и подайте на порт пространственного ввода-вывода сигнал редстоуна. Устройство поменяет местами область внутри пилонов и область в измерении пространственного хранения. Это означает, что если вы переместите набор блоков в измерение пространственного хранения, затем разместите в пилонах другой набор блоков, вернете ячейку во входной слот и снова активируете порт, то второй набор блоков исчезнет, ​​а первый появится вновь.%n%nЛюбой объект, находящийся в пределах заданного объема включая вас, будет перемещен вместе с ним; если же у вас не будет возможности выбраться, вы окажетесь заперты в пространственном измерении хранилище.%n%n§3Spatial Pylons§r составляют основную часть системы пространственного ввода-вывода и определяют объем, на который будет распространяться ее действие. Объем определяется габаритным параллелепипедом, охватывающим внешние контуры пилонов и уменьшенным на один блок со всех сторон.
 
 # Quest: AE2 Changes
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.name=Изменения в AE2
@@ -1320,7 +1320,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAARg.desc=В данной сборке, �
 
 # Quest: Certus Quartz Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.name=Кристалл истинного кварца
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=§6Certus Quartz§r is an important material in AE2. It is dropped when mining or processing certus quartz ore at the rate of one to four, the yield is affected by a tool's Fortune enchantment. Certus Quartz is often interchangeable with vanilla §6Nether Quartz§r in the recipes for basic tools, such as the §6Quartz Cutting Knife§r. Certus quartz ore can be acidized or centrifuged for an increased yield.%n%n§2Certus quartz can later be made in a Chemical Plant using nether quartz.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARw.desc=§6Certus Quartz§r является важным материалом в AE2. Этот предмет выпадает при добыче или переработке руды "certus quartz" в количестве от одной до четырех единиц; на выпадения ресурса влиет зачарование «удача» на инструменте. Certus Quartz часто взаимозаменяется с ванильным §6Кварцем§r в рецептах создания базовых инструментов, таких как §6кварцевый резак§r. Руду Certus quartz можно подвергнуть кислотной обработке или центрифугированию для получения большего количества.%n%n§2Certus quartz можно получить на химическом заводе, используя кварц нижнего мира.
 
 # Quest: Crystal Growth Chamber
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.name=Камера роста кристаллов
@@ -1328,15 +1328,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAATA.desc=§3 Камера роста к�
 
 # Quest: Wireless Terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.name=Беспроводной терминал
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=The §3Security Terminal§r can be used to specify what players are allowed to interact with in the ME network which can be useful in multiplayer. It can also be used to link a §6Wireless Terminal§r to the ME network. Atleast one §3Wireless Access Point§r is required, and its range can be expanded using §6Wireless Boosters§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXQ.desc=§3Терминал безопасности§r Его можно использовать для указания того, каким игрокам разрешено взаимодействовать с МЕ сетью, что может быть полезно в многопользовательском режиме. Также его можно использовать для связи с §6Беспроводным терминалом§r в ME сети. По крайней мере один §3Wireless Access Point§r необходим, и его диапазон можно увеличивать, используя §6Wireless Boosters§r.
 
 # Quest: Storage Components
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.name=Компоненты хранения
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=The §6ME Storage Housing§r is the outer shell of a §6Storage Cell§r. There are many tiers of storage cells, all of which require the use of NTM machines to be crafted.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYQ.desc=§6ME Storage Housing§r является внешней оболочкой §6Ячейки хранения§r. Существует множество уровней ячеек хранения; для их создания требуются механизмы NTM.
 
 # Quest: Fluix Crystal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.name=Изменчивый кристалл
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.desc=§6Fluix Crystals§r are another crystal type which is used in crafting recipes throughout the mod. The crystal comes in two forms, the regular fluix crystal and the §6Pure Fluix Crystal§r.%n%nTo create a fluix crystal, 1§6 Charged Certus Quartz§r, 1 §6Nether Quartz§r, and 1 §6Redstone Dust§r must be dropped into a pool of §bWater§r. They will be consumed and output 2 fluix crystals.%n%n§2Fluix crystals can later be made in a Chemical Plant using charged certus quartz and redstone.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAbA.desc=§6Кристаллы Флюкса§r Это ещё один тип кристаллов, используемый в рецептах крафта на протяжении всего мода. Кристаллы бывают двух видов: обычный кристалл флюкса и §6Pure Fluix Crystal§r.%n%nДля создания кристалла флюкса, 1 §6Charged Certus Quartz§r, 1 §6Nether Quartz§r и 1 §6Редстоуновая пыль§r должна быть выброшена в бассейн с §bВодой§r. Из них получится 2 кристалла флюкса.%n%n§2Флюкс кристаллы могут быть сделаны на химическом заводе с помощью заряженного "certus quartz" и редстоуна.
 
 # Quest: Crystal Growth Accelerator
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAcQ.name=Ускоритель роста кристаллов
@@ -1411,7 +1411,7 @@ betterquesting.quest.WUUIPZ-KQFCpsXAcpOxwqw.name=AE2 автокрафт
 betterquesting.quest.WUUIPZ-KQFCpsXAcpOxwqw.desc=§2This quest serves an a guide on how to order items using the ME system. The example item will be an Analog Circuit.§r%n%nWith an §3ME Drive§r providing item storage, a §3Crafting CPU§r and §3Interfaces§r, one can request any item to be crafted. The image below makes use of a §3Molecular Assembler§r, a §3Soldering Station§r, an §3Electric Press§r aswell as two §3Import Buses§r which serve as an output for the solderer and press.%n%n[img height=1000]betterquesting:textures/BQ_Auto1.png[/img]%n%nThe first step in automating crafting recipes is to encode §6ME Patterns§r. There are two types of patterns, crafting and processing. The crafting pattern is created by having the §3Pattern Terminal§r set to the crafting table. After placing the items in the terminal, press the arrow to finish encoding the recipe.%n%n[img height=1000]betterquesting:textures/BQ_Auto2.png[/img]%n%nFor recipes which arent made in a crafting table, such as the §6Wires§r and the §6Analog Circuit§r itself, the pattern terminal needs to be switched to the processing mode, which has a furnace icon.%n%n[img height=1000]betterquesting:textures/BQ_Auto3.png[/img]%n%nAfter all the patterns have been created, insert them into their respective interfaces.%nMake sure to enable blocking mode on the interfaces as not to have multiple different recipes enter the interface at once.%n%n[img height=1000]betterquesting:textures/BQ_Auto4.png[/img]%n%nFinally, after everything has been set up, the option to order items will be shown in the ME terminal.%n%n[img height=1000]betterquesting:textures/BQ_Auto5.png[/img]%n
 
 # Quest: Cell Workbench
-betterquesting.quest._RJ-wMmFRWepNEgav4H2ZQ.name=Cell Workbench
+betterquesting.quest._RJ-wMmFRWepNEgav4H2ZQ.name=Верстак для ячеек
 betterquesting.quest._RJ-wMmFRWepNEgav4H2ZQ.desc=§3Cell Workbench§r позволяет отфильтровать ячейки для принятия определенных предметов. Он может оказаться полезным при создании подсети для §eBedrock Ore Processing§r.
 
 # Quest: ME Storage Bus
@@ -1419,7 +1419,7 @@ betterquesting.quest.b4Wb4VV0RkSBMjTUJj8Idg.name=МЭ шина хранения
 betterquesting.quest.b4Wb4VV0RkSBMjTUJj8Idg.desc=§3ME Storage Bus§r, при подключении к блоку или сущности блока, имеющим инвентарь (как правило, к хранилищу - например, сундуку или §3Drawer Controller§r), содержимое этого инвентаря станет доступным в ME системе.%n
 
 # Quest: Pattern Capacity Card
-betterquesting.quest.d4NudAjPT3G3f26jL0-SaA.name=Pattern Capacity Card
+betterquesting.quest.d4NudAjPT3G3f26jL0-SaA.name=Карта вместимости шаблонов
 betterquesting.quest.d4NudAjPT3G3f26jL0-SaA.desc=§6Pattern Capacity Card§r можно использовать для добавления 9 дополнительных слотов для шаблонов в §3ME интерфейсе§r. Можно установить до 3 карт.
 
 # Quest: Quantum Network Bridge
@@ -1428,7 +1428,7 @@ betterquesting.quest.di_RfA7kSDGB_3iCgsfVaQ.desc=A §3Quantum Network Bridge§r 
 
 # Quest: Acceleration Card
 betterquesting.quest.g0hMKPOqRWKCKtSyhQtPsA.name=Карта ускорения
-betterquesting.quest.g0hMKPOqRWKCKtSyhQtPsA.desc=The §6Acceleration Card§r increases the speed of various AE2 devices.
+betterquesting.quest.g0hMKPOqRWKCKtSyhQtPsA.desc=§6Карта ускорения§r увеличивает скорость различных устройств из AE2.
 
 # Quest: Dense ME Cable
 betterquesting.quest.gZL_U2jPTZe5oDt8FcJ2QQ.name=Плотный МЭ кабель
@@ -1436,7 +1436,7 @@ betterquesting.quest.gZL_U2jPTZe5oDt8FcJ2QQ.desc=The §6Dense ME Fluix Cables§r
 
 # Quest: Molecular Assembler
 betterquesting.quest.h0nPHR-TSQWbZhxIF9pAsA.name=Молекулярный сборщик
-betterquesting.quest.h0nPHR-TSQWbZhxIF9pAsA.desc=The §3Molecular Assembler§r is used to autocraft anything that can be made in a crafting table.
+betterquesting.quest.h0nPHR-TSQWbZhxIF9pAsA.desc=§3Молекулярный сборщик§r используется для автокрафтинга всего, что может быть сделано на верстаке.
 
 # Quest: Crafting CPU
 betterquesting.quest.ku71W0ZTQkOsyV4SQ0pPLA.name=ЦП создания
@@ -1461,7 +1461,7 @@ betterquesting.quest.xyHVMuUHQjSWbujlx1EMqw.desc=The §6Overflow Void Card§r ac
 
 ## Quest Line: OpenComputers
 betterquesting.questline.7qWugdC9QfGJ31NktB0YqA.name=OpenComputers
-betterquesting.questline.7qWugdC9QfGJ31NktB0YqA.desc=Use OpenComputers to monitor and control complex machinery.
+betterquesting.questline.7qWugdC9QfGJ31NktB0YqA.desc=Используйте OpenComputers для мониторинга и управления сложными механизмами.
 
 # Quest: Memory
 betterquesting.quest.-0Jqqg9TRmCEikNnquKeuA.name=Память
