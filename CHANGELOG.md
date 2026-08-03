@@ -119,6 +119,7 @@
 
 
 **Changed**
+* Updated main menu and loading screen backgrounds
 * Removed Lan UPnP due to high instability
 * Removed Village Names
   * Byee
