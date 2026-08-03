@@ -2,7 +2,7 @@
   "quality": {
     "grass_quality": "DEFAULT",
     "use_celeritas_smooth_lighting": true,
-    "texture_filter_mode": "RGSS"
+    "texture_filter_mode": "ANISOTROPIC"
   },
   "advanced": {
     "use_vertex_array_objects": true,
