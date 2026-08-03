@@ -1,154 +1,1478 @@
 {
-    "dirt": {
-        "template": "uniform",
-        "block": "dirt",
+    "_comment_overworld": "=== OVERWORLD: EXTREME HILLS / MOUNTAINS ===",
+
+    "CoalSeamExtremeHills": {
+        "template": "normal",
+        "block": "minecraft:coal_ore",
         "material": "minecraft:stone",
-        "clusterSize": 32,
-        "numClusters": 20,
-        "minHeight": 0,
-        "maxHeight": 128,
+        "clusterSize": 64,
+        "numClusters": 2,
+        "meanHeight": 40,
+        "maxVariance": 20,
         "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Extreme Hills+"},
+            {"type": "name", "entry": "Extreme Hills"},
+            {"type": "name", "entry": "Extreme Hills M"},
+            {"type": "name", "entry": "Extreme Hills+ M"},
+            {"type": "name", "entry": "Stone Beach"},
+            {"type": "name", "entry": "Ice Mountains"}
+        ],
         "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
+        "dimensions": [-1, 1]
     },
-    "gravel": {
-        "template": "uniform",
-        "block": "gravel",
-        "material": "stone",
-        "clusterSize": 32,
-        "numClusters": 10,
-        "minHeight": 0,
-        "maxHeight": 128,
-        "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "coal": {
-        "template": "uniform",
-        "block": "coal_ore",
-        "material": "stone",
+    "TungstenExtremeHills": {
+        "template": "normal",
+        "block": "hbm:tile.ore_tungsten",
+        "material": "minecraft:stone",
         "clusterSize": 16,
-        "numClusters": 20,
-        "minHeight": 0,
-        "maxHeight": 128,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Extreme Hills"},
+            {"type": "name", "entry": "Extreme Hills M"},
+            {"type": "name", "entry": "Extreme Hills+"},
+            {"type": "name", "entry": "Extreme Hills+ M"},
+            {"type": "name", "entry": "Ice Mountains"}
+        ],
         "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
+        "dimensions": [-1, 1]
     },
-    "iron": {
-        "template": "uniform",
-        "block": "iron_ore",
-        "material": "minecraft:stone",
-        "clusterSize": 8,
-        "numClusters": 20,
-        "minHeight": 0,
-        "maxHeight": 64,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "gold": {
-        "template": "uniform",
-        "block": "gold_ore",
+    "BerylliumExtremeHills": {
+        "template": "normal",
+        "block": "hbm:tile.ore_beryllium",
         "material": "minecraft:stone",
         "clusterSize": 8,
         "numClusters": 2,
-        "minHeight": 0,
-        "maxHeight": 32,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "redstone": {
-        "template": "uniform",
-        "block": "redstone_ore",
-        "material": "minecraft:stone",
-        "clusterSize": 7,
-        "numClusters": 8,
-        "minHeight": 0,
-        "maxHeight": 16,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "diamond": {
-        "template": "uniform",
-        "block": "diamond_ore",
-        "material": "minecraft:stone",
-        "clusterSize": 7,
-        "numClusters": 1,
-        "minHeight": 0,
-        "maxHeight": 16,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "lapis": {
-        "template": "normal",
-        "block": "lapis_ore",
-        "material": "minecraft:stone",
-        "clusterSize": 6,
-        "numClusters": 1,
-        "meanHeight": 16,
-        "maxVariance": 16,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "quartz": {
-        "template": "uniform",
-        "block": "quartz_ore",
-        "material": "minecraft:netherrack",
-        "clusterSize": 13,
-        "numClusters": 16,
-        "minHeight": 10,
-        "maxHeight": 118,
-        "retrogen": "true",
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes": [
-            {"type": "dictionary", "entry": "NETHER"}
+            {"type": "name", "entry": "Extreme Hills"},
+            {"type": "name", "entry": "Extreme Hills M"},
+            {"type": "name", "entry": "Extreme Hills+"},
+            {"type": "name", "entry": "Extreme Hills+ M"},
+            {"type": "name", "entry": "Ice Mountains"}
         ],
-        "dimensionRestriction": "none",
-        "dimensions": []
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "DiamondHills": {
+        "template": "normal",
+        "block": "minecraft:diamond_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "meanHeight": 9,
+        "maxVariance": 4,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Extreme Hills"},
+            {"type": "name", "entry": "Extreme Hills M"},
+            {"type": "name", "entry": "Extreme Hills+"},
+            {"type": "name", "entry": "Extreme Hills+ M"},
+            {"type": "name", "entry": "Ice Mountains"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_desert": "=== DESERT ===",
+
+    "NiterDesert": {
+        "template": "normal",
+        "block": "hbm:tile.ore_niter",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Desert"},
+            {"type": "name", "entry": "DesertHills"},
+            {"type": "name", "entry": "Desert M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "TitaniumDesert": {
+        "template": "normal",
+        "block": "hbm:tile.ore_titanium",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Desert"},
+            {"type": "name", "entry": "DesertHills"},
+            {"type": "name", "entry": "Desert M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "GoldDesert": {
+        "template": "normal",
+        "block": "minecraft:gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Desert"},
+            {"type": "name", "entry": "DesertHills"},
+            {"type": "name", "entry": "Desert M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_mesa": "=== MESA ===",
+
+    "LithiumMesa": {
+        "template": "normal",
+        "block": "hbm:tile.ore_lithium",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mesa"},
+            {"type": "name", "entry": "Mesa Plateau"},
+            {"type": "name", "entry": "Mesa Plateau F"},
+            {"type": "name", "entry": "Mesa Plateau F M"},
+            {"type": "name", "entry": "Mesa Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "SulfurMesa": {
+        "template": "normal",
+        "block": "hbm:tile.ore_sulfur",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mesa"},
+            {"type": "name", "entry": "Mesa Plateau"},
+            {"type": "name", "entry": "Mesa Plateau F"},
+            {"type": "name", "entry": "Mesa Plateau F M"},
+            {"type": "name", "entry": "Mesa Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "TitaniumMesa": {
+        "template": "normal",
+        "block": "hbm:tile.ore_titanium",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mesa"},
+            {"type": "name", "entry": "Mesa Plateau"},
+            {"type": "name", "entry": "Mesa Plateau F"},
+            {"type": "name", "entry": "Mesa Plateau F M"},
+            {"type": "name", "entry": "Mesa Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "RedstoneMesa": {
+        "template": "normal",
+        "block": "minecraft:redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mesa"},
+            {"type": "name", "entry": "Mesa Plateau"},
+            {"type": "name", "entry": "Mesa Plateau F"},
+            {"type": "name", "entry": "Mesa Plateau F M"},
+            {"type": "name", "entry": "Mesa Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_savanna": "=== SAVANNA ===",
+
+    "IronSavanna": {
+        "template": "normal",
+        "block": "minecraft:iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 34,
+        "maxVariance": 18,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Savanna"},
+            {"type": "name", "entry": "Savanna Plateau"},
+            {"type": "name", "entry": "Savanna M"},
+            {"type": "name", "entry": "Savanna Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "ThoriumSavanna": {
+        "template": "normal",
+        "block": "hbm:tile.ore_thorium",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Savanna"},
+            {"type": "name", "entry": "Savanna Plateau"},
+            {"type": "name", "entry": "Savanna M"},
+            {"type": "name", "entry": "Savanna Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "CobaltSavanna": {
+        "template": "normal",
+        "block": "hbm:tile.ore_cobalt",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Savanna"},
+            {"type": "name", "entry": "Savanna Plateau"},
+            {"type": "name", "entry": "Savanna M"},
+            {"type": "name", "entry": "Savanna Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "RedstoneSavanna": {
+        "template": "normal",
+        "block": "minecraft:redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Savanna"},
+            {"type": "name", "entry": "Savanna Plateau"},
+            {"type": "name", "entry": "Savanna M"},
+            {"type": "name", "entry": "Savanna Plateau M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_swamp": "=== SWAMPLAND ===",
+
+    "LigniteSwampland": {
+        "template": "normal",
+        "block": "hbm:tile.ore_lignite",
+        "material": "minecraft:stone",
+        "clusterSize": 128,
+        "numClusters": 2,
+        "meanHeight": 40,
+        "maxVariance": 14,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Swampland"},
+            {"type": "name", "entry": "Swampland M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "SulfurSwampland": {
+        "template": "normal",
+        "block": "hbm:tile.ore_sulfur",
+        "material": "minecraft:stone",
+        "clusterSize": 88,
+        "numClusters": 2,
+        "meanHeight": 30,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Swampland"},
+            {"type": "name", "entry": "Swampland M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_plains": "=== PLAINS ===",
+
+    "IronPlains": {
+        "template": "normal",
+        "block": "minecraft:iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Plains"},
+            {"type": "name", "entry": "Sunflower Plains"},
+            {"type": "name", "entry": "Ice Plains"},
+            {"type": "name", "entry": "Ice Plains Spikes"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "CopperPlains": {
+        "template": "normal",
+        "block": "hbm:tile.ore_copper",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 34,
+        "maxVariance": 18,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Plains"},
+            {"type": "name", "entry": "Sunflower Plains"},
+            {"type": "name", "entry": "Ice Plains"},
+            {"type": "name", "entry": "Ice Plains Spikes"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_forest": "=== FOREST ===",
+
+    "ZincForest": {
+        "template": "normal",
+        "block": "hbm:tile.ore_zinc",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Forest"},
+            {"type": "name", "entry": "ForestHills"},
+            {"type": "name", "entry": "Flower Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "LeadForest": {
+        "template": "normal",
+        "block": "hbm:tile.ore_lead",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Forest"},
+            {"type": "name", "entry": "ForestHills"},
+            {"type": "name", "entry": "Flower Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "RedstoneForest": {
+        "template": "normal",
+        "block": "minecraft:redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Forest"},
+            {"type": "name", "entry": "ForestHills"},
+            {"type": "name", "entry": "Flower Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "LapisForest": {
+        "template": "normal",
+        "block": "minecraft:lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Forest"},
+            {"type": "name", "entry": "ForestHills"},
+            {"type": "name", "entry": "Flower Forest"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_taiga": "=== ALL TAIGA ===",
+
+    "UraniumTaiga": {
+        "template": "normal",
+        "block": "hbm:tile.ore_uranium",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mega Taiga"},
+            {"type": "name", "entry": "Mega Spruce Taiga"},
+            {"type": "name", "entry": "Mega Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga Hills M"},
+            {"type": "name", "entry": "Redwood Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga M"},
+            {"type": "name", "entry": "Redwood Taiga"},
+            {"type": "name", "entry": "Taiga"},
+            {"type": "name", "entry": "TaigaHills"},
+            {"type": "name", "entry": "Taiga M"},
+            {"type": "name", "entry": "Cold Taiga M"},
+            {"type": "name", "entry": "Cold Taiga Hills"},
+            {"type": "name", "entry": "Cold Taiga"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "DiamondTaiga": {
+        "template": "normal",
+        "block": "minecraft:diamond_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "meanHeight": 9,
+        "maxVariance": 4,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mega Taiga"},
+            {"type": "name", "entry": "Mega Spruce Taiga"},
+            {"type": "name", "entry": "Mega Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga Hills M"},
+            {"type": "name", "entry": "Redwood Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga M"},
+            {"type": "name", "entry": "Redwood Taiga"},
+            {"type": "name", "entry": "Taiga"},
+            {"type": "name", "entry": "TaigaHills"},
+            {"type": "name", "entry": "Taiga M"},
+            {"type": "name", "entry": "Cold Taiga M"},
+            {"type": "name", "entry": "Cold Taiga Hills"},
+            {"type": "name", "entry": "Cold Taiga"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "AsbestosTaiga": {
+        "template": "normal",
+        "block": "hbm:tile.ore_asbestos",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mega Taiga"},
+            {"type": "name", "entry": "Mega Spruce Taiga"},
+            {"type": "name", "entry": "Mega Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga Hills M"},
+            {"type": "name", "entry": "Redwood Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga M"},
+            {"type": "name", "entry": "Redwood Taiga"},
+            {"type": "name", "entry": "Taiga"},
+            {"type": "name", "entry": "TaigaHills"},
+            {"type": "name", "entry": "Taiga M"},
+            {"type": "name", "entry": "Cold Taiga M"},
+            {"type": "name", "entry": "Cold Taiga Hills"},
+            {"type": "name", "entry": "Cold Taiga"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "AluminiumTaiga": {
+        "template": "normal",
+        "block": "hbm:tile.ore_aluminium",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mega Taiga"},
+            {"type": "name", "entry": "Mega Spruce Taiga"},
+            {"type": "name", "entry": "Mega Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga Hills M"},
+            {"type": "name", "entry": "Redwood Taiga Hills"},
+            {"type": "name", "entry": "Redwood Taiga M"},
+            {"type": "name", "entry": "Redwood Taiga"},
+            {"type": "name", "entry": "Taiga"},
+            {"type": "name", "entry": "TaigaHills"},
+            {"type": "name", "entry": "Taiga M"},
+            {"type": "name", "entry": "Cold Taiga M"},
+            {"type": "name", "entry": "Cold Taiga Hills"},
+            {"type": "name", "entry": "Cold Taiga"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_jungle": "=== JUNGLE ===",
+
+    "AluminiumJungle": {
+        "template": "normal",
+        "block": "hbm:tile.ore_aluminium",
+        "material": "minecraft:stone",
+        "clusterSize": 128,
+        "numClusters": 2,
+        "meanHeight": 30,
+        "maxVariance": 30,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Jungle"},
+            {"type": "name", "entry": "JungleHills"},
+            {"type": "name", "entry": "Jungle Edge"},
+            {"type": "name", "entry": "Jungle Edge M"},
+            {"type": "name", "entry": "Jungle M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "ColtanJungle": {
+        "template": "normal",
+        "block": "hbm:tile.ore_coltan",
+        "material": "minecraft:stone",
+        "clusterSize": 72,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Jungle"},
+            {"type": "name", "entry": "Jungle Hills"},
+            {"type": "name", "entry": "Jungle Edge"},
+            {"type": "name", "entry": "Jungle Edge M"},
+            {"type": "name", "entry": "Jungle M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "GoldJungle": {
+        "template": "normal",
+        "block": "minecraft:gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 56,
+        "numClusters": 2,
+        "meanHeight": 26,
+        "maxVariance": 12,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Jungle"},
+            {"type": "name", "entry": "Jungle Hills"},
+            {"type": "name", "entry": "Jungle Edge"},
+            {"type": "name", "entry": "Jungle Edge M"},
+            {"type": "name", "entry": "Jungle M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "TitaniumJungle": {
+        "template": "normal",
+        "block": "hbm:tile.ore_titanium",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Jungle"},
+            {"type": "name", "entry": "Jungle Hills"},
+            {"type": "name", "entry": "Jungle Edge"},
+            {"type": "name", "entry": "Jungle Edge M"},
+            {"type": "name", "entry": "Jungle M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_birch": "=== BIRCH FOREST ===",
+
+    "CopperBirchForest": {
+        "template": "normal",
+        "block": "hbm:tile.ore_copper",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 34,
+        "maxVariance": 18,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Birch Forest Hills"},
+            {"type": "name", "entry": "Birch Forest Hills M"},
+            {"type": "name", "entry": "Birch Forest"},
+            {"type": "name", "entry": "Birch Forest M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "CobaltBirchForest": {
+        "template": "normal",
+        "block": "hbm:tile.ore_cobalt",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Birch Forest Hills"},
+            {"type": "name", "entry": "Birch Forest Hills M"},
+            {"type": "name", "entry": "Birch Forest"},
+            {"type": "name", "entry": "Birch Forest M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "RedstoneBirchForest": {
+        "template": "normal",
+        "block": "minecraft:redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Birch Forest Hills"},
+            {"type": "name", "entry": "Birch Forest Hills M"},
+            {"type": "name", "entry": "Birch Forest"},
+            {"type": "name", "entry": "Birch Forest M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_ocean": "=== OCEAN / DEEP OCEAN ===",
+
+    "UraniumOcean": {
+        "template": "normal",
+        "block": "hbm:tile.ore_uranium",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Deep Ocean"},
+            {"type": "name", "entry": "Ocean"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "ColtanOcean": {
+        "template": "normal",
+        "block": "hbm:tile.ore_coltan",
+        "material": "minecraft:stone",
+        "clusterSize": 72,
+        "numClusters": 2,
+        "meanHeight": 1,
+        "maxVariance": 3,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Deep Ocean"},
+            {"type": "name", "entry": "Ocean"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "CertusQuartzOcean": {
+        "template": "normal",
+        "block": "appliedenergistics2:tile.OreQuartz",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Deep Ocean"},
+            {"type": "name", "entry": "Ocean"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "FluoriteOcean": {
+        "template": "normal",
+        "block": "hbm:tile.ore_fluorite",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Deep Ocean"},
+            {"type": "name", "entry": "Ocean"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "LapisOcean": {
+        "template": "normal",
+        "block": "minecraft:lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 20,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Deep Ocean"},
+            {"type": "name", "entry": "Ocean"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_roofed": "=== ROOFED FOREST ===",
+
+    "FluoriteRoofedForest": {
+        "template": "normal",
+        "block": "hbm:tile.ore_fluorite",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Roofed Forest"},
+            {"type": "name", "entry": "Roofed Forest M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "SaltRoofedForest": {
+        "template": "normal",
+        "block": "harvestcraft:salt",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Roofed Forest"},
+            {"type": "name", "entry": "Roofed Forest M"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+
+    "_comment_mun": "=== MUN (dimension 15) — replaces cobblestone ===",
+
+    "Mun_Nickel": {
+        "template": "normal",
+        "block": "hbm:tile.ore_nickel:2",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 30,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mun"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [15]
+    },
+    "Mun_Iron": {
+        "template": "normal",
+        "block": "hbm:tile.ore_iron:2",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 45,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mun"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [15]
+    },
+    "Mun_Lead": {
+        "template": "normal",
+        "block": "hbm:tile.ore_lead:2",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 20,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mun"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [15]
+    },
+    "Mun_Sulfur": {
+        "template": "normal",
+        "block": "hbm:tile.ore_sulfur:2",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 55,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mun"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [15]
+    },
+    "Mun_Fluorite": {
+        "template": "normal",
+        "block": "hbm:tile.ore_fluorite:2",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 35,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Mun"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [15]
+    },
+
+    "_comment_minmus": "=== MINMUS (dimension 21) — replaces stone ===",
+
+    "Minmus_Copper": {
+        "template": "normal",
+        "block": "hbm:tile.ore_copper:3",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 45,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Minmus Basins"},
+            {"type": "name", "entry": "Minmus Hills"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [21]
+    },
+    "Minmus_Niter": {
+        "template": "normal",
+        "block": "hbm:tile.ore_niter:3",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 25,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Minmus Basins"},
+            {"type": "name", "entry": "Minmus Hills"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [21]
+    },
+    "Minmus_Quartz": {
+        "template": "normal",
+        "block": "hbm:tile.ore_quartz:3",
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 2,
+        "meanHeight": 25,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Minmus Basins"},
+            {"type": "name", "entry": "Minmus Hills"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [21]
+    },
+
+    "_comment_duna": "=== DUNA (dimension 16) — Bezier veins, replaces stone. minHeight/maxHeight from MotherlodeHeight avg=35 ± range=20 uniform ===",
+
+    "Duna_Redstone": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_redstone:4",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Weathered Dunaian Hills"},
+            {"type": "name", "entry": "Dunaian Polar Mountains"},
+            {"type": "name", "entry": "Dunaian Plains"},
+            {"type": "name", "entry": "Dunaian Lowland Plains"},
+            {"type": "name", "entry": "Dunaian Ice Sheet"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [16]
+    },
+    "Duna_Titanium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_titanium:4",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Weathered Dunaian Hills"},
+            {"type": "name", "entry": "Dunaian Polar Mountains"},
+            {"type": "name", "entry": "Dunaian Plains"},
+            {"type": "name", "entry": "Dunaian Lowland Plains"},
+            {"type": "name", "entry": "Dunaian Ice Sheet"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [16]
+    },
+    "Duna_RareEarth": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_rare:4",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Weathered Dunaian Hills"},
+            {"type": "name", "entry": "Dunaian Polar Mountains"},
+            {"type": "name", "entry": "Dunaian Plains"},
+            {"type": "name", "entry": "Dunaian Lowland Plains"},
+            {"type": "name", "entry": "Dunaian Ice Sheet"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [16]
+    },
+    "Duna_Beryllium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_beryllium:4",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Weathered Dunaian Hills"},
+            {"type": "name", "entry": "Dunaian Polar Mountains"},
+            {"type": "name", "entry": "Dunaian Plains"},
+            {"type": "name", "entry": "Dunaian Lowland Plains"},
+            {"type": "name", "entry": "Dunaian Ice Sheet"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [16]
+    },
+    "Duna_Zinc": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_zinc:4",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Weathered Dunaian Hills"},
+            {"type": "name", "entry": "Dunaian Polar Mountains"},
+            {"type": "name", "entry": "Dunaian Plains"},
+            {"type": "name", "entry": "Dunaian Lowland Plains"},
+            {"type": "name", "entry": "Dunaian Ice Sheet"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [16]
+    },
+    "Duna_Aluminium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_aluminium:4",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Weathered Dunaian Hills"},
+            {"type": "name", "entry": "Dunaian Polar Mountains"},
+            {"type": "name", "entry": "Dunaian Plains"},
+            {"type": "name", "entry": "Dunaian Lowland Plains"},
+            {"type": "name", "entry": "Dunaian Ice Sheet"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [16]
+    },
+
+    "_comment_ike": "=== IKE (dimension 17) — Bezier veins, replaces stone. MotherlodeHeight avg=35 ± range=20 uniform ===",
+
+    "Ike_Uranium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_uranium:8",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Ike"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [17]
+    },
+    "Ike_Plutonium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_plutonium:8",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Ike"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [17]
+    },
+    "Ike_Lanthanium": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_lanthanium:8",
+        "material": "minecraft:stone",
+        "clusterSize": 24,
+        "numClusters": 2,
+        "minHeight": 15,
+        "maxHeight": 55,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Ike"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [17]
+    },
+
+    "_comment_laythe": "=== LAYTHE (dimension 22) — large thin seam cloud, replaces stone ===",
+
+    "Laythe_Aluminium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_aluminium:9",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 40,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Laythe Islands"},
+            {"type": "name", "entry": "Laythe Poles"},
+            {"type": "name", "entry": "Laythe Reef"},
+            {"type": "name", "entry": "Sagan Sea"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [22]
+    },
+    "Laythe_Asbestos": {
+        "template": "normal",
+        "block": "hbm:tile.ore_asbestos:9",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 50,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Laythe Islands"},
+            {"type": "name", "entry": "Laythe Poles"},
+            {"type": "name", "entry": "Laythe Reef"},
+            {"type": "name", "entry": "Sagan Sea"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [22]
+    },
+    "Laythe_Tungsten": {
+        "template": "normal",
+        "block": "hbm:tile.ore_tungsten:9",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 15,
+        "maxVariance": 5,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Laythe Islands"},
+            {"type": "name", "entry": "Laythe Poles"},
+            {"type": "name", "entry": "Laythe Reef"},
+            {"type": "name", "entry": "Sagan Sea"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [22]
+    },
+
+    "_comment_eve": "=== EVE (dimension 18) — small dense clouds, replaces cobblestone ===",
+
+    "Eve_Schrabidium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_schrabidium:7",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "meanHeight": 15,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Eve Mountains"},
+            {"type": "name", "entry": "Eve Plains"},
+            {"type": "name", "entry": "Eve Seismic Plains"},
+            {"type": "name", "entry": "Explodium Ocean"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [18]
+    },
+    "Eve_Niobium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_niobium:7",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "meanHeight": 35,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Eve Mountains"},
+            {"type": "name", "entry": "Eve Plains"},
+            {"type": "name", "entry": "Eve Seismic Plains"},
+            {"type": "name", "entry": "Explodium Ocean"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [18]
+    },
+    "Eve_Cobalt": {
+        "template": "normal",
+        "block": "hbm:tile.ore_cobalt:7",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "meanHeight": 55,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Eve Mountains"},
+            {"type": "name", "entry": "Eve Plains"},
+            {"type": "name", "entry": "Eve Seismic Plains"},
+            {"type": "name", "entry": "Explodium Ocean"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [18]
+    },
+    "Eve_Iodine": {
+        "template": "uniform",
+        "block": "hbm:tile.ore_iodine:7",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "minHeight": 2,
+        "maxHeight": 62,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Eve Mountains"},
+            {"type": "name", "entry": "Eve Plains"},
+            {"type": "name", "entry": "Eve Seismic Plains"},
+            {"type": "name", "entry": "Explodium Ocean"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [18]
+    },
+
+    "_comment_dres": "=== DRES (dimension 19) — very dense small clouds, replaces cobblestone ===",
+
+    "Dres_Diamond": {
+        "template": "normal",
+        "block": "hbm:tile.ore_diamond:6",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 10,
+        "meanHeight": 12,
+        "maxVariance": 8,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Dres Large Basins"},
+            {"type": "name", "entry": "Dresian Flains"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [19]
+    },
+    "Dres_Coltan": {
+        "template": "normal",
+        "block": "hbm:tile.ore_coltan:6",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 10,
+        "meanHeight": 30,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Dres Large Basins"},
+            {"type": "name", "entry": "Dresian Flains"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [19]
+    },
+    "Dres_Lanthanium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_lanthanium:6",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 10,
+        "meanHeight": 25,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Dres Large Basins"},
+            {"type": "name", "entry": "Dresian Flains"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [19]
+    },
+    "Dres_Niobium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_niobium:6",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 12,
+        "numClusters": 4,
+        "meanHeight": 35,
+        "maxVariance": 15,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Dres Large Basins"},
+            {"type": "name", "entry": "Dresian Flains"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [19]
+    },
+
+    "_comment_moho": "=== MOHO (dimension 20) — massive rare cloud, replaces stone ===",
+
+    "Moho_Australium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_australium:5",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 12,
+        "maxVariance": 4,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Moho Lava Sea"},
+            {"type": "name", "entry": "Moho Crag"},
+            {"type": "name", "entry": "Moho Plateau"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [20]
+    },
+    "Moho_Cinnabar": {
+        "template": "normal",
+        "block": "hbm:tile.ore_cinnebar:5",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 30,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Moho Lava Sea"},
+            {"type": "name", "entry": "Moho Crag"},
+            {"type": "name", "entry": "Moho Plateau"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [20]
+    },
+    "Moho_Phosphorus": {
+        "template": "normal",
+        "block": "hbm:tile.ore_fire:5",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 50,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Moho Lava Sea"},
+            {"type": "name", "entry": "Moho Crag"},
+            {"type": "name", "entry": "Moho Plateau"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [20]
+    },
+
+    "_comment_tekto": "=== TEKTO (dimension 24) — long horizontal Bezier veins, replaces cobblestone. Heights override the preset's uniform range ===",
+
+    "Tekto_Lithium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_lithium:10",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 39,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Halogen Hills"},
+            {"type": "name", "entry": "Polyvinyl Plains"},
+            {"type": "name", "entry": "Vinyl Desert"},
+            {"type": "name", "entry": "Tekto Forest"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [24]
+    },
+    "Tekto_Plutonium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_plutonium:10",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 15,
+        "maxVariance": 5,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Halogen Hills"},
+            {"type": "name", "entry": "Polyvinyl Plains"},
+            {"type": "name", "entry": "Vinyl Desert"},
+            {"type": "name", "entry": "Tekto Forest"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [24]
+    },
+    "Tekto_Beryllium": {
+        "template": "normal",
+        "block": "hbm:tile.ore_beryllium:10",
+        "material": "minecraft:cobblestone",
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 55,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Halogen Hills"},
+            {"type": "name", "entry": "Polyvinyl Plains"},
+            {"type": "name", "entry": "Vinyl Desert"},
+            {"type": "name", "entry": "Tekto Forest"}
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [24]
     }
 }
