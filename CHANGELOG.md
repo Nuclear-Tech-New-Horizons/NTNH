@@ -293,6 +293,7 @@
 * RTG/Betavoltaic fuel power scales down as it decays
 * Glowing mycelium spreads now
 * Hopefully optimized some shit including ore generation
+* Improved Xaero map look
 
 
 
