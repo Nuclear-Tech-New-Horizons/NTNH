@@ -82,6 +82,23 @@
         "dimensionRestriction": "blacklist",
         "dimensions": [-1, 1]
     },
+    "EmeraldExtremeHills": {
+        "template": "normal",
+        "block": "minecraft:emerald_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 28,
+        "maxVariance": 10,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            {"type": "name", "entry": "Extreme Hills"},
+            {"type": "name", "entry": "Ice Mountains"}
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
 
     "_comment_desert": "=== DESERT ===",
 
@@ -442,8 +459,8 @@
         "material": "minecraft:stone",
         "clusterSize": 8,
         "numClusters": 2,
-        "meanHeight": 20,
-        "maxVariance": 20,
+        "meanHeight": 10,
+        "maxVariance": 10,
         "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes": [
@@ -789,8 +806,8 @@
         "material": "minecraft:stone",
         "clusterSize": 8,
         "numClusters": 2,
-        "meanHeight": 20,
-        "maxVariance": 20,
+        "meanHeight": 10,
+        "maxVariance": 10,
         "retrogen": "false",
         "biomeRestriction": "whitelist",
         "biomes": [
