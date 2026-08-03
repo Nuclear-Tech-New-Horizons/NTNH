@@ -18,15 +18,15 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Stirling Engine
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=Le §3Moteur Stirling§r utilise la chaleur d'un §3Four de chauffe§r ou d'un §3Foyer§r pour produire de l'énergie. Si un four de chauffe est utilisé pour chauffer un moteur Stirling, celui-ci risque de s'emballer et de s'endommager, projetant au loin son engrenage principal. Le moteur Stirling lourd ne présente pas ce problème.%n%nUn foyer alimenté au charbon couplé à un moteur Stirling produit §e2kHE/s§r, tandis qu'un four de chauffe associé à un moteur Stirling lourd produit §e10kHE/s§r.
 
 # Quest: Additional Fluid Tools
-betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Additional Fluid Tools
-betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Outils supplémentaires pour les fluides
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=Le §6Siphon§r est un outil permettant d'extraire des fluides d'une machine. Un clic droit sur une machine dont les réservoirs d'entrée contiennent du fluide permettra de remplir les barils de fluide, les réservoirs universels ou les pipettes (si la quantité de fluide ne suffit pas à remplir l'une des options précédentes).%n%nLe §6Pipettes§r permet d'introduire des quantités spécifiques de fluides. Un clic droit ou un clic droit avec la touche Maj enfoncée permet d'augmenter ou de diminuer la quantité de fluide.
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=La §3Machine à vapeur§r est un moyen de convertir la §bVapeur§r en énergie, accessible dès le début du jeu. Elle nécessite une source externe pour fournir la vapeur ainsi qu'un système pour évacuer ou retraiter la §bVapeur basse pression§r qu'elle produit. %n%nLa machine à vapeur affiche un rendement énergétique de §e85 %§r, ce qui la rend plus performante que le §3Moteur Stirling§r. Elle présente toutefois une limite de capacité, ne pouvant contenir que 2 000 mB de vapeur. Son débit maximal de traitement est de 2 000 mB/t, générant ainsi une production considérable de §e3 400 HE/t§r (soit §e68 kHE/s§r). C'est donc le meilleur générateur disponible avant les §3Turbines à vapeur§r.%n%nUne chaudière chauffée par un four au charbon produit §e17 kHE/s§r.
 
 # Quest: Automatic Thresher
-betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Automatic Thresher
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Batteuse automatique
 betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=The §3Automatic Thresher§r harvests crops such as §6Wheat§r, §6Hemp§r, §6Sugarcane§r, ect in a 7x7 area when supplied with fuel. It will eject all items from the back.%n%n[F1] for more information.
 
 # Quest: Abandoned Structures

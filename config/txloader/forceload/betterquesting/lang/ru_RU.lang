@@ -1356,7 +1356,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAew.desc=§3Энергетический
 
 # Quest: ME Terminal
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.name=МЭ терминал
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.desc=The §3ME Terminal§r is used to access all available items in the ME Network, including craftable ones.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfA.desc=§3ME Терминал§r используется для доступа ко всем доступным предметам в сети ME, включая те, которые можно создать.
 
 # Quest: ME Drive
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAfQ.name=МЭ накопитель
@@ -1469,71 +1469,71 @@ betterquesting.quest.-0Jqqg9TRmCEikNnquKeuA.desc=§6Память§r похожа
 
 # Quest: CPUs
 betterquesting.quest.-SW2UUweSLCzJBCGcIm3nw.name=Процессоры
-betterquesting.quest.-SW2UUweSLCzJBCGcIm3nw.desc=The §6Central Processing Unit§r (CPU), is a core part for each computer or §6Server§r. It defines the architecture of the computer, and the number of components that can be connected to the computer before it stops working. %nHigher tier CPUs also provide a higher per-tick direct call limit to the computer - in simpler terms: better CPUs run faster.
+betterquesting.quest.-SW2UUweSLCzJBCGcIm3nw.desc=§6Центральный процессор§r (CPU), является основной частью для каждого компьютера или §6Сервера§r. Он определяет архитектуру компьютера и количество компонентов, которые можно к нему подключить до того, как он перестанет работать. %nПроцессоры более высоких уровней также обеспечивают более высокий лимит прямых вызовов за такт; проще говоря: более мощные процессоры работают быстрее.
 
 # Quest: Internet Card
 betterquesting.quest.1azNAAjWQLaNJLrVXT0W9w.name=Интернет-карта
-betterquesting.quest.1azNAAjWQLaNJLrVXT0W9w.desc=The §6Internet Card§r grants computers access to the internet. It provides ways to perform simple HTTP requests, as well as to open plain TCP client sockets that can be read and written to.%n%nInstalling an internet card in a computer will also attach a custom file system that contains a few internet related applications, such as one for downloading and uploading snippets from/to pastebin as well as a "wget" clone that allows downloading data from arbitrary HTTP URLs.
+betterquesting.quest.1azNAAjWQLaNJLrVXT0W9w.desc=§6Сетевая карта§r предоставляет компьютеру доступ в интернет. Это позволяет выполнять простые HTTP-запросы, а также открывать простые клиентские TCP-сокеты, доступные для чтения и записи.%n%nУстановка в компьютер сетевой карты также добавляет специальную файловую систему, содержащую несколько сетевых утилит например, программу для загрузки фрагментов текста с сервиса Pastebin и их отправки туда, а также аналог wget, позволяющий скачивать данные по произвольным HTTP-адресам.
 
 # Quest: Transistors
 betterquesting.quest.43PzmZVaTwS5ZaPt_fhugg.name=Транзисторы
-betterquesting.quest.43PzmZVaTwS5ZaPt_fhugg.desc=The §6Transistor§r is one of the most basic crafting ingredients in OC. It is mainly used to craft §6Microchips§r and other electronic goods.
+betterquesting.quest.43PzmZVaTwS5ZaPt_fhugg.desc=§6Трансистор§r один из самых базовых ингредиентов для крафта в OC. В основном используется для создания §6микрочипов§r и других электронных изделий.
 
 # Quest: Microchips
 betterquesting.quest.5uHqD8E4RmWlcVca_5CJnQ.name=Микрочипы
-betterquesting.quest.5uHqD8E4RmWlcVca_5CJnQ.desc=§6Microchips§r are the bread and butter of electronic component crafting. They come in different tiers, for crafting different tiers of components.
+betterquesting.quest.5uHqD8E4RmWlcVca_5CJnQ.desc=§6Микросхемы§r хлеб и масло для создания электронных компонентов. Они поставляются в разных категориях для создания различных компонентов.
 
 # Quest: Floppy Disks and Disk Drive
 betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.name=Floppy Disks and Disk Drive
-betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.desc=The §3Disk Drive§r can be used to read §6Floppy Disks§r using a computer connected to it.%n%nThis is useful to get started, since the lower tier §3Computer Cases§r do not have a built-in floppy slot, and you'll need an operating system to boot up the computer.
+betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.desc=§3Disk Drive§r можно использовать для чтения §6дискет§r с помощью компьютера, подключенного к нему.%n%nЭто полезно для начала работы, поскольку у компьютерных корпусов §3Computer Cases§r начального уровня нет встроенного слота для дискет, а для загрузки компьютера вам понадобится операционная система.
 
 # Quest: Card Base
 betterquesting.quest.70KciiqATFCPJR3s6eoIMg.name=Card Base
-betterquesting.quest.70KciiqATFCPJR3s6eoIMg.desc=The §6Card Base§r is a common crafting material for card components in OC, such as §6Graphics Cards§r and §6Network Cards§r.
+betterquesting.quest.70KciiqATFCPJR3s6eoIMg.desc=§6Card Base§r это распространенный материал для создания компонентов в OC, таких как §6видеокарты§r и §6сетевые карты§r.
 
 # Quest: Electronic Assembler
 betterquesting.quest.7gCyEqlyTQqqnNxQ1cLt-A.name=Электронный сборщик
-betterquesting.quest.7gCyEqlyTQqqnNxQ1cLt-A.desc=The §3Electronic Assembler§r is an advanded workstation that can be used to build more complex electronic devices, such as §3Robots§r, §3Drones§r and §6Tablets§r. %n%nThey require a large amount of energy to assemble devices, so it is recommended to power them sufficiently with a §3Capacitor Bank§r.
+betterquesting.quest.7gCyEqlyTQqqnNxQ1cLt-A.desc=§3Electronic Assembler§r это современная рабочая станция, которая может быть использована для сборки более сложных электронных устройств, таких как §3Роботы§r, §3Дроны§r и §6Tablets§r. %n%nДля сборки устройств требуется большое количество энергии, поэтому рекомендуется обеспечить их достаточным питанием с помощью §3Capacitor Bank§r.
 
 # Quest: Wireless Network Card
 betterquesting.quest.8Bbui0CiRRm3hXTYH-ELpQ.name=Беспроводная сетевая карта
-betterquesting.quest.8Bbui0CiRRm3hXTYH-ELpQ.desc=The §6Wireless Network Card§r is an upgraded §6Network Card§r that can send and receive wireless network messages.%n %nTier two cards can also send and receive wired messages. The signal strength directly controls the distance up to which a sent message can be received, where the strength is equal to the distance in blocks.
+betterquesting.quest.8Bbui0CiRRm3hXTYH-ELpQ.desc=§6Беспроводная сетевая карта§r это улучшенная §6сетевая карта§r, способная отправлять и принимать сообщения беспроводной сети.%n %nКарты второго уровня также могут отправлять и принимать проводные сообщения. Мощность сигнала напрямую определяет дальность приема отправленного сообщения: значение мощности соответствует расстоянию в блоках.
 
 # Quest: Welcome to OC!
 betterquesting.quest.90cLqSYpT8OevVo7UEEaGA.name=Добро пожаловать в OC!
-betterquesting.quest.90cLqSYpT8OevVo7UEEaGA.desc=§dOpenComputers§r is a very useful mod which will let one automate many processes which normaly couldnt be done even with an ME system.%n%nMake sure to always check the §6OC Manual§r as it provides additional information of stuff that the quest book doesnt cover.
+betterquesting.quest.90cLqSYpT8OevVo7UEEaGA.desc=§dOpenComputers§r это очень полезный мод, позволяющий автоматизировать множество процессов, которые обычно невозможно было бы автоматизировать даже с помощью ME системы.%n%nОбязательно заглядывайте в руководство §6OC Manual§r: в нём содержится дополнительная информация о вещах, не охваченных книгой заданий.
 
 # Quest: Control and Arithmetics Units
 betterquesting.quest.ABODDDQgRrGXZdmgdHJ7Sg.name=Control and Arithmetics Units
-betterquesting.quest.ABODDDQgRrGXZdmgdHJ7Sg.desc=The §6Control Unit§r is used to create §6CPUs§r and §6Component Buses§r.%n%nThe §6Arithmetic Logic Unit§r is used for crafting components that perform calculations, such as CPUs and §6Graphics Cards§r.
+betterquesting.quest.ABODDDQgRrGXZdmgdHJ7Sg.desc=§6Control Unit§r используется для создания §6CPUs§r и §6Component Buses§r.%n%n§6Arithmetic Logic Unit§r используется для создания компонентов, выполняющих вычисления, таких как процессоры и §6Видеокарты§r.
 
 # Quest: PWRangler
 betterquesting.quest.DkfWKyKpReuU8BkzSMH3Xw.name=PWRangler
-betterquesting.quest.DkfWKyKpReuU8BkzSMH3Xw.desc=§dNTM§r offers a built-in §6Floppy Disk§r for monitoring the §3PWR§r reactor.%n%n§2This quest serves as a guide on how to set up an OC Computer using a PWRangler floppy disk.§r%n%nFirst of all, an OC computer with OpenOS must be constructed. For the purposes of this quest the computer that will be used will make use of §bTier 3§r components.%n%n[img height=1000]betterquesting:textures/QB_OC1.png[/img]%n%n[img height=1000]betterquesting:textures/QB_OC2.png[/img]%n%nAfter booting up the PC, install OpenOS.%n%nOnce the PC has been rebooted, switch out the OpenOS floppy disk with the PWRangler one. Once inserted, type §oinstall§r to install the PWRangler on the system.%n%nThe PWR needs to be linked to the computer using OC Cables directly on the controller.%n%n[img height=1000]betterquesting:textures/QB_OC3.png[/img]%n%nFinally, type §oPWRangler§r in the computer to start the program.%n%n[img height=1000]betterquesting:textures/QB_OC4.png[/img]%n
+betterquesting.quest.DkfWKyKpReuU8BkzSMH3Xw.desc=§dNTM§r предлагает встроенную §6дискету§r для мониторинга реактора §3PWR§r.%n%n§2Это задание служит руководством по настройке компьютера OC с использованием дискеты PWRangler.§r%n%nПрежде всего, необходимо собрать компьютер OC с установленной системой OpenOS. Для выполнения этого задания будет использоваться компьютер, оснащенный компонентами §b3-го уровня§r.%n%n[img height=1000]betterquesting:textures/QB_OC1.png[/img]%n%n[img height=1000]betterquesting:textures/QB_OC2.png[/img]%n%nПосле загрузки ПК установите OpenOS.%n%nПосле перезагрузки ПК замените дискету с OpenOS на дискету с PWRangler. Вставив её, введите §oinstall§r, чтобы установить PWRangler в систему.%n%nБлок питания (PWR) необходимо подключить к компьютеру с помощью кабелей OC, подсоединив их непосредственно к контроллеру.%n%n[img height=1000]betterquesting:textures/QB_OC3.png[/img]%n%nНаконец, введите §oPWRangler§r в компьютере, чтобы запустить программу.%n%n[img height=1000]betterquesting:textures/QB_OC4.png[/img]%n
 
 # Quest: Hard Drives
 betterquesting.quest.EdeL97xNTSmiLfPQpCJiow.name=Жёсткие диски
-betterquesting.quest.EdeL97xNTSmiLfPQpCJiow.desc=The §6Hard Disk Drives§r are a higher tier storage medium in OC.%n%nAll storage media perform at the same speed: higher tier storage provides more space. There are also some devices that can only use disk drives (although servers could use an external disk drive, for example). Hard drives can be placed inside a §3Raid§r, allowing multiple drives to share the same file system. Note that placing a hard drive in a raid wipes the drive of its contents.
+betterquesting.quest.EdeL97xNTSmiLfPQpCJiow.desc=§6Hard Disk Drives§r представляют собой носитель данных более высокого уровня в OC.%n%nВсе носители данных работают с одинаковой скоростью; накопители более высокого уровня отличаются лишь увеличенным объемом памяти. Существуют также устройства, поддерживающие работу только с дисковыми накопителями (хотя серверы, например, могут использовать и внешние диски). Жесткие диски можно объединять в массив §3Raid§r, что позволяет нескольким дискам использовать общую файловую систему. Обратите внимание: при добавлении жесткого диска в массив RAID все данные, хранящиеся на нем, будут удалены.
 
 # Quest: Component Buses
 betterquesting.quest.GWpBgrTUR6aiNelNbOLRWQ.name=Component Buses
-betterquesting.quest.GWpBgrTUR6aiNelNbOLRWQ.desc=A §6Component Bus§r is a server-specific upgrade that allows the server to communicate with more components at the same time, without shutting down. %n%nLike with §6CPUs§r, higher tier buses provide higher component limits. Higher tier servers are also capable of taking more component buses, allowing for communication with many more components.
+betterquesting.quest.GWpBgrTUR6aiNelNbOLRWQ.desc=§6Component Bus§r это улучшение, специфичное для сервера, которое позволяет ему взаимодействовать с большим количеством компонентов одновременно без остановки работы.%n%nКак и в случае с §6CPUs§r, шины более высокого уровня увеличивают лимиты на количество компонентов. Серверы более высокого уровня также поддерживают больше шин, что позволяет взаимодействовать с гораздо большим числом компонентов.
 
 # Quest: Servers
 betterquesting.quest.QFKT5L7RSrKQIz-qYhUsVg.name=Серверы
-betterquesting.quest.QFKT5L7RSrKQIz-qYhUsVg.desc=§6Servers§r are a form of higher tier computer. %n%nThey can be configured by holding them in the hand and using them - like opening a backpack for example. Servers can also be configured after having been installed into a Rack by activating them (aiming at the corresponding position on the frong face on the rack). To operate, the server has to be placed inside a §3Rack§r.
+betterquesting.quest.QFKT5L7RSrKQIz-qYhUsVg.desc=§6Серверы§r представляют собой разновидность компьютеров более высокого класса. %n%nИх можно настроить, держа в руке и используя например, как при открытии рюкзака. Серверы также можно настроить после установки в стойку, активировав их (наведя курсор на соответствующую область на лицевой панели стойки). Для работы сервер должен быть установлен в §3Rack§r.
 
 # Quest: Computer Casings
 betterquesting.quest.XfkIHFJDRgSIyYD_F5b05g.name=Компьютерные корпусы
-betterquesting.quest.XfkIHFJDRgSIyYD_F5b05g.desc=§3Computer Casings§r come in 3 different tiers, which limit the amount of components that ca be placed inside of them.
+betterquesting.quest.XfkIHFJDRgSIyYD_F5b05g.desc=§3Компьютерные корпуса§r представлены в трех различных уровнях, ограничивающих количество компонентов, которые можно в них разместить.
 
 # Quest: Graphics Cards
 betterquesting.quest.b14L2QcPTRiHysGkQNkTUQ.name=Видеокарты
-betterquesting.quest.b14L2QcPTRiHysGkQNkTUQ.desc=The §6Graphics Card§r is an essential part for most computers and allows the computer to display text on a connected §6Screen§r. %n%nGraphics cards come in several tiers, and like screens, support different resolutions and color depths.
+betterquesting.quest.b14L2QcPTRiHysGkQNkTUQ.desc=§6Видеокарта§r является неотъемлемой частью большинства компьютеров и позволяет отображать текст на подключенном §6экране§r. %n%nВидеокарты делятся на несколько классов и, подобно экранам, поддерживают различные разрешения и глубину цвета.
 
 # Quest: Screens
 betterquesting.quest.fS6P083FQGWwxARPYM4eaA.name=Экраны
-betterquesting.quest.fS6P083FQGWwxARPYM4eaA.desc=A §3Screen§r is used in combination with a §6Graphics Card§r, to allow computers to display text. Different screen tiers have different capabilities, such as supporting different resolutions and olor depths. Screens range from low-resolution, monochrome displays to high-resolution displays with up to 256 colors.
+betterquesting.quest.fS6P083FQGWwxARPYM4eaA.desc=§3Экран§r используется в комбинации с §6видеокартой§r, чтобы компьютеры могли отображать текст. Экраны различных классов обладают неодинаковыми возможностями, например, поддерживают разные разрешения и глубину цвета. Ассортимент экранов варьируется от монохромных дисплеев с низким разрешением до дисплеев высокого разрешения, поддерживающих до 256 цветов.
 
 # Quest: OC Power
 betterquesting.quest.l3OJx_niTg-UyYUoyOXYfg.name=OC энергия
