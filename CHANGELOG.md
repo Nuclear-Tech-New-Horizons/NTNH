@@ -57,6 +57,8 @@
   * Comes in all colors except brown
   * NTM poop theory debunked
   * Make a nice clanking noise when placing and breaking
+* Special Mobs
+  * yaay more different mobs :D
 
 
 
@@ -119,6 +121,7 @@
 
 
 **Changed**
+* Updated main menu and loading screen backgrounds
 * Removed Lan UPnP due to high instability
 * Removed Village Names
   * Byee
@@ -285,6 +288,12 @@
 * Locked questlines are hidden by default
 * Removed instant night skip
 * Difficulty does not affect hunger rate anymore
+* Reduced the average number of generations from wild to farm animals to 2 instead of 4
+* Increased the amount of structures
+* RTG/Betavoltaic fuel power scales down as it decays
+* Glowing mycelium spreads now
+* Hopefully optimized some shit including ore generation
+* Improved Xaero map look
 
 
 

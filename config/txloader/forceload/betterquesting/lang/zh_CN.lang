@@ -243,7 +243,7 @@ betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6多类型流体识别码§r�
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=已知问题
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nIf you experience any stutters/micro-lags while playing, try turning Vsync on/off. If that does not help, contact in Discord #help.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=NTM的其他模式
@@ -735,9 +735,9 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.desc=§3研究型反应堆§r是一�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=焊接锝钢/镉钢板
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.desc=§6锝/镉钢焊接板§r是一种通过焊接制成的锝/镉钢板，它相当于铸造锝/镉钢板的焊接版本。这种钢材被广泛应用于那些需要高强度材料的场合中。%n%n§2务必建立完善的能源生产和储存设施，因为每块焊接板的电力消耗高达1200MHE。
 
-# Quest: Big-Ass Tank 9000
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=巨尻-9000 储罐
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=§3巨尻-9000 储罐§r是容量最大的流体储存容器，其最大储液量为2,048,000mB，同时还能用于储存具有强腐蚀性的液体。
+# Quest: Big-Ass Tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=Big-Ass Tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=The §3Big-Ass Tank§r is the largest fluid storage container, capable of storing 2048000mB of fluids, aswell as being able to hold strongly corrosive fluids. It has to be placed on the solid surface, otherwise it is going to break.
 
 # Quest: Heavy Magnetic Storage Tank
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAkA.name=重型磁约束储罐

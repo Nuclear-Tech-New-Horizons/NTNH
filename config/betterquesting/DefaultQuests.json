@@ -17532,18 +17532,18 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "The §3Big-Ass Tank 9000§r is the largest fluid storage container, capable of storing 2048000mB of fluids, aswell as being able to hold strongly corrosive fluids.",
+          "desc:8": "The §3Big-Ass Tank§r is the largest fluid storage container, capable of storing 2048000mB of fluids, aswell as being able to hold strongly corrosive fluids. It has to be placed on the solid surface, otherwise it is going to break.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
             "Damage:2": 0,
             "OreDict:8": "",
-            "id:8": "hbm:tile.machine_bat9000"
+            "id:8": "hbm:tile.machine_bigasstank"
           },
           "isMain:1": 0,
           "isSilent:1": 0,
           "lockedProgress:1": 0,
-          "name:8": "Big-Ass Tank 9000",
+          "name:8": "Big-Ass Tank",
           "notification_duration:5": -1.0,
           "notification_effect:3": -1,
           "notification_fade_in:5": -1.0,
@@ -17577,7 +17577,7 @@
           "autoConsume:1": 0,
           "consume:1": 0,
           "groupDetect:1": 0,
-          "ignoreNBT:1": 0,
+          "ignoreNBT:1": 1,
           "index:3": 0,
           "partialMatch:1": 1,
           "requireOnlyOneItem:1": 0,
@@ -17586,7 +17586,7 @@
               "Count:3": 1,
               "Damage:2": 0,
               "OreDict:8": "",
-              "id:8": "hbm:tile.machine_bat9000"
+              "id:8": "hbm:tile.machine_bigasstank"
             }
           },
           "taskID:8": "bq_standard:retrieval"
@@ -24524,7 +24524,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "Not a bug, a \u0026q\u0026zFEATURE§r!\n\nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.\n\nCurrently we have no idea how to fix those bugs, but we are trying our best!",
+          "desc:8": "Not a bug, a \u0026q\u0026zFEATURE§r!\n\nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.\n\nIf you experience any stutters/micro-lags while playing, try turning Vsync on/off. If that does not help, contact in Discord #help.\n\nCurrently we have no idea how to fix those bugs, but we are trying our best!",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -27502,7 +27502,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:\n1) Report it to us, the developers\n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)\n\n[warn]Important![/warn]\nThe online Google Docs spreadsheet was DEPRECATED, use the one in Guide Book.\n\nOnline ore generation spreadsheet [warn](DEPRECATED)[/warn]\n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]",
+          "desc:8": "In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:\n1) Report it to us, the developers\n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)\n\n[warn]Important![/warn]\nThe old online Google Docs spreadsheet was DEPRECATED, use the one in the Guide Book.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,
@@ -38526,7 +38526,7 @@
             "id:8": "minecraft:stick"
           },
           "countAsQuest:1": 1,
-          "desc:8": "The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.\n\nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.\n\nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.\n\n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm for fuel\nand power production.\n§2Check NEI for all valid heat sources and their melt rates.",
+          "desc:8": "The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.\n\nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.\n\nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.\n\n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm.",
           "globalShare:1": 0,
           "icon:10": {
             "Count:3": 1,

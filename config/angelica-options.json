@@ -2,7 +2,7 @@
   "quality": {
     "grass_quality": "DEFAULT",
     "use_celeritas_smooth_lighting": true,
-    "texture_filter_mode": "RGSS"
+    "texture_filter_mode": "ANISOTROPIC"
   },
   "advanced": {
     "use_vertex_array_objects": true,
@@ -11,11 +11,11 @@
     "use_particle_culling": true,
     "allow_direct_memory_access": true,
     "ignore_driver_blacklist": false,
-    "streaming_upload_strategy": "MAP_BUFFER_RANGE",
+    "streaming_upload_strategy": "BUFFER_DATA",
     "enable_deferred_batching": true
   },
   "performance": {
-    "chunk_builder_threads": 6,
+    "chunk_builder_threads": 0,
     "always_defer_chunk_updates": true,
     "use_no_error_g_l_context": true,
     "async_occlusion_mode": "EVERYTHING",
