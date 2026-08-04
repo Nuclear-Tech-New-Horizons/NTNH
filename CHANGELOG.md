@@ -59,6 +59,12 @@
   * Make a nice clanking noise when placing and breaking
 * Special Mobs
   * yaay more different mobs :D
+* 3D skin layers
+* Minemoticon
+  * Allows you to use emojis inside game text
+  * Comes with Twemoji emoji pack by default
+  * There will be a custom NTNH emoji pack Soon™
+* Added Dynamic Surroundings
 
 
 
@@ -121,6 +127,7 @@
 
 
 **Changed**
+* Removed OpenGlasses
 * Updated main menu and loading screen backgrounds
 * Removed Lan UPnP due to high instability
 * Removed Village Names
