@@ -263,7 +263,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Обшивки§r - это �
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Система генерации руд
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=В §6NTNH§r, Система генерации руды была §полностью§r переработана и она продолжает получать обновления и исправления. Если она вам не нравится или кажется слишком сложной, у вас есть два варианта:%n1) Сообщить об этом нам, разработчикам%n2) Отключить мод Custom Ore Generation и настроить генерацию руды в файле hbm.cfg по своему усмотрению (за помощью можно обратиться в дискорд)%n%n[warn]Важно! [/warn]%nОнлайн таблица в Google Docs больше НЕ ПОДДЕРЖИВАЕТСЯ, используйте таблицу из внутриигрового руководства в (Guide Book).%n%nОнлайн-таблица генерации руды[warn]Устарела[/warn]%n[url]https://docs.google.com/spreadsheets/d/1Uncs-usQqsCtb5NdSnniZNrd-BuYvllRwP43ZJiZLZE[/url]
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n[warn]Important![/warn]%nThe old online Google Docs spreadsheet was DEPRECATED, use the one in the Guide Book.
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Дозиметр
@@ -359,7 +359,7 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=Для больших расс�
 
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Примитивная плавильня
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=§3Тигель§r является блоком из §dEx Nihilo§r, с помощью которого можно переплавить твёрдый блок в определённую жидкость. Сначала, из фарфоровой глины делается необожжённый тигель, ложится в печь, и превращается в полноценный §3Тигель§r.%n%nЧтобы использовать его, поставьте §3Тигель§r над источником тепла, и нажмите правой кнопкой мыши по тигелю, держа в руке нужный предмет. Скорость плавки зависит только от источника тепла - чем он сильнее, тем быстрее плавка. Самый лучший ванильный вариант - подожённый адский камень (незерак).%n%nОсновной способ применения - получение §bлавы§r из булыжника, камня, и других подобных блоков. Жидкости из §3тигеля§r никуда не пропадают, делаю его крайне дешёвым хранилищем жидкостей (хоть и не самым вместимым). Для откачки жидкости подключите трубы по бокам или ко дну. %n%n§2A Если поставите кучу тигелей, и подожгёте под ними незерак, вы получите отличный источник лавы для ранних этапов игры.%n%n§2В NEI показаны все доступные источники тепла и их эффективность.
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm.
 
 # Quest: Air Intake
 betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Воздухозаборник
@@ -1537,11 +1537,11 @@ betterquesting.quest.fS6P083FQGWwxARPYM4eaA.desc=§3Экран§r использ
 
 # Quest: OC Power
 betterquesting.quest.l3OJx_niTg-UyYUoyOXYfg.name=OC энергия
-betterquesting.quest.l3OJx_niTg-UyYUoyOXYfg.desc=The §6Cable§r serves as a way of connecting computers and machines that are far apart. If you have a compact build where all components touch each other (directly or indirectly, most blocks also behave the same way as cables) you will usually not need cables.%n%nThe §3Power Converter§r serves as the fastest way to convert energy from other mods' power systems to OpenComputers' internal energy. Placing an §3HE to RF Converter§r next to the PC will also work.%n%nThe §3Capacitor Stores§r energy to be used by the network, acting as an energy buffer when needed. It is very useful for tasks that demand a lot of energy, such as assembling or charging devices such as robots and drones.
+betterquesting.quest.l3OJx_niTg-UyYUoyOXYfg.desc=§6Кабель§r служит для соединения компьютеров и механизмов, расположенных на расстоянии друг от друга. Если у вас компактная конструкция, в которой все компоненты соприкасаются (напрямую или косвенно ведь большинство блоков работают так же, как кабели), то кабели, как правило, не понадобятся.%n%n§3Power Converter§r это самый быстрый способ преобразовать энергию из энергосистем других модов во внутреннюю энергию OpenComputers. Также можно разместить §3HE to RF Converter§r рядом с компьютером.%n%n §3Capacitor Stores§r энергия, используемая сетью и служащая энергетическим буфером при необходимости. Это особенно полезно для энергоемких задач, таких как сборка или зарядка устройств например, роботов и дронов.
 
 # Quest: Computer
 betterquesting.quest.zElcW5PDQwGOvbKnyroWEQ.name=Компьютер
-betterquesting.quest.zElcW5PDQwGOvbKnyroWEQ.desc=A §3Keyboard§r is needed to type text on §3Screens§r, be they in the world or built into devices such as §3Robots§r or §6Tablets§r.%n%nFor the keyboard to work with a screen in the world, it has to be placed next to the screen, facing that screen, or placed directly on the screen (on top or on one of the sides).%n%nThe §6EEPROM§r is what contains the code used to initialize a computer when it is being booted. %n%nThis data is stored as plain byte array, and may mean different things to different §6CPU§r architectures. For example, for Lua it is usually a small script that searches for a file systems with an init script, for other architectures it may be actual machine code.%n%nAn §6OpenOS Disk§r can be crafted using an empty floppy disk and a manual.
+betterquesting.quest.zElcW5PDQwGOvbKnyroWEQ.desc=§3Клавиатура§r необходима для ввода текста на §3Экране§r, будь то в мире или встроенные в такие устройства, как §3Роботы§r или §6Планшеты§r.%n%nЧтобы клавиатура работала с экраном, размещенным в игровом мире, её необходимо расположить рядом с ним (лицевой стороной к экрану) или непосредственно на самом экране (сверху или с одной из сторон).%n%n§6EEPROM§r это то, что содержит код, используемый для инициализации компьютера при его загрузке. %n%nЭти данные хранятся в виде обычного массива байтов и могут интерпретироваться по-разному в зависимости от архитектуры §6процессора§r. Например, для Lua это обычно небольшой скрипт, который ищет файловую систему со скриптом инициализации, тогда как для других архитектур это может быть непосредственно машинный код.%n%n§6OpenOS Disk§r можно создать с помощью пустой дискеты и руководства.
 
 
 ## Quest Line: Kill All the Things
@@ -1562,7 +1562,7 @@ betterquesting.quest.6nKJ4mC3QB-i5nx8UXrPew.desc=Думаю, мне нужен �
 
 # Quest: Time to Kill (Witch)
 betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.name=Время убивать (Ведьма)
-betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.desc=Witches bring stitches because they are always infernal and very dangerous. Be careful since they throw potions at you.
+betterquesting.quest.8G4ZvwvWQpihM6NfflMw7A.desc=Ведьмы несут с собой раны, ведь они всегда адски опасны. Будьте осторожны: они швыряют в вас зелья.
 
 # Quest: MEGAKILL!
 betterquesting.quest.C7CLvAjyQUy2aNW1HiA7Ow.name=§4§lMEGAKILL!
@@ -1586,11 +1586,11 @@ betterquesting.quest.Q70rGIFTR6uMPmobimGr9g.desc=С этой задачей сл
 
 # Quest: Martian Invasion Ship
 betterquesting.quest.Q8FZdwiURgC2PoD4IziLJg.name=Марсианский корабль вторжения
-betterquesting.quest.Q8FZdwiURgC2PoD4IziLJg.desc=The Martian Invasion Ship is a late-game boss which is killed to get the UFO Coin, used in crafting Gerald.%n%nIt can be summoned by crafting the Martian Invasion Ship item.
+betterquesting.quest.Q8FZdwiURgC2PoD4IziLJg.desc=«Марсианский корабль вторжения» это босс позднего этапа игры; за его убийство можно получить «Монету НЛО», которая используется для создания Геральда.%n%nЕго можно призвать, создав предмет «Корабль марсианского вторжения».
 
 # Quest: Time to Kill (Wither Skeleton)
 betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.name=Время убивать (Скелет-иссушитель)
-betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.desc=Gimme yo §oSkuuuuull!!!§r <-- The thought of every non-noob player upon seeing one.%n%nBTW, in case you didn't know, you can summon the Wither by placing 4 soul sand blocks in a T shape, with 3 wither skulls on top. Don't do so in your base.
+betterquesting.quest.R08JrEz2SLGeV9zwAFydaQ.desc=«Дай мне свой §oчееереееп!!!§r» <-- так явно думает любой опытный игрок, завидев его.%n%nКстати, если не знали: Иссушителя можно призвать, разместив 4 блока песка душ в форме буквы «T» и установив сверху 3 черепа иссушителя. Не делайте этого на своей базе.
 
 # Quest: Time to Kill (Slime)
 betterquesting.quest.Z-RsAsrVRM2a3zWP5a0OsQ.name=Время убивать (Слайм)
@@ -1598,19 +1598,19 @@ betterquesting.quest.Z-RsAsrVRM2a3zWP5a0OsQ.desc=Липкий и прыгучи�
 
 # Quest: Balls-O-Tron
 betterquesting.quest.ZeBLQUsPS72HAxsrR9s_3g.name=Баллс-О-Трон
-betterquesting.quest.ZeBLQUsPS72HAxsrR9s_3g.desc=Balls-O-Tron is the second boss of NTM. It can be summoned by interracting the Mechanist's circle, found in the Enargite Temple which spawns in jungles, with a Silver Key, made using the Maskman Coin.
+betterquesting.quest.ZeBLQUsPS72HAxsrR9s_3g.desc=Balls-O-Tron второй босс NTM. Его можно призвать, использовав Серебряный ключ (создаваемый с помощью монеты Maskman) на круге Механиста, который находится в Храме Энаргита (Enargite), появляющемся в джунглях.
 
 # Quest: Time to Kill (Spiders)
 betterquesting.quest.ZpKjClvCTGe4ytw_Yu6mYQ.name=Время убивать (Паук)
-betterquesting.quest.ZpKjClvCTGe4ytw_Yu6mYQ.desc=Eeeek! Wall climbing monsters, gross! Slay them. Quickly! Watch out for the witch spiders, they can give as good as they get.
+betterquesting.quest.ZpKjClvCTGe4ytw_Yu6mYQ.desc=БЛ#ТЬ! Монстры ползают по стенам, какая гадость! Уничтожь их. Скорее! Остерегайся пауков-ведьм: они могут дать достойный отпор.
 
 # Quest: Time to Kill (Creeper)
 betterquesting.quest.fsdmCm47S3KB0X1A5MZwJg.name=Время убивать (Крипер)
-betterquesting.quest.fsdmCm47S3KB0X1A5MZwJg.desc=Who hasn't experienced this... You're just minding your own business, mining a few diamonds, and suddenly, you wake up in your bed, all your items gone. %n%nTime to strike back!
+betterquesting.quest.fsdmCm47S3KB0X1A5MZwJg.desc=Кому это не знакомо... Занимаешься себе своими делами, добываешь алмазы и вдруг просыпаешься в своей кровати, а все вещи исчезли.%n%nВремя нанести ответный удар!
 
 # Quest: Time to Kill (Zombie)
 betterquesting.quest.gLK6mwA4ShOoVbZQZlM94w.name=Время убивать (Зомби)
-betterquesting.quest.gLK6mwA4ShOoVbZQZlM94w.desc=Nobody knows who they are, or where they came from. They're just annoying at night, and too stupid to make a crafting table.
+betterquesting.quest.gLK6mwA4ShOoVbZQZlM94w.desc=Никто не знает, кто они такие и откуда взялись. Они просто раздражают по ночам, а ума у ​​них не хватает даже на то, чтобы сделать верстак.
 
 # Quest: Time to Kill (Squid)
 betterquesting.quest.hGvVPGL0SHmF0FpB4r600A.name=Время убивать (Спрут)
@@ -1618,23 +1618,23 @@ betterquesting.quest.hGvVPGL0SHmF0FpB4r600A.desc=Вкусные кальмары
 
 # Quest: Time to Kill (Ghast)
 betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.name=Время убивать (Гаст)
-betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.desc=They shoot you with explosive fireballs but they are weak when you hit them or knock the fireballs back with a weapon. Better upgrade your armor with fire and blast protection.
+betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.desc=Они стреляют в вас фаерболами, но уязвимы, если атаковать их или отбивать эти шары оружием. Лучше улучшить броню, добавив защиту от огня и взрывов.
 
 # Quest: Time to Kill (Enderman)
 betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.name=Время убивать (Странник Края)
-betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=Uh, fancy teleport pearls. You need them. All of them. Now!
+betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=О, шикарные эндерперлы. Они тебе нужны. Все до единой. Прямо сейчас!
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Время убивать (Скелет)
-betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Arrows are nice, if you shoot them. If one hits you, well, bad things happen.
+betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.desc=Стрелы штука хорошая, если ими стреляешь ты. А вот если стрела попадает в тебя... ну, тут жди беды.
 
 # Quest: Time to Kill (Silverfish)
 betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.name=Время убивать (Чешуйница)
-betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.desc=Be wary, they like to disguise and clone themselves in stone-related blocks! (Applies to Vanilla blocks only) Can be found within dungeons and hills. Can also be found in Drowning Creeper spawned cobblestone blocks.
+betterquesting.quest.pSowjULQT4ep05MVXa7BJQ.desc=Будьте осторожны: они любят маскироваться под блоки из камня и создавать свои копии! (Касается только ванильных блоков). Их можно встретить в подземельях и на холмах, а также в блоках булыжника, создаваемых «Утопающими криперами».
 
 # Quest: Time to Kill (Wither)
 betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.name=Время убивать (Визер)
-betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.desc=After collecting a couple of those wither skeleton heads, you feel like you could use some more action. So why not kill a wither?
+betterquesting.quest.q1ilrpayTHWJ-bajd9WM1A.desc=Добыв пару голов скелетов-иссушителей, вы чувствуете, что не прочь снова взяться за дело. Так почему бы не убить иссушителя?
 
 
 ### Quests in multiple quest lines ###
@@ -1645,11 +1645,11 @@ betterquesting.quest.3J7vD46NQg6IMMDRALpT-A.desc=§3Стол для модифи
 
 # Quest: Dyson Swarms
 betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.name=Рой Дайсона
-betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Dyson Swarms§r consist of thousands of swarm members encircling the parent star of a system, and energy production from the swarm scales based on the number of members in a swarm. These satellites do not last indefinitely however, they attenuate (decay) over time, with the chance of decay increasing as the number of swarm members increase.%n%n§6Dyson Swarm Members§r must be launched into solar orbit via the use of a huge centrifugal launch platform, known as the §3Spinlauncher§r. The spinlauncher launches 4 swarm members at a time, consuming a large amount of electricity to do so.%n%nThe §3Dyson Receiver§r is the main machine required for collecting energy from the swarm. It collimates the immense energy collected from the swarm into a immensely powerful beam. Setting up requires only a satellite ID chip that is matched to an existing swarm. The energy beam must be pointed towards a Dyson Power Converter.%n%nThe §3Satellite Dyson Relay§r can be used to allow dyson swarms to provide power during night time.
+betterquesting.quest.3WDOW4oRQoO6WN6291ZuNw.desc=§3Cфера Дайсона§r состоят из тысяч элементов, окружающих родительскую звезду системы, при этом выработка энергии зависит от количества этих элементов. Однако такие спутники не вечны: со временем они разрушаются, причем вероятность разрушения возрастает по мере увеличения числа элементов в рое.%n%n§6Элементы сферы Дайсона§r должны быть выведены на околосолнечную орбиту с помощью огромной центробежной пусковой установки, известной как §3Spinlauncher§r. SpinLauncher запускает по четыре аппарата из состава роя за один раз, потребляя при этом значительное количество электроэнергии.%n%n§3Приемник Дайсона§r Это основное устройство, предназначенное для сбора энергии, вырабатываемой роем. Оно преобразует колоссальный объем собранной энергии в сверхмощный луч. Для запуска установки требуется лишь чип идентификации спутника, привязанный к конкретному рою. Энергетический луч необходимо направить на преобразователь энергии Дайсона.%n%n§3Спутник-ретранслятор Дайсона§r может использоваться для того, чтобы рои Дайсона обеспечивали энергоснабжение в ночное время.
 
 # Quest: Quests information
 betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.name=Информация о квестах
-betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warn]This Questbook was originally made by _SkippyPlaysMC_ for NT:I/ST:I modpacks and modified by Bufka2011.[/warn]%n%nNotes:%n%n§b1) This questbook does not contain all the content from the mod, such as the guns, many armor sets and others. Make sure to browse NEI.%n%n2) §lThere are two types of quests §r§3§b- primary and secondary. Primary quests are quests with unique shape and bold lines between each other.%n%n3) When updating the modpack to newer versions that has introduced changes to the questbook, in case the quests dont update, delete the betterquesting folder in the world file.%nAfter it is deleted, turn on cheats and do "/bq_admin edit true", head over to the chapter of your choice, press the designer button (the one with many squares), click on your quest of choice and finally press the autocomplete button (checkmark) to complete the quests previously completed.%n%n§r§bSpecial thanks to everyone on discord who helped out with questions and recommendations while making the quests, as well as the official NTM Wiki for providing information used in the quests.
+betterquesting.quest.45ow6xFKTQ6GHVi3FG_dtQ.desc=[warnЭта книга заданий была изначально создана _SkippyPlaysMC_ для модпаков NT:I/ST:I и модифицирована Bufka2011.[/warn]%n%nПримечания:%n%n§b1) В этой книге заданий представлен не весь контент мода например, здесь нет оружия, многих комплектов брони и прочего. Обязательно загляните в NEI.%n%n2) §lСуществует два типа заданий: §r§3§b- основные и дополнительные. Основные задания отличаются уникальной формой и выделены жирными линиями.%n%n3) При обновлении модпака до новых версий, в которых были внесены изменения в книгу квестов, если квесты не обновляются, удалите папку `betterquesting` в директории мира.%nПосле удаления включите читы и введите команду `/bq_admin edit true`, перейдите к нужной главе, нажмите кнопку дизайнера (ту, на которой изображено множество квадратов), выберите нужный квест и, наконец, нажмите кнопку автозавершения (галочку), чтобы завершить квесты, выполненные ранее.%n%n§r§bОсобая благодарность всем участникам Discord, помогавшим с вопросами и рекомендациями в процессе создания квестов, а также официальной NTM Wiki за предоставленную информацию, использованную при их разработке.
 
 # Quest: Modpack information
 betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.name=Информация о модпаке
@@ -1657,15 +1657,15 @@ betterquesting.quest.5VAtBoWDTLmFNrWxLbn9IA.desc=§cДобро пожалова�
 
 # Quest: Dyson Anatmogenesis Terraformer
 betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.name=Терраформер Дайсона
-betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.desc=The §3Dyson Anatmogenesis Terraformer§r provides the most utility out of all the currently available §3Dyson converters§r, accepting a beam from a receiver and providing a direct energy to mass conversion, producing planetary scale atmospheric gases, terraforming any planet or moon as a player sees fit.%n%nBy default it will release oxygen into an atmosphere, making it breathable once it crosses the 0.1atm threshold for breathing. A fluid identifier can be used to switch the gas emitted, and a screwdriver can switch it between emitting or extracting gases from the atmosphere.%n%nIf powered with §e150THE/s§r power from a swarm (equivalent to a swarm size of 1,024), it will take 8 hours to reach 0.1atm of pressure.
+betterquesting.quest.6k-JrbD-S8GO9PRRthWNRA.desc=§3Терраформатор «Анатомогенезис» Дайсона§rПриносит наибольшую пользу среди всех доступных на данный момент §3преобразователей Дайсона§r: принимая луч от приемника, он обеспечивает прямое преобразование энергии в материю, создавая атмосферные газы в планетарных масштабах и позволяя терраформировать любую планету или спутник по усмотрению игрока.%n%nПо умолчанию устройство выделяет кислород в атмосферу, делая её пригодной для дыхания после того, как парциальное давление превысит порог в 0,1 атм. С помощью идентификатора жидкостей можно изменить тип выделяемого газа, а отвёрткой переключить режим работы между выделением газа в атмосферу и его извлечением из неё.%n%nПри получении энергии от роя в объеме §e150THE/s§r (что соответствует размеру роя в 1,024 единицы) для достижения давления 0,1 атм потребуется 8 часов.
 
 # Quest: Maskman
 betterquesting.quest.8b6batCvQvCiGknitRMrSQ.name=Время убивать (Маскмен)
-betterquesting.quest.8b6batCvQvCiGknitRMrSQ.desc=Maskman is the first NTM boss. To summon it, you need to be under radiation poisoning (50 rad). A 20-minute timer starts per player when requirements are met. Once it runs out, Mask Man spawns. A warning appears 1 minute before spawn. If you are no longer irradiated, the timer resets.
+betterquesting.quest.8b6batCvQvCiGknitRMrSQ.desc=Maskman первый босс в NTM. Чтобы его призвать, необходимо получить дозу радиации (50 рад). При выполнении этого условия для каждого игрока запускается 20-минутный таймер. По истечении этого времени появляется Maskman. За минуту до его появления выводится предупреждение. Если уровень радиации упадет ниже требуемого, таймер сбросится.
 
 # Quest: Glyphids
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.name=Глифиды
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Glyphids§r are large insects that have many different types. They primarily spawn with naturally generated §6§rhives§r structures. All of the types are armored and they take less damage than against normal mobs. Glyphids are normally attracted to pollution created by the player, and usually have to be dealt with by the player.%n%n§6§r§6Hives§r can spawn naturally in all non-ocean biomes and can also be created by glyphid scouts. They contain several glyphid egg blocks and some low-tier loot inside, lying on top of eggs. glyphid egg blocks spawn glyphids and drop glyphid eggs upon destruction.%n%nGlyphids now periodically retarget the closest player every 5 seconds if their current target is farther. 1/3 of glyphids do not have this behavior to prevent infinite trapping.%n%n§2It is recommended that all hives are destroyed as soon as possible as to prevent their spread later on.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABQ.desc=§6Глифиды§r Это крупные насекомые, представленные множеством разновидностей. В основном они появляются естественным образом в сгенерированных §6§ульях§r. Все их виды защищены панцирем, поэтому они получают меньше урона, чем обычные мобы. Глифидов обычно привлекает загрязнение, создаваемое игроком, и, как правило, именно игроку приходится с ними разбираться.%n%n§6§r§6Ульи§r могут появляться естественным образом во всех биомах, кроме океана, а также создаваться разведчиками-глифидами. Внутри них, поверх яиц, находится несколько блоков глифидов и немного добычи низкого уровня. При разрушении яиц глифидов порождаются глифиды и дают в качестве добычи яйца глифидов.%n%nТеперь глифиды каждые 5 секунд периодически переключаются на ближайшего игрока, если их текущая цель находится дальше. У трети глифидов эта механика отсутствует, чтобы предотвратить ситуации, когда игроки оказываются в ловушке без возможности выбраться.%n%n§2Рекомендуется как можно скорее уничтожить все ульи, чтобы предотвратить их дальнейшее распространение.
 
 # Quest: Useful Tools
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.name=Полезные инструменты
@@ -1673,7 +1673,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACA.desc=Существует множе
 
 # Quest: Tantalium
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.name=Тантал
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Tantalium§r is a material needed for the creation of some items, most importantly §6Capacitor Boards§r. Tantalium Polycrystal production requires §6Coltan§r which can be located by the use of a §6Coltass§r. Coltan can also be obtained by using the mining drill in a §eBedrock Ore Coltan Deposit§r located randomly on planet Dres. Tantalum can also be obtained via §3Watz Reactor§r.%n%n§2Coltan Processing at its early stage can provide Niobium needed for Catalytic Cracking Towers.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiw.desc=§6Танталиум§r это материал, необходимый для создания некоторых предметов, особенно §6Capacitor Boards§r. Для производства поликристаллического танталиума требуется §6колтан§r, который можно найти с помощью §6сканера колтана§r. Колтан также можно добыть буром из §eBedrock Ore Coltan Deposit§r, случайно расположенного на планете Дрес. Кроме того, тантал можно получить с помощью §3реактора Watz§r.%n%n§2Переработка колтана на начальном этапе может обеспечить получение ниобия, необходимого для Catalytic Cracking Towers.
 
 # Quest: Hunger System
 betterquesting.quest.Fio9CeHtR9-O6cehKBCH5g.name=Система голода
@@ -1697,11 +1697,11 @@ betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=На сборке есть 3 м
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
-betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r tries to give as much information as possible, it is not a full guide to all the content in the game.%n%nThat's what §6Guide Book§r is used for! Community-curated, constantly growing and &q&zawesome§r-looking!%n%n§2Note: this Guide Book can be opened via the keybind
+betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=Хотя §6Книга заданий§r и старается предоставить максимум информации, она не является исчерпывающим руководством по всему игровому контенту.%n%nИменно для этого и нужна §6Книга-руководство§r! Она создается силами сообщества, постоянно дополняется и выглядит просто &q&zпотрясающе§r!%n%n§2Примечание: эту книгу-руководство можно открыть с помощью назначенной клавиши
 
 
 ### Quests in no quest lines ###
 
 # Quest: Additional Fluid Tools
 betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Additional Fluid Tools
-betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=§6Сифон§r это инструмент, предназначенный для извлечения жидкостей из входных резервуаров механизмов. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных баках, она будет перекачана в бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для заполнения ёмкостей первых двух типов).%n%n§6Пипетки§r можно использовать для ввода определенного количества жидкости. Нажатие правой кнопкой мыши (или Shift + правая кнопка мыши) увеличивает или уменьшает объем жидкости.
