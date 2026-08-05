@@ -317,10 +317,6 @@ betterquesting.quest.gKQiP_zES4KokMmon9bDQg.desc=The §3Bricked Furnace§r is al
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.name=Infinite Water Sources
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.desc=Tired of using buckets to give §bWater§r to your machines? Try using water pumps or infinite water tanks!%n%n§6Infinite Water Tank§r will give §e50mb/t%n%n§6Enhanced Infinite Water Tank§r will give §e500mb/t%n%n§6Steam-Powered Groundwater Pump§r will give §e1000mb/t§r but requires §bSteam§r to operate (which is obvious).
 
-# Quest: Compressor
-betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Compressor
-betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=The §3Compressor§r is a specialized multiblock machine for compressing fluids. It can perform this operation on any fluid to increase its pressure, for use in other machines. Some of these fluids are compressed into different fluids entirely as special recipes for this machine.
-
 # Quest: Earth? Fake news
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=Earth? Fake news
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=This modpack makes it possible to complete the entire game in §6Martian mode§r! If you notice any gaps in the progression or logic, please post in the #help channel on the NTNH Discord server.
@@ -607,6 +603,10 @@ betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.desc=The §3Gas Centrifuge§r is use
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.name=Nuclear Fuel Processing
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=Завдяки §3Баку для відпрацьованого палива§r, призначеному для охолодження відпрацьованого ядерного палива §3ЗІРНОКС§ або §3ПВР§r, а також технології §3П'юрекс§r для його подальшої переробки, зараз доступно багато нових матеріалів.
 
+# Quest: Wideband Radio Emission Detector Satellite
+betterquesting.quest.7xvtGouAQxKJ5rWXHykczg.name=Wideband Radio Emission Detector Satellite
+betterquesting.quest.7xvtGouAQxKJ5rWXHykczg.desc=The §3Wideband Radio Emission Detector Satellite§r monitors the entire map for high-energy events with no range limit, returning only an approximate location. Use it as a first-pass detection layer - once a hit is found, follow up with the §3Narrowband Emission Scanning Satellite§r or §3Radar Satellite§r to pinpoint the source.%n%nEvents are grouped by intensity. LOW covers mini-nuke detonations, accurate to within 10,000 m. MEDIUM covers active radars and particle accelerators, accurate to within 2,500 m. HIGH covers nuclear explosions, accurate to within 500 m. MEDIUM events persist for only half a second while others last up to a minute, so rapid repeated scans are recommended.%n%nRoR commands: "esurvey" collects all active results; "ecount" writes the total to RX; "egettype" writes LOW, MEDIUM, or HIGH for a given index; "egetposition" writes approximate X/Z coordinates for a given index.%n%n§2Route this satellite's output through an §3AUTOCAL§r§2 to automatically cue more precise instruments when a hit is detected.
+
 # Quest: Fusion Reactor
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=Термоядерний реактор
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=§3Термоядерний реактор§r — це великий, дорогий і високотехнологічний тип реактора, який працює за рахунок синтезу різних видів плазми з метою отримання тепла.%n%nОсновна частина термоядерного реактора, §3«Торус»§r, має чотири з'єднувальні порти для підключення зовнішніх компонентів. Для роботи йому потрібна електрика та охолодження §bперфторметилом§r.%n%n§3Клистрон§r — це основне джерело живлення термоядерного реактора, яке використовує електрику та стиснене повітря для генерації вхідної енергії, §eKyU§r, для підключеного торуса. Він перейде в режим обмеження потужності, якщо запас електроенергії або стисненого повітря впаде нижче §e50%%§r, а якщо він впаде нижче необхідного рівня вхідної потужності торуса, плазма згасне.%n%nРізні типи плазми також генерують різні корисні побічні продукти та різні рівні потоку нейтронів для розмноження великих обсягів матеріалів, таких як §6Літій§r у §6Тритій§r.%n%nДля зварювання котушок знадобиться §6паяльна лампа§r або §6ацетиленовий зварювальний пальник§r.%n%n§2Щодо додаткових компонентів та методів генерації енергії, будь ласка, ознайомтеся з двома квестами нижче.§r
@@ -622,6 +622,10 @@ betterquesting.quest.8sIzBzykSPqskvhCp-Tsmw.desc=§6Зірметалеве ка�
 # Quest: Cadmium
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.name=Кадмій
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.desc=§6Кадмій§r — це матеріал, необхідний для виготовлення §6Кадмієвої сталі§r, яка є замінником §6Технетієвої сталі§r.%n%nКадмій можна отримати шляхом плавлення кадмієвого порошку, який можна отримати шляхом підкислення 10 §6Листя гірчичної верби§r за допомогою 250 мБ §bВисокоефективного розчинника§r у §3Підкислювачі руди§r.%n%nГірчична верба — це рослина, яку можна знайти поблизу §eРодовищ нафти в корінній породі§r. Коли вона повністю дозріє, можна отримати основний предмет — лист гірчичної верби.
+
+# Quest: Depth-Resource Scanning Satellite
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.name=Depth-Resource Scanning Satellite
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.desc=The §3Depth-Resource Scanning Satellite§r maps underground ore deposits across loaded chunks. It is operated via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r.%n%nThe map lacks labels and detail on its own. Pairing the satellite with §6Neutrino Lenses§r - an armor module linked to the same frequency via the §3Satellite ID Manager§r - overlays ores as glowing labeled outlines, making the data far more usable.
 
 # Quest: High-Power Steam Condenser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Високопотужний паровий конденсатор
@@ -791,9 +795,21 @@ betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.desc=Instead of using the §bHot Coo
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=Uranium-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Uranium-238§r is the most common uranium isotope in the game. %n%nThis material has many uses, some of which are: §6Ferrouranium§r, MOX fuel, depleted uranium ammunition, absorber Pellets for the §3Watz§r powerplant and can also be turned into §6Schrabidium§r later on in the §3Exposure Chamber§r.
 
+# Quest: Narrowband Emission Scanning Satellite
+betterquesting.quest.DMCygjIOSOav8ZBlUlqEvQ.name=Narrowband Emission Scanning Satellite
+betterquesting.quest.DMCygjIOSOav8ZBlUlqEvQ.desc=The §3Narrowband Emission Scanning Satellite§r precisely locates specific high-energy events within a 250-meter radius of a target point. It is the high-precision counterpart to the §3Wideband Radio Emission Detector Satellite§r, sensitive to: neutron radiation from nuclear reactors, high-energy particles from fusion reactors and particle accelerators, radar waves from ground radars, and radio waves from §3Satellite Ground Stations§r with an active TX signal.%n%nAll results are stored internally and accessed via §dRedstone-over-Radio§r. "esurvey" performs the scan. "ecount" writes the result count to RX. "egetinfo" followed by an index writes the emission type to RX. "egetposition" followed by an index writes the X/Z coordinates - separated by a semicolon - to RX.%n%n§2Events are time-limited. Run repeated scans at short intervals to avoid missing short-lived emissions.
+
+# Quest: Orbital Precision Laser
+betterquesting.quest.EQ8nf9eDQ-K9yPIxEaFQkw.name=Orbital Precision Laser
+betterquesting.quest.EQ8nf9eDQ-K9yPIxEaFQkw.desc=The §3Orbital Precision Laser§r is a solar-powered orbital weapon, a lighter alternative to the §3Orbital Death Ray§r. It fires an instantaneous beam dealing massive damage to entities within a 5-block radius, though its explosive yield is only roughly equivalent to a single block of TNT. Recharge time between shots is §e5 seconds§r.%n%nIt can be aimed with a §6Satellite (Laser) Designator§r or controlled via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r. The "fire" command fires at the current target coordinates, or at a tracked entity if one has been set - entity target data is consumed after a single shot. The "canfire" command writes TRUE or FALSE to RX depending on whether the laser has finished recharging. The "setentitytarget" command accepts an entity ID from a §3Radar Satellite§r for precision tracking.%n%n§2Entity target data is consumed after one shot, reverting back to coordinate targeting.
+
 # Quest: Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3З'єднувач термоядерного реактора§r перетворює енергію плазми, що виходить з тора, на корисну §eKyE§r, яку потім можна використовувати для живлення іншого тора. Деякі комбінації палива вимагають цього, оскільки мінімальна енергія §eKyE§r, необхідна для запалювання плазми, перевищує ту, яку можуть забезпечити чотири §3Клістрони§r.%n%n§3Камера розмноження ядерного реактора§r використовує нейтронний потік з торусу для обробки матеріалів. Воно може виконувати будь-який рецепт з §3Каналу опромінення реактора РБМК§r, а також деякі додаткові рецепти. На нейтронний потік не впливають правила спільного використання портів, а рівень вихідної потужності однаковий з будь-якого боку.%n%n§3Камера збору термоядерного реактора§r збільшує швидкість виробництва побічних продуктів на §e50%%§r.
+
+# Quest: Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.name=Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.desc=The §3Orbital Death Ray§r is a high-destruction orbital weapon. Before launch, link it to a §6Satellite (Laser) Designator§r using the §3Satellite ID Manager§r. With a standard designator, enter target coordinates manually; with a laser designator, aim and hold right-click on the target block.%n%nUnlike the §3Orbital Precision Laser§r, it has no entity-tracking capability and cannot intercept rockets or hit fast-moving targets. The beam strikes the first surface in its path, so targets in deep cover are safe. Recharge time is §e5 minutes§r. RoR commands: "fire" fires at the current target position if the weapon is ready; "canfire" writes TRUE or FALSE to RX depending on whether it has finished recharging.
 
 # Quest: Desh Stamps
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh Stamps
@@ -829,7 +845,7 @@ betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.desc=The §3PUREX§r is a machine th
 
 # Quest: Chicago Pile
 betterquesting.quest.g8IVppPpTceY55PbNbceJQ.name=Chicago Pile
-betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=§3Чиказька купа§r — це примітивний реактор-розмножувач для початкової стадії гри, призначений для виробництва §6Плутонію§r, що використовується як паливо для реактора.%n%nКупа складається з просвердленого §6Графіту§r, який може вміщувати різноманітні предмети, включаючи радіоізотопні стрижні (§6Уран§r, §6Радій§r, §6Плутоній§r), §6Літієві стрижні§r та регулюючі стрижні. Він не поводиться як єдиний блок, натомість кожна окрема частина просвердленого графіту взаємодіє з іншими частинами унікальним чином, залежно від стрижня, який вона містить.%n%nПісля достатнього потоку уранові стрижні в «Чиказькій купі» перетворяться на плутонієві стрижні, які можна переробити на ковадлі на §6Плутоній реакторного класу§r, який можна використовувати в інших реакторах, таких як §3ЗІРНОКС§r та §3РБМК§r.%n%n«Чиказька купа» вимагає значної кількості графітових блоків, у які після розміщення можна просвердлити отвори за допомогою ручного дриля, щоб встановити будь-який стрижень. %n%n§6Ручний дриль§r можна використовувати для свердління отворів у графіті або відбору проб уранового палива для визначення тепла, виснаження та потоку нейтронів. §6Викрутки§r використовуються для вилучення стрижнів.%n%nУ квесті потрібно створити «Чиказьку купу» розміром 3x3 (без кутів) із стрижнем §6Ra226Be§r у центрі, оточеним урановими стрижнями.
+betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=The §3Chicago Pile§r is a modular breeding reactor with no GUI, built to transmute §6Natural Uranium§r into plutonium isotopes through neutron bombardment. It must be operated manually or via §dRedstone-over-Radio§r.%n%nBuild a rectangular prism of §6Chicago Pile Graphite Bricks§r, at minimum 5*5*5 and at most 15*15*15. Once assembled, drill a non-edge block on one of its lateral faces with the §6Hand Drill§r to establish the core and fix the reactor's channel orientation. Channels are straight lines drilled through the pile and may not intersect. Fuel channels share the core's face orientation and accept rods via a §3Chicago Pile Fuel Loader§r on the input port; spent rods are ejected from the opposite side. Ventilation channels run perpendicular to the core and require a §3Chicago Pile Vent§r supplied with §bcompressed air§r at §e1 PU§r - each vent cools only the fuel channels within one block above or below it. Vertical control rod channels are optional and reduce reactivity between channels. %n%nEvery reaction requires a neutron source. The §6Ra226Be Neutron Source§r is the starter option; the more powerful §6Po210Be Neutron Source§r can replace it later. §6Natural Uranium Rods§r breed into §6Plutonium-239 Rods§r, which can be bred further into §6Reactor-Grade Plutonium Rods§r. Leaving fuel beyond that point produces §6Nuclear Waste Rods§r, which generate extreme heat and risk meltdown. To safely push out spent rods without fresh fuel, use §6Zirconium Rods§r - they are inert and transparent to neutrons.%n%n§2Verify cooling is working before loading any fuel. The pile melts down at 800°C, causing an explosion and widespread fire.%n%nThe quest asks for a §3Chicago Pile§r of at least 5*5*5 with a core established, a §3Chicago Pile Fuel Loader§r and §3Chicago Pile Vent§r attached, and a §6Ra226Be Neutron Source§r loaded alongside at least one §6Natural Uranium Rod§r.
 
 # Quest: Spent Fuel Pool Drum
 betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.name=Spent Fuel Pool Drum
@@ -843,9 +859,13 @@ betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Technetium-99§r is a common
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Helium-4
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bHelium-4§r is a product of fusion and is mainly used in crafting §6Quantum Processing Units§r.
 
-# Quest: Satellite Launching
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Satellite Launching
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satelites in NTM space can be launched from either a Souyz or a custom rocket.
+# Quest: Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satellites require dedicated infrastructure to launch, identify, and communicate with.%n%nBefore anything leaves the ground, every satellite must be assigned a unique frequency using the §3Satellite ID Manager§r. Place the satellite in its right slot to generate a random frequency, then use the left and center slots to copy that frequency onto §6Satellite ID Chips§r or other linked devices such as designators. ID Chips are soldered, so prepare them in advance. The assigned frequency appears in the item's tooltip.%n%nSatellites can be launching using a custom rocket or Soyuz-FG.%n%nOnce a satellite is in orbit, a §3Satellite Ground Station§r handles communication. It does not process §dRedstone-over-Radio§r signals directly - it requires an external RoR receiver or transmitter. It connects to one satellite at a time, switched via the appropriate §6Satellite ID Chip§r or an RoR command. RX reads data transmitted down from the satellite; TX sends commands up to it.%n%n§2The Ground Station's capabilities expand significantly when paired with an §3AUTOCAL§r§2, enabling automated satellite tracking, data processing, and chained multi-satellite logic.
+
+# Quest: Xenium Resonator Satellite
+betterquesting.quest.qrbz8mP0Ry-RtTBVRTkruA.name=Xenium Resonator Satellite
+betterquesting.quest.qrbz8mP0Ry-RtTBVRTkruA.desc=The §3Xenium Resonator Satellite§r provides unlimited on-demand teleportation with no cooldown. Before launch, its frequency must be linked to a §6Satellite Designator§r using the §3Satellite ID Manager§r.%n%nA standard §6Satellite Designator§r requires coordinates to be entered manually. A §6Satellite (Laser) Designator§r is simpler - aim the crosshair at a block and right-click.%n%n§2Interdimensional teleportation is not supported.
 
 # Quest: Ferrouranium
 betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ferrouranium
@@ -862,6 +882,10 @@ betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=With access to §6Tantalium§r 
 # Quest: Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6Arsenic§r is a substitute of §6Bismuth§r which can be made from acidizing §6Oily Dirt§r, found near §ebedrock oil deposits§r or from the environmental damage the §3Fracking Tower§r does, with §bHigh-Performance Solvent§r.
+
+# Quest: Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.name=Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.desc=The §3Radar Survey Satellite§r detects all radar-visible entities - players, rockets, and more - within a 1000-chunk radius of its target position. It compiles results into a searchable list with entity types and exact coordinates, and can filter results by class name without requiring a new scan.%n%nRoR commands: "survey" scans the area and saves results to both a base list and a filtered list. "filter name" replaces the filtered list with only entries matching that class name - the original list is preserved, so this can be run multiple times for different types without rescanning. "count" writes the number of filtered results to RX. "gettargetid index" returns the unique entity ID for a given entry, which can be passed to other satellites for precise targeting. "getposition index" writes exact X/Y/Z coordinates - separated by semicolons - to RX. "getname index" writes the class name of the entry to RX.%n%n§2Pair this satellite with an §3AUTOCAL§r and the §3Orbital Precision Laser§r for automated missile interception.
 
 # Quest: Deuterium Extraction Tower
 betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.name=Deuterium Extraction Tower
@@ -1155,7 +1179,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=The §6Spark Singularity§r is 
 
 # Quest: FEnSU
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=FEnSU
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate energy storage block, being able to store 9.22EHE.%n%n[F1] For more information.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate energy storage block, being able to store §k1239217§rTHE.
 
 # Quest: Gerald the Construction Android
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Gerald the Construction Android
@@ -1694,6 +1718,10 @@ betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the spac
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Сільське господарство та фермерство
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=У цьому наборі три моди кардинально змінюють систему землеробства та харчування.%n%n§dPam's HarvestCraft§r додає понад 40 видів сільськогосподарських культур, безліч фруктових дерев, 10 видів риби, бджільництво та понад 75 видів їжі. Ключові блоки: §3Пресер§r (виробляє олії, мед тощо), §3Ринок§r (купує насіння та саджанці за смарагди), §3Блок доставки§r (продає врожай за смарагди). Клацнувши правою кнопкою миші на зрілій культурі, Ви збираєте врожай і пересаджуєте її.%n%n§dAgriCraft§r додає селекцію культур на основі генетики. Рослини мають шість характеристик - ріст, приріст, міцність, стійкість, родючість та мутативність - які успадковуються від батьківських культур під час схрещування. Вищі характеристики є домінантними. Мутації можуть повністю розблокувати нові види культур. Бур'яни будуть конкурувати з необробленими культурами і зрештою їх знищувати. Рослини мають специфічні вимоги до ґрунту, світла та рідини, тому розміщення має значення.%n%n§dHunger Overhaul§r вимагає, щоб сільськогосподарські угіддя розміщувалися поруч із водою - незайманий сухий оброблений ґрунт не буде створюватись.%n%n§2Плануйте розташування своєї ферми навколо води перед обробітком ґрунту.§r
+
+# Quest: Compressor
+betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Compressor
+betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=The §3Compressor§r is a specialized multiblock machine for compressing fluids. It can perform this operation on any fluid to increase its pressure, for use in other machines. Some of these fluids are compressed into different fluids entirely as special recipes for this machine.
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Guide Book

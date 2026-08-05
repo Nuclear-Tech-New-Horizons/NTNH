@@ -263,7 +263,7 @@ betterquesting.quest.UKkcpXk3SEWHXLIVC5VTDg.desc=§6Обшивки§r - это �
 
 # Quest: Ore Generation System
 betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.name=Система генерации руд
-betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=In §6NTNH§r, ore generation has been §ocompletely§r overhauled and is still receiving updates and fixes. If you don’t like it and/or find it too complicated, you have two options:%n1) Report it to us, the developers%n2) Disable the Custom Ore Generation mod and configure ore generation in hbm.cfg to your liking (ask for help with this on the Discord server)%n%n[warn]Important![/warn]%nThe old online Google Docs spreadsheet was DEPRECATED, use the one in the Guide Book.
+betterquesting.quest.VMLB88YjRb26RVJcRmvxeA.desc=В §6NTNH§r, генерация руд была §oполностью§r переработана, и все еще получает изменения и фиксы. Если вам не нравится кастомная генерация руд и/или она слишком запутана, вы можете сделать две вещи:%n1) Пожаловаться нам, разработчикам%n2) Отключить Custom Ore Generation и поменять генерацию руд в hbm.cfg как вам угодно (попросите помощи с этим в нашем Discord сервере)%n%n[warn]Важно![/warn]%nСтарая таблица в Google Docs больше не актуальна, используйте ту которая в Guide Book.
 
 # Quest: Dosimeter
 betterquesting.quest.X1wMtj-xQR6M4Qzm6Rk2vA.name=Дозиметр
@@ -317,10 +317,6 @@ betterquesting.quest.gKQiP_zES4KokMmon9bDQg.desc=§3Кирпичная печь�
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.name=Источники бесконечной воды
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.desc=Устали использовать вёдра для подачи §bВоды§r в ваши механизмы? Попробуйте использовать водяные насосы или бесконечные резервуары для воды!%n%n§6Бесконечный резервуар для воды§r будет давать §e50mb/t%n%n§6Улучшенный бесконечный резервуар для воды§r будет давать §e500mb/t%n%n§6Паровой насос грунтовых вод§r будет давать §e1000mb/t§r, но требует §bПар§r для работы (что очевидно).
 
-# Quest: Compressor
-betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Компрессор
-betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=§3Компрессор§r - это специализированный мультиблочный механизм для сжатия жидкостей. Он может выполнять эту операцию с любой жидкостью для увеличения её давления, для использования в других механизмах. Некоторые из этих жидкостей сжимаются в совершенно другие жидкости как специальные рецепты для этого механизма.
-
 # Quest: Earth? Fake news
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=Земля? Не, не слышали
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=Эта сборка позволяет пройти всю игру в §6Режиме Марсианина§r! Если вы заметили недочёты в прогрессе или логике, пожалуйста, напишите в канал #help на дискорд сервере NTNH.
@@ -359,7 +355,7 @@ betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=Для больших расс�
 
 # Quest: Primitive Crucible
 betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Примитивная плавильня
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm.
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=§3Тигель§r это блок из §dEx Nihilo§r используемый для плавки блоков. После того как вы сделаете §6Необожённый тигель§r из §6Фарфоровой глины§r, переплавьте его в печи, чтобы получить уже готовый §3Тигель§r.%n%nЧтобы пользоваться им, поместите §3Тигель§r над источником тепла и щелкните правой кнопкой мыши на нем с подходящим блоком, чтобы положить его в сам тигель. Блок будет медленно плавится, и со временем превратится в жидкость. Скорость плавления полностью зависит от источника тепла - чем горячее источник тепла, тем быстрее плавится предмет. Поджог §6Адского камня§r входит в число наиболее эффективных ванильных источников тепла.%n%nСамое основное что вы можете сделать в тигеле, это §bЛаву§r, которая создаётся после расплавки камня, булыжника и похожих на них блоков. §3Тигель§r может бесконечно держать жидкости, что делает его довольно дешёвым способом хранения жидкостей. Сливайте жидкости из него используя трубы, которые подключены к его дну или бокам.%n%n§2Вы можете поставить много тигелей над адскими камнями, чтобы сделать хорошую ферму лавы в начале игры.
 
 # Quest: Air Intake
 betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Воздухозаборник
@@ -607,6 +603,10 @@ betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.desc=§3Газовая центри�
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.name=Обработка ядерного топлива
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=С помощью §3Бочки с отработанным топливом§r для охлаждения отработанного ядерного топлива §3ZIRNOX§r или §3PWR§r и §3PUREX§r для дальнейшей переработки теперь доступно множество новых материалов.
 
+# Quest: Wideband Radio Emission Detector Satellite
+betterquesting.quest.7xvtGouAQxKJ5rWXHykczg.name=Wideband Radio Emission Detector Satellite
+betterquesting.quest.7xvtGouAQxKJ5rWXHykczg.desc=The §3Wideband Radio Emission Detector Satellite§r monitors the entire map for high-energy events with no range limit, returning only an approximate location. Use it as a first-pass detection layer - once a hit is found, follow up with the §3Narrowband Emission Scanning Satellite§r or §3Radar Satellite§r to pinpoint the source.%n%nEvents are grouped by intensity. LOW covers mini-nuke detonations, accurate to within 10,000 m. MEDIUM covers active radars and particle accelerators, accurate to within 2,500 m. HIGH covers nuclear explosions, accurate to within 500 m. MEDIUM events persist for only half a second while others last up to a minute, so rapid repeated scans are recommended.%n%nRoR commands: "esurvey" collects all active results; "ecount" writes the total to RX; "egettype" writes LOW, MEDIUM, or HIGH for a given index; "egetposition" writes approximate X/Z coordinates for a given index.%n%n§2Route this satellite's output through an §3AUTOCAL§r§2 to automatically cue more precise instruments when a hit is detected.
+
 # Quest: Fusion Reactor
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=Термоядерный реактор
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=§3Термоядерный Реактор§r — большой, дорогой и продвинутый тип реактора, который работает за счёт синтеза различных видов плазмы для генерации тепла.%n%nОсновная часть термоядерного реактора, §3"Тор"§r, имеет четыре соединительных порта для внешних компонентов. Для работы требуется электричество и охлаждение §bПерфторметилом§r.%n%n§3Клистрон§r — основной источник энергии термоядерного реактора, который использует электричество и сжатый воздух для генерации входной энергии, §eKyU§r, для подключённого тора. Он будет снижать мощность, если запас электричества или сжатого воздуха упадёт ниже §e50%%§r, а если он упадёт ниже требуемого тором уровня, плазма погаснет.%n%nРазные виды плазмы также производят разные полезные побочные продукты и различные уровни нейтронного потока для наработки больших количеств материалов, таких как §6Литий§r в §6Тритий§r.%n%nДля сварки катушек потребуется §6Паяльная Лампа§r или §6Ацетиленовая Сварочная Горелка§r.%n%n§2Для получения информации о дополнительных компонентах и методах выработки энергии, пожалуйста, ознакомьтесь с двумя квестами ниже.§r
@@ -622,6 +622,10 @@ betterquesting.quest.8sIzBzykSPqskvhCp-Tsmw.desc=§6Кирка из Звёздн
 # Quest: Cadmium
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.name=Кадмий
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.desc=§6Кадмий§r - это материал, необходимый для создания §6Кадмиевой стали§r, которая является заменителем §6Технециевой стали§r.%n%nКадмий можно получить переплавкой кадмиевой пыли, которую можно получить окислением 10 §6Листьев горчичной ивы§r с помощью 250mB §bВысокоэффективного растворителя§r в §3Рудном окислителе§r.%n%nГорчичная ива - это растение, которое можно найти рядом с §eЗалежами бедроковой нефти§r. Когда оно полностью созревает, можно получить основной предмет - лист горчичной ивы.
+
+# Quest: Depth-Resource Scanning Satellite
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.name=Depth-Resource Scanning Satellite
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.desc=The §3Depth-Resource Scanning Satellite§r maps underground ore deposits across loaded chunks. It is operated via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r.%n%nThe map lacks labels and detail on its own. Pairing the satellite with §6Neutrino Lenses§r - an armor module linked to the same frequency via the §3Satellite ID Manager§r - overlays ores as glowing labeled outlines, making the data far more usable.
 
 # Quest: High-Power Steam Condenser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Мощный конденсатор пара
@@ -736,7 +740,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=Сваренная пласти
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.desc=§6Сварная пластина из технециевой/кадмиевой стали§r - это сварной вариант литой пластины из технециевой/кадмиевой стали, используемый в некоторых рецептах, требующих прочных материалов. %n%n§2Убедитесь, что у вас есть хорошая инфраструктура генерации и хранения энергии, так как каждая пластина стоит 1.2 миллиарда HE.
 
 # Quest: Big-Ass Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=Big-Ass Tank
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.name=Цистернище
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjw.desc=§3Big-Ass Tank§r является крупнейшим контейнером для хранения жидкостей, способным хранить 2048000mB жидкости, а также быть в состоянии держать сильно агрессивные жидкости. а также выдерживать воздействие высокоагрессивных жидкостей. Его необходимо устанавливать на твердую поверхность, иначе сломается.
 
 # Quest: Heavy Magnetic Storage Tank
@@ -791,9 +795,21 @@ betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.desc=Вместо использов
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=Уран-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6Уран-238§r - это наиболее распространённый изотоп урана в игре. %n%nЭтот материал имеет множество применений, некоторые из которых: §6Ферроуран§r, МОКС топливо, боеприпасы из обеднённого урана, поглощающие пеллеты для §3Ватцз§r, а также может быть превращён в §6Шрабидий§r позже в §3Камере облучения§r.
 
+# Quest: Narrowband Emission Scanning Satellite
+betterquesting.quest.DMCygjIOSOav8ZBlUlqEvQ.name=Narrowband Emission Scanning Satellite
+betterquesting.quest.DMCygjIOSOav8ZBlUlqEvQ.desc=The §3Narrowband Emission Scanning Satellite§r precisely locates specific high-energy events within a 250-meter radius of a target point. It is the high-precision counterpart to the §3Wideband Radio Emission Detector Satellite§r, sensitive to: neutron radiation from nuclear reactors, high-energy particles from fusion reactors and particle accelerators, radar waves from ground radars, and radio waves from §3Satellite Ground Stations§r with an active TX signal.%n%nAll results are stored internally and accessed via §dRedstone-over-Radio§r. "esurvey" performs the scan. "ecount" writes the result count to RX. "egetinfo" followed by an index writes the emission type to RX. "egetposition" followed by an index writes the X/Z coordinates - separated by a semicolon - to RX.%n%n§2Events are time-limited. Run repeated scans at short intervals to avoid missing short-lived emissions.
+
+# Quest: Orbital Precision Laser
+betterquesting.quest.EQ8nf9eDQ-K9yPIxEaFQkw.name=Orbital Precision Laser
+betterquesting.quest.EQ8nf9eDQ-K9yPIxEaFQkw.desc=The §3Orbital Precision Laser§r is a solar-powered orbital weapon, a lighter alternative to the §3Orbital Death Ray§r. It fires an instantaneous beam dealing massive damage to entities within a 5-block radius, though its explosive yield is only roughly equivalent to a single block of TNT. Recharge time between shots is §e5 seconds§r.%n%nIt can be aimed with a §6Satellite (Laser) Designator§r or controlled via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r. The "fire" command fires at the current target coordinates, or at a tracked entity if one has been set - entity target data is consumed after a single shot. The "canfire" command writes TRUE or FALSE to RX depending on whether the laser has finished recharging. The "setentitytarget" command accepts an entity ID from a §3Radar Satellite§r for precision tracking.%n%n§2Entity target data is consumed after one shot, reverting back to coordinate targeting.
+
 # Quest: Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Дополнительные приспособления к термоядерному реактору
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3Спариватель термоядерного реактора§r преобразует исходящую плазменную энергию из тора в пригодные для использования §eKyE§r, которые затем можно использовать для питания другого тора. Некоторые комбинации топлива требуют этого, так как минимальная энергия §eKyE§r, необходимая для воспламенения плазмы, превышает то, что могли бы обеспечить четыре §3Клистрона§r.%n%n§3Камера размножения термоядерного реактора§r использует нейтронный поток от тора для обработки материалов. Она может выполнять любой рецепт из §3канала облучения РБМК§r, а также некоторые дополнительные рецепты. Нейтронный поток не зависит от правил совместного использования портов, и уровень выхода одинаков на любой стороне.%n%n§3Улавливающая термоядерного реактора§r увеличивает скорость производства побочных продуктов на §e50%%§r.
+
+# Quest: Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.name=Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.desc=The §3Orbital Death Ray§r is a high-destruction orbital weapon. Before launch, link it to a §6Satellite (Laser) Designator§r using the §3Satellite ID Manager§r. With a standard designator, enter target coordinates manually; with a laser designator, aim and hold right-click on the target block.%n%nUnlike the §3Orbital Precision Laser§r, it has no entity-tracking capability and cannot intercept rockets or hit fast-moving targets. The beam strikes the first surface in its path, so targets in deep cover are safe. Recharge time is §e5 minutes§r. RoR commands: "fire" fires at the current target position if the weapon is ready; "canfire" writes TRUE or FALSE to RX depending on whether it has finished recharging.
 
 # Quest: Desh Stamps
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Штампы Деш
@@ -829,7 +845,7 @@ betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.desc=§3Пьюрекс§r - это �
 
 # Quest: Chicago Pile
 betterquesting.quest.g8IVppPpTceY55PbNbceJQ.name=Чикагская Поленница
-betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=§3Чикагская поленница§r - это грубый реактор-размножитель ранней игры, предназначенный для производства §6Плутония§r для использования в качестве топлива для реакторов.%n%nПоленница состоит из просверлённого §6Графита§r, который может удерживать различные предметы, включая стержни с радиоизотопами (§6Уран§r, §6Радий§r, §6Плутоний§r), §6Литиевые стержни§r и управляющие стержни. Она не ведёт себя как единый цельный блок, вместо этого каждый отдельный кусок просверлённого графита взаимодействует с каждым другим куском уникальным образом в зависимости от стержня, который он содержит.%n%nПосле достаточного потока урановые стержни в чикагской поленнице превратятся в плутониевые стержни, которые можно обработать на наковальне в §6Реакторный плутоний§r, который можно использовать в других реакторах, таких как §3Цирнокс§r и §3РБМК§r.%n%nЧикагская поленница требует значительного количества графитовых блоков, которые после размещения можно просверлить ручной дрелью, чтобы поместить любой стержень внутрь. %n%n§6Ручная дрель§r может использоваться для сверления отверстий в графите или взятия проб уранового топлива для определения тепла, истощения и нейтронного потока. §6Отвёртки§r используются для извлечения стержней.%n%nКвест требует чикагскую поленницу 3x3 (без углов) со стержнем §6Радий-226-Бериллий§r в центре, окружённым урановыми стержнями.
+betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=The §3Chicago Pile§r is a modular breeding reactor with no GUI, built to transmute §6Natural Uranium§r into plutonium isotopes through neutron bombardment. It must be operated manually or via §dRedstone-over-Radio§r.%n%nBuild a rectangular prism of §6Chicago Pile Graphite Bricks§r, at minimum 5*5*5 and at most 15*15*15. Once assembled, drill a non-edge block on one of its lateral faces with the §6Hand Drill§r to establish the core and fix the reactor's channel orientation. Channels are straight lines drilled through the pile and may not intersect. Fuel channels share the core's face orientation and accept rods via a §3Chicago Pile Fuel Loader§r on the input port; spent rods are ejected from the opposite side. Ventilation channels run perpendicular to the core and require a §3Chicago Pile Vent§r supplied with §bcompressed air§r at §e1 PU§r - each vent cools only the fuel channels within one block above or below it. Vertical control rod channels are optional and reduce reactivity between channels. %n%nEvery reaction requires a neutron source. The §6Ra226Be Neutron Source§r is the starter option; the more powerful §6Po210Be Neutron Source§r can replace it later. §6Natural Uranium Rods§r breed into §6Plutonium-239 Rods§r, which can be bred further into §6Reactor-Grade Plutonium Rods§r. Leaving fuel beyond that point produces §6Nuclear Waste Rods§r, which generate extreme heat and risk meltdown. To safely push out spent rods without fresh fuel, use §6Zirconium Rods§r - they are inert and transparent to neutrons.%n%n§2Verify cooling is working before loading any fuel. The pile melts down at 800°C, causing an explosion and widespread fire.%n%nThe quest asks for a §3Chicago Pile§r of at least 5*5*5 with a core established, a §3Chicago Pile Fuel Loader§r and §3Chicago Pile Vent§r attached, and a §6Ra226Be Neutron Source§r loaded alongside at least one §6Natural Uranium Rod§r.
 
 # Quest: Spent Fuel Pool Drum
 betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.name=Бочка с отработанным топливом
@@ -843,9 +859,13 @@ betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6Технеций-99§r яв�
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Гелий-4
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bГелий-4§r является продуктом слияния и в основном используется в крафте §6Quantum Processing Units§r.
 
-# Quest: Satellite Launching
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Запуск спутников
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=В NTM space спутники могут быть запущены с помощью Союз-а или кастомной ракетой.
+# Quest: Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satellites require dedicated infrastructure to launch, identify, and communicate with.%n%nBefore anything leaves the ground, every satellite must be assigned a unique frequency using the §3Satellite ID Manager§r. Place the satellite in its right slot to generate a random frequency, then use the left and center slots to copy that frequency onto §6Satellite ID Chips§r or other linked devices such as designators. ID Chips are soldered, so prepare them in advance. The assigned frequency appears in the item's tooltip.%n%nSatellites can be launching using a custom rocket or Soyuz-FG.%n%nOnce a satellite is in orbit, a §3Satellite Ground Station§r handles communication. It does not process §dRedstone-over-Radio§r signals directly - it requires an external RoR receiver or transmitter. It connects to one satellite at a time, switched via the appropriate §6Satellite ID Chip§r or an RoR command. RX reads data transmitted down from the satellite; TX sends commands up to it.%n%n§2The Ground Station's capabilities expand significantly when paired with an §3AUTOCAL§r§2, enabling automated satellite tracking, data processing, and chained multi-satellite logic.
+
+# Quest: Xenium Resonator Satellite
+betterquesting.quest.qrbz8mP0Ry-RtTBVRTkruA.name=Xenium Resonator Satellite
+betterquesting.quest.qrbz8mP0Ry-RtTBVRTkruA.desc=The §3Xenium Resonator Satellite§r provides unlimited on-demand teleportation with no cooldown. Before launch, its frequency must be linked to a §6Satellite Designator§r using the §3Satellite ID Manager§r.%n%nA standard §6Satellite Designator§r requires coordinates to be entered manually. A §6Satellite (Laser) Designator§r is simpler - aim the crosshair at a block and right-click.%n%n§2Interdimensional teleportation is not supported.
 
 # Quest: Ferrouranium
 betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=Ферроуран
@@ -862,6 +882,10 @@ betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=При наличии §6Тан
 # Quest: Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=Мышьяк
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6Мышьяк§r является заменителем §6Висмута§r, который можно получить путём обработки кислотой §6Пропитанной нефтью земли§r, найденной вблизи §eбедроковых нефтяных месторождений§r, или экологического ущерба, наносимого §3Фракционирующей башней§r, с помощью §bВысокоэффективного растворителя§r.
+
+# Quest: Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.name=Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.desc=The §3Radar Survey Satellite§r detects all radar-visible entities - players, rockets, and more - within a 1000-chunk radius of its target position. It compiles results into a searchable list with entity types and exact coordinates, and can filter results by class name without requiring a new scan.%n%nRoR commands: "survey" scans the area and saves results to both a base list and a filtered list. "filter name" replaces the filtered list with only entries matching that class name - the original list is preserved, so this can be run multiple times for different types without rescanning. "count" writes the number of filtered results to RX. "gettargetid index" returns the unique entity ID for a given entry, which can be passed to other satellites for precise targeting. "getposition index" writes exact X/Y/Z coordinates - separated by semicolons - to RX. "getname index" writes the class name of the entry to RX.%n%n§2Pair this satellite with an §3AUTOCAL§r and the §3Orbital Precision Laser§r for automated missile interception.
 
 # Quest: Deuterium Extraction Tower
 betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.name=Колонна экстракции дейтерия
@@ -1155,7 +1179,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=§6Spark Singularity§r это 
 
 # Quest: FEnSU
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=ЭМЭХ
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=§3FenSU§r это совершенный блок для накопления энергии, который может хранить 9.22EHE.%n%n[F1] Для получения дополнительной информации.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate energy storage block, being able to store §k1239217§rTHE.
 
 # Quest: Gerald the Construction Android
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Строительный андроид Геральд
@@ -1375,7 +1399,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.name=МЭ шины
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAgg.desc=§3ME Export Bus§r это компонент ME, который используется для экспорта предметов из сети ME в механизмы или другой инвентарь. %n%n§3ME Import Bus§r это ME компонент, который используется для импорта предметов непосредственно в ME сеть с механизма или другого инвентаря.%n%n§2Из соображений производительности рекомендуется использовать интерфейсы вместо шин экспорта/импорта.
 
 # Quest: Infinity Booster Card
-betterquesting.quest.EPrM6umbSw2e8c3-9XF9Wg.name=Infinity Booster Card
+betterquesting.quest.EPrM6umbSw2e8c3-9XF9Wg.name=Карта квантового моста
 betterquesting.quest.EPrM6umbSw2e8c3-9XF9Wg.desc=§6Infinity Booster Card§r позволяет получить доступ к системе ME на любом расстоянии и в любом измерении. Чтобы применить просто откройте §6Wireless Crafting Terminal§r и вставьте в него карту.
 
 # Quest: P2P
@@ -1455,7 +1479,7 @@ betterquesting.quest.n0clnMBkRw2Y4Asw6b1vJQ.name=МЕ подсеть
 betterquesting.quest.n0clnMBkRw2Y4Asw6b1vJQ.desc=§eПодсети§r это ME сети, к которым можно получить доступ из §eОсновной сети§r. В §dNTM§r§r они могут быть полезны для хранения предметов из пассивных процессов без затопления основной сети хранения.%n%n§2Это задание служит руководством по настройке подсети, которую можно использовать для хранения ресурсов, производимых системой Bedrock Ore Processing.§r%n%nНа изображении ниже показаны две сети ME: §cкрасная§r как §cосновная сеть§r, а §9синяя§r как §9подсеть§r.%n%n[img height=1000]betterquesting:textures/BQ_NET1.png[/img]%n%nДля целей этого задания в основной сети будут храниться блоки земли, а в подсети медные блоки.%n%n[img height=1000]betterquesting:textures/BQ_NET2.png[/img]%n%n[img height=1000]betterquesting:textures/BQ_NET3.png[/img]%n%nЧтобы сделать содержимое подсети (медные блоки) видимым для основной сети, необходимо создать комбинацию из §3интерфейса§r и §3шины хранения§r. Шина хранения должна располагаться со стороны основной сети.%n%n[img height=1000]betterquesting:textures/BQ_NET4.png[/img]%n%nMake sure to filter the main network storage bus, and to also make it "Extract Only".%n%n[img height=1000]betterquesting:textures/BQ_NET5.png[/img]%n%nТеперь основная сеть имеет доступ к материалам, хранящимся в подсети; их можно использовать для создания предметов.%n%n[img height=1000]betterquesting:textures/BQ_NET6.png[/img]
 
 # Quest: Overflow Void Card
-betterquesting.quest.xyHVMuUHQjSWbujlx1EMqw.name=Overflow Void Card
+betterquesting.quest.xyHVMuUHQjSWbujlx1EMqw.name=Карта переполнения
 betterquesting.quest.xyHVMuUHQjSWbujlx1EMqw.desc=§6Overflow Void Card§r служит улучшением для удаления предметов в AE2 §6Ячейки хранения§r. Его можно добавить в ячейку хранения с помощью §3Верстака для ячеек§r.
 
 
@@ -1484,11 +1508,11 @@ betterquesting.quest.5uHqD8E4RmWlcVca_5CJnQ.name=Микрочипы
 betterquesting.quest.5uHqD8E4RmWlcVca_5CJnQ.desc=§6Микросхемы§r хлеб и масло для создания электронных компонентов. Они поставляются в разных категориях для создания различных компонентов.
 
 # Quest: Floppy Disks and Disk Drive
-betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.name=Floppy Disks and Disk Drive
+betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.name=Дискеты и дисковод
 betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.desc=§3Disk Drive§r можно использовать для чтения §6дискет§r с помощью компьютера, подключенного к нему.%n%nЭто полезно для начала работы, поскольку у компьютерных корпусов §3Computer Cases§r начального уровня нет встроенного слота для дискет, а для загрузки компьютера вам понадобится операционная система.
 
 # Quest: Card Base
-betterquesting.quest.70KciiqATFCPJR3s6eoIMg.name=Card Base
+betterquesting.quest.70KciiqATFCPJR3s6eoIMg.name=Базовая карта
 betterquesting.quest.70KciiqATFCPJR3s6eoIMg.desc=§6Card Base§r это распространенный материал для создания компонентов в OC, таких как §6видеокарты§r и §6сетевые карты§r.
 
 # Quest: Electronic Assembler
@@ -1504,7 +1528,7 @@ betterquesting.quest.90cLqSYpT8OevVo7UEEaGA.name=Добро пожаловать
 betterquesting.quest.90cLqSYpT8OevVo7UEEaGA.desc=§dOpenComputers§r это очень полезный мод, позволяющий автоматизировать множество процессов, которые обычно невозможно было бы автоматизировать даже с помощью ME системы.%n%nОбязательно заглядывайте в руководство §6OC Manual§r: в нём содержится дополнительная информация о вещах, не охваченных книгой заданий.
 
 # Quest: Control and Arithmetics Units
-betterquesting.quest.ABODDDQgRrGXZdmgdHJ7Sg.name=Control and Arithmetics Units
+betterquesting.quest.ABODDDQgRrGXZdmgdHJ7Sg.name=Единицы управления и арифметики
 betterquesting.quest.ABODDDQgRrGXZdmgdHJ7Sg.desc=§6Control Unit§r используется для создания §6CPUs§r и §6Component Buses§r.%n%n§6Arithmetic Logic Unit§r используется для создания компонентов, выполняющих вычисления, таких как процессоры и §6Видеокарты§r.
 
 # Quest: PWRangler
@@ -1516,7 +1540,7 @@ betterquesting.quest.EdeL97xNTSmiLfPQpCJiow.name=Жёсткие диски
 betterquesting.quest.EdeL97xNTSmiLfPQpCJiow.desc=§6Hard Disk Drives§r представляют собой носитель данных более высокого уровня в OC.%n%nВсе носители данных работают с одинаковой скоростью; накопители более высокого уровня отличаются лишь увеличенным объемом памяти. Существуют также устройства, поддерживающие работу только с дисковыми накопителями (хотя серверы, например, могут использовать и внешние диски). Жесткие диски можно объединять в массив §3Raid§r, что позволяет нескольким дискам использовать общую файловую систему. Обратите внимание: при добавлении жесткого диска в массив RAID все данные, хранящиеся на нем, будут удалены.
 
 # Quest: Component Buses
-betterquesting.quest.GWpBgrTUR6aiNelNbOLRWQ.name=Component Buses
+betterquesting.quest.GWpBgrTUR6aiNelNbOLRWQ.name=Компонентные шины
 betterquesting.quest.GWpBgrTUR6aiNelNbOLRWQ.desc=§6Component Bus§r это улучшение, специфичное для сервера, которое позволяет ему взаимодействовать с большим количеством компонентов одновременно без остановки работы.%n%nКак и в случае с §6CPUs§r, шины более высокого уровня увеличивают лимиты на количество компонентов. Серверы более высокого уровня также поддерживают больше шин, что позволяет взаимодействовать с гораздо большим числом компонентов.
 
 # Quest: Servers
@@ -1695,6 +1719,10 @@ betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Что ж, ты заверши�
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Агрокультура и земледелие
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=На сборке есть 3 мода, что перерабатывают фермерство и добавляют еду.%n%n§dPam's HarvestCraft§r добавляет 40+ новых культур, плодовых деревьев, пчеловодство, 10 рыб, и 75+ блюд. Нажимая по созревшому растению, выпадут плоды и растение посадится обратно автоматически. Основные блоки: %n§3Прессовщик§r, для получения масла, мёда, и других предметов.%n§3Рынок§r, позволяющий покупать саженцы и семена за изумруды.%n%n§dAgriCraft§r добавляет скрещивание культур с капелькой генетики. У каждого растения теперь есть 3 характеристики - Рост, Уражай(ность), и Сила. Гены высоких статов доминантные, то есть при скрещивании расстения с силой 1 и 2, плод получит силу 2. Сорняки будут появлятся на грядках и постепенно губить ваши растения. Расположение грядок теперь имеет значения, так как у расстений есть требованию к почве, cвету, и жидкостям.%n%n§dHunger Overhaul§r требует вскапывать почву только у водоёмов - поставить дёрн где-то в пустыне теперь не выйдет.%n%n
 
+# Quest: Compressor
+betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Компрессор
+betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=§3Компрессор§r - это специализированный мультиблочный механизм для сжатия жидкостей. Он может выполнять эту операцию с любой жидкостью для увеличения её давления, для использования в других механизмах. Некоторые из этих жидкостей сжимаются в совершенно другие жидкости как специальные рецепты для этого механизма.
+
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=Путеводитель
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=Хотя §6Книга заданий§r и старается предоставить максимум информации, она не является исчерпывающим руководством по всему игровому контенту.%n%nИменно для этого и нужна §6Книга-руководство§r! Она создается силами сообщества, постоянно дополняется и выглядит просто &q&zпотрясающе§r!%n%n§2Примечание: эту книгу-руководство можно открыть с помощью назначенной клавиши
@@ -1703,5 +1731,5 @@ betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=Хотя §6Книга зада
 ### Quests in no quest lines ###
 
 # Quest: Additional Fluid Tools
-betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Additional Fluid Tools
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Дополнительные инструменты жидкости
 betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=§6Сифон§r это инструмент, предназначенный для извлечения жидкостей из входных резервуаров механизмов. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных баках, она будет перекачана в бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для заполнения ёмкостей первых двух типов).%n%n§6Пипетки§r можно использовать для ввода определенного количества жидкости. Нажатие правой кнопкой мыши (или Shift + правая кнопка мыши) увеличивает или уменьшает объем жидкости.
