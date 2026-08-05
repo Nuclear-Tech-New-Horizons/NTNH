@@ -25,4 +25,4 @@ recipes.remove(<minecraft:wooden_pickaxe>);
 
 recipes.addShapeless(<minecraft:stick> * 2, [<ore:treeSapling>]);
 
-recipes.addShapeless(<minecraft:flint>, [<ore:gravel>, <ore:gravel>, <ore:gravel>]);
+recipes.addShaped(<minecraft:flint> * 2, [[<minecraft:gravel>, <minecraft:gravel>], [<minecraft:gravel>, null]]);

@@ -7,6 +7,10 @@ shapeless=
     -> ae2:ItemPart.CraftingTerminal
 
 shapeless=
+    ae2:ItemPart.CraftingTerminal ae2:ItemMaterial.LogicProcessor
+    -> ae2:ItemPart.CraftingDiagnosticTerminal
+
+shapeless=
     monitor interface ae2:ItemMaterial.EngProcessor
     -> ae2:ItemPart.InterfaceTerminal
 
