@@ -65,6 +65,10 @@
   * Comes with Twemoji emoji pack by default
   * There will be a custom NTNH emoji pack Soon™
 * Added Dynamic Surroundings
+* Added ProspectingCraft
+  * A very old mod that adds very interesting prospecting system
+  * We forked it, so there are some improvements on the way
+* Added OpenFM
 
 
 
