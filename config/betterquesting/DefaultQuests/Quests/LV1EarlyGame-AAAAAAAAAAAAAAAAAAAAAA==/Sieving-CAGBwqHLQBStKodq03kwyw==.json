@@ -17,7 +17,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3Sieve§r is a block from §dEx Nihilo§r used to extract ores, seeds, and other materials from raw blocks like dirt, gravel, and sand. Before it can be used, a mesh must be placed inside it.\n\nTo operate it, hold a sievable block and right-click the §3Sieve§r to load it, then continue right-clicking until the block is fully processed and items pop out of the top. Each possible drop is rolled independently, so multiple items can result from a single block.\n\nHigher-tier meshes - from §6String Mesh§r up through §6Flint§r, §6Iron§r, and §6Diamond Stiffened Mesh§r - unlock better drop rates and access to rarer outputs. The mesh installed determines what you can sieve and what you will get from it.\n\n§2Check sieve recipes in JEI by viewing the usage of any mesh or sievable material.\n§2The Sieve can be automated with any machine that simulates a right-click.",
+      "desc:8": "The §3Sieve§r filters gravel, dirt, stone, and other blocks to yield useful material fragments - including iron, copper, lead, and more.\n\nUse §3Heavy Sieve§r with §6Compressed Blocks§r to get more fragments.\n\n§2Use NEI to list all possible drops.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -75,6 +75,24 @@
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "excompressum:heavySieve"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }
