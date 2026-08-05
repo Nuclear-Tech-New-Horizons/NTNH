@@ -317,10 +317,6 @@ betterquesting.quest.gKQiP_zES4KokMmon9bDQg.desc=§3砖砌炉§r与普通的炉�
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.name=无尽水源
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.desc=厌倦了使用水桶给你的机器供§b水§r吗？尝试使用水泵或无限水罐！%n%n§6无限水罐§r将提供§e50mb/t§r的水%n%n§6增强无限水罐§r将提供§e500mb/t§r的水%n%n§6蒸汽动力地下水泵§r将提供§e1000mb/t§r的水，但显而易见的需要§b蒸汽§r才能运行。
 
-# Quest: Compressor
-betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=压缩机
-betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=§3压缩机§r是一种专门的多块机器，用于给流体加压。它可以对任何流体进行操作以增加其压力，以便在其他机器中使用。其中一些流体可以被压缩成另一种流体。
-
 # Quest: Earth? Fake news
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=地球? 假的吧
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=这个整合包能让玩家在§6火星模式§r下完成整个游戏！如果发现游戏流程或逻辑上存在任何问题，请在NTNH Discord服务器的#help频道中发帖反馈。
@@ -607,6 +603,10 @@ betterquesting.quest.2JMb-t2STTKM5sxV5Z7WOQ.desc=§3气体离心机§r用于对�
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.name=核燃料处理
 betterquesting.quest.7rFMNl3iSCOD-dpsKLAANQ.desc=通过使用§3乏燃料池§r冷却在§3锆诺克斯反应堆§r、§3PWR压水堆§r等反应堆内反应完的枯竭核燃料，再进一步使用§3钚铀还原提取设备§r处理后，可以从这些枯竭核燃料中获取许多新的材料。
 
+# Quest: Wideband Radio Emission Detector Satellite
+betterquesting.quest.7xvtGouAQxKJ5rWXHykczg.name=Wideband Radio Emission Detector Satellite
+betterquesting.quest.7xvtGouAQxKJ5rWXHykczg.desc=The §3Wideband Radio Emission Detector Satellite§r monitors the entire map for high-energy events with no range limit, returning only an approximate location. Use it as a first-pass detection layer - once a hit is found, follow up with the §3Narrowband Emission Scanning Satellite§r or §3Radar Satellite§r to pinpoint the source.%n%nEvents are grouped by intensity. LOW covers mini-nuke detonations, accurate to within 10,000 m. MEDIUM covers active radars and particle accelerators, accurate to within 2,500 m. HIGH covers nuclear explosions, accurate to within 500 m. MEDIUM events persist for only half a second while others last up to a minute, so rapid repeated scans are recommended.%n%nRoR commands: "esurvey" collects all active results; "ecount" writes the total to RX; "egettype" writes LOW, MEDIUM, or HIGH for a given index; "egetposition" writes approximate X/Z coordinates for a given index.%n%n§2Route this satellite's output through an §3AUTOCAL§r§2 to automatically cue more precise instruments when a hit is detected.
+
 # Quest: Fusion Reactor
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.name=聚变反应堆
 betterquesting.quest.8DXv-b9sRxalmY8yovSQuw.desc=§3聚变反应堆§r是一种大型、昂贵且技术先进的反应堆。它通过让不同类型的等离子体发生聚变来产生热量。%n%n聚变反应堆的核心装置被称为§3"环形反应器"§r，它有四个用于连接外部设备的接口。该装置运行时需要电力供应，同时还需要使用§b四氟甲烷§r进行冷却。%n%n§3速调管§r是聚变反应堆的主要反应能源供应装置。它利用电能和压缩空气来为与之相连的环形反应器提供所需的§eKyU§r能量输入。当储存的电能或压缩空气量降至§e50%§r以下时，该装置会自动降低输出功率；而如果提供的能量低于环形反应器所需的最低标准，那么反应器内的等离子体就会停止反应。%n%n不同类型的等离子体能够产生不同的有用副产品，同时产生的中子通量也有差异。这些特性有助于大量生产各种材料，比如将§6锂§r转化为§6氚§r。%n%n焊接聚变反应堆的线圈时，需要使用§6喷灯§r或§6乙炔焊罐§r。%n%n§2关于其他组件和发电方式的相关信息，请查看下面的两个任务内容。§r
@@ -622,6 +622,10 @@ betterquesting.quest.8sIzBzykSPqskvhCp-Tsmw.desc=§6星辉金属镐§r可作为�
 # Quest: Cadmium
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.name=镉
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.desc=§6镉§r是一种用于制造§6镉钢§r的原材料，而§6镉钢§r是§6锝钢§r的替代品。%n%n可通过熔炼镉粉来获取镉。镉粉可通过将10个§6芥子柳叶§r与250mb§b高性能溶剂§r在§3矿物酸化器§r中反应而得到。%n%n芥子柳是一种生长在§e基岩油层§r附近的植物。当其完全成熟后，可以获取其主要产物——芥子柳叶。
+
+# Quest: Depth-Resource Scanning Satellite
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.name=Depth-Resource Scanning Satellite
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.desc=The §3Depth-Resource Scanning Satellite§r maps underground ore deposits across loaded chunks. It is operated via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r.%n%nThe map lacks labels and detail on its own. Pairing the satellite with §6Neutrino Lenses§r - an armor module linked to the same frequency via the §3Satellite ID Manager§r - overlays ores as glowing labeled outlines, making the data far more usable.
 
 # Quest: High-Power Steam Condenser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=大功率蒸汽冷凝器
@@ -791,9 +795,21 @@ betterquesting.quest.CYbDJkRORT-LPEInaoL3BQ.desc=§b热冷却液§r除了来发�
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.name=铀-238
 betterquesting.quest.CYtQLn_VSx2QTnLEwpMGOw.desc=§6铀-238§是游戏中最常见的铀同位素。%n%n这种材料具有多种用途，包括：用于制造§6铀铁合金§r、MOX燃料、贫化铀弹药，以及作为§3Watz发电厂§r中的吸收剂颗粒；此外，在§3辐照舱§r中，这种材料还可以被进一步加工成§6Sa326§r。
 
+# Quest: Narrowband Emission Scanning Satellite
+betterquesting.quest.DMCygjIOSOav8ZBlUlqEvQ.name=Narrowband Emission Scanning Satellite
+betterquesting.quest.DMCygjIOSOav8ZBlUlqEvQ.desc=The §3Narrowband Emission Scanning Satellite§r precisely locates specific high-energy events within a 250-meter radius of a target point. It is the high-precision counterpart to the §3Wideband Radio Emission Detector Satellite§r, sensitive to: neutron radiation from nuclear reactors, high-energy particles from fusion reactors and particle accelerators, radar waves from ground radars, and radio waves from §3Satellite Ground Stations§r with an active TX signal.%n%nAll results are stored internally and accessed via §dRedstone-over-Radio§r. "esurvey" performs the scan. "ecount" writes the result count to RX. "egetinfo" followed by an index writes the emission type to RX. "egetposition" followed by an index writes the X/Z coordinates - separated by a semicolon - to RX.%n%n§2Events are time-limited. Run repeated scans at short intervals to avoid missing short-lived emissions.
+
+# Quest: Orbital Precision Laser
+betterquesting.quest.EQ8nf9eDQ-K9yPIxEaFQkw.name=Orbital Precision Laser
+betterquesting.quest.EQ8nf9eDQ-K9yPIxEaFQkw.desc=The §3Orbital Precision Laser§r is a solar-powered orbital weapon, a lighter alternative to the §3Orbital Death Ray§r. It fires an instantaneous beam dealing massive damage to entities within a 5-block radius, though its explosive yield is only roughly equivalent to a single block of TNT. Recharge time between shots is §e5 seconds§r.%n%nIt can be aimed with a §6Satellite (Laser) Designator§r or controlled via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r. The "fire" command fires at the current target coordinates, or at a tracked entity if one has been set - entity target data is consumed after a single shot. The "canfire" command writes TRUE or FALSE to RX depending on whether the laser has finished recharging. The "setentitytarget" command accepts an entity ID from a §3Radar Satellite§r for precision tracking.%n%n§2Entity target data is consumed after one shot, reverting back to coordinate targeting.
+
 # Quest: Additional Fusion Attachments
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=额外的聚变附件
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3聚变反应堆等离子体耦合器§r能将环形反应器中的等离子体所释放的§eTU§r能量转化为§eKyU§r能量，这些能量随后可被用来为另一个环形反应器提供动力。某些聚变反应必须使用这种装置，因为引发这些等离子体反应所需的最低§eKyU§r能量超出了四台§3速调管§r最多所能提供的能量。%n%n§3聚变反应堆增殖舱§r利用环形反应器中的中子流来处理材料。它能够执行§3RBMK辐照通道§r的所有配方，同时还具备一些额外的配方。中子流不受端口共享规则的影响，且各侧的输出强度相同。%n%n§3聚变反应堆收集室§r使反应副产品的产生率提高了§e50%§r。
+
+# Quest: Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.name=Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.desc=The §3Orbital Death Ray§r is a high-destruction orbital weapon. Before launch, link it to a §6Satellite (Laser) Designator§r using the §3Satellite ID Manager§r. With a standard designator, enter target coordinates manually; with a laser designator, aim and hold right-click on the target block.%n%nUnlike the §3Orbital Precision Laser§r, it has no entity-tracking capability and cannot intercept rockets or hit fast-moving targets. The beam strikes the first surface in its path, so targets in deep cover are safe. Recharge time is §e5 minutes§r. RoR commands: "fire" fires at the current target position if the weapon is ready; "canfire" writes TRUE or FALSE to RX depending on whether it has finished recharging.
 
 # Quest: Desh Stamps
 betterquesting.quest.MFweFzQDQg2L-9X4_I8o-Q.name=Desh锻模
@@ -829,7 +845,7 @@ betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.desc=§3钚铀还原提取设备§r�
 
 # Quest: Chicago Pile
 betterquesting.quest.g8IVppPpTceY55PbNbceJQ.name=芝加哥反应堆
-betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=§3芝加哥反应堆§r是一种设计用于早期阶段的简易增殖反应堆，其目的是生产可用于反应堆燃料的钚。%n%n这种反应堆的结构是由经过钻孔处理的§6石墨块§r构成的，它可以用来放入各种物品，包括放射性同位素棒（如§6铀棒§r、§6镭棒§r、§6钚棒§r）、§6锂棒§r以及控制棒。这种堆结构并不是作为一个整体来运行的，而是其中每一块钻孔石墨都会根据其所容纳的特定物品，以独特的方式与其他石墨块发生相互作用。%n%n在接收到足够的中子通量后，芝加哥反应堆中的铀棒会发生转变，变成钚棒；这些钚棒可以在专用设备中被加工成可用于其他反应堆的钚材料，例如§3锆诺克斯核反应堆§r和§3RBMK反应堆§r。%n%n芝加哥试验堆需要使用大量的石墨块，这些石墨块在放置后，可以通过手钻进行钻孔，以便将各种棒材插入其中。%n%n§6手钻§r可以用来在石墨材料上钻孔，或者采集铀燃料的芯样，从而测定其热性质、耗竭程度以及中子通量。而§6螺丝刀§r则用于取出那些铀燃料棒。%n%n这个任务要求制作一个尺寸为3x3的芝加哥反应堆（不包括四个角），在反应堆的中心放置一根§6镭226-铍中子源§r，周围再环绕着插入铀棒。
+betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=The §3Chicago Pile§r is a modular breeding reactor with no GUI, built to transmute §6Natural Uranium§r into plutonium isotopes through neutron bombardment. It must be operated manually or via §dRedstone-over-Radio§r.%n%nBuild a rectangular prism of §6Chicago Pile Graphite Bricks§r, at minimum 5*5*5 and at most 15*15*15. Once assembled, drill a non-edge block on one of its lateral faces with the §6Hand Drill§r to establish the core and fix the reactor's channel orientation. Channels are straight lines drilled through the pile and may not intersect. Fuel channels share the core's face orientation and accept rods via a §3Chicago Pile Fuel Loader§r on the input port; spent rods are ejected from the opposite side. Ventilation channels run perpendicular to the core and require a §3Chicago Pile Vent§r supplied with §bcompressed air§r at §e1 PU§r - each vent cools only the fuel channels within one block above or below it. Vertical control rod channels are optional and reduce reactivity between channels. %n%nEvery reaction requires a neutron source. The §6Ra226Be Neutron Source§r is the starter option; the more powerful §6Po210Be Neutron Source§r can replace it later. §6Natural Uranium Rods§r breed into §6Plutonium-239 Rods§r, which can be bred further into §6Reactor-Grade Plutonium Rods§r. Leaving fuel beyond that point produces §6Nuclear Waste Rods§r, which generate extreme heat and risk meltdown. To safely push out spent rods without fresh fuel, use §6Zirconium Rods§r - they are inert and transparent to neutrons.%n%n§2Verify cooling is working before loading any fuel. The pile melts down at 800°C, causing an explosion and widespread fire.%n%nThe quest asks for a §3Chicago Pile§r of at least 5*5*5 with a core established, a §3Chicago Pile Fuel Loader§r and §3Chicago Pile Vent§r attached, and a §6Ra226Be Neutron Source§r loaded alongside at least one §6Natural Uranium Rod§r.
 
 # Quest: Spent Fuel Pool Drum
 betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.name=乏燃料池
@@ -843,9 +859,13 @@ betterquesting.quest.iJiX7wxoSBmljc9tITqIqQ.desc=§6锝-99§是§6铀§r和§6�
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Helium-4
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bHelium-4§r is a product of fusion and is mainly used in crafting §6Quantum Processing Units§r.
 
-# Quest: Satellite Launching
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=卫星发射
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=核科技：航空版中的卫星可以通过联盟号或定制火箭上发射。
+# Quest: Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satellites require dedicated infrastructure to launch, identify, and communicate with.%n%nBefore anything leaves the ground, every satellite must be assigned a unique frequency using the §3Satellite ID Manager§r. Place the satellite in its right slot to generate a random frequency, then use the left and center slots to copy that frequency onto §6Satellite ID Chips§r or other linked devices such as designators. ID Chips are soldered, so prepare them in advance. The assigned frequency appears in the item's tooltip.%n%nSatellites can be launching using a custom rocket or Soyuz-FG.%n%nOnce a satellite is in orbit, a §3Satellite Ground Station§r handles communication. It does not process §dRedstone-over-Radio§r signals directly - it requires an external RoR receiver or transmitter. It connects to one satellite at a time, switched via the appropriate §6Satellite ID Chip§r or an RoR command. RX reads data transmitted down from the satellite; TX sends commands up to it.%n%n§2The Ground Station's capabilities expand significantly when paired with an §3AUTOCAL§r§2, enabling automated satellite tracking, data processing, and chained multi-satellite logic.
+
+# Quest: Xenium Resonator Satellite
+betterquesting.quest.qrbz8mP0Ry-RtTBVRTkruA.name=Xenium Resonator Satellite
+betterquesting.quest.qrbz8mP0Ry-RtTBVRTkruA.desc=The §3Xenium Resonator Satellite§r provides unlimited on-demand teleportation with no cooldown. Before launch, its frequency must be linked to a §6Satellite Designator§r using the §3Satellite ID Manager§r.%n%nA standard §6Satellite Designator§r requires coordinates to be entered manually. A §6Satellite (Laser) Designator§r is simpler - aim the crosshair at a block and right-click.%n%n§2Interdimensional teleportation is not supported.
 
 # Quest: Ferrouranium
 betterquesting.quest.rHdJmpZPSNWIvMLqALvC_w.name=铀铁合金
@@ -862,6 +882,10 @@ betterquesting.quest.sCe8OyBsQEeMrUpYXUn9Yw.desc=只要能够获得用于制造�
 # Quest: Arsenic
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=砷
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6砷§r是§6铋§r的替代品。它可通过使用§b高性能溶剂§r酸化那些位于基岩油层附近或者利用§3水力压裂塔§r在作业过程中产生的§6油泥§r来提取。
+
+# Quest: Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.name=Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.desc=The §3Radar Survey Satellite§r detects all radar-visible entities - players, rockets, and more - within a 1000-chunk radius of its target position. It compiles results into a searchable list with entity types and exact coordinates, and can filter results by class name without requiring a new scan.%n%nRoR commands: "survey" scans the area and saves results to both a base list and a filtered list. "filter name" replaces the filtered list with only entries matching that class name - the original list is preserved, so this can be run multiple times for different types without rescanning. "count" writes the number of filtered results to RX. "gettargetid index" returns the unique entity ID for a given entry, which can be passed to other satellites for precise targeting. "getposition index" writes exact X/Y/Z coordinates - separated by semicolons - to RX. "getname index" writes the class name of the entry to RX.%n%n§2Pair this satellite with an §3AUTOCAL§r and the §3Orbital Precision Laser§r for automated missile interception.
 
 # Quest: Deuterium Extraction Tower
 betterquesting.quest.yYyMBFJrRUOt39If3zFaFg.name=氘萃取塔
@@ -1155,7 +1179,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAABFQ.desc=§6Spark奇点§r是一种由�
 
 # Quest: FEnSU
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.name=FEnSU
-betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=§3FenSU§r是终极能量电池，能够储存无限量的能量。%n%n按[F1]以获取更多信息
+betterquesting.quest.AAAAAAAAAAAAAAAAAAABFg.desc=The §3FenSU§r is the ultimate energy storage block, being able to store §k1239217§rTHE.
 
 # Quest: Gerald the Construction Android
 betterquesting.quest.AAAAAAAAAAAAAAAAAAABHw.name=Gerald建筑机器人
@@ -1694,6 +1718,10 @@ betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the spac
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=农业与种植
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
+
+# Quest: Compressor
+betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=压缩机
+betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.desc=§3压缩机§r是一种专门的多块机器，用于给流体加压。它可以对任何流体进行操作以增加其压力，以便在其他机器中使用。其中一些流体可以被压缩成另一种流体。
 
 # Quest: Guide Book
 betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.name=指导书
