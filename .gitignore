@@ -44,3 +44,5 @@ minemoticon/cache/
 config/minemoticon/cache/
 
 config/minemoticon/emoji_data.json
+
+!config/txloader/**
