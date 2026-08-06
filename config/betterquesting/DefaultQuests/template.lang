@@ -398,10 +398,6 @@ betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=§6Bauxide§r and §6Cryolite§
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Cyclotron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=The §3Cyclotron§r is a machine that bombards element powders with element boxes to get heavier elements. Operating the machine will consume§e 20MHE/s§r.%n%nIt can also create §bAntimatter§r as a byproduct for certain operations, which makes it a reliable but expensive method of large-scale advanced material production.%n%n§2Consider installing the highest level of Power Saving and Speed upgrades to reduce both recipe time and power consumption.§r
 
-# Quest: Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
-
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs as well as fast swimming speed.
