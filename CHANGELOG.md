@@ -2,7 +2,8 @@
 
 ## What's changed?
 **Added**
-
+* Chicken Chunks
+    * Serves as an alternative to unstable ServerUtilities chunkloading
 
 
 
@@ -12,7 +13,9 @@
 
 
 **Changed**
-* 
+* Reverted some changes related to ore generation
+    * **Changing the intended ore generation is not supported anymore**
+    * Get **mine**-crafted
 
 
 
