@@ -9,6 +9,7 @@
 
 **Fixed**
 * Machines no longer tilt at all when unsupported in orbit
+* Fixed oil refinery GUI
 
 
 
