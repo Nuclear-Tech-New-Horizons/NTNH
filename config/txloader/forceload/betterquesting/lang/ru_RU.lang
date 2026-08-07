@@ -331,7 +331,7 @@ betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=Эта сборка позво�
 
 # Quest: Oily Sand
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Маслянистый песок
-betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Маслянистый песок§r — это поверхностный блок, который генерируется посреди обычного песка, обычно в пустынях. Он служит индикатором залегающих непосредственно под ним месторождений §bбедроковых залежей нефти§r: если вы его нашли, значит, под землей есть нефть.%n%nВ §3дробилке§r этот песок можно переработать в §6нефтяные отходы§r, из которых затем получают §6мышьяк§r.%n%n§2Скопления маслянистого песка — самый надежный способ обнаружить бедроковую нефть, не прибегая к слепому бурению.\n
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r - a really important mid-game material.
 
 # Quest: Highway To Hell
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Дорога в Ад
@@ -397,10 +397,6 @@ betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=§6Боксит§r и §6Кри
 # Quest: Cyclotron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Циклотрон
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=§3Циклотрон§r - это механизм, который бомбардирует порошки элементов коробками других элементов для получения более тяжёлых элементов. Работа механизма будет потреблять §e20MHE/s§r.%n%nОн также может создавать §bАнтиматерию§r как побочный продукт для определённых операций, что делает его надёжным, но дорогим методом крупномасштабного производства продвинутых материалов.%n%n§2Рассмотрите возможность установки улучшений энергосбережения и скорости высшего уровня для снижения как времени рецепта, так и потребления энергии.§r
-
-# Quest: Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Набор деш-сервоприводов
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Деш-сервоприводы§r - это модификация брони, которая даёт невероятно мощные усиления при использовании, такие как увеличенная сила, скорость добычи и усиление прыжка.
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=Защитный костюм M1TTY
@@ -738,10 +734,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=§6HEV Модель IV§r эт�
 # Quest: Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Висмут
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=§6Висмут§r - это важный материал, необходимый во многих продвинутых рецептах крафта. Висмут можно получить либо из истощения топлива §3РБМК§r и обработки через §3FEL§r и §3SILEX§r, либо из переработки бедроковой руды с использованием §bВысокоэффективного растворителя§r. %n%n§6Мышьяк§r потребует дополнительный §bРудный окислитель§r, а также доступ к высокоэффективному растворителю.%n%n§2Из-за отсутствия доступной висмутовой бедроковой руды на земле и количества времени, необходимого для переработки топлива РБМК, рекомендуется использовать мышьяк вместо висмута.
-
-# Quest: Research and Breeding Reactor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.name=Исследовательский реактор и реактор-размножитель
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.desc=§3Исследовательский реактор§r - это энергетический реактор, предназначенный для эффективного сжигания топлива и служащий источником нейтронов для §3Реакторов-размножителей§r. Он должен быть погружён в §bВоду§r для охлаждения, поскольку не имеет активного охлаждения типичного энергетического реактора. Для начала реакции необходима пластина с нейтронным источником §6Радий-226-Бериллий§r или §6Плутоний-238-Бериллий§r, которую затем можно убрать. Он взрывается при температуре ровно §e1,000°C§r, поэтому следует соблюдать осторожность при использовании сильного топлива и нескольких реакторов-размножителей одновременно.%n%nБлок §3Дистанционного управления реактором§r и §6Дистанционный датчик реактора§r можно использовать для активации и мониторинга реактора на расстоянии.%n%nРеактор-размножитель превращает изотопы элементов в более тяжёлые формы, используя нейтронный поток соседнего исследовательского реактора. Когда реактор работает, через стеклянное смотровое окно можно увидеть лучи зеленоватых "молний", испускаемых центральным стержнем модели к внешним стержням.
 
 # Quest: Welded Technetium/Cadmium Steel Plate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=Сваренная пластина из технециевой/кадмиевой стали
