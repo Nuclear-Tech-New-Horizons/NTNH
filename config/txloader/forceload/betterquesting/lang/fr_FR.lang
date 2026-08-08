@@ -118,15 +118,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.name=Creuset
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHQ.desc=Le §Creuset§r est un élément central de la métallurgie. Il est utilisé pour le traitement des minerais, l'alliage et le moulage des métaux. Il requiert une source de chaleur externe pour fondre les entrées et quand rempli, il émet constamment de la suie qui peut causer une bonne quantité de pollution qui ne peut être atténuée. Certains alliages, comme mentionné précédement, peuvent être faits autrement en utilisant un §Haut fournau§r, cependant cela est généralement plus lent.%n%n[F1] Pour plus d'informations.
 
 # Quest: Arc Welder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Arc Welder
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=The §3Arc Welder§r is a machine needed for the creation of many components, such as §6Welded Plates§r, §6Missile Parts§r and more. Some Recipes will require a fluid inserted into the welder to work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.name=Soudeuse à l'Arc
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHw.desc=La §3Soudeuse à l'Arc§r est une machine requise pour la création de beaucoup de composants, notamment les §6Plaques Soudées§r, les §6Parties de Missile§r et bien plus. Certaines recettes nécessitent un liquide inséré dans la soudeuse pour fonctionner.
 
 # Quest: Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.name=Combination Oven
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIQ.desc=The §3Combination Oven§r is a unique type of furnace that transforms items into their respective product and produce liquid byproducts. It can be used to produce §6Coke§r, §bWood Oil§r and §6Aluminium§r more efficiently.
 
 # Quest: Chemical Plant
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Chemical Plant
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.name=Usine Chimique
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIg.desc=The §3Chemical Plant§r is a machine needed for several processes, turning fluids into other fluids, synthesis of different compounds, ect. Like the §3Assembly Machine§r, recipes can be selected entirely within the GUI.
 
 # Quest: Strand Caster
