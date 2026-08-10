@@ -331,7 +331,7 @@ betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=This modpack makes it possible 
 
 # Quest: Oily Sand
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Oily Sand
-betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r.%n%n§2Oily Sand patches are the most reliable way to locate Bedrock Oil without digging blindly.§r
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r - a really important mid-game material.
 
 # Quest: Highway To Hell
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Cehenneme Otoban
@@ -397,10 +397,6 @@ betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=§6Bauxide§r and §6Cryolite§
 # Quest: Cyclotron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Cyclotron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=The §3Cyclotron§r is a machine that bombards element powders with element boxes to get heavier elements. Operating the machine will consume§e 20MHE/s§r.%n%nIt can also create §bAntimatter§r as a byproduct for certain operations, which makes it a reliable but expensive method of large-scale advanced material production.%n%n§2Consider installing the highest level of Power Saving and Speed upgrades to reduce both recipe time and power consumption.§r
-
-# Quest: Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
@@ -738,10 +734,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=The §6HEV Mark IV§r is a stro
 # Quest: Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=§6Bismuth§r is an important material needed in many advanced crafting recipes. Bismuth can be obtained from either §3RBMK§r fuel depletion and processing though a §3FEL§r and §3SILEX§r, or from bedrock ore processing using §bHigh-Performance Solvent§r. %n%n§6Arsenic§r will require an additional §bOre Acidizer§r aswell as access to high-performance solvent.%n%n§2Due to the lack of bismuth bedrock ore available on earth and the amount of time it takes to process RBMK fuels, it is recommended that some arsenic is used instead of bismuth.
-
-# Quest: Research and Breeding Reactor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.name=Research and Breeding Reactor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.desc=The §3Research Reactor§r is a non-power reactor intended for burning fuel efficiently and acting as a neutron source for §3Breeding Reactor§ss§r. It has to be submerged in §bWater§r to cool since it does not have the active cooling of a typical power reactor. A §6Ra226Be§r or §6Pu238Be§r neutron source plate is needed to begin the reaction, and then can be removed. It explodes at exactly §e1,000°C§r, so caution is advised when using strong fuels and several breeders simultaneously.%n%nA §3Reactor Remote Control§  Block§r%nand a §6Reactor Remote Sensor§r can be used to activate and monitor the reactor from a distance.%n%nThe Breeding Reactor breeds isotopes of elements into heavier forms using the neutron flux of an adjacent Research Reactor. When the reactor is operating, rays of green-ish "lightning" emitted from the center rod of the model can be seen going to the outer rods from the glass observation window.
 
 # Quest: Welded Technetium/Cadmium Steel Plate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=Welded Technetium/Cadmium Steel Plate
