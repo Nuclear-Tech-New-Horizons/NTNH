@@ -16,6 +16,8 @@
 
 **Changed**
 * Removed a lot of annoying Dynamic Surroundings sounds
+* Heavily optimized main menu and loading screen backgrounds
+    * Weights less, loads faster
 
 
 
