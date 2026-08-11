@@ -31,15 +31,15 @@
 
 <h2 style="text-align:center">🌟 Our Amazing Contributors 🌟</h2>
 
-<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>3301 🏆</span></td>
+<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>3370 🏆</span></td>
 <td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>435 🏆</span></td>
 <td align="center"><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AniviaFlome</b></sub><br/><span>92 🏆</span></td>
 <td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>63 🏆</span></td>
 <td align="center"><a href="https://github.com/Rt194646"><img src="https://avatars.githubusercontent.com/u/209053148?v=4" width="50" alt="Rt194646" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rt194646</b></sub><br/><span>31 🏆</span></td>
 <td align="center"><a href="https://github.com/bocan225"><img src="https://avatars.githubusercontent.com/u/209335201?v=4" width="50" alt="bocan225" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>bocan225</b></sub><br/><span>20 🏆</span></td>
-<td align="center"><a href="https://github.com/actions-user"><img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" alt="actions-user" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>actions-user</b></sub><br/><span>9 🏆</span></td></tr>
-<tr><td align="center"><a href="https://github.com/AxeleronPlay"><img src="https://avatars.githubusercontent.com/u/155234618?v=4" width="50" alt="AxeleronPlay" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AxeleronPlay</b></sub><br/><span>8 🏆</span></td>
-<td align="center"><a href="https://github.com/THOMASS47"><img src="https://avatars.githubusercontent.com/u/63131669?v=4" width="50" alt="THOMASS47" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>THOMASS47</b></sub><br/><span>5 🏆</span></td>
+<td align="center"><a href="https://github.com/THOMASS47"><img src="https://avatars.githubusercontent.com/u/63131669?v=4" width="50" alt="THOMASS47" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>THOMASS47</b></sub><br/><span>18 🏆</span></td></tr>
+<tr><td align="center"><a href="https://github.com/actions-user"><img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" alt="actions-user" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>actions-user</b></sub><br/><span>10 🏆</span></td>
+<td align="center"><a href="https://github.com/AxeleronPlay"><img src="https://avatars.githubusercontent.com/u/155234618?v=4" width="50" alt="AxeleronPlay" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AxeleronPlay</b></sub><br/><span>8 🏆</span></td>
 <td align="center"><a href="https://github.com/FOlkvangrField"><img src="https://avatars.githubusercontent.com/u/153828961?v=4" width="50" alt="FOlkvangrField" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>FOlkvangrField</b></sub><br/><span>3 🏆</span></td>
 <td align="center"><a href="https://github.com/intelcore13900k"><img src="https://avatars.githubusercontent.com/u/203885009?v=4" width="50" alt="intelcore13900k" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>intelcore13900k</b></sub><br/><span>2 🏆</span></td>
 <td align="center"><a href="https://github.com/Xekitan"><img src="https://avatars.githubusercontent.com/u/84423252?v=4" width="50" alt="Xekitan" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Xekitan</b></sub><br/><span>2 🏆</span></td>
@@ -86,7 +86,7 @@
           <br />
           <sub><b>Zors_o</b></sub></a>
         <br />
-        <sub><b>7824 words</b></sub>
+        <sub><b>8525 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Ezzocorbi"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16084852/medium/1abbf6e29ed4f997223b4c66399a21b9.png" />
@@ -102,7 +102,7 @@
           <br />
           <sub><b>(GamerRabbit22)</b></sub></a>
         <br />
-        <sub><b>4959 words</b></sub>
+        <sub><b>5410 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/AdUhTkJm"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17757327/medium/918854712a4e8aa172ca9a61537e7f26.png" />
@@ -337,6 +337,17 @@
         <sub><b>143 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/Alex6_"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/14881780/medium/b951ed53df012b560385ee8b96e8af2d.jpg" />
+          <br />
+          <sub><b>Alex6</b></sub>
+          <br />
+          <sub><b>(Alex6_)</b></sub></a>
+        <br />
+        <sub><b>126 words</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/eiko0"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17801663/medium/431999895c7c5b1994f1cc5938f82e72.jpg" />
           <br />
           <sub><b>Diko Ahlo</b></sub>
@@ -345,8 +356,6 @@
         <br />
         <sub><b>120 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/RX0kas"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16733639/medium/96b337eae62d1b1dcbf243e96d7bbfb9.png" />
           <br />
@@ -397,6 +406,8 @@
         <br />
         <sub><b>12 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/samnothere25"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17680980/medium/7a93c4773a995d6bf8f7fe252c23dfa0.jpeg" />
           <br />
