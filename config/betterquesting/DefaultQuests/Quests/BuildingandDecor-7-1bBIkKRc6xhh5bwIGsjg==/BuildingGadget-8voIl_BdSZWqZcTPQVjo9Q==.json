@@ -1,12 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -4356235348570976913,
-      "questIDLow:4": -6987053073480892477
-    },
-    "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 103
+      "questIDLow:4": 20
     }
   },
   "properties:10": {
@@ -21,18 +17,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "Satelites in NTM space can be launched from either a Souyz or a custom rocket.",
+      "desc:8": "The §6Building Gadget§r is an advanced building tool which allows the user to create many complex shapes with ease. Press the ALT key to open its menu.\n\n§2It consumes power for blocks placed.§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:item.sat_base"
+        "id:8": "effortless:item.building_gadget"
       },
-      "isMain:1": 1,
+      "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Satellite Launching",
+      "name:8": "Building Gadget",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -48,7 +44,7 @@
       "notification_title:8": "",
       "notification_title_scale:5": -1.0,
       "particle_count:3": -1,
-      "questLogic:8": "OR",
+      "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
@@ -58,13 +54,27 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": -6787868727436752418,
-  "questIDLow:4": -6054408173306640877,
+  "questIDHigh:4": -938428123687597675,
+  "questIDLow:4": -6168307720180406027,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
-      "taskID:8": "bq_standard:checkbox"
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "effortless:item.building_gadget"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
     }
   }
 }

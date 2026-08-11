@@ -1,12 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -2549337488949951986,
-      "questIDLow:4": -8633188481776331784
-    },
-    "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 66
+      "questIDHigh:4": -6787868727436752418,
+      "questIDLow:4": -6054408173306640877
     }
   },
   "properties:10": {
@@ -21,18 +17,29 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.",
+      "desc:8": "The §3Xenium Resonator Satellite§r provides unlimited on-demand teleportation with no cooldown. Before launch, its frequency must be linked to a §6Satellite Designator§r using the §3Satellite ID Manager§r.\n\nA standard §6Satellite Designator§r requires coordinates to be entered manually. A §6Satellite (Laser) Designator§r is simpler - aim the crosshair at a block and right-click.\n\n§2Interdimensional teleportation is not supported.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:item.servo_set_desh"
+        "id:8": "hbm:item.sat_resonator",
+        "tag:10": {
+          "satAltitude:5": 100.0,
+          "satBlink:5": 0.3,
+          "satColorB:5": 0.181,
+          "satColorG:5": 0.646,
+          "satColorR:5": 1.0,
+          "satInclination:5": 0.0,
+          "satIsBlinking:1": 0,
+          "satOwner:8": "None",
+          "satPhaseOffset:5": 0.0
+        }
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Desh Servo Set",
+      "name:8": "Xenium Resonator Satellite",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -58,15 +65,15 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 0,
-  "questIDLow:4": 11,
+  "questIDHigh:4": -6145456419115874513,
+  "questIDLow:4": -7947392824633644104,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,
       "consume:1": 0,
       "groupDetect:1": 0,
-      "ignoreNBT:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
       "requireOnlyOneItem:1": 0,
@@ -75,7 +82,18 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:item.servo_set_desh"
+          "id:8": "hbm:item.sat_resonator",
+          "tag:10": {
+            "satAltitude:5": 100.0,
+            "satBlink:5": 0.3,
+            "satColorB:5": 0.181,
+            "satColorG:5": 0.646,
+            "satColorR:5": 1.0,
+            "satInclination:5": 0.0,
+            "satIsBlinking:1": 0,
+            "satOwner:8": "None",
+            "satPhaseOffset:5": 0.0
+          }
         }
       },
       "taskID:8": "bq_standard:retrieval"

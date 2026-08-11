@@ -10,15 +10,20 @@
     },
     "2:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 277
+      "questIDLow:4": 39
     },
     "3:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 39
+      "questIDHigh:4": -4212680820990655932,
+      "questIDLow:4": -5738584656499982622
     },
     "4:10": {
       "questIDHigh:4": -2605986321132862176,
       "questIDLow:4": -6530016429603008347
+    },
+    "5:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 253,
+      "type:1": 1
     }
   },
   "properties:10": {
@@ -33,7 +38,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3FenSU§r is the ultimate energy storage block, being able to store 9.22EHE.\n\n[F1] For more information.",
+      "desc:8": "The §3FenSU§r is the ultimate energy storage block, being able to store §k1239217§rTHE.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

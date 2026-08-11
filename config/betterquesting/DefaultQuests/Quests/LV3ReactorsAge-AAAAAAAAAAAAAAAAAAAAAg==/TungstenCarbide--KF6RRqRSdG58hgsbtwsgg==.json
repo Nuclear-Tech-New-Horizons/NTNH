@@ -1,5 +1,10 @@
 {
-  "preRequisites:9": {},
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 54
+    }
+  },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
@@ -12,18 +17,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "Random quest i made while teaching a \u0026z\u0026qintern\u0026q§r§r",
+      "desc:8": "§6Tungsten Carbide§r is an alloy made from §6Tungsten§r and §bSyngas§r in a §3Pyrolysis Oven§r. It is mainly used in crafting neutron reflectors for reactors and nukes.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "minecraft:nether_star"
+        "id:8": "hbm:item.ingot_tungsten_carbide"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Test",
+      "name:8": "Tungsten Carbide",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -49,13 +54,27 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 2045385443790374974,
-  "questIDLow:4": -8917993579571694967,
+  "questIDHigh:4": -531008843835946543,
+  "questIDLow:4": -5047945653211353982,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
       "index:3": 0,
-      "taskID:8": "bq_standard:checkbox"
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "hbm:item.ingot_tungsten_carbide"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
     }
   }
 }
