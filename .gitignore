@@ -44,3 +44,6 @@ config/minemoticon/cache/
 config/minemoticon/emoji_data.json
 
 !config/txloader/**
+
+config/CustomOreGen/CustomOreGen_Config_Default.xml
+config/CustomOreGen/modules/

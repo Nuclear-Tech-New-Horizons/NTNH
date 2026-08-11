@@ -5,12 +5,15 @@
 * ArchaicFix
     * For optimization purposes
     * Should help in a lot of cases
+* Chunk Pregenerator
 
 
 
 **Fixed**
 * Fixed uhhh weird-ass unintended ore generation being present
     * It was not supposed to be here
+* Fixed a lot of issues related to biome IDs and dimension IDs
+* Fixed Ore Generation article not being present in the Guide Book
 
 
 
@@ -18,6 +21,10 @@
 * Removed a lot of annoying Dynamic Surroundings sounds
 * Heavily optimized main menu and loading screen backgrounds
     * Weights less, loads faster
+* Updated spanish, french, italian and russian translations
+* FINALLY removed Nuclear Blast Furnace quest
+* Removed 3D Skin Layers mod due to high lag
+* Updated the welcome message to make it more ***fancier***
 
 
 
