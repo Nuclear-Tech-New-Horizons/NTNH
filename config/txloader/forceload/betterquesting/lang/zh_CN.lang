@@ -398,6 +398,10 @@ betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=§6铝土矿§r和§6冰晶石�
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=回旋加速器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=§3回旋加速器§r是一种通过用元素粒子轰击元素粉末来生成更重元素的设备。运行这种设备需要每秒消耗§e 20MHE§r的能量。%n%n在某些特定的配方中，这种方法还会产生§b反物质§r作为副产品，因此它确实是一种可靠但成本较高的大规模先进材料生产方法。%n%n§2 可考虑安装最高级别的节能及速度提升芯片，以此缩短运行时间并降低能耗。§r
 
+# Quest: Desh Servo Set
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
+
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY环境套装
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=§6M1TTY环境套装§r是一套价格低廉的电动装甲装备，具备多种实用功能。它非常适合用于探险活动：不仅能够显著提升移动速度，还能使游泳速度更快。
@@ -517,10 +521,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=§6盖革计数器§r是一种�
 # Quest: Survey Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=勘测扫描仪
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=§6勘测扫描仪§r是一种便携式设备，能够识别地下的资源矿藏，例如§e深层岩石§r和§e基岩矿石§r。
-
-# Quest: Nuclear Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=核高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=§3核高炉§r是一种替代传统§3高炉§r的以放射性同位素为能源的设备。它拥有6个用于放置放射性同位素燃料靶丸的插槽，运行所需最低热量为15单位。其生产效率远高于普通高炉。%n%n功率较高的靶丸具有更好的加热效果，从而提升加工速度。如果提供足够的热量，几乎可以瞬间实现合金冶炼。
 
 # Quest: Launch Pad
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=导弹发射台
@@ -1717,7 +1717,7 @@ betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the spac
 
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=农业与种植
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Note that the crops should be planted on the Crop Sticks.
 
 # Quest: Compressor
 betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=压缩机

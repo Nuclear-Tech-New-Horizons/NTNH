@@ -214,36 +214,36 @@ betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.name=Herramientas de Pedernal
 betterquesting.quest.F5fyyqAZREWe-rhgYcbXZg.desc=Las §6Herramientas de Pedernal§r se requieren para obtener la primera madera y piedra. Rompe algunas hojas de árbol para conseguir brotes, entonces conviértelos en palos.%n%nLas hachas rompen automáticamente los troncos del árbol de arriba hacia abajo para evitar árboles flotantes. Manten Shift para deshabilitar esto y romper bloques normalmente.
 
 # Quest: Steel Furnace
-betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.name=Steel Furnace
-betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.desc=The §3Steel Furnace§r, unlike the other furnaces, runs off of §eTU§r. It can also process up to 3 items at a time, but each slot consumes more TU, which makes it slow without a strong heat source. It also has a bonus output for ores and wood, where every smelted item gives §e25%%§r to the bonus output meter, which means every 4 items give an extra 5th item for free (§e+15 items from a single stack§r).
+betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.name=Horno de Acero
+betterquesting.quest.GOACXA8jRc-SMNzk2CsNUQ.desc=El §3Horno de Acero§r, a diferencia de los otros hornos, funciona con §eTU§r. Además puede procesar hasta tres objetos a la vez, pero cada hueco consume más TU, lo que lo hace lento sin una fuerte fuente de calor. También tiene un bonus de producto extra para minerales y madera, en el que cada objeto cocinado da §e25%%§r a la barra del bonus, lo que significa que cada 4 objetos generan un quinto objeto extra gratis (§e+15 objetos para un solo stack§r).
 
 # Quest: Electric Furnace
-betterquesting.quest.HONUf7SQRl-jcf3BC5242A.name=Electric Furnace
-betterquesting.quest.HONUf7SQRl-jcf3BC5242A.desc=The §3Electric Furnace§r is a furnace that is powered by electricity. it is slightly faster than the vanilla furnace without upgrades. it consumes from §e1 kHE/s§r without upgrades up to §e4 kHE/s§r.%n%nDue to it only being slightly faster than the vanilla furnace, it isn't used much beyond early game, but it can be used in automation, if speed isn't the main objective.
+betterquesting.quest.HONUf7SQRl-jcf3BC5242A.name=Horno Eléctrico
+betterquesting.quest.HONUf7SQRl-jcf3BC5242A.desc=El §3Horno Eléctrico§r es un horno que funciona por electricidad. Es ligeramente más rápido que un horno normal, sin ninguna mejora. Consume de §e1 kHE/s§r sin mejoras hasta §e4 kHE/s§r.%n%nDebido a que solo es ligeramente más rápido que un horno normal, no se usa mucho más allá del inicio del juego, pero se puede usar para automatizar, si la velocidad no es tu prioridad.
 
 # Quest: Storage Drawer Keys
-betterquesting.quest.HTaQEgJ8QCWYNMB8n7Awug.name=Storage Drawer Keys
-betterquesting.quest.HTaQEgJ8QCWYNMB8n7Awug.desc=§dStorage Drawer Keys§r can be used to modify Drawers in many ways.%n%nThe §dDrawer Key locks drawers§r, so no new item types can be inserted into the drawer when its empty.%n%nThe §dConcealment Key§r hides the item icon of drawers.%n%nThe §dQuantify Key§r shows the item quantities of drawers.%n%nThe §dPersonal Key§r protects drawers from other players (outside of claims). %n
+betterquesting.quest.HTaQEgJ8QCWYNMB8n7Awug.name=Llaves de los Cajones de Almacenamiento
+betterquesting.quest.HTaQEgJ8QCWYNMB8n7Awug.desc=Las §dLlaves de los Cajones de Almacenamiento§r pueden ser usadas para modificar los Cajones en varias maneras.%n%nLa §dLlave de Cajón bloquea los cajones§r, para que objetos diferentes no puedan ser insertados en el cajón cuando está vacío.%n%nLa §dLlave de Ocultación§r oculta el icono del contenido del cajón.%n%nLa §dLlave de Cantidad§r muestra la cantidad de objetos dentro del cajón.%n%nLa The §dLlave Personal§r proteje los cajones de otros jugadores (afuera de las áreas reclamadas).%n
 
 # Quest: Bobmazon
 betterquesting.quest.IAP1AGA2TV-TtMAv_QMrIA.name=Bobmazon
-betterquesting.quest.IAP1AGA2TV-TtMAv_QMrIA.desc=§6Bobmazon§r is an in-game shop where players can spend §6Bottle Caps§r to purchase various items such as building blocks, plants, resourses and many more. To purchase items, one must have unlocked the achievements listed below as "Ratings".
+betterquesting.quest.IAP1AGA2TV-TtMAv_QMrIA.desc=§6Bobmazon§r es una tienda dentro del juego donde los jugadores pueden gastar §6Corcholatas§r para comprar varios objetos como bloques de construcción, plantas, recursos y mucho más. Para comprar objetos, uno debe haber desbloqueado los logros enlistados debajo como "Calificaciones".
 
 # Quest: Charcoal Automation
-betterquesting.quest.ItX_qnZpQCuDSxSoHuKmsA.name=Charcoal Automation
-betterquesting.quest.ItX_qnZpQCuDSxSoHuKmsA.desc=§6Wood§r obtained from a tree farm can be smelted or processed in a §3Combination Oven§r to produce §6Charcoal§r, which has many uses, such as fuel for §3Furnaces§r or even the §3Blast Furnace§r, §6Flux§r or §6Carbon§r in a Crucible for §6Steel§r production, or even §6Gunpowder§r for ammunition.
+betterquesting.quest.ItX_qnZpQCuDSxSoHuKmsA.name=Automatización de Carbón Vegetal
+betterquesting.quest.ItX_qnZpQCuDSxSoHuKmsA.desc=§6Madera§r obtenida de una granja de árboles puede ser cocinada o procesada en un §3Horno Combinado§r para producir §6Carbon Vegetal§r, el cual tiene muchos usos, como combustible para §3Hornos§r o incluso el §3Alto Horno§r, §6Fundente§r o §6Carbono§r en un Crisol para producir §6Acero§r o incluso §6Pólvora§r para munición.
 
 # Quest: HE to RF Converter
-betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.name=HE to RF Converter
-betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.desc=The §3HE to RF Converter§r will convert energy produced by NTM machines into usuable power for both the §dMatter Energy Network§r and §dOpenComputers§r. It has a very large internal energy buffer, so it is recommended that a Diode is used to limit throughput.
+betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.name=Convertidor HE a RF
+betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.desc=El §3Convertidor HE a RF§r convertirá energía producida por las máquinas de NTM a energía utilizable para la §dRed Materia Energía§r y §dOpenComputers§r. Tiene una capacidad de almacenamiento interno muy grande así que es recomendado utilizar un diodo para limitar el consumo de energía.
 
 # Quest: Multi Fluid Identifier
-betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.name=Multi Fluid Identifier
-betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=The §6Multi Fluid Identifier§r is used to select the type of fluid one needs. Shift-Click while holding it to select a fluid.
+betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.name=Identificador Multi Fluido
+betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=El §6Identificador Multi Fluido§r se usa para seleccionar el tipo de fluido que necesites. Has shift-click mientras lo sujetas para seleccionar un fluido.
 
 # Quest: Known Issues
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Known Issues
-betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=Not a bug, a &q&zFEATURE§r!%n%nWhen you consume food your hands may shake weirdly, as if Steve was EXTREMELY happy for that lunch.%n%nIf you experience any stutters/micro-lags while playing, try turning Vsync on/off. If that does not help, contact in Discord #help.%n%nCurrently we have no idea how to fix those bugs, but we are trying our best!
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Problemas Conocidos
+betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.desc=¡No es un bug, es una &q&zFUNCIÓN§r!%n%nCuando consumes puede que tus manos se agiten de forma extraña, como si Steve estuviera EXTREMADAMENTE feliz por ese almuerzo.%n%nSi tú experimentar tirones o micro-lags mientras juegas, trata de prender/apagar el Vsync. Si eso no ayuda contáctanos en Discord #help.%n%nPor el momento no tenemos ni idea de cómo arreglar esos bugs, pero estamos haciendo nuestro mayor esfuerzo!
 
 # Quest: Additional NTM Modes
 betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.name=Additional NTM Modes
@@ -398,6 +398,10 @@ betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=§6Bauxide§r and §6Cryolite§
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Cyclotron
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=The §3Cyclotron§r is a machine that bombards element powders with element boxes to get heavier elements. Operating the machine will consume§e 20MHE/s§r.%n%nIt can also create §bAntimatter§r as a byproduct for certain operations, which makes it a reliable but expensive method of large-scale advanced material production.%n%n§2Consider installing the highest level of Power Saving and Speed upgrades to reduce both recipe time and power consumption.§r
 
+# Quest: Desh Servo Set
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
+
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs as well as fast swimming speed.
@@ -517,10 +521,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=The §6Geiger counter§r is a d
 # Quest: Survey Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=Survey Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=The §6Survey Scanner§r is a handheld device that will point out underground resourse deposits, such as §eDepth Rock§r and §eBedrock Ores§r.
-
-# Quest: Nuclear Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=Nuclear Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=The §3Nuclear Blast Furnace§r is an RTG-powered alternative to the standard §3Blast Furnace§r. It has 6 slots for RTG pellets, and requires a minimum of 15 heat to operate. It is significantly faster than the regular blast furnace.%n%nPellets with higher power levels will have a better effect of heating and thus speed. If sufficient heat is provided, it can alloy items near-instantaneously.
 
 # Quest: Launch Pad
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=Launch Pad
@@ -1717,7 +1717,7 @@ betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the spac
 
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=Agriculture and Farming
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Note that the crops should be planted on the Crop Sticks.
 
 # Quest: Compressor
 betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=Compressor
