@@ -92,7 +92,7 @@ OH DIOS MIO EL CREEPER NUCLEAR ES VERDADERO.
 Explora estructuras como antenas para obtener recursos iniciales  
 Construye varios hornos para acelerar la producción de aleaciones  
 Sirenas haciendo UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro este RBMK está tan caliente... Olvídalo
+Hermano este RBMK está tan caliente... Olvídalo
 Las torretas están haciendo RATATATATATA
 Hermano. La oscuridad se acerca.
 ¡Usa convertidores de HE a RF!
@@ -116,7 +116,7 @@ Todo se trata del juego
 Crea aletas para nadar más rápido.
 GregTech 6 es genial.
 Supersymmetry es genial.
-bob por favor portea a la 1.20
+Bob por favor portea a la 1.20
 El porteo a la 1.8.9 sucederá pronto créanme chicos.
 Hay meteoritos. Construye un techo. (#1)
 Las extensiones del alto horno incrementan la velocidad con el mismo consumo de combustible. (#2)
@@ -136,32 +136,32 @@ Las torres de fraccionamiento se conectan verticalmente, apilándolas incrementa
 Vale la pena explorar. Quien sabe que encontraras. (#16)
 ¿Te sientes enfermo? Verifica la presencia de asbesto cerca. (#17)
 ¿Necesitas mucho combustible al inicio? El inframundo está lleno de carbón ardiente. (#18)
-Consigue una pistola. (#19)
-La alejandrita requiere de explosivos para ser minada. (#20)
+Consigue un arma. (#19)
+La Alejandrita requiere de explosivos para ser minada. (#20)
 Los moldes de fundición pueden ser removidos con un destornillador. (#21)
 No, no puedes mejorar un pico dañado. (#22)
 Usar un destornillador en un quemador de fluido aumentará su taza de consumo. (#23)
 Utilizar tinte en un pilón cambiará el color de los cables conectados. (#24)
 Los condensadores son más baratos que los bloques de almacenamiento de energía y tienen tazas de descarga más rápidas. (#25)
 Cualquier parte de la fundición puede ser vaciada utilizando una pala. Esto suelta el contenido en forma de chatarra de fundición. (#26)
-Los teletransportadores pueden teletransportar cualquier entidad, incluso objetos en una cinta transportadora. (#27)
+Los Teletransportadores pueden teletransportar cualquier entidad, incluso objetos en una cinta transportadora. (#27)
 Algunas recetas requieren planos que son encontrados en estructuras. También los puedes comprar en Bobmazon. (#28)
 Todo se trata del juego. (#V9)
 El invierno acabará como siempre sin importar que. (#V9)
 Tú sabes como lo hacemos. (#V9)
-Bro, me muero. (#328)
+Mano, estoy muerto. (#328)
 Nunca encontramos el cuerpo. ( )
 Tritura el trigo para triplicar tu pan. (#S1)
-cuantos panes te has comido (#S2)
+Cuantos panes te has comido (#S2)
 Los dos espacios a mano derecha del VAB son para calcular los viajes DESDE y HACIA otro planeta. (#S3)
-Las unidades del enjambre Dyson se deterioran más rápido mientras más hay. (#S4)
+Las unidades del enjambre Dyson se deterioran más rápido mientras más de ellos hay. (#S4)
 ¡La arcilla es valiosa en el espacio! (#S5)
 ¡No aterrices en Y=63 en Moho, Laythe o Eve! (#S6)
 La mesa de modificación de armadura puede añadir un PLSS a tu armadura, para respirar en el espacio. (#S7)
 ¡El fuego amigo no será tolerado! (#S8)
 Crea aletas para nadar más rápido. (#S9)
 Ocasionalmente las botas pesadas son geniales en baja gravedad. (#S10)
-Puedes sobrevivir en tan poco como 0.1 atm de O2 puro. (#S11)
+Puedes sobrevivir con tan solo como 0.1 atm de O2 puro. (#S11)
 Solo necesitas una rejilla de ventilación para respirar sin ayuda. (#S12)
 Los depuradores de CO2 y las películas de alga recuperan O2 continuamente en órbita. (#S13)
 ¿Tu estación orbital no puede hacer un viaje? ¡Añade más motores! (#S14)

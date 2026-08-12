@@ -253,6 +253,10 @@ betterquesting.quest.MWwrY8PcTaam9T_sc4yDtQ.desc=§cNTNH§r是一个模块化模
 betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.name=充电站
 betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.desc=§3充电站§r能够为放置在附近的电动工具和电动装备进行充电。如果多个充电站并排放置，那么设备的充电速度就会更快。
 
+# Quest: Geological Samples
+betterquesting.quest.QF_GKcDaRim2-gEJRosFZQ.name=Geological Samples
+betterquesting.quest.QF_GKcDaRim2-gEJRosFZQ.desc=This system is highly WIP (including this very quest), so do not expect it to be perfect.%n%nThis is the simplest method of prospecting, based on visual examination of surrounding material. Right-click on any §6Stone§r or §6Gravel§r block with a §6Prospector's Eyeglass§r and it will tell you if there is a substantial amount of any interesting ore nearby. Three levels of indication are reported, "Faint signs", "Signs" and "Strong signs", allowing you to home in on the source.%n%nTaking and analyzing geological samples, on the other hand, provides similar information to the Eyeglass but in much more detail. First you will need to make a §6Prospecting Pick§r. To take a sample, right-click on any piece of Stone or Gravel with the Prospecting Pick. A Geological Sample item will be dropped.%n%nTo analyse the sample, you will need a §3Geological Sample Analysis Kit§r and a supply of §6Litmus Paper§r. To use the kit, place it down somewhere and right-click it to open its GUI. Place the sample you want to analyse in the sample slot and some litmus paper in the slot beside it. Analysis will begin automatically and should finish in a few seconds, after which a report will appear below.%n%nThe report shows the place where the sample was taken and the amounts of any interesting mineral traces it contains. You can expect indications of ores within 16 blocks of the sample location, horizontally and vertically, to show up. Ores closer to the sample location will show up more strongly than ones further away.%n%n§2To save the analysis report for future reference, place a Writeable Book in the book slot and press the + button.%n%nIf you lose the report, you can analyse the sample again to get it back. However, a little of the sample is used up each time you analyse it, and a given sample can only be analysed 16 times before there is nothing left.
+
 # Quest: Packing Tape
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.name=打包带
 betterquesting.quest.RBJS7D2ATpq7GUingAewuQ.desc=§6打包带§可以用来打包抽屉，这样拆除移动它们时里面的物品就不会全部掉出来。
@@ -317,13 +321,17 @@ betterquesting.quest.gKQiP_zES4KokMmon9bDQg.desc=§3砖砌炉§r与普通的炉�
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.name=无尽水源
 betterquesting.quest.gWyCk5zlQlWAPGdwFXhTaQ.desc=厌倦了使用水桶给你的机器供§b水§r吗？尝试使用水泵或无限水罐！%n%n§6无限水罐§r将提供§e50mb/t§r的水%n%n§6增强无限水罐§r将提供§e500mb/t§r的水%n%n§6蒸汽动力地下水泵§r将提供§e1000mb/t§r的水，但显而易见的需要§b蒸汽§r才能运行。
 
+# Quest: Geological Survey
+betterquesting.quest.i978VfQyRr6TncUvwFr6iA.name=Geological Survey
+betterquesting.quest.i978VfQyRr6TncUvwFr6iA.desc=This system is highly WIP (including this very quest), so do not expect it to be perfect.%n%nThis is an advanced mineral exploration technique for professional miners, providing very detailed information. The §3Geological Surveyor§r machine uses a controlled explosion to send seismic waves into the ground, and by analysing the echoes that come back, builds a map of underground ore densities.%n%nAs well as the Geological Surveyor itself, you will also need the following:%n%n1. At least 3 §3Geophones§r placed in a suitable arrangement around the Geological Surveyor. The geophones must be within 16 blocks of the Surveyor, but no closer than 8 blocks to the Surveyor or to each other.%n2. Supplies of §6Paper§r, §6Ink§r and §6Gunpowder§r in the appropriate slots of the Surveyor.%n3. A §6Button§r or other means of supplying a redstone signal to the Surveyor.%n%nThe Surveyor can operate in either §emonochrome§r or §ecolour§r mode, selected using the button beside the ink slots. Colour mode provides more information about types of ores, but is more expensive. §2Monochrome mode requires only black ink, whereas colour mode requires all four colours of ink.§r%n%nWhen all the necessary conditions are satisfied, the Surveyor wil show "§6Ready§r" in the GUI, and a single green light on the outside of the machine. The Surveyor is trigged by a redstone signal. The easiest way to deliver this is to put a button on the side of the machine.%n%n§lBe prepared for a loud noise.§r Do not be alarmed; the explosion is well contained and should not cause any damage.%n%nAnalysing the results and printing the map will take several seconds, during which time the machine will show a flashing §agreen light§r. When finished, two steady green lights will appear. The map can then be collected from the output slot of the GUI.%n%nA §cred light§r indicates an error condition; open the GUI to find out more information.
+
 # Quest: Earth? Fake news
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.name=地球? 假的吧
 betterquesting.quest.k52bjd5MTbefEXwVh0HLiw.desc=这个整合包能让玩家在§6火星模式§r下完成整个游戏！如果发现游戏流程或逻辑上存在任何问题，请在NTNH Discord服务器的#help频道中发帖反馈。
 
 # Quest: Oily Sand
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=油砂
-betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r.%n%n§2Oily Sand patches are the most reliable way to locate Bedrock Oil without digging blindly.§r
+betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=§6Oily Sand§r is a surface-level block that generates among normal sand, typically in deserts. It acts as a marker for §bBedrock Oil§r deposits directly beneath it - if you find it, there is oil underground.%n%nIt can be ground in a §3Grinder§r into §6Oil Waste§r, which can then be processed to obtain §6Arsenic§r - a really important mid-game material.
 
 # Quest: Highway To Hell
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=通向地狱的高速公路
@@ -391,8 +399,8 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=回旋加速器
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=§3回旋加速器§r是一种通过用元素粒子轰击元素粉末来生成更重元素的设备。运行这种设备需要每秒消耗§e 20MHE§r的能量。%n%n在某些特定的配方中，这种方法还会产生§b反物质§r作为副产品，因此它确实是一种可靠但成本较高的大规模先进材料生产方法。%n%n§2 可考虑安装最高级别的节能及速度提升芯片，以此缩短运行时间并降低能耗。§r
 
 # Quest: Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh伺服装置
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh伺服装置§r是一种用于增强战斗力的装甲改装部件，装备后可以显著提升玩家的战斗力，例如增加力量、提高采矿速度以及增强跳跃能力。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY环境套装
@@ -513,10 +521,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=§6盖革计数器§r是一种�
 # Quest: Survey Scanner
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=勘测扫描仪
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=§6勘测扫描仪§r是一种便携式设备，能够识别地下的资源矿藏，例如§e深层岩石§r和§e基岩矿石§r。
-
-# Quest: Nuclear Blast Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.name=核高炉
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAZQ.desc=§3核高炉§r是一种替代传统§3高炉§r的以放射性同位素为能源的设备。它拥有6个用于放置放射性同位素燃料靶丸的插槽，运行所需最低热量为15单位。其生产效率远高于普通高炉。%n%n功率较高的靶丸具有更好的加热效果，从而提升加工速度。如果提供足够的热量，几乎可以瞬间实现合金冶炼。
 
 # Quest: Launch Pad
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=导弹发射台
@@ -730,10 +734,6 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhA.desc=§6HEV Mark IV§r是一款功�
 # Quest: Bismuth
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.name=铋
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAhw.desc=§6铋§r是许多高级制造配方中不可或缺的重要材料。铋可通过利用§3FEL自由电子激光器§r及§3激光同位素分离室§r处理耗尽的§3RBMK燃料棒§r获得，也可通过使用§b高性能溶剂§r处理基岩矿石获得。%n%n§6砷§r的提取需要额外使用§b矿物酸化器§r，配合高性能溶剂。
-
-# Quest: Research and Breeding Reactor
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.name=研究型反应堆与增殖反应堆
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAiA.desc=§3研究型反应堆§r是一种非发电型反应堆，其作用是高效地反应核燃料来为§3增殖反应堆§r提供中子源。由于它没有典型的发电型反应堆所具有的主动冷却系统，因此必须将其浸入水中进行冷却。启动反应时需要使用§6镭226-铍§r或§6钚238-铍§r燃料板作为中子源，之后则可以将其取出。这种反应堆在达到§e1000°C§r时会发生爆炸，因此在使用高能燃料以及多个增殖反应堆时必须格外小心。%n%n可以使用§3反应堆遥控模块§r和§6反应堆遥感器§r来远程启动和监测反应堆。%n%n增殖反应堆利用相邻的研究型反应堆产生的中子流，将各种元素的同位素转化为更重的元素。当反应堆处于运行状态时，可以通过玻璃观察窗看到，从反应堆中央的棒状装置中发出的绿色“闪电”般的射线朝着外部的棒状装置延伸而去。
 
 # Quest: Welded Technetium/Cadmium Steel Plate
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAjg.name=焊接锝钢/镉钢板
@@ -1717,7 +1717,7 @@ betterquesting.quest.XbTJRWJNTKa4UEeLPV0urg.desc=Well, you've completed the spac
 
 # Quest: Agriculture and Farming
 betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.name=农业与种植
-betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Plan your farm layout around water before tilling.§r
+betterquesting.quest.Zpwlu-OeTpCvf7vTFz-BIA.desc=Three mods overhaul farming and food in this pack.%n%n§dPam's HarvestCraft§r adds 40+ crops, many fruit trees, 10 fish, beekeeping, and 75+ foods. Key blocks: §3Presser§r (produces oils, honey, etc.), §3Market§r (buys seeds and saplings for emeralds), §3Shipping Block§r (sells crops for emeralds). Right-clicking a mature crop harvests and replants it.%n%n§dAgriCraft§r adds genetics-based crop breeding. Plants have six stats - Growth, Gain, Strength, Resistance, Fertility, and Mutativity - inherited from parent crops when cross-breeding. Higher stats are dominant. Mutations can unlock new crop species entirely. Weeds will compete with and eventually kill unmanaged crops. Plants have specific soil, light, and fluid requirements, so placement matters.%n%n§dHunger Overhaul§r requires farmland to be placed adjacent to water - untouched dry tilled soil will not function.%n%n§2Note that the crops should be planted on the Crop Sticks.
 
 # Quest: Compressor
 betterquesting.quest.jcaOirN6QCOC50YJbil2rQ.name=压缩机

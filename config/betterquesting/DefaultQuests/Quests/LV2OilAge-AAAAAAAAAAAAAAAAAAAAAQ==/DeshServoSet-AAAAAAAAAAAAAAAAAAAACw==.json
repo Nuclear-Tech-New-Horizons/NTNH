@@ -1,6 +1,10 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": -2549337488949951986,
+      "questIDLow:4": -8633188481776331784
+    },
+    "1:10": {
       "questIDHigh:4": 0,
       "questIDLow:4": 66
     }
@@ -17,18 +21,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3Nuclear Blast Furnace§r is an RTG-powered alternative to the standard §3Blast Furnace§r. It has 6 slots for RTG pellets, and requires a minimum of 15 heat to operate. It is significantly faster than the regular blast furnace.\n\nPellets with higher power levels will have a better effect of heating and thus speed. If sufficient heat is provided, it can alloy items near-instantaneously.",
+      "desc:8": "§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "hbm:tile.machine_difurnace_rtg_off"
+        "id:8": "hbm:item.servo_set_desh"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Nuclear Blast Furnace",
+      "name:8": "Desh Servo Set",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -55,7 +59,7 @@
     }
   },
   "questIDHigh:4": 0,
-  "questIDLow:4": 101,
+  "questIDLow:4": 11,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -71,7 +75,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "hbm:tile.machine_difurnace_rtg_off"
+          "id:8": "hbm:item.servo_set_desh"
         }
       },
       "taskID:8": "bq_standard:retrieval"
