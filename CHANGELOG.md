@@ -14,6 +14,8 @@
     * It was not supposed to be here
 * Fixed a lot of issues related to biome IDs and dimension IDs
 * Fixed Ore Generation article not being present in the Guide Book
+* Can't launch the 2 new satellites with custom rockets
+* Satellites don't travel to the correct dimension on launch
 
 
 
