@@ -18,8 +18,8 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Двигатель Стирли
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3Двигатель Стирлинга§r использует тепло от §3Нагревательной печи§r или §3§r§Топки§r для производства энергии. Если для нагрева двигателя использовать нагревательную печь, он, вероятно, разгонится сверх нормы и повредится, отправив главную шестерню в полёт. У стального двигателя Стирлинга этой проблемы нет.%n%nТопка, работающая на угле с двигателем, производит §e2kHE/s§r, тогда как нагревательная печь с тяжёлым двигателем Стирлинга производит §e10kHE/s§r.
 
 # Quest: Additional Fluid Tools
-betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Дополнительные инструменты жидкости
-betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=§6Сифон§r это инструмент, используемый для извлечения рабочих жидкостей из механизма. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных резервуарах, будут наполнены любые бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для наполнения ни одного из предыдущих вариантов).%n%n§6Пипетку§r можно использовать для ввода определённого количества жидкостей. Нажатие правой кнопкой мыши или правой кнопкой с зажатой клавишей Shift увеличит или уменьшит количество жидкости.
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Дополнительные жидкостные инструменты
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=§6Сифон§r это инструмент, используемый для извлечения входных жидкостей из механизма. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных резервуарах, будут наполнены любые бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для наполнения ни одного из предыдущих вариантов).%n%n§6Пипетку§r можно использовать для ввода определённого количества жидкостей. Нажатие правой кнопкой мыши или правой кнопкой с зажатой клавишей Shift увеличит или уменьшит количество жидкости.
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Паровой двигатель
@@ -27,7 +27,7 @@ betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровой двигат�
 
 # Quest: Automatic Thresher
 betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Автоматическая молотилка
-betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=§3Automatic Thresher§r собирает такие культуры как §6Пшеница§r, §6Конопля§r, §6Тростник§r, выбрасывает предметы в зоне 7x7 при наличии топлива. Все предметы выбрасываются через заднюю сторону.%n%n[F1] для дополнительной информации.
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=§3Автоматическая молотилка§r собирает такие культуры как §6Пшеница§r, §6Конопля§r, §6Тростник§r, выбрасывает предметы в зоне 7x7 при наличии топлива. Механизм извлечёт все предметы с задней стороны.%n%n[F1] для дополнительной информации.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Заброшенные структуры
@@ -35,7 +35,7 @@ betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Структуры генери
 
 # Quest: Flare Stack
 betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Газовый факел
-betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=§3Газовая башня§r - генератор, производящий энергию путем сжигания жидкостей и газов. Любая жидкость или газ может быть топливом, если есть метка Flammable.%n%nРабота башни происходит в три шага. Первый - залейте топливо в башню (вместимость: §e64,000 mB§r). Второй - откройте §6проточный вентиль§r вверху меню, чтобы запустить газ из буфера в систему. Третий - включите §6зажигание§r внизу меню, чтобы поджечь топливо и начать генерировать энергию. %n%nЭффективность у башни низкая, газы горят с §e50%§r эффективностью, а жидкости с §e10%§r. Количество генерируемой энергии зависит от топлива. %n%nДоступны два улучшения: §6Скорость§r увеличивает скорость с которой сжигается топливо, а §6Эффективность§r увеличивает эффективность топлива.
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=§3Газовый факел§r - генератор, производящий энергию сжигая жидкое и газовое горючее. Любая жидость с тэгом Flammable может быть использовано как топливо - подайте его через трубы или напрямую через контейнерыn%n%nЭксплуатация содержит три шага. Сперва наполните внутренний буфер (ёмкость: §e64,000 mB§r) топливом. Далее откройте §6Пропускной клапан§r наверху средней секции, чтобы выпустить топливо из буфера в систему сжигания. Потом включите переключатель §6Сжигания§r внизу средней секции чтобы поджечь топливо и начать генерацию энергии. %n%nЭффективность низка: газы сжигаются с §e50%%§r а жидкости всего лишь с §e10%%§r. Выход также зависит от типа топлива.%n%nДоступны два улучшение: §6Улучшение скорости§r увеличивает проходимость, а §6Улучшение эффективноести§r улучшает эффективность топлива.
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Батареи
@@ -47,7 +47,7 @@ betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Добро пожаловать
 
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Молоток!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=§6Молот§r это инструмент из мода §dEx Nihilo§r, используемый для дробления блоков в более мелкие формы. Его основная задача - производство материалов, необходимых для §3Сита§r: булыжник дробится в гравий, гравий в песок, а песок в пыль, и каждый из них можно просеять для получения разных ресурсов.%n%nЧтобы использовать его, просто разбейте блок §6Молотом§r, как если бы вы использовали кирку. Молоты бывают из разных материалов - от дерева до алмаза - и отличаются только прочностью. Их можно зачаровывать, хотя доступные чары отличаются от тех, что на кирке.%n%nРуды также можно дробить через многоступенчатую цепочку измельчения. Каждый шаг имеет небольшой шанс дать бонусный%nматериал, что делает §6Молот§r базовым способом умножения руды до появления специализированных перерабатывающих машин.%n%n§2Дробление можно автоматизировать с помощью машин, имитирующих разрушение блоков, таких как авто молот из мода §dEx Compressum§r.%n%n§2Полную цепочку дробления любого блока можно посмотреть в JEI§r.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=§6Молот§r это инструмент из мода §dEx Nihilo§r, используемый для дробления блоков в более мелкие формы. Его основная задача - производство материалов, необходимых для §3Сита§r: булыжник дробится в гравий, гравий в песок, а песок в пыль, и каждый из них можно просеять для получения разных ресурсов.%n%nЧтобы использовать его, просто разбейте блок §6Молотом§r, как если бы вы использовали кирку. Молоты бывают из разных материалов - от дерева до алмаза - и отличаются только прочностью. Их можно зачаровывать, хотя доступные чары отличаются от тех, что на кирке.%n%nРуды также можно дробить через многоступенчатую цепочку измельчения. Каждый шаг имеет небольшой шанс дать бонусный%nматериал, что делает §6Молот§r базовым способом умножения руды до появления специализированных перерабатывающих машин.%n%n§2Дробление можно автоматизировать с помощью машин, имитирующих разрушение блоков, таких как авто молот из мода §dEx Compressum§r.%n%n§2Полную цепочку дробления любого блока можно посмотреть в NEI§r.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Анализатор энергосети
@@ -75,7 +75,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3Прессы§r - это м�
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Доменная печь
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3Доменная печка§r это твердотопливная печка, используемая для создания различных сплавов из двух материалов. Основные начальные сплавы: §6Красная медь§r и §6Сталь§r. При подаче §bГорячего воздуха§r, который создаётся нагревом §bСжатого воздуха§r в §3Бойлере§r, скорость доменной печи улучшается в §e3x§r.%n§bДымовой газ§r, который производит доменная печь, можно сжечь для получения энергии.%n%nСтальные предметы имеют жилковый майнер, что делает их отличными инструментами в ранней игре.%n%n§2Для более продвинутых инструментов позже, нажатие клавиши ALT вызовет меню, из которого можно выбрать несколько способностей одновременно.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.desc=§3Доменная печка§r это твердотопливная печка, используемая для создания различных сплавов из двух материалов. Основные начальные сплавы: §6Красная медь§r и §6Сталь§r. При подаче §Горячего воздуха§r, который создаётся нагревом §Сжатого воздуха§r в §3Бойлере§r, скорость доменной печи улучшается в §e3x§r.%n§Дымовой газ§r, который производит доменная печь, можно сжечь для получения энергии, либо выпустить его в атмосферу.%n%nСтальные предметы имеют жилковый майнер, что делает их отличными инструментами в ранней игре.%n%n§2Для более продвинутых инструментов позже, нажатие клавиши ALT вызовет меню, из которого можно выбрать несколько способностей одновременно.§r
 
 # Quest: Trench Mask
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADA.name=Траншейная маска
@@ -254,7 +254,7 @@ betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.name=Станция зарядки
 betterquesting.quest.OlMZZGTaSz6VhzaeJdR6QQ.desc=§3Станция зарядки§r будет заряжать электрические инструменты и элементы брони, когда вы стоите рядом с ней. Если поставить несколько штук рядом, зарядка предметов ускорится.
 
 # Quest: Geological Samples
-betterquesting.quest.QF_GKcDaRim2-gEJRosFZQ.name=Geological Samples
+betterquesting.quest.QF_GKcDaRim2-gEJRosFZQ.name=Образцы породы
 betterquesting.quest.QF_GKcDaRim2-gEJRosFZQ.desc=Эта система находится на очень ранней стадии разработки (включая и этот квест), поэтому не стоит ожидать от нее совершенства.%n%nЭто простейший метод разведки, основанный на визуальном осмотре окружающих пород. Нажмите правой кнопкой мыши на любой блок §6камня§r или §6гравия§r, держа в руках §6геологическую лупу§r, и вы узнаете, есть ли поблизости значительное скопление ценной руды. Система различает три уровня сигнала: «слабые признаки», «признаки» и «сильные признаки», что позволяет точно определить местонахождение источника.%n%nС другой стороны, отбор и анализ геологических проб дают информацию, аналогичную той, что можно получить с помощью «Окуляра», но гораздо более подробную. Сначала вам потребуется изготовить §6геологический молот§r. Чтобы взять пробу, щелкните правой кнопкой мыши по любому блоку камня или гравия, держа в руках геологический молот. В результате выпадет предмет «Геологическая проба».%n%nДля анализа образца вам понадобятся §3набор для анализа геологических образцов§r и запас §6лакмусовой бумаги§r. Чтобы воспользоваться набором, установите его и нажмите на него правой кнопкой мыши, чтобы открыть интерфейс. Поместите образец, который хотите проанализировать, в слот для образца, а лакмусовую бумагу в соседний слот. Анализ начнется автоматически и завершится через несколько секунд, после чего в нижней части окна появится отчет.%n%nВ отчете указывается место взятия пробы и содержание в ней следов представляющих интерес минералов. При наличии руд в радиусе 16 блоков от места взятия пробы (как по горизонтали, так и по вертикали) система отобразит соответствующие признаки. Сигнал от руд, расположенных ближе к месту взятия пробы, будет более выраженным, чем от тех, что находятся дальше.%n%n§2 Чтобы сохранить отчет об анализе для последующего использования, поместите книгу для записей в слот для книг и нажмите кнопку «+».%n%nЕсли вы потеряете отчет, то сможете снова проанализировать образец, чтобы получить его. Однако при каждом анализе расходуется часть образца, и один и тот же образец можно проанализировать лишь 16 раз, прежде чем он будет полностью израсходован.
 
 # Quest: Packing Tape
@@ -400,7 +400,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=§3Циклотрон§r - эт
 
 # Quest: Desh Servo Set
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=6Деш сервопривода - это модификация к броне, дающая отличные усиления, такие как: сила, увеличенная скорость добычи и усиленный прыжок.
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=Защитный костюм M1TTY
@@ -628,8 +628,8 @@ betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.name=Кадмий
 betterquesting.quest.9BjXTD5CSTOQ-_OroVdJmg.desc=§6Кадмий§r - это материал, необходимый для создания §6Кадмиевой стали§r, которая является заменителем §6Технециевой стали§r.%n%nКадмий можно получить переплавкой кадмиевой пыли, которую можно получить окислением 10 §6Листьев горчичной ивы§r с помощью 250mB §bВысокоэффективного растворителя§r в §3Рудном окислителе§r.%n%nГорчичная ива - это растение, которое можно найти рядом с §eЗалежами бедроковой нефти§r. Когда оно полностью созревает, можно получить основной предмет - лист горчичной ивы.
 
 # Quest: Depth-Resource Scanning Satellite
-betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.name=Depth-Resource Scanning Satellite
-betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.desc=The §3Depth-Resource Scanning Satellite§r maps underground ore deposits across loaded chunks. It is operated via §dRedstone-over-Radio§r through a §3Satellite Ground Station§r.%n%nThe map lacks labels and detail on its own. Pairing the satellite with §6Neutrino Lenses§r - an armor module linked to the same frequency via the §3Satellite ID Manager§r - overlays ores as glowing labeled outlines, making the data far more usable.
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.name=Спутник с модулем глубинно-ресурсного сканирования
+betterquesting.quest.9Y9PU0asTPmHumQiDRc2Ew.desc=§3Спутник с модулем глубинно-ресурсного сканирования§r сканирует залежи руды по загруженным чанкам. Он управляется через §dРедстоун-по-радио§r через §3спутниковую наземную станцию§r.%n%n Подключите спутник к §6Нейтринным линзам§r - модуль брони, связанный с той же частотой через §3Менеджером ID спутников§r - позволит вам видеть руды через блоки, делая спутник намного полезнее.
 
 # Quest: High-Power Steam Condenser
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0Q.name=Мощный конденсатор пара
@@ -808,7 +808,7 @@ betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.name=Дополнительные п
 betterquesting.quest.JpsvBP1yQsu-XtkeZegA6A.desc=§3Спариватель термоядерного реактора§r преобразует исходящую плазменную энергию из тора в пригодные для использования §eKyE§r, которые затем можно использовать для питания другого тора. Некоторые комбинации топлива требуют этого, так как минимальная энергия §eKyE§r, необходимая для воспламенения плазмы, превышает то, что могли бы обеспечить четыре §3Клистрона§r.%n%n§3Камера размножения термоядерного реактора§r использует нейтронный поток от тора для обработки материалов. Она может выполнять любой рецепт из §3канала облучения РБМК§r, а также некоторые дополнительные рецепты. Нейтронный поток не зависит от правил совместного использования портов, и уровень выхода одинаков на любой стороне.%n%n§3Улавливающая термоядерного реактора§r увеличивает скорость производства побочных продуктов на §e50%%§r.
 
 # Quest: Orbital Death Ray
-betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.name=Orbital Death Ray
+betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.name=Орбитальный луч смерти
 betterquesting.quest.Ksafc-uMT02Uk0dvCx1JOQ.desc=The §3Orbital Death Ray§r is a high-destruction orbital weapon. Before launch, link it to a §6Satellite (Laser) Designator§r using the §3Satellite ID Manager§r. With a standard designator, enter target coordinates manually; with a laser designator, aim and hold right-click on the target block.%n%nUnlike the §3Orbital Precision Laser§r, it has no entity-tracking capability and cannot intercept rockets or hit fast-moving targets. The beam strikes the first surface in its path, so targets in deep cover are safe. Recharge time is §e5 minutes§r. RoR commands: "fire" fires at the current target position if the weapon is ready; "canfire" writes TRUE or FALSE to RX depending on whether it has finished recharging.
 
 # Quest: Desh Stamps
@@ -845,7 +845,7 @@ betterquesting.quest.g3S9-75wTGyQKmZaQTZl5Q.desc=§3Пьюрекс§r - это �
 
 # Quest: Chicago Pile
 betterquesting.quest.g8IVppPpTceY55PbNbceJQ.name=Чикагская Поленница
-betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=The §3Chicago Pile§r is a modular breeding reactor with no GUI, built to transmute §6Natural Uranium§r into plutonium isotopes through neutron bombardment. It must be operated manually or via §dRedstone-over-Radio§r.%n%nBuild a rectangular prism of §6Chicago Pile Graphite Bricks§r, at minimum 5*5*5 and at most 15*15*15. Once assembled, drill a non-edge block on one of its lateral faces with the §6Hand Drill§r to establish the core and fix the reactor's channel orientation. Channels are straight lines drilled through the pile and may not intersect. Fuel channels share the core's face orientation and accept rods via a §3Chicago Pile Fuel Loader§r on the input port; spent rods are ejected from the opposite side. Ventilation channels run perpendicular to the core and require a §3Chicago Pile Vent§r supplied with §bcompressed air§r at §e1 PU§r - each vent cools only the fuel channels within one block above or below it. Vertical control rod channels are optional and reduce reactivity between channels. %n%nEvery reaction requires a neutron source. The §6Ra226Be Neutron Source§r is the starter option; the more powerful §6Po210Be Neutron Source§r can replace it later. §6Natural Uranium Rods§r breed into §6Plutonium-239 Rods§r, which can be bred further into §6Reactor-Grade Plutonium Rods§r. Leaving fuel beyond that point produces §6Nuclear Waste Rods§r, which generate extreme heat and risk meltdown. To safely push out spent rods without fresh fuel, use §6Zirconium Rods§r - they are inert and transparent to neutrons.%n%n§2Verify cooling is working before loading any fuel. The pile melts down at 800°C, causing an explosion and widespread fire.%n%nThe quest asks for a §3Chicago Pile§r of at least 5*5*5 with a core established, a §3Chicago Pile Fuel Loader§r and §3Chicago Pile Vent§r attached, and a §6Ra226Be Neutron Source§r loaded alongside at least one §6Natural Uranium Rod§r.
+betterquesting.quest.g8IVppPpTceY55PbNbceJQ.desc=§3Чикагская полленица§r - это модульный реактор размножения без интерфейса, созданный для трансмутации §6Природного урана§r в изотопы плутония через нейтронные бомбардировки. Он должен управляться вручную или с помощью §dРедстоуна-по-радио§r.%n%nПостройте куб §6Графитовых блоков§r, не менее 5*5*5 и не более 15*15*15. После сборки, нажмите на любой не крайний блок на одной из его боковых граней с помощью §6Ручной дрели§r чтобы установить ядро и установить ориентацию канала реактора. Каналы просверлены прямыми линиями через полленицу и не могут пересекаться. Топливные каналы находятся на одной стороне с ядром, и используют §3Загрузчик топлива§r для ввода топлива; обеднённые стержни выбрасываются с противоположной стороны. Каналы вентиляции ставятся перпендикулярно ядру и требуют §3Вентили§r с §bсжатым воздухом§r в §e1 PU§r - каждый Вентиль охлаждает только каналы топлива в пределах одного блока выше или ниже него. Вертикальные каналы управления являются необязательными и уменьшают скорость реакции. %n%nКаждая реакция требует источника нейтрона. §6Источник нейтронов Ra226Be§r является стартовым; более мощный §6Po210Be источник нейтронов может заменить его позже. §6Стержни природного урана§r обедняются в §6Стержни плутония-239§r, которые можно переделать дальше в §6Плутоний реакторного качества§r. Если оставить стержеть после его обеднения, начнут создаваться §6Стержни ядерных отходов§r, которые генерируют экстремальные температуры. Чтобы безопасно выталкивать стержни без свежего топлива, используйте §6Циркониевые стержни§r - они нереактивны и прозрачны для нейтронов.%n%n§2Проверьте работу охлаждения перед загрузкой любого топлива. Полленица расплавляется при температуре 800°C, вызывает взрыв и пожар.%n%nЗадание запрашивает §3Чикагскую полленицу§r не менее 5*5*5 с установленным ядром, §3Загрузчик топлива§r и §3Вентиль§r, а также §6Ra226Be Источник нейтронов§r вместе с по крайней мере одним §6Стержнем природного урана§r.
 
 # Quest: Spent Fuel Pool Drum
 betterquesting.quest.har7pEFcSRKNgIf4NgmcLA.name=Бочка с отработанным топливом
@@ -860,7 +860,7 @@ betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.name=Гелий-4
 betterquesting.quest.mPHQk4_mRqi6o2onNs9qgg.desc=§bГелий-4§r является продуктом слияния и в основном используется в крафте §6Quantum Processing Units§r.
 
 # Quest: Houston, We Have a Signal
-betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Houston, We Have a Signal
+betterquesting.quest.ocylWycmSd6r-mvYENYGEw.name=Хьюстон, у нас сигнал
 betterquesting.quest.ocylWycmSd6r-mvYENYGEw.desc=Satellites require dedicated infrastructure to launch, identify, and communicate with.%n%nBefore anything leaves the ground, every satellite must be assigned a unique frequency using the §3Satellite ID Manager§r. Place the satellite in its right slot to generate a random frequency, then use the left and center slots to copy that frequency onto §6Satellite ID Chips§r or other linked devices such as designators. ID Chips are soldered, so prepare them in advance. The assigned frequency appears in the item's tooltip.%n%nSatellites can be launching using a custom rocket or Soyuz-FG.%n%nOnce a satellite is in orbit, a §3Satellite Ground Station§r handles communication. It does not process §dRedstone-over-Radio§r signals directly - it requires an external RoR receiver or transmitter. It connects to one satellite at a time, switched via the appropriate §6Satellite ID Chip§r or an RoR command. RX reads data transmitted down from the satellite; TX sends commands up to it.%n%n§2The Ground Station's capabilities expand significantly when paired with an §3AUTOCAL§r§2, enabling automated satellite tracking, data processing, and chained multi-satellite logic.
 
 # Quest: Xenium Resonator Satellite
@@ -884,7 +884,7 @@ betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.name=Мышьяк
 betterquesting.quest.tgpCNtEfScSyk-mdGhGxmQ.desc=§6Мышьяк§r является заменителем §6Висмута§r, который можно получить путём обработки кислотой §6Пропитанной нефтью земли§r, найденной вблизи §eбедроковых нефтяных месторождений§r, или экологического ущерба, наносимого §3Фракционирующей башней§r, с помощью §bВысокоэффективного растворителя§r.
 
 # Quest: Radar Survey Satellite
-betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.name=Radar Survey Satellite
+betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.name=Спутник радиолокационной разведки
 betterquesting.quest.xQEUURH0RH-QWqDAqs7Gzw.desc=The §3Radar Survey Satellite§r detects all radar-visible entities - players, rockets, and more - within a 1000-chunk radius of its target position. It compiles results into a searchable list with entity types and exact coordinates, and can filter results by class name without requiring a new scan.%n%nRoR commands: "survey" scans the area and saves results to both a base list and a filtered list. "filter name" replaces the filtered list with only entries matching that class name - the original list is preserved, so this can be run multiple times for different types without rescanning. "count" writes the number of filtered results to RX. "gettargetid index" returns the unique entity ID for a given entry, which can be passed to other satellites for precise targeting. "getposition index" writes exact X/Y/Z coordinates - separated by semicolons - to RX. "getname index" writes the class name of the entry to RX.%n%n§2Pair this satellite with an §3AUTOCAL§r and the §3Orbital Precision Laser§r for automated missile interception.
 
 # Quest: Deuterium Extraction Tower
@@ -1077,7 +1077,7 @@ betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.name=Сборка и запуск р
 betterquesting.quest.w4uLB-JtTW-fCQA_qF6_ww.desc=§3Vehicle Assembly Base§r это структура, являющееся одним из важнейших элементов вашей деятельности по освоению космоса. Он позволит вам собрать ракеты и спланировать каждый сегмент вашего путешествия. Следует отметить, что каждая ступень ракеты позволяет совершить один запуск с одного небесного тела на другое, поэтому двухступенчатая ракета может совершить круговой полет, например, между Землей и Луной.%n%n§3Rocket Launch Pad§r — это единственная стартовая площадка, способная обеспечить различные варианты заправки топливом и удовлетворить сложные требования, предъявляемые к собранным ракетам. Это единственный способ заправить ракету, поэтому для запуска с небесных тел, не оборудованных стартовой площадкой, вам придется создавать многоступенчатые конструкции. У самой стартовой площадки есть графический интерфейс, который показывает, что требуется для запуска вашей ракеты.
 
 # Quest: Volcanic Gem
-betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.name=Вулканический Самоцвет
+betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.name=Вулканический самоцвет
 betterquesting.quest.xbXJIo86R_-J4iKK6DY-6w.desc=Очень ценный драгоценный камень, который используется для создания §6Cast Pickaxe§r, §6Meteorite Talisman§r, §6Black Diamond§r, §6Composite Euphemium Plates§r и §6Special 227mm Shells§r.
 
 # Quest: Hydrazine
@@ -1122,7 +1122,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.name=DNT-Нанокостюм
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANQ.desc=§6DNT Nanosuit§r — это конечная цель мода. Создавая эту броню вы закончили прогресс.%n%n§5Спасибо за игру!
 
 # Quest: DFC
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=DFC
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.name=ИТС
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAANw.desc=§3DFC§r является последним реактором мода и поэтому крафт очень дорогой. Помимо частей DFC, необходимы два §6Catalysts§r для работы реактора.%n%nрекомендуется проверить wiki.%n%n[url]https://nucleartech.wiki/wiki/DFC[/url]
 
 # Quest: Chicken Nugget
@@ -1419,7 +1419,7 @@ betterquesting.quest.Npl3Ifl9RvW8JZRicJaP2A.name=Энергетическая я
 betterquesting.quest.Npl3Ifl9RvW8JZRicJaP2A.desc=§3Энергетический терминал§r работает в качестве батареи для сети ME. Он будет полезен, когда система ME начинает потреблять большое количество энергии, так что необходим буфер, чтобы он не включался и не выключался постоянно.
 
 # Quest: Modifier Cards
-betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.name=Карточки модификации
+betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.name=Карты модификации
 betterquesting.quest.Qxy7Wf9WRnG-vIisndmV0g.desc=§6Карточки модификации§r позволяют модифицировать различные компоненты ME, например, ускорять их работу или включать и выключать их с помощью редстоуна.
 
 # Quest: Wireless Connectors
@@ -1512,7 +1512,7 @@ betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.name=Дискеты и дисков�
 betterquesting.quest.6wQAgmUHTxavpGXJvZVhmA.desc=§3Disk Drive§r можно использовать для чтения §6дискет§r с помощью компьютера, подключенного к нему.%n%nЭто полезно для начала работы, поскольку у компьютерных корпусов §3Computer Cases§r начального уровня нет встроенного слота для дискет, а для загрузки компьютера вам понадобится операционная система.
 
 # Quest: Card Base
-betterquesting.quest.70KciiqATFCPJR3s6eoIMg.name=Базовая карта
+betterquesting.quest.70KciiqATFCPJR3s6eoIMg.name=Основа карты
 betterquesting.quest.70KciiqATFCPJR3s6eoIMg.desc=§6Card Base§r это распространенный материал для создания компонентов в OC, таких как §6видеокарты§r и §6сетевые карты§r.
 
 # Quest: Electronic Assembler
@@ -1626,7 +1626,7 @@ betterquesting.quest.ZeBLQUsPS72HAxsrR9s_3g.desc=Balls-O-Tron второй бо�
 
 # Quest: Time to Kill (Spiders)
 betterquesting.quest.ZpKjClvCTGe4ytw_Yu6mYQ.name=Время убивать (Паук)
-betterquesting.quest.ZpKjClvCTGe4ytw_Yu6mYQ.desc=БЛ#ТЬ! Монстры ползают по стенам, какая гадость! Уничтожь их. Скорее! Остерегайся пауков-ведьм: они могут дать достойный отпор.
+betterquesting.quest.ZpKjClvCTGe4ytw_Yu6mYQ.desc=ААЙЙЙ! Монстры ползают по стенам, какая гадость! Уничтожь их. Скорее! Остерегайся пауков-ведьм: они могут дать достойный отпор.
 
 # Quest: Time to Kill (Creeper)
 betterquesting.quest.fsdmCm47S3KB0X1A5MZwJg.name=Время убивать (Крипер)
@@ -1646,7 +1646,7 @@ betterquesting.quest.j_v3k9rtT0CrTh_RsbyO6g.desc=Они стреляют в ва
 
 # Quest: Time to Kill (Enderman)
 betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.name=Время убивать (Странник Края)
-betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=О, шикарные эндерперлы. Они тебе нужны. Все до единой. Прямо сейчас!
+betterquesting.quest.krQA1CjtRA2eMTLNCHn7iA.desc=О, шикарные эндерпёрлы. Они тебе нужны. Все до единой. Прямо сейчас!
 
 # Quest: Time to Kill (Skeleton)
 betterquesting.quest.lf-pKhIVShSHFv38Gg56lg.name=Время убивать (Скелет)
@@ -1731,5 +1731,5 @@ betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=Хотя §6Книга зада
 ### Quests in no quest lines ###
 
 # Quest: Additional Fluid Tools
-betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Дополнительные инструменты жидкости
-betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=§6Сифон§r это инструмент, предназначенный для извлечения жидкостей из входных резервуаров механизмов. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных баках, она будет перекачана в бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для заполнения ёмкостей первых двух типов).%n%n§6Пипетки§r можно использовать для ввода определенного количества жидкости. Нажатие правой кнопкой мыши (или Shift + правая кнопка мыши) увеличивает или уменьшает объем жидкости.
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Дополнительные жидкостные инструменты
+betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=§6Сифон§r это инструмент, используемый для извлечения входных жидкостей из механизма. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных резервуарах, будут наполнены любые бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для наполнения ни одного из предыдущих вариантов).%n%n§6Пипетку§r можно использовать для ввода определённого количества жидкостей. Нажатие правой кнопкой мыши или правой кнопкой с зажатой клавишей Shift увеличит или уменьшит количество жидкости.
