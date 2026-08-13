@@ -8,10 +8,10 @@ categories:
   - ores
 ---
 
-# &6Ore Generation Reference (v2.12.0)
+# &6Ore Generation Reference (v2.14.0)
 
 > [!NOTE]
-> This page lists all known ore generation rules for NT:NH v2.13.0, covering planetary bodies and the Overworld.
+> This page lists all known ore generation rules for NT:NH v2.14.0, covering planetary bodies and the Overworld.
 
 ---
 
