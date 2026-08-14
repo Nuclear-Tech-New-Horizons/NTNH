@@ -31,7 +31,7 @@
 
 <h2 style="text-align:center">🌟 Our Amazing Contributors 🌟</h2>
 
-<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>3426 🏆</span></td>
+<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>3435 🏆</span></td>
 <td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>435 🏆</span></td>
 <td align="center"><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AniviaFlome</b></sub><br/><span>92 🏆</span></td>
 <td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>63 🏆</span></td>
@@ -114,20 +114,20 @@
     </tr>
     <tr>
       <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/HiVerse"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17571872/medium/cb057ad9f5c1997be44bbc2ce9111839.jpg" />
-          <br />
-          <sub><b>HiVerse</b></sub></a>
-        <br />
-        <sub><b>3079 words</b></sub>
-      </td>
-      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/imnotdonat1k"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16737111/medium/39ec062e0d2078eb4fcd9feabf8c343f.jpg" />
           <br />
           <sub><b>donatik</b></sub>
           <br />
           <sub><b>(imnotdonat1k)</b></sub></a>
         <br />
-        <sub><b>2827 words</b></sub>
+        <sub><b>3290 words</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/HiVerse"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17571872/medium/cb057ad9f5c1997be44bbc2ce9111839.jpg" />
+          <br />
+          <sub><b>HiVerse</b></sub></a>
+        <br />
+        <sub><b>3079 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Astu_c"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17790049/medium/68ee496cd387db7874ec66fee25c6129_default.png" />
@@ -289,11 +289,29 @@
     </tr>
     <tr>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/SimpleMouse"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17832029/medium/de47e8932b3b853077bca4c923b57086.png" />
+          <br />
+          <sub><b>Николай «SimpleMouse...</b></sub>
+          <br />
+          <sub><b>(SimpleMouse)</b></sub></a>
+        <br />
+        <sub><b>547 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Suciiiiii"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17798435/medium/9f9b771efa6800629c89413c5d197118.jpeg" />
           <br />
           <sub><b>Suciiiiii</b></sub></a>
         <br />
         <sub><b>475 words</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/CommandNinja"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17833459/medium/f9a02e0a97ff98dd703fee1ed5949bda.png" />
+          <br />
+          <sub><b>Max Mustermann</b></sub>
+          <br />
+          <sub><b>(CommandNinja)</b></sub></a>
+        <br />
+        <sub><b>416 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Error_0804"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/15827421/medium/b2a8a84deb318292e1ac1323a5a2a926.jpeg" />
@@ -323,6 +341,15 @@
         <sub><b>275 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/davidporras31"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17524820/medium/a43b83267853e0996a6ae9b0ff069ca2.jpeg" />
+          <br />
+          <sub><b>davidporras31</b></sub></a>
+        <br />
+        <sub><b>272 words</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/nuuh2_0"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17830683/medium/c50d392dcc1334d8612fb7e53d81ed19_default.png" />
           <br />
           <sub><b>nuuh2_0</b></sub></a>
@@ -345,8 +372,6 @@
         <br />
         <sub><b>168 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/LordJiriX"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16932143/medium/f3c6cf61e0e32366d285cd2828100d41_default.png" />
           <br />
@@ -381,6 +406,8 @@
         <br />
         <sub><b>70 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/SYBAUpls"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17555804/medium/2991dd27ce2e1cdd034ca2d3c6d98d30.png" />
           <br />
@@ -408,8 +435,6 @@
         <br />
         <sub><b>34 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Qsenja"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17326870/medium/12534864d0d090001da0c65b70ebe3be.jpeg" />
           <br />
