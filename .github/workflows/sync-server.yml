@@ -37,7 +37,9 @@ jobs:
             --exclude='start.sh' \
             --exclude='start.bat' \
             --exclude='install.sh' \
+            --exclude='install.bat' \
             --exclude='update.sh' \
+            --exclude='update.bat' \
             --exclude='server-args.txt' \
             --exclude='.github/' \
             --exclude='CHANGELOG.md' \
@@ -113,7 +115,8 @@ jobs:
           printf 'Auto-generated server distribution for NTNH release **%s**.\n\n' "$TAG" > /tmp/release-notes.md
           printf '### Install\n' >> /tmp/release-notes.md
           printf '```bash\ncurl -fsSL https://raw.githubusercontent.com/NTNewHorizons/NTNH-Server/main/install.sh | bash\n./start.sh\n```\n\n' >> /tmp/release-notes.md
-          printf '### Update\n```bash\n./update.sh\n```\n' >> /tmp/release-notes.md
+          printf 'Windows: download `install.bat` into a dedicated folder and run it, then `start.bat`.\n\n' >> /tmp/release-notes.md
+          printf '### Update\n```bash\n./update.sh\n```\nWindows: run `update.bat` (or `start.bat --update`).\n' >> /tmp/release-notes.md
           if [ -s /tmp/release-body.md ]; then
             printf '\n---\n\n' >> /tmp/release-notes.md
             cat /tmp/release-body.md >> /tmp/release-notes.md
