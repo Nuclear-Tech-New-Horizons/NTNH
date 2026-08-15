@@ -7,7 +7,7 @@ on:
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - uses: actions/checkout@v4
         with:
@@ -15,6 +15,7 @@ jobs:
           lfs: true
 
       - name: Sync to NTNH-Server
+        id: sync
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
@@ -35,6 +36,11 @@ jobs:
             --exclude='eula.txt' \
             --exclude='start.sh' \
             --exclude='start.bat' \
+            --exclude='install.sh' \
+            --exclude='install.bat' \
+            --exclude='update.sh' \
+            --exclude='update.bat' \
+            --exclude='server-args.txt' \
             --exclude='.github/' \
             --exclude='CHANGELOG.md' \
             --exclude='LICENSE' \
@@ -49,8 +55,86 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes to sync."
-            exit 0
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "sync: release ${{ github.event.release.tag_name || github.sha }} from NTNH main"
+            git push origin main
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
           fi
 
-          git commit -m "sync: release ${{ github.event.release.tag_name || github.sha }} from NTNH main"
-          git push origin main
+      - name: Build release archive
+        id: build
+        if: steps.sync.outputs.has_changes == 'true'
+        run: |
+          cd /tmp
+          rm -rf release-build
+          git clone --depth 1 --branch main \
+            "https://x-access-token:${{ secrets.UNIVERSAL_FINE }}@github.com/NTNewHorizons/NTNH-Server.git" \
+            release-build
+          cd release-build
+          git lfs install
+          git lfs pull
+
+          # The >100MB HBM mod jar must be the real file, not an LFS pointer.
+          if grep -rl "version https://git-lfs.github.com/spec/v1" . --exclude-dir=.git >/dev/null 2>&1; then
+            echo "ERROR: LFS pointer files still present in the release archive:"
+            grep -rl "version https://git-lfs.github.com/spec/v1" . --exclude-dir=.git || true
+            exit 1
+          fi
+
+          if ! command -v zip >/dev/null 2>&1; then
+            sudo apt-get update >/dev/null 2>&1
+            sudo apt-get install -y zip >/dev/null 2>&1
+          fi
+
+          VERSION="${{ github.event.release.tag_name || github.sha }}"
+          VERSION="${VERSION#v}"
+          VERSION="$(printf '%s' "$VERSION" | tr '/ ' '--')"
+
+          rm -rf .git
+          zip -rq "/tmp/ntnh-server-$VERSION.zip" .
+          (cd /tmp && sha256sum "ntnh-server-$VERSION.zip" > "ntnh-server-$VERSION.zip.sha256")
+
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+          echo "archive=/tmp/ntnh-server-$VERSION.zip" >> "$GITHUB_OUTPUT"
+          echo "checksum=/tmp/ntnh-server-$VERSION.zip.sha256" >> "$GITHUB_OUTPUT"
+
+      - name: Publish GitHub Release
+        if: steps.sync.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.UNIVERSAL_FINE }}
+        run: |
+          TAG="${{ steps.build.outputs.version }}"
+          echo "Publishing release tag: $TAG"
+
+          # Source release notes (safe: fetched via API, not shell interpolation).
+          gh release view "${{ github.event.release.tag_name }}" \
+            --repo NTNewHorizons/NTNH --json body --jq '.body' \
+            > /tmp/release-body.md 2>/dev/null || true
+
+          printf 'Auto-generated server distribution for NTNH release **%s**.\n\n' "$TAG" > /tmp/release-notes.md
+          printf '### Install\n' >> /tmp/release-notes.md
+          printf '```bash\ncurl -fsSL https://raw.githubusercontent.com/NTNewHorizons/NTNH-Server/main/install.sh | bash\n./start.sh\n```\n\n' >> /tmp/release-notes.md
+          printf 'Windows: download `install.bat` into a dedicated folder and run it, then `start.bat`.\n\n' >> /tmp/release-notes.md
+          printf '### Update\n```bash\n./update.sh\n```\nWindows: run `update.bat` (or `start.bat --update`).\n' >> /tmp/release-notes.md
+          if [ -s /tmp/release-body.md ]; then
+            printf '\n---\n\n' >> /tmp/release-notes.md
+            cat /tmp/release-body.md >> /tmp/release-notes.md
+          fi
+
+          # Delete any previous release with the same tag so re-published versions can be replaced.
+          gh release delete "$TAG" --repo NTNewHorizons/NTNH-Server --yes --cleanup-tag 2>/dev/null || true
+
+          ARGS=(
+            --repo NTNewHorizons/NTNH-Server
+            --title "NTNH Server $TAG"
+            --notes-file /tmp/release-notes.md
+          )
+          if [ "${{ github.event.release.prerelease }}" = "true" ]; then
+            ARGS+=(--prerelease)
+          fi
+
+          gh release create "$TAG" \
+            "${{ steps.build.outputs.archive }}" \
+            "${{ steps.build.outputs.checksum }}" \
+            "${ARGS[@]}"
