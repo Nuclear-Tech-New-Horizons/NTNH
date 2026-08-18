@@ -407,6 +407,15 @@
     </tr>
     <tr>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/petzoldleos"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17837769/medium/e173083ef4ceb9c552c82d07f5e5e514.jpeg" />
+          <br />
+          <sub><b>Leoš Petzold</b></sub>
+          <br />
+          <sub><b>(petzoldleos)</b></sub></a>
+        <br />
+        <sub><b>81 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/RX0kas"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16733639/medium/96b337eae62d1b1dcbf243e96d7bbfb9.png" />
           <br />
           <sub><b>RXokas</b></sub>
@@ -456,6 +465,8 @@
         <br />
         <sub><b>26 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Caduzin"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17019702/medium/17cc546196633a20ee352a515e3ec0df.png" />
           <br />
@@ -464,17 +475,6 @@
           <sub><b>(Caduzin)</b></sub></a>
         <br />
         <sub><b>12 words</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/samnothere25"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17680980/medium/7a93c4773a995d6bf8f7fe252c23dfa0.jpeg" />
-          <br />
-          <sub><b>samuel buček</b></sub>
-          <br />
-          <sub><b>(samnothere25)</b></sub></a>
-        <br />
-        <sub><b>11 words</b></sub>
       </td>
     </tr>
   </tbody>
