@@ -334,105 +334,105 @@ betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Arena Aceitosa
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=La §6Arena Aceitosa§r es un bloque superficial que se genera junto con la arena normal, típicamente en desiertos. Actúa como un marcador para depósitos de §bPetróleo en Bedrock§r directamente debajo de esta - si la encuentras, hay petróleo debajo.%n%nPuede ser molida en una §3Moledora§r en §6Residuo de Petróleo§r, el cual puede ser procesado para obtener §6Arsénico§r - un material muy importante a la mitad del juego.
 
 # Quest: Highway To Hell
-betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Highway To Hell
-betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6The Nether§r is §c§lACTUALLY HOT§r causing your skin to burn.%n%n§6Fire Proximity Armor Set§r is essential for your first Nerther trip, as it protects you from burning fire.
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Carretera al Infierno
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6El infierno§r esta §c§lVERDADERAMENTE CALIENTE§r causando que tu piel arda.%n%nEl §6Traje de Protección contra Fuego§r es esencial para tu primer viaje al infierno, pues te protege del fuego abrasador.
 
 # Quest: Blood Moon
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Blood Moon
-betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=§dRandomThings§r adds §cBlood Moons§r, semi-rare events where mob spawning is increased and the player cant sleep. Blood Moons can be quite useful, if one is prepared, as rare mob drops such as §6Launch Codes§r and §6Geiger Counters§r can be obtained early on.
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.name=Luna de Sangre
+betterquesting.quest.npgCRfZdSFeBom6eL3qIMg.desc=§dRandomThings§r añade §cLunas de Sangre§r, eventos poco frecuentes donde la generación de monstruos incrementa y el jugador no puede dormir. Las Lunas de Sangre pueden ser muy útiles, si estás preparado, pues los monstruos raros pueden soltar §6Códigos de Lanzamiento§r y los §6Contadores Geiger§r pueden ser obtenidos de forma temprana.
 
 # Quest: The Actual Beginning
-betterquesting.quest.npi9qvVzRleG6SsA5DQozg.name=The Actual Beginning
-betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=Now you are ready to fully begin your journey in this modpack! Happy gaming!
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.name=El Comienzo Real
+betterquesting.quest.npi9qvVzRleG6SsA5DQozg.desc=¡Ahora estás listo para comenzar el viaje de verdad por este modpack! ¡Feliz juego!
 
 # Quest: Pneumatic Pipes
-betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.name=Pneumatic Pipes
-betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=§3Pneumatic Pipes§r are an instant form of item transportation which can cover large distances. The pipes must have a compressed gas inside them to work.%n%nA §6Screwdriver§r is needed to create a connection, and right clicking on the connection with a fluid id will set the gasseous fluid it will use.
+betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.name=Tuberías Neumáticas
+betterquesting.quest.pTXtLJnPRu6lyiOqGVP7lw.desc=Las §3Tuberías Neumáticas§r son una forma instantánea de transportar objetos que puede cubrir largas distancias. Las tuberías deben contener un gas comprimido para funcionar.%n%nSe requiere un §6Destornillador§r para crear conexiones, y hacer click derecho en una conexión con un identificador de fluido para seleccionar el gas que usara.
 
 # Quest: Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Graphite
-betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=§6Graphite§r is a crystalline carbon allotrope, consisting of stacked layers of graphene. Graphite is the most stable form of carbon, and is useful in many environments. It's ability to moderate neutrons makes it indispensable for §3nuclear reactors§r that rely on thermal neutrons to maintain criticality. It's ability to withstand high temperatures and electrical conductivity make it useful as electrodes in the §3Arc Furnace§r and §3Arc Welder§r.
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.name=Grafito
+betterquesting.quest.pbwyXfgDRaCxA1R8YmlTIQ.desc=El §6Grafito§r es un alótropo cristalino del carbono, que consiste de capas de grafeno unas encima de otras. El grafito es la forma más estable del carbono y es muy útil en muchos entornos. Su habilidad para moderar neutrones lo hace indispensable para los §3reactores nucleares§r que dependen de neutrones térmicos para mantener criticalidad. Su habilidad para soportar altas temperaturas y su conductividad eléctrica lo hacen útil en electrodos en el §3Horno de Arco§r y el §3Soldador de Arco§r.
 
 # Quest: From Flint to Oil - USA Simulator
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=From Flint to Oil - USA Simulator
-betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=The §6Oil Reservoir Detector§r will help one in the search for an §eOil Deposit§r by pointing it out in chat. If the oil deposit is located very far away, it can be mined and moved to a stationary oil refinery.
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.name=Del Pedernal al Petróleo - Simulador de Estados Unidos
+betterquesting.quest.rKlGBLXDR2CgX_rUy5rBVw.desc=El §6Detector de Yacimientos de Petróleo§r te ayudará en tu búsqueda por un §eYacimiento de Petróleo§r señalándolo en el chat.
 
 # Quest: Long Distance Energy Transportation
-betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.name=Long Distance Energy Transportation
-betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=For greater distances, and improved aesthetics, a new distribution node is available, the §3Large Electricity Pylon§r.%n%n§3Substations§r are needed to step up/down the voltage that the line carries.%n%nThese Pylons can prove useful as favorable §eBedrock Ore§r or §eOil deposits§r may be located far away from the main base.%n
+betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.name=Transportación de Energía a Larga Distancia
+betterquesting.quest.s8lSFTDKSpqK44PLhdfusw.desc=Para grandes distancias, y una mejor estética, un nuevo nodo de distribución está disponible, la §3Torre de Alta Tensión§r.%n%nLas §3Subestaciones§r son necesarias para elevar/reducir el voltaje que las líneas transmiten.%n%nEstas torres pueden ser útiles pues puede el §eMineral de Bedrock§r favorable o los §eYacimientos de Petróleos§r estén lejos de tu base principal.%n
 
 # Quest: Primitive Crucible
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Primitive Crucible
-betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=The §3Crucible§r is a block from §dEx Nihilo§r used to melt solid blocks down into fluids. It is crafted first as an §6Unfired Crucible§r from §6Porcelain Clay§r, then fired in a furnace to produce a usable §3Crucible§r.%n%nTo operate it, place the §3Crucible§r above a heat source and right-click it with an eligible block to load it. The block will slowly melt into fluid over time. The speed of melting depends entirely on the heat source below - stronger heat sources melt faster. Burning §6Netherrack§r is among the most efficient vanilla options.%n%nThe primary output is §blava§r, produced by melting cobblestone, stone, and similar blocks. The §3Crucible§r can hold fluids indefinitely, making it a cheap fluid storage vessel in a pinch. Drain it using fluid pipes connected to its side or bottom.%n%n§2A bank of Crucibles over burning Netherrack is a reliable early lava farm.
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.name=Crisol Primitivo
+betterquesting.quest.wSdG_vGlTD-9Q8OW6Bzeiw.desc=El §3Crisol§r es un bloque de §dEx Nihilo§r usado para derretir bloques sólidos y volverlos líquidos. Es construido primero como un §6Crisol sin Cocer§r hecho de §6Arcilla de Porcelana§r, entonces es cocinado en un horno para hacer un §3Crisol§r utilizable.%n%nPara operarlo, coloca el §3Crisol§r encima de una fuente de calor y has click con un bloque elegible para cargarlo. El bloque lentamente se fundirá a un fluido con el tiempo. La velocidad de derretimiento depende completamente de la fuente de calor debajo - las fuentes de calor más fuertes derriten más rápido. La §6Netherrack§r en llamas es una de las fuentes normales más eficientes.%n%nEl producto primario es §blava§r, producida al fundir piedra, roca y bloques similares. El §3Crisol§r puede contener fluidos de manera indefinida, haciéndolo un contenedor de fluidos barato en un apuro. Vacíalo utilizando tuberías conectadas a los lados o la parte de abajo.%n%n§2Una pila de Crisoles sobre Netherrack en llamas es una granja de lava infinita confiable para el inicio.
 
 # Quest: Air Intake
-betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Air Intake
-betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=The §3Air Intake§r, when powered, produces §bCompressed Air§r needed in §3Pneumatic Pipes§r and §bHot Air Blast§r.
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.name=Toma de Aire
+betterquesting.quest.yFAvMtetRDaFwz6i_ry-RQ.desc=La §3Toma de Aire§r, cuando energizada, produce §bAire Comprimido§r necesitado para las §3Tuberías Neumáticas§r y el §bChorro de Aire Caliente§r.
 
 # Quest: Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Silkworm
-betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=§6Silkworms§r are items from §dEx Nihilo§r and the primary way to produce §6String§r on resource-limited maps. They cannot be crafted - the only way to obtain one is as a rare drop when breaking leaves with a §6Crook§r.%n%nTo use a §6Silkworm§r, right-click it onto any leaves block. The leaves will slowly become infested, turning white over time, and the infestation will spread on its own to adjacent leaves. Fully white leaves produce more §6String§r than partially infested ones, so it is worth waiting.%n%nOnce the leaves are fully infested, break them with a §6Crook§r or your fist to collect §6String§r and additional §6Silkworms§r, keeping the process renewable. Note that infested leaves do not drop saplings or apples, so keep spare saplings set aside before%ninfesting a tree.%n%n§2Silkworms can also be composted in a Barrel if you have a surplus.
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.name=Gusano de Seda
+betterquesting.quest.yfQ7hs9tTwSE5FpNCoeGAA.desc=Los §6Gusanos de Seda§r son objetos de §dEx Nihilo§r y la forma primaria de producir §6Hilo§r en mapas donde los recursos son limitados. No pueden ser construidos - la única manera de conseguir uno es como un drop raro al romper hojas con un §6Cayado§r.%n%nPara usar un §6Gusano de Seda§r, has click derecho con él en cualquier bloque de hojas. Las hojas lentamente se volverán infestadas, volviéndose blancas con el tiempo, y la infestación se esparcirá por si sola a las hojas adyacentes. Las hojas completamente blancas producen más §6Hilo§r que las parcialmente infestadas, así que vale la pena esperar.%n%nUna vez que las hojas estan completamente infestadas, rómpelas con un §6Cayado§r o tu puño para recolectar §6Hilo§r y §6Gusanos de Seda§r adicionales, manteniendo el proceso renovable. Toma en cuenta que las hojas infestadas no sueltan brotes o manzanas, así que conserva algunos brotes de repuesto antes de%ninfestar un arbol.%n%n§2Los gusanos de seda también pueden ser compostados en un Barril si tienes de sobra.
 
 # Quest: Industrial Hemp & Mustard Willow
-betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Industrial Hemp & Mustard Willow
-betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.desc=Walking around the world, you can find a §6Mustard Willow§r on dead or §6Oily Dirt§r. The willow itself will not be needed anytime soon, but it is better to collect it and the soil underneath it.%n%n§6Industrial Hemp§r is used to craft ropes, strings and biomass.
+betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.name=Cáñamo Industrial y Sauce Mostaza
+betterquesting.quest.ztJLZeOsSq6hpRyKY55CDg.desc=Caminando por el mundo, puede que encuentres un §6Sauce Mostaza§r en un bloque de tierra muerta o §6Aceitosa§r. El sauce en sí no será necesitado en el futuro cercano, pero es mejor recolectarlo y la tierra debajo de él.%n%nEl §6Cáñamo Industrial§r es utilizado para hacer cuerdas, hilo y biomasa.
 
 
 ## Quest Line: LV2 - Oil Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=LV2 - Oil Age
-betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=Process Oil and begin Bedrock Ore Harvesting. This chapter revolves around the refining of Oil, aswell as the creation of plastics, more advanced circuits and other strong materials.
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.name=NV2 - Edad del Petróleo
+betterquesting.questline.AAAAAAAAAAAAAAAAAAAAAQ.desc=Procesa petróleo y comienza la extracción de mineral de Bedrock. Este capítulo gira en torno al refinamiento de petróleo, así como la creación de plásticos, circuitos más avanzados y otros materiales fuertes.
 
 # Quest: Balefire
 betterquesting.quest.8OusetROQiyH-66QbewmNQ.name=Balefire
-betterquesting.quest.8OusetROQiyH-66QbewmNQ.desc=§6Balefire§r is an extremely radioactive substance which can be used to make powerful fuels for the §3RBMK§r, aswell as §bBF Rocket Fuel§r for power production. High radiation resistant equipment is needed to hold the item. §6Thermonuclear Ashes§r can be produced sustainably as a byproduct from §bAntimatter - BF Rocket Fuel§r.%n%nThe High-Tech Bomb Defusing Device can extract balefire shards from duds.
+betterquesting.quest.8OusetROQiyH-66QbewmNQ.desc=El §6Balefire§r es una sustancia extremadamente radioactiva que puede ser usada para crear poderosos combustibles para el 3RBMK§r, así como §bCombustible BF de Cohetes§r para producir energía. Equipamiento de alta resistencia a la radiación es necesario para sujetar el objeto. §6Cenizas Termonucleares§r pueden ser producidas de manera sostenible como un subproducto de §bAntimateria - Combustible BF de Cohetes§r.%n%nEl Dispositivo de Alta Tecnología para Desactivar Bombas puede extraer fragmentos de Balefire de los duds.
 
 # Quest: Delinquent 2: Delinquent Harder
-betterquesting.quest.8R4pAa2BSWGGBdYOaobEMA.name=Delinquent 2: Delinquent Harder
-betterquesting.quest.8R4pAa2BSWGGBdYOaobEMA.desc=Be meaner.
+betterquesting.quest.8R4pAa2BSWGGBdYOaobEMA.name=Delincuente 2: Delinque Más
+betterquesting.quest.8R4pAa2BSWGGBdYOaobEMA.desc=Sé más malo.
 
 # Quest: Aluminium Processing
-betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.name=Aluminium Processing
-betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=§6Bauxide§r and §6Cryolite§r can be further processed to obtain §6Aluminium§r, with additional byproducts of §6Iron§r, §6Titanium§r and §bMercury§r.
+betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.name=Procesamiento de Aluminio
+betterquesting.quest.8Z2F5EPIRPGvasjKDWd4tA.desc=La §6Bauxita§r y §6Criolita§r pueden ser aún más procesadas para obtener §6Aluminio§r, con subproductos adicionales de §6Hierro§r, §6Titanio§r y §bMercurio§r.
 
 # Quest: Cyclotron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Cyclotron
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=The §3Cyclotron§r is a machine that bombards element powders with element boxes to get heavier elements. Operating the machine will consume§e 20MHE/s§r.%n%nIt can also create §bAntimatter§r as a byproduct for certain operations, which makes it a reliable but expensive method of large-scale advanced material production.%n%n§2Consider installing the highest level of Power Saving and Speed upgrades to reduce both recipe time and power consumption.§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.name=Ciclotrón
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA1g.desc=El §3Ciclotrón§r es una máquina que bombardea polvos de elementos con cajas de elementos para obtener elementos más pesados. Operar esta máquina consumirá§e 20MHE/s§r.%n%nTambien puede crear §bAntimateria§r como un subproducto de ciertas operaciones, lo que lo hace una confiable pero cara forma de producir materiales avanzados a gran escala.%n%n§2Considera instalar la mayor mejora de ahorro de energía y velocidad para reducir el tiempo de las recetas y consumo de energía.§r
 
 # Quest: Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Desh Servo Set
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=§6Desh Servos§r are an armor modification which give incredibely strong buffs when used, such as increased strength, mining speed and jump boost.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Servomotores de Desh
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=Los §6Servomotores de Desh§r son modificadores de armadura los cuales dan mejoras increíblemente poderosas al usarse, como aumentar la fuerza, velocidad de minado y el salto.
 
 # Quest: M1TTY Environment Suit
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=The §6M1TTY Environment Suit§r is a cheap electric armor set that comes with many abilities. It is an excellent armor set for exploring as it comes with very high speed buffs as well as fast swimming speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=El §6Traje de Entorno M1TTY§r es una barata armadura eléctrica que viene con muchas habilidades. Es una armadura excelente para explorar pues viene con mejoras de velocidad muy elevadas así como velocidad de nadado.
 
 # Quest: Antimatter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=Antimatter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=§bAntimatter§r is a dangerous substance which can be obtained from a §3Cyclotron§r or a §3Particle Accelerator§r. If dropped on the floor a violent explosion will occur. Antimatter cant be stored in normal tanks, and as such, a §3Magnetic Antimatter Container§r is required.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.name=Antimateria
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGw.desc=La §bAntimateria§r es una peligrosa sustancia que puede ser obtenida de un §3Ciclotrón§r o un §3Acelerador de Partículas§r. Si se tira al suelo ocurrirá una explosión violenta. La antimateria no puede ser almacenada en tanques normales, por lo tanto, un§3Contenedor Magnético de Antimateria§r es requerido.
 
 # Quest: Electric Arc Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.name=Electric Arc Furnace
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.desc=The §3Electric Arc Furnace§r is a large automated furnace multiblock machine that can fill the role of §3Crucible§r and automated smelter, and is required for progression as it is the only machine that can produce §6Silicon§r from various sources, such as §6Sand§r, §6Flint§r, §6fiberglass§r, and §6Asbestos§r.%n%nTo operate this machine, it will require both electrical power and crafted §7§6Electrodes§r. In terms of electricity, the machine has a maximum storage capacity of §e2.5MHE§r, and consumes §e20kHE/s§r in operation, making it reasonably power hungry. In terms of the electrodes required for operation, there are four types available, and the machine must have three installed before it can operate.%n%nThis machine can operate in two different modes: Solid mode, which is the easiest to setup and use, great for initial crafting, and Liquid mode, which produces castable molten ores much like the crucible, with a small bonus to output, increasing efficiency of extraction from various ores.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.name=Horno de Arco Eléctrico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAHg.desc=El §3Horno de Arco Eléctrico§r es un gran horno automático multibloque que puede cumplir el rol de un §3Crisol§r y horno automático, y se requiere para la progresión pues es la única máquina que puede producir §6Silicio§r de varias fuentes, como §6Arena§r, §6Pedernal§r, §6Fibra de Vidrio§r y §6Asbesto§r.%n%nPara operar la máquina, requerirá energía eléctrica y fabricar §7§6Electrodos§r. En términos de electricidad, la máquina tiene una capacidad de almacenamiento máxima de §e2.5MHE§r y consume §e20kHE/s§r en funcionamiento, haciéndola razonablemente hambrienta de energía. En términos de electrodos requeridos para el funcionamiento, hay cuatro tipos disponibles y la máquina debe tener tres instalados antes de que pueda funcionar.%n%nLa máquina puede operar en dos modos diferentes: Modo Solido, el cual es el más fácil de manejar y automatizar, bueno para fabricación inicial, y el Modo Liquido, el cual produce minerales fundidos que pueden ser moldeados como en el Crisol, con un pequeño bonus de producto, incrementando la eficiencia de extracción de varios minerales.
 
 # Quest: Integrated Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.name=Integrated Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=The §6Integrated Circuit Board§r is the first circuit board to use §6Silicon§r, being used extensively in mid game machines, automation devices, missiles, and various small tools such as the §6Geiger Counter§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.name=Placa de Circuito Integrado
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIA.desc=La §6Placa de Circuito Integrado§r es la primera placa de circuito que utiliza §6Silicio§r, siendo utilizada de forma extensiva a través de la mitad del juego en máquinas, dispositivos de automatización, misiles y varias pequeñas herramientas como el §6Contador Geiger§r.
 
 # Quest: Military Grade Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=Military Grade Circuit Board
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=The §6Military Grade Circuit Board§r is an advanced Circuit Board used in more complicated machines, such as the §3Gas Centrifuge§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.name=Placa Base de Grado Militar
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAIw.desc=La §6Placa Base de Grado Militar§r es una Placa Base avanzada utilizada en máquinas más complejas como la §3Centrifugadora de Gas§r.
 
 # Quest: Impact Drill
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=Impact Drill
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=The §6Impact Drill§r is an electric pickaxe which has prebuilt enchantments and abilities on it. It is a very useful tool which will make mining way more efficient.%n%nSimilar electric tools exist for the axe and shovel.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=Taladro de Impacto
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=El §6Taladro de Impacto§r es un pico eléctrico que viene con encantamientos ya integrados y habilidades. Es una herramienta muy útil que hace la minería más eficiente.%n%nHerramientas eléctricas similares existen para el hacha y la pala.
 
 # Quest: Derrick
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=Derrick
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=The §3Oil Derrick§r extracts §bCrude Oil§r and §6§bNatural Gas§r from §eOil Deposits§r that are directly below them. When supplied with power, it will begin to drill downwards until it cannot drill further or reach an oil deposit. Upon reaching a deposit, it will continuously extract oil and gas from it until the deposit is entirely depleted.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=La §3Torre de Perforación§r extrae §bPetróleo Crudo§r y §6§bGas Natural§r de §eYacimientos de Petróleo§r que están directamente debajo de esta. Cuando se le suministra energía, empezara a taladrar hacia abajo hasta que no puede perforar más o alcanza un yacimiento de petróleo. Al alcanzar un yacimiento, extraerá petróleo y gas continuamente hasta que el yacimiento este completamente agotado.
 
 # Quest: Bedrock Ore Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=Bedrock Ore Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=§eBedrock Ore Deposits§r are an infinite source of resourses which can be obtained by using a §3Large Mining Drill§r and a §3Bedrock Ore Processor§r.%n%nOperating the drill will consume§e 200kHE/s§r.%n%nBefore excavation can happen, the §eDepth Rock§r covering the bedrock ore deposit needs to be removed. An easy way of doing that is blowing up the rock with §6Mining Charges§r.%n%nThe large mining drill is used to excavate §6Raw Bedrock Ores§r from their deposits. The drill requires a §6Drillbit§r to work§r, which can be upgraded to increase the speed at which it operates at. §eFortune§r on a drillbit affects the quality of mined bedrock ore, each level of fortune adds §e10%%§r of the value to the item.%n%nThe bedrock ore processor takes §6§rraw bedrock ore obtained from the drill and breaks it down into smaller pieces, each with different products that can be obtained from them. %n§a§bOre Slop§r, which is created when the machine is operating, can be processed into many useful products, especially when it is sent through an §3Electrolysis Machine§r.%n%nThe §6Bedrock Ore Desity Scanner§r shows information on the composition of Bedrock Ore deposits.%n%nBedrock ore processing can be both an energy and resourse expensive operation so it is recommended that it is explored after having good infrastructure.%n%n§2Consider adding a Power Saving Upgrade to the drill as it only reduces power without affecting the mining speed. Additionally, installing an Effectiveness Upgrade on the ore slopper will make it give out more resourses.§r§r
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=Procesamiento de Mineral de Bedrock
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=Los §eYacimientos minerales de Bedrock§r son una fuente infinita de recursos que puede ser obtenida utilizando una §3Gran Perforadora Minera§r y un §3Procesador de Mineral de Bedrock§r.%n%nOperar la perforadora consumirá§e 200kHE/s§r.%n%nAntes de que la excavación pueda ocurrir, la §eRoca Profunda§r cubriendo el yacimiento mineral de bedrock debe ser removida. Una forma fácil de hacerlo es explotar la roca con §6Cargas Explosivas para Minería§r.%n%nLa gran perforadora minera es utilizada para excavar §6Mineral de Bedrock en Bruto§r del yacimiento. El taladro requiere una §6Broca§r para funcionar§r, la cual puede ser mejorada para aumentar la velocidad a la que opera. §eFortuna§r en la broca afecta la calidad del mineral de bedrock en bruto, cada nivel de fortuna añade §e10%%§r del valor del objeto.%n%nEl procesador de mineral de bedrock toma §6mineral de bedrock en bruto§r obtenido del taladro y lo rompe en piezas más pequeñas, cada una con diferentes productos que pueden ser obtenidos de ellas. %n§a§bLodo Mineral§r, el cual es creado cuando la máquina está en funcionamiento, puede ser procesado en muchos productos útiles, especialmente cuando es pasado a través de una §3Máquina de Electrólisis§r.%n%nEl §6Escáner de Densidad de Mineral de Bedrock§r muestra información de la composición de los yacimientos de Mineral de Bedrock.%n%nEl procesamiento de mineral de bedrock puede ser una operación costosa tanto en energía como en recursos así que se recomienda que sea explorada después de conseguir una buena infraestructura.%n%n§2Considere añadir una mejora de ahorro de energía a la perforadora pues esta solo reduce la energía sin afectar la velocidad de minado. Adicionalmente. instalar una mejora de efectividad en el procesador de minerales hará que genere más recursos.§r§r
 
 # Quest: Basic Oil Processing
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.name=Basic Oil Processing
