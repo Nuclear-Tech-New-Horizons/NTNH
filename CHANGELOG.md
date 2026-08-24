@@ -8,6 +8,11 @@
 
 **Fixed**
 * Fixed a crash caused by upgrading the second half of a double Re:Chest
+* Fixed squashed GUIs
+* Fixed a crash caused by placing down Et Futurum shulker boxes
+* Fixed nether quartz and lapis generation
+* Fixed missing measure tape recipe
+* Fixed weird-ass hopper crafting recipes
 
 
 

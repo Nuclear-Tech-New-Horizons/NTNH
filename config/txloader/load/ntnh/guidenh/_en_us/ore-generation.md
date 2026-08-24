@@ -11,7 +11,7 @@ categories:
 # &6Ore Generation Reference (v2.14.0)
 
 > [!NOTE]
-> This page lists all known ore generation rules for NT:NH v2.14.0, covering planetary bodies and the Overworld.
+> This page lists all known ore generation rules for NT:NH v2.14.0, covering planetary bodies, the Overworld and the Nether.
 
 ---
 
@@ -29,18 +29,16 @@ categories:
 | Coltan | Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M; Deep Ocean / Ocean | &9StandardGen | &cRare | ~-2 - 30 |
 | Copper | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains | &bCloud | &eUncommon | ~16 - 52 |
 | Diamond | Extreme Hills / Extreme Hills M / Extreme Hills+ / Extreme Hills+ M / Ice Mountains; Cold Taiga / Cold Taiga Hills / Cold Taiga M / Mega Spruce Taiga / Mega Taiga / Mega Taiga Hills / Redwood Taiga / Redwood Taiga Hills / Redwood Taiga Hills M / Redwood Taiga M / Taiga / Taiga M / TaigaHills | &9StandardGen | &4Very Rare | ~5 - 13 |
-| Emerald | Extreme Hills / Ice Mountains | &5Cluster | &cRare | ~18 - 38 |
 | Fluorite | Deep Ocean / Ocean; Roofed Forest / Roofed Forest M | &bCloud | &cRare | ~16 - 48 |
 | Gold | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M | &bCloud / &9StandardGen | &cRare | ~0 - 40 |
 | Iron | Ice Plains / Ice Plains Spikes / Plains / Sunflower Plains; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~16 - 52 |
-| Lapis Lazuli | Flower Forest / Forest / ForestHills; Deep Ocean / Ocean | &bCloud | &cRare | ~0 - 20 |
+| Lapis Lazuli | All biomes | &9StandardGen | &cRare | ~16 |
 | Lead | Flower Forest / Forest / ForestHills | &bCloud | &cRare | ~16 - 48 |
 | Lignite | Swampland / Swampland M | &9StandardGen | &aCommon | ~26 - 54 |
 | Lithium | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | &bCloud | &cRare | ~16 - 48 |
 | Niter | Desert / Desert M / DesertHills | &bCloud | &cRare | ~16 - 48 |
 | Quartz (AE2) | Deep Ocean / Ocean | &bCloud | &4Very Rare | ~16 - 48 |
-| Redstone | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Flower Forest / Forest / ForestHills; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~0 - 48 |
-| Salt | Roofed Forest / Roofed Forest M | &bCloud | &cRare | ~16 - 48 |
+| Redstone | Birch Forest / Birch Forest Hills / Birch Forest Hills M / Birch Forest M; Flower Forest / Forest / ForestHills; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~0 - 32 |
 | Sulfur | Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M; Swampland / Swampland M | &bCloud / &9StandardGen | &aCommon | ~10 - 50 |
 | Thorium | Savanna / Savanna M / Savanna Plateau / Savanna Plateau M | &bCloud | &eUncommon | ~0 - 40 |
 | Titanium | Desert / Desert M / DesertHills; Jungle / Jungle Edge / Jungle Edge M / Jungle Hills / Jungle M; Mesa / Mesa Plateau / Mesa Plateau F / Mesa Plateau F M / Mesa Plateau M | &bCloud | &cRare | ~0 - 40 |
@@ -78,11 +76,11 @@ categories:
 
 | &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
+| Aluminium | &dVeins | &cRare | ~15 - 55 |
 | Beryllium | &dVeins | &cRare | ~15 - 55 |
 | Rare Earth | &dVeins | &cRare | ~15 - 55 |
 | Redstone | &dVeins | &cRare | ~15 - 55 |
 | Titanium | &dVeins | &cRare | ~15 - 55 |
-| Aluminium | &dVeins | &cRare | ~15 - 55 |
 | Zinc | &dVeins | &cRare | ~15 - 55 |
 
 ---
@@ -137,7 +135,7 @@ categories:
 
 ### &eMoho
 
-*Biomes: Moho Crag, Moho Flateau, Moho Lava Sea*
+*Biomes: Moho Crag, Moho Plateau, Moho Lava Sea*
 
 | &bOre Name | &bDistribution | &bRarity | &bHeight Range (Y) |
 |---|---|---|---|
@@ -156,6 +154,14 @@ categories:
 | Beryllium | &dVeins | &cRare | ~45 - 65 |
 | Lithium | &dVeins | &cRare | ~29 - 49 |
 | Plutonium | &dVeins | &cRare | ~10 - 20 |
+
+---
+
+## &6Nether
+
+| &bOre Name | &bBiomes | &bDistribution | &bRarity | &bHeight Range (Y) |
+|---|---|---|---|---|
+| Nether Quartz | All biomes | &9StandardGen | &aCommon | ~10 - 108 |
 
 ---
 
