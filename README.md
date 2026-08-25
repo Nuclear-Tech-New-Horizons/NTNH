@@ -31,7 +31,7 @@
 
 <h2 style="text-align:center">🌟 Our Amazing Contributors 🌟</h2>
 
-<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>3486 🏆</span></td>
+<table><tr><td align="center"><a href="https://github.com/Bufka2011"><img src="https://avatars.githubusercontent.com/u/85364803?v=4" width="50" alt="Bufka2011" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Bufka2011</b></sub><br/><span>3501 🏆</span></td>
 <td align="center"><a href="https://github.com/BufkaSecond"><img src="https://avatars.githubusercontent.com/u/190631137?v=4" width="50" alt="BufkaSecond" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>BufkaSecond</b></sub><br/><span>435 🏆</span></td>
 <td align="center"><a href="https://github.com/AniviaFlome"><img src="https://avatars.githubusercontent.com/u/66728147?v=4" width="50" alt="AniviaFlome" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>AniviaFlome</b></sub><br/><span>92 🏆</span></td>
 <td align="center"><a href="https://github.com/Rerserder"><img src="https://avatars.githubusercontent.com/u/251956539?v=4" width="50" alt="Rerserder" style="border-radius:50%;margin:5px;"/></a><br/><sub><b>Rerserder</b></sub><br/><span>63 🏆</span></td>
@@ -280,14 +280,21 @@
         <sub><b>588 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/Svetozaavr"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17848899/medium/a64896ccc48192a01f0290f7dbc6db63_default.png" />
+          <br />
+          <sub><b>Svetozaavr</b></sub></a>
+        <br />
+        <sub><b>555 words</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Kosmek"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17792341/medium/d5b821b194698dd3b9b30da9c119a324.png" />
           <br />
           <sub><b>Kosmek</b></sub></a>
         <br />
         <sub><b>550 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/SimpleMouse"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17832029/medium/de47e8932b3b853077bca4c923b57086.png" />
           <br />
@@ -303,6 +310,15 @@
           <sub><b>Suciiiiii</b></sub></a>
         <br />
         <sub><b>475 words</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/itxv"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17848497/medium/0f7d2fb932135516b0af96f7dfbe9f98.jpg" />
+          <br />
+          <sub><b>Võ Hoàng Quốc Bảo</b></sub>
+          <br />
+          <sub><b>(itxv)</b></sub></a>
+        <br />
+        <sub><b>452 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/CommandNinja"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17833459/medium/f9a02e0a97ff98dd703fee1ed5949bda.png" />
@@ -331,6 +347,8 @@
         <br />
         <sub><b>383 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/ayzer."><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17829863/medium/471ca4cffe626f0fe5c8a2cf8efbc086.png" />
           <br />
@@ -347,8 +365,6 @@
         <br />
         <sub><b>275 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/davidporras31"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17524820/medium/a43b83267853e0996a6ae9b0ff069ca2.jpeg" />
           <br />
@@ -386,6 +402,8 @@
         <br />
         <sub><b>168 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/LordJiriX"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16932143/medium/f3c6cf61e0e32366d285cd2828100d41_default.png" />
           <br />
@@ -402,8 +420,6 @@
         <br />
         <sub><b>126 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/eiko0"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17801663/medium/431999895c7c5b1994f1cc5938f82e72.jpg" />
           <br />
@@ -449,6 +465,8 @@
         <br />
         <sub><b>36 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/TiBoio"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17231268/medium/45c25c8ad3b330434c8adc10eabc7931.jpeg" />
           <br />
@@ -457,22 +475,6 @@
           <sub><b>(TiBoio)</b></sub></a>
         <br />
         <sub><b>34 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/Qsenja"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17326870/medium/12534864d0d090001da0c65b70ebe3be.jpeg" />
-          <br />
-          <sub><b>Qsenja</b></sub></a>
-        <br />
-        <sub><b>28 words</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/THOMASS47"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17660740/medium/4407c6e60240788cccd492955c334c26.png" />
-          <br />
-          <sub><b>THOMASS47</b></sub></a>
-        <br />
-        <sub><b>26 words</b></sub>
       </td>
     </tr>
   </tbody>
