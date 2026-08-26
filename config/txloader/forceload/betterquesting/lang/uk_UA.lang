@@ -18,23 +18,23 @@ betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.name=Двигун Стірлінга
 betterquesting.quest.-OxoBRz7Spqm0rVUNxRVpA.desc=§3Двигун Стірлінга§r використовує тепло від §3нагрівальної печі§r або §3§r§3топки§r для вироблення енергії. Якщо для нагрівання двигуна Стірлінга використовувати нагрівальну піч, він, ймовірно, перегріється і вийде з ладу, а головна шестерня відлетить. Важкий двигун Стірлінга не має цієї проблеми.%n%nТопка, що працює на вугіллі з двигуном Стірлінга, виробляє §e2kHE/s§r, тоді як нагрівальна піч з важким двигуном Стірлінга виробляє §e10kHE/s§r.
 
 # Quest: Additional Fluid Tools
-betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Additional Fluid Tools
-betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=The §6Siphon§r is a tool used to extract input fluids from a machine. Right-clicking a machine with content in it's input tanks will fill any fluid barrels, universal tanks or pipettes (if the fluid amount cannot fill any of the previous options).%n%n§6Pipettes§r can be used to input specific amounts of fluids. Right-clicking or Shift-Right-clicking will increase or decrease the fluid amount.
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.name=Додаткові інструменти рідини
+betterquesting.quest.0-Ws1mY3SeeFcyIcv2LKNQ.desc=§6Сифон§r це інструмент, який використовується для вилучення вхідних рідин з машини. Клік правої кнопки миші вміст вхідних танків заповнить будь які рідини, універсальні танки або трубопроводи (якщо сума рідини не може заповнювати будь-який з попередніх варіантів).%n%n§6Піпетки§r можна використовувати для введення певних сум рідин. Натискання правою клавішею або Shift-правою кнопкою збільшить або зменшить суму рідини.
 
 # Quest: Steam Engine
 betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.name=Паровий Двигун
-betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=The §3Steam Engine§r is an early game method of turning §bSteam§r into energy. It requires an external source to provide steam and a way to dump or reprocess the §bLow-Pressure Steam§r it produces. %n%nThe Steam Engine has an energy efficiency of §e85%%§r, making it better than the §3Stirling Engine§r. However, it still has a throughput limit as it can only hold up to 2000 mB of steam. Its maximum processing rate is 2000 mB/t, producing a considerable §e3400 HE/t§r or §e68 kHE/s§r. It is therefore the best generator available before §3Steam Turbines§r.%n%nA boiler being heated up by a heating oven using coal will produce §e17kHE/s§r.
+betterquesting.quest.1WdjJYUsRMKgt4MYnlmM7A.desc=§3Паровий Двигун§r - це спосіб перетворення §bПару§r на енергію на початку гри. Для його роботи потрібне зовнішнє джерело пару, а також спосіб скидання або повторної переробки §bпару низького тиску§r, що утворюється. %n%nПаровий двигун має єффектифність §e85%%§r, що робить його кращим за §3Двигун Стірлінга§r. Однак він все ще має обмеження пропускної здатності, оскільки може вмістити лише до 2000 мБ пару. Його максимальна швидкість обробки становить 2000 мБ/т, що дає значні §e3400 HE/т§r або §e68 кHE/с§r. Тому це найкращий генератор, доступний до появи §3Парових турбін§r.%n%nБойлер, що нагрівається в печі на вугіллі, вироблятиме §e17кHE/с§r.
 
 # Quest: Automatic Thresher
-betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Automatic Thresher
-betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=The §3Automatic Thresher§r harvests crops such as §6Wheat§r, §6Hemp§r, §6Sugarcane§r, ect in a 7x7 area when supplied with fuel. It will eject all items from the back.%n%n[F1] for more information.
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.name=Автоматична молотарка
+betterquesting.quest.3o6RE2fyQyaYt65j_dZ2HQ.desc=§3Автоматична молотарка§r збирає урожай наприклад §6Пшениця§r, §6Конопля§r, §6Цукрова тростина§r, у 7х7 радіусі коли поставляється паливом. Вона буде викидувати всі елементи заду.%n%n[F1] для отримання додаткової інформації.
 
 # Quest: Abandoned Structures
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.name=Покинуті споруди
 betterquesting.quest.4d7s5-1MQxyI3YcrDSL98g.desc=Будівлі з’являються по всьому світу і є одними з найкращих джерел ресурсів на початку гри. Якщо їх розграбувати, не вкладаючи значних коштів у виробництво, можна заощадити чимало часу та матеріалів.%n%n§2Дослідження окупаються вже на початку гри - огляньте околиці, перш ніж витрачати час на збір ресурсів, які можна знайти безкоштовно.§r
 
 # Quest: Flare Stack
-betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Flare Stack
+betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.name=Факельна вежа
 betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=The §3Flare Stack§r is a generator that produces energy by burning flammable liquids and gases. Any fluid tagged as Flammable can serve as fuel - supply it through pipes or directly via containers.%n%nOperation uses three steps. First, fill the internal buffer (capacity: §e64,000 mB§r) with fuel. Second, open the §6Flow Valve§r at the top of the middle section to release fuel from the buffer into the combustion system. Third, enable the §6Ignition§r switch at the bottom of the middle section to ignite the fuel and begin power generation.%n%nEfficiency is low: gases burn at §e50%%§r and liquids at only §e10%%§r. Output also varies by fuel type.%n%nTwo upgrades are available: the §6Speed Upgrade§r increases throughput, and the §6Effectiveness Upgrade§r improves fuel efficiency.
 
 # Quest: Batteries
@@ -47,7 +47,7 @@ betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Ласкаво просимо �
 
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Молоток!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r§2.%n§2Check NEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=§6Молот§r - це інструмент з §dEx Nihilo§r, який використовується для подрібнення блоків до дрібніших форм. Його основна роль - виробництво матеріалів, необхідних для §3Сита§r: бруківка подрібнюється на гравій, гравій - на пісок, а пісок - на пил, кожен з яких можна просіяти для отримання різних ресурсів.%n%nЩоб ним скористатися, просто розбийте цільовий блок за допомогою §6Молота§r, як ви це робите за допомогою кайла. Молотки бувають стандартних рівнів - від%nдерева до діаманта - і відрізняються лише міцністю. Їх можна зачарувати, хоча доступні зачарування відрізняються від тих, що є для кайла.%n%nРуду також можна подрібнювати за допомогою багатоетапного ланцюга подрібнення. Кожен крок має невеликий шанс дати бонусний%nmaterіал, що робить §6Молот§r базовим засобом розмноження руди до появи спеціалізованих машин для її обробки.%n%n§2Процес розбивання можна автоматизувати за допомогою машин, що імітують руйнування блоків, таких як Auto Hammer від §dEx Compressum§r.%n§2Перевірте JEI, щоб дізнатися повний ланцюжок подрібнення будь-якого блоку.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Інструмент для аналізу кабельних мереж
@@ -59,7 +59,7 @@ betterquesting.quest.9wRpAnjXSrGWFWSwKoTOhg.desc=§3Фіксатори труб�
 
 # Quest: Automatic Buzz Saw
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.name=Автоматична циркулярна пила
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz Saw§r one can automatically farm trees for their §6Wood§r, aswell as other crops such as §6Hemp§r and §6Wheat§r.%n%n§3Fans§r, when powered by redstone, can be used to push the dropped items into hoppers or conveyors for storage. Use a §6Drill§r on them to remove the diminishing behaviour of pushing force.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=За допомогою §6§3Автоматичної циркулярної пилки§r можна автоматично рубити §6Деревину§r, а також інші культури, такі як §6Конопля§r та §6Пшениця§r.%n%n§3Вентилятор§r, заживлен редстоуном, можна використовувати для транспортування предметів у воронку або конвеєри для сховища. Застосуйте до них §6Свердло§r, щоб скасувати зменшення дальності штовхання.
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Промисловий змішувач
