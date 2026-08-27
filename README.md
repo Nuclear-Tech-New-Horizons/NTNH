@@ -221,14 +221,23 @@
         <sub><b>1020 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/itxv"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17848497/medium/0f7d2fb932135516b0af96f7dfbe9f98.jpg" />
+          <br />
+          <sub><b>Võ Hoàng Quốc Bảo</b></sub>
+          <br />
+          <sub><b>(itxv)</b></sub></a>
+        <br />
+        <sub><b>868 words</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Aftobus01"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17417268/medium/e9c84f6ebc8f556b18993c7a5b1d8d78.jpeg" />
           <br />
           <sub><b>Aftobus01</b></sub></a>
         <br />
         <sub><b>1019 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Dorito64"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17661920/medium/57974a2732c0aa9e8be92407e026a8b5.gif" />
           <br />
@@ -279,6 +288,8 @@
         <br />
         <sub><b>588 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Svetozaavr"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17848899/medium/a64896ccc48192a01f0290f7dbc6db63_default.png" />
           <br />
@@ -286,8 +297,6 @@
         <br />
         <sub><b>555 words</b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Kosmek"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17792341/medium/d5b821b194698dd3b9b30da9c119a324.png" />
           <br />
@@ -310,15 +319,6 @@
           <sub><b>Suciiiiii</b></sub></a>
         <br />
         <sub><b>475 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/itxv"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17848497/medium/0f7d2fb932135516b0af96f7dfbe9f98.jpg" />
-          <br />
-          <sub><b>Võ Hoàng Quốc Bảo</b></sub>
-          <br />
-          <sub><b>(itxv)</b></sub></a>
-        <br />
-        <sub><b>452 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/CommandNinja"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17833459/medium/f9a02e0a97ff98dd703fee1ed5949bda.png" />
