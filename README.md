@@ -73,6 +73,15 @@
         <sub><b>203696 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/GamerRabbit22"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17800493/medium/3dbe0ae2f49f1047180c8b2511069764.png" />
+          <br />
+          <sub><b>Gamer Rabbit 22</b></sub>
+          <br />
+          <sub><b>(GamerRabbit22)</b></sub></a>
+        <br />
+        <sub><b>10295 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Nekrasov.V.O"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16528063/medium/d4325642df047bb9793b41833b15fadd.png" />
           <br />
           <sub><b>Вова Некрасов</b></sub>
@@ -80,15 +89,6 @@
           <sub><b>(Nekrasov.V.O)</b></sub></a>
         <br />
         <sub><b>9756 words</b></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/GamerRabbit22"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17800493/medium/3dbe0ae2f49f1047180c8b2511069764.png" />
-          <br />
-          <sub><b>Gamer Rabbit 22</b></sub>
-          <br />
-          <sub><b>(GamerRabbit22)</b></sub></a>
-        <br />
-        <sub><b>9388 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Zors_o"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17811457/medium/3f0165b696be2a9b21e7e5379e06a98b.png" />
