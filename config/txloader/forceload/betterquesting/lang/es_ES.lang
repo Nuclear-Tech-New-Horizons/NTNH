@@ -158,7 +158,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.name=Caldera y Condensador de Vapor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVQ.desc=La §3Caldera§r, cuando recibe calor desde abajo, calienta fluidos. Dos usos importantes para la caldera son producir §bVapor§r y calentar §bPetróleo§r para su procesamiento el cual vendrá después. La Caldera puede explotar cuando la salida se llena al máximo.%n%nEl vapor, cuando es utilizado por máquinas, como reactores pasando vapor a travez de §3Turbinas§r o §3Fábricas Químicas§r producen §bVapor de Baja Presión§r. El vapor de baja presión puede ser reciclado para obtener 100% del agua devuelta utilizando un §3Condensador de Vapor§r.\nSe recomiendan circuitos cerrados de agua para reactores.
 
 # Quest: Solar Tower Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Caldera De Torre Solar
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.name=Caldera de Torre Solar
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYg.desc=La §3Caldera de Torre Solar§r es una máquina inicial que usa luz solar de espejos heliostáticos para evaporar agua generando vapor.%n%nLa Caldera de Torre Solar es calentada por espejos heliostáticos apuntando hacia ella. Apuntar un espejo a ella requiere la herramienta de ajuste de espejos, hacer click derecho en el boiler salvara su posición en la herramienta, subsecuentemente hacer click en los espejos hará que apunten al boiler seleccionado. El rango máximo de los espejos es 25 bloques, la eficiencia de los espejos no disminuye con la distancia. Un boiler consume 1mB de agua por cada 12.5 espejos cada tick al nivel máximo de luz y 100mB de vapor por cada mB de agua consumido. Sin embargo, la tasa de consumo de agua esta redondeada abajo al millibucket. Por lo tanto necesitas 13 espejos para generar tus primeros 100mB/t de vapor, 12 espejos para los siguientes cien, entonces 13, 12 y así.%n%nComo el calor proporcionado por cada espejo se basa en la luz del sol, espejos con bloques solidos encima de ellos no funcionaran, y la cantidad de calor disminuye con la cantidad de luz en la tarde hasta que no se produzca calor en la noche.%n%nLa caldera de torre solar solo puede producir vapor normal, por lo que el tipo de líquido no puede ser cambiado con un identificador de fluidos.
 
 # Quest: Ammo Press and Guns
@@ -334,7 +334,7 @@ betterquesting.quest.kdNKd7NDSPiURFtLonc50g.name=Arena Aceitosa
 betterquesting.quest.kdNKd7NDSPiURFtLonc50g.desc=La §6Arena Aceitosa§r es un bloque superficial que se genera junto con la arena normal, típicamente en desiertos. Actúa como un marcador para depósitos de §bPetróleo en Bedrock§r directamente debajo de esta - si la encuentras, hay petróleo debajo.%n%nPuede ser molida en una §3Moledora§r en §6Residuo de Petróleo§r, el cual puede ser procesado para obtener §6Arsénico§r - un material muy importante a la mitad del juego.
 
 # Quest: Highway To Hell
-betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Carretera al Infierno
+betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.name=Highway To Hell
 betterquesting.quest.ljMurUJIT7OuwaBx_fb3EA.desc=§6El infierno§r esta §c§lVERDADERAMENTE CALIENTE§r causando que tu piel arda.%n%nEl §6Traje de Protección contra Fuego§r es esencial para tu primer viaje al infierno, pues te protege del fuego abrasador.
 
 # Quest: Blood Moon
@@ -403,7 +403,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.name=Servomotores de Desh
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACw.desc=Los §6Servomotores de Desh§r son modificadores de armadura los cuales dan mejoras increíblemente poderosas al usarse, como aumentar la fuerza, velocidad de minado y el salto.
 
 # Quest: M1TTY Environment Suit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=M1TTY Environment Suit
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.name=Traje de Entorno M1TTY
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAADg.desc=El §6Traje de Entorno M1TTY§r es una barata armadura eléctrica que viene con muchas habilidades. Es una armadura excelente para explorar pues viene con mejoras de velocidad muy elevadas así como velocidad de nadado.
 
 # Quest: Antimatter
@@ -427,7 +427,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.name=Taladro de Impacto
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKQ.desc=El §6Taladro de Impacto§r es un pico eléctrico que viene con encantamientos ya integrados y habilidades. Es una herramienta muy útil que hace la minería más eficiente.%n%nHerramientas eléctricas similares existen para el hacha y la pala.
 
 # Quest: Derrick
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=Derrick
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.name=Torre de Perforación
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAKw.desc=La §3Torre de Perforación§r extrae §bPetróleo Crudo§r y §6§bGas Natural§r de §eYacimientos de Petróleo§r que están directamente debajo de esta. Cuando se le suministra energía, empezara a taladrar hacia abajo hasta que no puede perforar más o alcanza un yacimiento de petróleo. Al alcanzar un yacimiento, extraerá petróleo y gas continuamente hasta que el yacimiento este completamente agotado.
 
 # Quest: Bedrock Ore Processing
@@ -435,104 +435,104 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.name=Procesamiento de Mineral de Bed
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAALA.desc=Los §eYacimientos minerales de Bedrock§r son una fuente infinita de recursos que puede ser obtenida utilizando una §3Gran Perforadora Minera§r y un §3Procesador de Mineral de Bedrock§r.%n%nOperar la perforadora consumirá§e 200kHE/s§r.%n%nAntes de que la excavación pueda ocurrir, la §eRoca Profunda§r cubriendo el yacimiento mineral de bedrock debe ser removida. Una forma fácil de hacerlo es explotar la roca con §6Cargas Explosivas para Minería§r.%n%nLa gran perforadora minera es utilizada para excavar §6Mineral de Bedrock en Bruto§r del yacimiento. El taladro requiere una §6Broca§r para funcionar§r, la cual puede ser mejorada para aumentar la velocidad a la que opera. §eFortuna§r en la broca afecta la calidad del mineral de bedrock en bruto, cada nivel de fortuna añade §e10%%§r del valor del objeto.%n%nEl procesador de mineral de bedrock toma §6mineral de bedrock en bruto§r obtenido del taladro y lo rompe en piezas más pequeñas, cada una con diferentes productos que pueden ser obtenidos de ellas. %n§a§bLodo Mineral§r, el cual es creado cuando la máquina está en funcionamiento, puede ser procesado en muchos productos útiles, especialmente cuando es pasado a través de una §3Máquina de Electrólisis§r.%n%nEl §6Escáner de Densidad de Mineral de Bedrock§r muestra información de la composición de los yacimientos de Mineral de Bedrock.%n%nEl procesamiento de mineral de bedrock puede ser una operación costosa tanto en energía como en recursos así que se recomienda que sea explorada después de conseguir una buena infraestructura.%n%n§2Considere añadir una mejora de ahorro de energía a la perforadora pues esta solo reduce la energía sin afectar la velocidad de minado. Adicionalmente. instalar una mejora de efectividad en el procesador de minerales hará que genere más recursos.§r§r
 
 # Quest: Basic Oil Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.name=Basic Oil Processing
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.desc=Before §bCrude Oil§r can be processed, it must be heated up in a §3Boiler§r.%n%nThe §3Oil Refinery§r splits Hot Crude Oil(or later on §bCracked§r) into four different fluid products and one solid byproduct.%n%nAfter that, those fluids can be sent through a §3Fractioning Tower§r to obtain different kinds of fuels, such as §bKerosene§r and §bDiesel§r. A §3Fractioning Tower Seperator§r can be used to stack fractioning towers ontop of eachother.%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.name=Procesamiento Básico de Petróleo
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAALw.desc=Antes de que el §bPetróleo Crudo§r pueda ser procesado, este debe ser calentado en una §3Caldera§r.%n%nLa §3Refinería de Petróleo§r separa Petróleo Crudo Caliente(o después el §bCraqueado§r) en cuatro productos líquidos diferentes y un subproducto sólido.%n%nDespués de eso, esos fluidos pueden ser pasados por una §3Torre de Fraccionamiento§r para obtener diferentes tipos de combustibles, como §bQueroseno§r y §bDiesel§r. Un §3Separador de Torre de Fraccionamiento§r puede ser colocado para apilar torres de fraccionamiento unas encima de otras.%n
 
 # Quest: Polymer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOg.name=Polymer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOg.desc=§6Polymer§r is a basic plastic material needed for many recipes. Important uses of it are the §3Centrifuge§r, the §3Catalytic Cracking Tower§r and the §3Electric Arc Furnace§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOg.name=Polímero
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOg.desc=El §6Polímero§r es un material plástico básico necesitado para muchas recetas. Algunos usos importantes son la §3Centrifugadora§r, la §3Torre de Craqueo Catalítico§r y el §3Horno de Arco Eléctrico§r.
 
 # Quest: Catalytic Cracking Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.name=Catalytic Cracking Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=The §3Catalytic Cracking Tower§r is a large oil processing multiblock machine which produces many fluids, such as §bAromatic Hydrocarbons§r used for §6Bakelite§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.name=Torre de Craqueo Catalítico
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAOw.desc=La §3Torre de Craqueo Catalítico§r es una gran máquina multibloque de procesamiento de petróleo que produce muchos fluidos, como los §bHidrocarburos Aromáticos§r usados para hacer §6Baquelita§r.
 
 # Quest: Desh Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.name=Desh Anvil
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=An upgraded version of the §3Anvil§r, [T3], which unlocks additional recipes.%n%nAlternatively, the §3Desh Anvil§r can be skipped by making a §3Ferrouranium Anvil§r, [T4], from scavanged §e§r§6Uranium-238§r found in structures.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.name=Yunque de Desh
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPA.desc=Una versión mejorada del §3Yunque§r, [Nv3], el cual desbloquea recetas adicionales.%n%nAlternativamente, el §3Yunque de Desh§r puede ser omitido al hacer un §3Yunque de Ferrouranio§r, [Nv4], con §e§r§6Uranio-238§r encontrado en estructuras.
 
 # Quest: Industrial Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=Industrial Boiler
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=The §3Industrial Boiler§r is an upgraded version of the Boiler which has a higher capacity of held liquid. Additionally, it doesnt explode.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.name=Caldera Industrial
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAPw.desc=La §3Caldera Industrial§r es una versión mejorada de la Caldera la cual puede almacenar una cantidad mayor de líquido. Adicionalmente, esta no explota.
 
 # Quest: Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.name=Rubber
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=§6Rubber§r is an essential material used in many crafting recipes. It is created in a §3Chemical Plant§r with §bUnsaturated Hydrocarbons§r obtained from a §3Catalytic Cracking Tower§r.%n%n§6Latex§r is a rubber alternative which can be used in some recipes instead of normal rubber. It can be created early on using a §3Burner Press§r by processing dandelions or jungle wood.%n%n§2In NTM: Space cracked oil is required to obtain the first piece of rubber.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.name=Caucho
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQA.desc=El §6Caucho§r es un material esencial utilizado en varias recetas de crafteo. Es creado en una §3Planta Química§r con §bHidrocarburos Insaturados§r obtenidos de una §3Torre de Craqueo Catalítico§r.%n%nEl §6Látex§r es una alternativa al caucho que puede ser utilizada en varias recetas en lugar del caucho normal. Puede ser creado de forma temprana utilizando una §3Prensa de Quemador§r para procesar dientes de león o madera de jungla.%n%n§2En NTM: Space se requiere petróleo craqueado para obtener tu primer pieza de caucho.
 
 # Quest: Bakelite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.name=Bakelite
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=§6Bakelite§r is an alternative to Polymer and can be used for the same recipes. Since it doesnt require any §6Coal Powder§r or §6Fluorite§r to be made, it is easier and more convenient to automate than §6Polymer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.name=Baquelita
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQQ.desc=La §6Baquelita§r es una alternativa al polímero que puede ser utilizada en las mismas recetas. Ya que no requiere §6Polvo de Carbón§r o §6Fluorita§r para hacerse. Es más fácil y conveniente de automatizar que el §6Polímero§r.
 
 # Quest: Desh
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.name=Desh
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=§6Desh§r is an alloy made up of 9 rare earth metals to make its blend form, which is solidified and refined using §bMercury§r and §bLight oil§r in the §3Chemical Plant§r. Desh is an almost unbreakable material and as such its tools have infinite durability. %n%n§a§2Desh can also be made using DeshReady™ in a Rotary Furnace, or later on, in an Ore Acidizer.§r%n%nMercury at this stage of the game can be obtained from centrifuging §eRedstone Ore§r or putting §eCinnabar§r in a §3Combination Oven§r. Large cinnabar veins can be found as depth ore.%n%nLater on, mercury can be obtained from processing §bOre Slop§r or §bVitriol§r in an §3Electrolyzer§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAQg.desc=El §6Desh§r es una aleación hecha de 9 metales de tierras raras para hacer su forma de mezcla, la cual se solidifica y refina utilizando §bMercurio§r y §bPetróleo ligero§r en la §3Planta Química§r. El Desh es un material casi indestructible y por eso sus herramientas tienen durabilidad infinita. %n%nEl §a§2Desh también se puede hacer utilizando DeshReady™ en un Horno Rotatorio, o más adelante, en un Acidificador de Mineral.§r%n%nEl mercurio en esta etapa del juego puede ser obtenido centrifugando §eMena de Redstone§r o poniendo §eCinabrio§r en un §3Horno Combinado§r. Grandes vetas de cinabrio pueden ser encontradas como mineral profundo.%n%nMas adelante, el mercurio puede ser obtenido del procesamiento de §bLodo Mineral§r o §bVitriolo§r en un §3Electrolizador§r.
 
 # Quest: Industrial Steam Turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Industrial Steam Turbine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=The §3Industrial Steam Turbine§r is a multiblock machine that is a much larger and more powerful version of the regular §3Steam Turbine§r. It has an efficiency of §e100%%§r and energy output slowly ramps up as §bSteam§r is supplied and slowly goes down as steam cuts out.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.name=Turbina de Vapor Industrial
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARA.desc=La §3Turbina de Vapor Industrial§r es una máquina multibloque la cual es una versión mucho más grande y poderosa de la §3Turbina de Vapor§r regular. Tiene una eficiencia del §e100%%§r y la generación de energía aumenta lentamente mientras se le suministra §bVapor§r y disminuye lentamente cuando se deja de suministrar.
 
 # Quest: Coker Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Coker Unit
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=The §3Coker Unit§r is a machine that turns oil products into §6Petroleum Coke§r, which is the same to the other kinds of coke, aswell as additional fluids as byproducts. The coker unit will require an external heat source in order to function, similar to the §3Crucible§r.%n%n§2§r§2Alongside the §2§r§2§r§2Electric Arc Furnace, the coker unit is one of the most polluting machines of the mod. It spreads 20 soot per second, making it a dangerous machine to use next to a glyphid nest.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.name=Unidad de Coquización
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAARQ.desc=La §3Unidad de Coquización§r es una máquina que convierte los productos petrolíferos en §6Coque de Petróleo§r, es cual es igual a los otros tipos de coque, también produce subproductos líquidos adicionales. La unidad de coquización requerirá una fuente de calor externa para funcionar, similar al §3Crisol§r.%n%n§2§r§2Junto al §2§r§2§r§2Horno de Arco Eléctrico, la unidad de coquización es una de las máquinas que más contamina en todo el mod. Esta esparce 20 hollín por segundo, haciéndola una máquina peligrosa de usar al lado de un nido de glífidos.
 
 # Quest: Auxilary Cooling Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Auxilary Cooling Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=The §3Auxiliary Cooling Tower§r is a larger version of the Steam Condenser able to process up to 50 mb/t of §bLow-Pressure Steam§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.name=Torre Auxiliar de Enfriamiento
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASA.desc=La §3Torre Auxiliar de Enfriamiento§r es la versión grande del Condensador de Vapor capaz de procesar hasta 50 mb/t de §bVapor de Baja Presión§r.
 
 # Quest: Refinery Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Refinery Power
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Oil products can be combusted or burnt to produce massive amounts of energy.%n%nThe §3Industrial Combustion Engine§r combusts fuels, such as §bHeating Oil§r or §bDiesel§r to produce power. Various piston sets exist, which are needed for the engine to work, each one giving its own efficiency bonuses to fuel grades.%n%nThe §4§3Turbofan§r is the best place to use aviation type fuels, such as §bKerosene§r, as it provides §e100%%§r power efficiency. Be careful not to stand infront of it while its operational!%n%nThe §3Combined Cycle Gas Turbine§r is the only generator that can burn gaseous fuels at §e100%%§r efficiency. The CCGT uses §3§bEngine Lubricant§r, and produces §bDense Steam§r.%n%nThe §3Flare Stack§r is used for burning gasses such as §bUnsaturated Hydrocarbons§r for power, as well as dealing with excess fluids.%n%nThe §3Fluid Burner§r is a much more efficient way of producing power from gases. Place a §3Boiler§r ontop and run the §bSteam§r through a turbine to generate power.%n%nConsider installing a §6Muffler§r on some of these machines as they are very loud. Shift-Click on a machine while holding a Muffler to apply.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.name=Poder de Refinería
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAASw.desc=Los derivados del petróleo pueden ser quemados para producir cantidades masivas de energía.%n%nEl §3Motor de Combustión Industrial§r quema combustibles, como el §bAceite de Calefacción§r o §bDiesel§r para producir energía. Existen varios juegos de pistones, los cuales son necesarios para que el motor funcione, cada uno dando diferentes mejoras de eficiencia a los grados de combustible.%n%nEl §4§3Turboventilador§r es el mejor para utilizar combustibles de tipo aeronáutico, como el §bQueroseno§r, pues provee §e100%%§r de eficiencia energética. ¡Ten cuidado de no pararte en frente de este mientras está en funcionamiento!%n%nLa §3Turbina de Gas de Ciclo Combinado§r es el único generador que puede quemar combustibles gaseosos con §e100%%§r de eficiencia. La TGCC usa §3§bLubricante de Motor§r, y produce §bVapor Denso§r.%n%nLa §3Chimenea de Antorcha§r es usada para quemar gases como los §bHidrocarburos Insaturados§r para producir energía, así como lidiar con el exceso de fluidos.%n%nEl §3Quemador de Fluidos§r es una manera mucho más eficiente de producir energía con gases. Coloca una §3Caldera§r encima y pasa el §bVapor§r a través de una turbina para producir energía.%n%nCosidera instalar un §6Silenciador§r en algunas de estas máquinas pues son muy ruidosas. Has shift-click en una máquina mientras sujetas un silenciador para colocarlo.
 
 # Quest: Pumpjack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Pumpjack
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=The §3Pumpjack§r is a more efficient §3Oil Derrick§r which extracts 750mb of §bCrude Oil§r and a random amount of §bNatural Gas§r between 50 and 250mb in a 1.25 second cycle. It depletes a single block of a deposit after extracting a random number of cycles of oil that is on average twice as large compared to the derrick.%n%nIn total, this means that the pumpjack is on average 3x as efficient at extracting oil and 3x as fast at doing so while producing the same amount of natural gas as the derrick.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.name=Unidad de Bombeo
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATg.desc=La §3Unidad de Bombeo§r es como la §3Torre de Perforación Petrolífera§r pero más eficiente pues extrae 750mb de §bPetróleo Crudo§r y una cantidad aleatoria de §bGas Natural§r entre 50 y 250mb en un ciclo de 1.25 segundos. Este agota un solo bloque de un depósito de petróleo después de extraer un numero aleatorio de ciclos de petróleo que es el doble de largo en promedio comparado con la Torre de Perforación.%n%nEn total, esto significa que la unidad de bombeo es en promedio x3 más eficiente extrayendo petróleo y x3 más rápida al extraer mientras produce la misma cantidad de gas natural que la torre de perforación.
 
 # Quest: Ore Acidizer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.name=Ore Acidizer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.desc=The §3Ore Acidizer§r is a useful machine, used for processing various items for utility, ore multiplication, and more. It is powered by electricity and requires various solvents depending on the item. The acidizer is quite the power hungry machine, consuming §e20kHE/s§r. %n%n
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.name=Acidificador de Minerales
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAATw.desc=El §3Acidificador de Minerales§r es una máquina muy útil, utilizado para procesar varios objetos de utilidad, multiplicar minerales y más. Funciona con electricidad y requieres varios solventes dependiendo del objeto. El acidificador es una máquina hambrienta de energía, consume §e20kHE/s§r. %n%n
 
 # Quest: Hydraulic Fracking Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Hydraulic Fracking Tower
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=The §3Hydraulic Fracking Tower§r is used to extract infinite oil from a §eBedrock Oil Deposit§r. To operate, the machine needs §bFracking Solution§r. During its operation, the surrounding environment will sustain considerable damage. §6Oily Dirt§r and §6Oily Sand§r can be used to create §6Arsenic§r, a substitute of §6Bismuth§r.%n%nOperating the hydraulic fracking tower will consume §e100kHE/s§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.name=Torre de Fracturación Hidráulica
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUQ.desc=La §3Torre de Fracturación Hidráulica§r se utiliza para extraer petróleo infinito de §eYacimientos Petrolíferos de Bedrock§r. Para operar, la máquina necesita §bSolución para Fracking§r. Durante su funcionamiento, entorno circundante sufrirá daños considerables. §6Tierra Aceitosa§r y §6Arena Aceitosa§r pueden ser utilizadas para crear §6Arsénico§r, un sustituto del §6Bismuto§r.%n%nOperar la torre de fracturación hidráulica consumirá §e100kHE/s§r.
 
 # Quest: Centrifuge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.name=Centrifuge
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.desc=The §6§3Centrifuge§r allows for the seperation of ores, giving back more items than the usual mining method. It also seperates items into their respective items. Additionally, they are used in processing §e§6Bedrock Ores§r.%n%nOperating the centrifuge will consume §e4kHE/s§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.name=Centrifugadora
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUg.desc=La §6§3Centrifugadora§r permite la separación de minerales, extrayendo más recursos que los métodos usuales de minería. También separa los objetos en sus respectivos componentes. Adicionalmente, se utilizan en el procesamiento de §e§6Mineral de Bedrock§r.%n%nOperar la centrifugadora consumirá §e4kHE/s§r.
 
 # Quest: Electric Groundwater Pump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Electric Groundwater Pump
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=The §3Electric Groundpump§r can be used to quickly generate §bWater§r, making it very useful later on for filling large §3Tanks§r and reactors. The pump requires a 3x3 cube of dirt directly beneath it and must be below Y:70, otherwise it won't work.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.name=Bomba Eléctrica de Agua Subterránea
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAUw.desc=La §3Bomba Eléctrica de Agua§r puede ser utilizada para generar §bAgua§r rápidamente, haciéndola muy útil para llenar grandes §3Tanques§r y reactores. La bomba requiere un cubo de 3x3 de tierra directamente debajo de esta y debe estar debajo de Y:70, de otro modo no funcionará.
 
 # Quest: Industrial Solidification Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=Industrial Solidification Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=The §3Industrial Solidification Machine§r is a general use machine for the solidification of various fluids. An important product of this machine is §6Tar§r, which can be used to create §3Tanks§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.name=Máquina de Solidificación Industrial
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAVw.desc=La §3Máquina de Solidificación Industrial§r es una máquina de uso general para la solidificación de varios fluidos. Un producto importante de esta máquina es el §6Alquitrán§r, el cual es usado para crear §3Tanques§r.
 
 # Quest: Industrial Liquification Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Industrial Liquification Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=The §3Industrial Liquification Machine§r is a general use machine for the liquifying various items. It becomes very useful for cobblestone generation, and thus §6Silicon§r automation.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.name=Máquina de Licuefacción Industrial
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAWA.desc=La §3Máquina de Licuefacción Industrial§r es una máquina de uso general para la licuefacción de varios objetos. Se vuelve muy útil en la generación de roca, y por lo tanto la automatización del §6Silicio§r.
 
 # Quest: Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=Tank
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=§3Tanks§r and §3Barrels§r are useful storage devices that can hold various fluids in various amounts. Each tank and barrel supports holding different types of corrosive, hot, or exotic fluids, and knowing which ones can hold your desired fluids can be vital to your fluid processing and storage facilities.%n%nTanks can hold up to 256,000mb of fluids, while a Steel Barrel can hold 16,000.%n%n§4§2Tanks cant hold highly Antimatter and Corrosive fluids and as such a Big-Ass Tank 9000 or a Magnetic Tank is needed respectively.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.name=Tanque
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXg.desc=Los §3Tanques§r y §3Barriles§r son útiles dispositivos de almacenamiento que pueden contener diferentes fluidos en varias cantidades. Cada tanque y barril soporta contener diferentes tipos de fluidos corrosivos, calientes o exóticos, y saber cuál puede contener el fluido que tú quieres puede ser vital para tu planta de procesamiento de fluidos o almacén.%n%nLos tanques pueden contener hasta 256,000mb de fluido, mientras que un barril de acero puede contener hasta 16,000.%n%n§4§2Los tanques no pueden contener fluidos altamente corrosivos o antimateria y por lo tanto se requerirá respectivamente un Tanque Enorme o un Tanque Magnético.
 
 # Quest: Geiger Counter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=Geiger Counter
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=The §6Geiger counter§r is a device used to measure §eRAD/s§r, in order to inform the player of any eventual radiation. It is an upgrade to the §6Dosimeter§r. It can measure three different types of radiation, those types being chunk radiation, environmental radiation and player contamination.%n%nIt can be used in one of two forms, either as a hand-held item or in its block form.%n%nHolding it in the inventory will show a meter on the bottom left of the screen, and right clicking while holding it will send a message in chat showing the various doses of radiation.%n%nIt will also click whenever it reads any kind of radiation, a signature function of any dosimeter.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.name=Contador Geiger
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAXw.desc=El §6Contador Geiger§r es un dispositivo utilizado para medir §eRAD/s§r, con el fin de informar al jugador de cualquier radiación eventual. Es una mejora del §6Dosímetro§r. Puede medir tres tipos diferentes de radiación, esos tipos siendo radiación de chunk, radiación ambiental y contaminación del jugador.%n%nPuede ser utilizado en una de dos formas, ya sea como un objeto que se puede llevar en la mano o en su forma de bloque.%n%nTeniendolo en el inventario mostrara un medidor en la parte inferior izquierda de la pantalla y hacer click derecho mientras se sujeta mandara un mensaje al chat mostrando las diferentes dosis de radiación.%n%nTambien hará click cuando detecte cualquier tipo de radiación, una función característica de cualquier dosímetro.
 
 # Quest: Survey Scanner
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=Survey Scanner
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=The §6Survey Scanner§r is a handheld device that will point out underground resourse deposits, such as §eDepth Rock§r and §eBedrock Ores§r.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.name=Escáner de Reconocimiento
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAYA.desc=El §6Escáner de Reconocimiento§r es un dispositivo portable que señalara depósitos de recursos subterráneos, como §eRoca Profunda§r y §eMineral de Bedrock§r.
 
 # Quest: Launch Pad
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=Launch Pad
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=The §3Launch Pad§r is the main launch table for most missiles. Although it is the earliest available, missiles must first be erected before launch, resulting in a small delay.%n%nThe §3Silo Launch Pad§r is a miniaturized version of the launch pad. It can launch every generic missile with a delay of only 5 seconds. A rusted variant can be found in the naturally-occurring silo structure, holding the damaged Doomsday Missile.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.name=Plataforma de Lanzamiento
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAaw.desc=La §3Plataforma de Lanzamiento§r es la principal zona de despegue para la mayoría de los misiles. Aunque es la más accesible al inicio, los misiles deben ser erguidos antes del lanzamiento, resultando en un pequeño retraso.%n%nLa §3Plataforma de Lanzamiento de Silo§r es una versión miniaturizada de la plataforma de lanzamiento. Puede lanzar cualquier misil genérico con un retraso de solo 5 segundos. Una versión oxidada puede ser encontrada en la estructura de silo que se genera de forma natural, sosteniendo el misil Doomsday dañado.
 
 # Quest: Transport Drones
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=Transport Drones
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=§3Transport Drones§r are flying machines which will transport items and fluids between different containers. The drones require no power, and can transport both up and down. §3Waypoints§r can be used to make a better path for the transport drones to move around.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.name=Drones de Transporte
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAdg.desc=Los §3Drones de Transporte§r son máquinas voladoras las cuales transportan líquidos y objetos entre dos contenedores diferentes. El dron no requiere energía y puede transportar hacia abajo y hacia arriba. §3Puntos de Ruta§r pueden ser usados para crear un mejor camino para que el dron de transporte se mueva.
 
 # Quest: Electrolysis Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.name=Electrolysis Machine
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.desc=The §3Electrolysis Machine§r enables the separating of elements from fluids and the advanced processing of ores, making it an important machine in ore processing. Operating the machine consumes §e200kHE/s§r.%n%nThe electrolysis machine has 2 functions: one for the separation of fluids and one for ore processing.%n%nIn the first mode, the machine will take in a compatible fluid and separate it into 2 other fluids.%n%nIn the second mode, it will require §bNitric Acid§r and will process any kind of ore-derived crystal, allowing the maximum yield of the ore. There are 2 outputs, for the molten main product the outlet marked green and the secondary the one marked red, plus a byproduct kept in its item form. The outlets follow the same mechanics as the §3Crucible§r.%n%n§2Consider installing a Power Saving upgrade above level 2 on the electrolysis machine as it will significantly reduce the power consumption with only a minimal speed penalty.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.name=Máquina de Electrólisis
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAzA.desc=La §3Máquina de Electrólisis§r permite la separación de elementos de los fluidos y el procesamiento avanzado de minerales, haciéndola una máquina importante en el procesamiento de minerales. Operar la máquina consume §e200kHE/s§r.%n%nLa máquina de electrólisis tiene 2 funciones: una para la separación de fluidos y una para el procesamiento de minerales.%n%nEn el primer modo, la máquina tomara un fluido compatible y lo separara en otros 2 fluidos.%n%nEn el segundo modo, requerirá §bÁcido Nítrico§r y procesara cualquier cristal de derivado mineral, permitiendo obtener la mayor ganancia del mineral. Hay dos productos, para el producto fundido principal la boquilla marcada de verde y para el producto secundario la roja, a parte de un subproducto que se mantiene en forma de objeto. Las boquillas siguen las mismas mecánicas del §3Crisol§r.%n%n§2Considera instalar una mejora de ahorro de energía por encima del nivel 2 en la máquina de electrólisis pues reduce significativamente el consumo de energía con solo una penalización mínima de reducción de velocidad.
 
 # Quest: Semtex
 betterquesting.quest.D6A-to-oSe29nf5qIu4h_w.name=Semtex
