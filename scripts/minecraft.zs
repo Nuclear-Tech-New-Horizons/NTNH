@@ -7,6 +7,7 @@ recipes.remove(<minecraft:chainmail_chestplate>);
 recipes.remove(<minecraft:anvil>);
 recipes.remove(<minecraft:flint_and_steel>);
 recipes.removeShaped(<minecraft:cauldron>, [[<ore:ingotIron>, null, <ore:ingotIron>], [<ore:ingotIron>, null, <ore:ingotIron>], [<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]]);
+recipes.remove(<minecraft:iron_door>);
 
 
 recipes.removeShaped(<minecraft:fire>, [[<ore:cobblestone>, null, null], [<ore:cobblestone>, null, null], [<minecraft:dirt>, <minecraft:dirt>, <minecraft:dirt>]]);
@@ -24,3 +25,5 @@ recipes.remove(<minecraft:wooden_pickaxe>);
 recipes.addShapeless(<minecraft:stick> * 2, [<ore:treeSapling>]);
 
 recipes.addShaped(<minecraft:flint> * 2, [[<minecraft:gravel>, <minecraft:gravel>], [<minecraft:gravel>, null]]);
+
+recipes.addShaped(<minecraft:iron_door>, [[<ore:ingotIron>, <ore:ingotIron>], [<ore:ingotIron>, <ore:ingotIron>], [<ore:ingotIron>, <ore:ingotIron>]]);
