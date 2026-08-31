@@ -2,7 +2,8 @@
 
 ## What's changed?
 **Added**
-* 
+* Eggman's announcement
+* Curvy Pipes
 
 
 
@@ -13,11 +14,22 @@
 * Fixed nether quartz and lapis generation
 * Fixed missing measure tape recipe
 * Fixed weird-ass hopper crafting recipes
+* Fixed an exploit that allowed cheaters to grab items out of nowhere using Mass Storage Units
 
 
 
 **Changed**
 * Removed Lumy Skin Patch due to incompatibility w/ Et Futurum Requiem
+* Changed the behavior of the siphon
+    * Previously only worked when completely filling a single empty container, failing silently otherwise
+    * Now tops up compatible partially filled barrels first
+    * Then selects the largest compatible empty barrel and fills it completely or partially
+    * Continues through additional containers until the source is depleted
+    * Respects barrel restrictions, fluid type, pressure, and exact remaining amounts
+    * Safely separates stacked empty barrels when filling one
+    * Preserves existing registered-container and pipette behavior
+* Reverted Gergification until proper implementation
+    * Will probably come with the Stone Age update and/or Factorization update
 
 
 
