@@ -30,7 +30,13 @@
     * Preserves existing registered-container and pipette behavior
 * Reverted Gergification until proper implementation
     * Will probably come with the Stone Age update and/or Factorization update
-
+* Reworked Geological Surveyor
+    * 3 tiers available - Iron, Steel, Desh
+    * Different tiers have different accuracy
+    * The ores show on Journey/Xaero map, instead of creating an unreadable map item
+    * Ore overlay can be toggled
+    * Ore selection included
+    
 
 
 [Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.13.0...2.14.0)
