@@ -17,21 +17,21 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §6Multi Fluid Identifier§r is used to select the type of fluid one needs. Shift-Click while holding it to select a fluid.",
+      "desc:8": "Fluids are measured in §emB§r (§emilli-Buckets§r) and §eB§r (§eBuckets§r).\n\n1 bucket \u003d 1000mB.\n\nThere are two fluid systems that are currently barely incompatible between each other - §6Forge Fluids§r, which is the system that most of the mods are using, and §6NTM Fluids§r, which is the fluid system that is exclusive to NTM.\n\nThe §6Multi Fluid Identifier§r is used to select the type of NTM fluid one needs. Shift-Click while holding it to select a fluid.\n\nThose two systems are not compatible directly, however there is a solution called §3Bob Fluid Translator§r. This machine allows to convert NTM Fluids into Forge Fluids. Simply put an universal identifier at the top slot of the machine and then input the desired fluid.\n\nAE2 is only compatible with Forge Fluids.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 1000,
+        "Damage:2": 32767,
         "OreDict:8": "",
         "id:8": "hbm:item.fluid_identifier_multi",
         "tag:10": {
-          "fluid1:3": 0
+          "fluid1:3": 211
         }
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Multi Fluid Identifier",
+      "name:8": "Fluids",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -57,8 +57,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 3709165889337052199,
-  "questIDLow:4": -6637625639704075862,
+  "questIDHigh:4": 3163659380794018993,
+  "questIDLow:4": -7001378495623077346,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -76,11 +76,47 @@
           "OreDict:8": "",
           "id:8": "hbm:item.fluid_identifier_multi",
           "tag:10": {
-            "fluid1:3": 0
+            "fluid1:3": 211
           }
         }
       },
       "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "bobfluidtranslator:universalTank"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "bobfluidtranslator:universalTankLarge"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }
