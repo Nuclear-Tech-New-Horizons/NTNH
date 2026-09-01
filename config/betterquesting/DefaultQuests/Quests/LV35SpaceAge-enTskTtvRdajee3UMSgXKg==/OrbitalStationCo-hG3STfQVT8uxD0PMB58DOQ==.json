@@ -3,6 +3,10 @@
     "0:10": {
       "questIDHigh:4": -459311557983844238,
       "questIDLow:4": -4917811753452828171
+    },
+    "1:10": {
+      "questIDHigh:4": -3932849537190903247,
+      "questIDLow:4": -6851211685894932829
     }
   },
   "properties:10": {
@@ -25,7 +29,7 @@
         "OreDict:8": "",
         "id:8": "hbm:tile.orbital_station_computer"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Orbital Station Computer",
@@ -44,7 +48,7 @@
       "notification_title:8": "",
       "notification_title_scale:5": -1.0,
       "particle_count:3": -1,
-      "questLogic:8": "AND",
+      "questLogic:8": "OR",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
       "simultaneous:1": 0,
