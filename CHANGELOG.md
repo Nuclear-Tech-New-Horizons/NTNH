@@ -8,6 +8,10 @@
     * NTM fluids can be imported and exported into/out of ME system
     * All the mods that use Forge Fluids see and use NTM fluids
     * Fluid tanks are recognized as fluid storage
+        * Just like the water bucket
+    * Use universal fluid identifier or a fluid container to set the ID
+    * Pippetes also work!
+    * Containers can be refilled/emptiet too
 
 
 
@@ -19,6 +23,7 @@
 * Fixed missing measure tape recipe
 * Fixed weird-ass hopper crafting recipes
 * Fixed an exploit that allowed cheaters to grab items out of nowhere using Mass Storage Units
+* Fixed tileentity wobbling caused by nausea
 
 
 
@@ -40,7 +45,8 @@
     * The ores show on Journey/Xaero map, instead of creating an unreadable map item
     * Ore overlay can be toggled
     * Ore selection included
-    
+* Added "High" effect caused by "spongeboy me bob i am overdosing on ketamine agagagaga"
+
 
 
 [Full Changelog](https://github.com/Nuclear-Tech-New-Horizons/NTNH/compare/2.13.0...2.14.0)
