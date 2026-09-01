@@ -4,6 +4,11 @@
 **Added**
 * Eggman's announcement
 * Curvy Pipes
+* Full Forge Fluids <-> NTM Fluids compat
+    * NTM fluids can be imported and exported into/out of ME system
+    * All the mods that use Forge Fluids see and use NTM fluids
+    * Fluid containers can be used to manually put fluid into the system
+    * Fluid tanks are recognized as fluid storage
 
 
 
