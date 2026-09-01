@@ -63,7 +63,7 @@
           <br />
           <sub><b>Bufka2011</b></sub></a>
         <br />
-        <sub><b>448454 words</b></sub>
+        <sub><b>448457 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/BufkaSecond"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/16895253/medium/0b29547a406506ea79d4bbd68608d6ed.png" />
@@ -221,6 +221,15 @@
         <sub><b>1020 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/Aftobus01"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17417268/medium/e9c84f6ebc8f556b18993c7a5b1d8d78.jpeg" />
+          <br />
+          <sub><b>Aftobus01</b></sub></a>
+        <br />
+        <sub><b>2311 words</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/itxv"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17848497/medium/0f7d2fb932135516b0af96f7dfbe9f98.jpg" />
           <br />
           <sub><b>Võ Hoàng Quốc Bảo</b></sub>
@@ -228,15 +237,6 @@
           <sub><b>(itxv)</b></sub></a>
         <br />
         <sub><b>868 words</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/Aftobus01"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17417268/medium/e9c84f6ebc8f556b18993c7a5b1d8d78.jpeg" />
-          <br />
-          <sub><b>Aftobus01</b></sub></a>
-        <br />
-        <sub><b>1019 words</b></sub>
       </td>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/Dorito64"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17661920/medium/57974a2732c0aa9e8be92407e026a8b5.gif" />
@@ -430,6 +430,15 @@
         <sub><b>120 words</b></sub>
       </td>
       <td align="center" valign="top">
+        <a href="https://crowdin.com/profile/tiagolima13"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17231268/medium/45c25c8ad3b330434c8adc10eabc7931.jpeg" />
+          <br />
+          <sub><b>Tiago Lima</b></sub>
+          <br />
+          <sub><b>(tiagolima13)</b></sub></a>
+        <br />
+        <sub><b>118 words</b></sub>
+      </td>
+      <td align="center" valign="top">
         <a href="https://crowdin.com/profile/petzoldleos"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17837769/medium/e173083ef4ceb9c552c82d07f5e5e514.jpeg" />
           <br />
           <sub><b>Leoš Petzold</b></sub>
@@ -456,6 +465,8 @@
         <br />
         <sub><b>52 words</b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <a href="https://crowdin.com/profile/kaf_1984"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17830201/medium/3f3ef0ea79c9cc0d60dd2f84aeb9516f.jpeg" />
           <br />
@@ -464,17 +475,6 @@
           <sub><b>(kaf_1984)</b></sub></a>
         <br />
         <sub><b>36 words</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://crowdin.com/profile/TiBoio"><img alt="logo" style="width: 50px" src="https://crowdin-static.cf-downloads.crowdin.com/avatar/17231268/medium/45c25c8ad3b330434c8adc10eabc7931.jpeg" />
-          <br />
-          <sub><b>Tiago Lima</b></sub>
-          <br />
-          <sub><b>(TiBoio)</b></sub></a>
-        <br />
-        <sub><b>34 words</b></sub>
       </td>
     </tr>
   </tbody>
