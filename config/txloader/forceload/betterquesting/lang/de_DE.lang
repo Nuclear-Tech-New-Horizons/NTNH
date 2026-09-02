@@ -39,15 +39,15 @@ betterquesting.quest.4i9qqJhbSgC0UQ8pB9PD4g.desc=The §3Flare Stack§r is a gene
 
 # Quest: Batteries
 betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.name=Batterien
-betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=The §3Battery Socket§r is used to hold §6Batteries§r or §6Capacitors§r.%n%nBatteries have more energy storage, but a slower discharge time, meaning that only a small amount of stored power can be outputted to the grid.%n%nCapacitors on the other hand, have less energy storage, but a faster discharge time.
+betterquesting.quest.5Cydbu41QH-GnEo1um0Qjw.desc=Die §3Batteriehalterung§r wird benutzt, um §6Batterien§r oder §6Kondensatoren §r zu halten.%n%nBatterien haben im direkten Vergleich mehr Speicherkraft, aber entladen langsamer. Das führt dazu, dass sie nur wenig gespeicherte Energie ins Energienetzwerk abgegeben können.%n%nKondensatoren hingegen haben weniger Speicherkraft, aber entladen sich deutlich schneller.
 
 # Quest: Stone Age
 betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.name=Steinzeit
-betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Welcome to the Stone Age. This stage covers the essential survival mechanics you will need to progress, as well as several changes made to vanilla Minecraft that affect how you play from the very beginning.%n%nWork through the quests in this chapter to get up to speed before moving on.%n%n§2Complete these quests before progressing - later stages assume you know this material.§r
+betterquesting.quest.63Mkw5ZqT6iefbQvFZ_EDQ.desc=Willkommen in der Steinzeit. In dieser Phase werden alle essenziellen Überlebensmechaniken zum Vorankommen, sowie verschiedene Änderungen an vanilla-Minecraft behandelt, die den Spielstil von Anfang an beeinflussen.%n%nArbeite an den Quests in diesem Kapitel ab, um dich vor dem Weiterspielen auf den neuesten Stand zu bringen.%n%n§2Schließe lieber alles ab bevor es weiter geht - spätere Phasen erwarten, dass du alles hier schon weißt.§r
 
 # Quest: Nailed It!
 betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.name=Nailed It!
-betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=The §6Hammer§r is a tool from §dEx Nihilo§r used to crush blocks down into finer forms. Its primary role is producing the materials needed for the §3Sieve§r: cobblestone is crushed into gravel, gravel into sand, and sand into dust, each of which can be sieved for different resources.%n%nTo use it, simply break a target block with the §6Hammer§r as you would with a pickaxe. Hammers come in the standard tool tiers -%nwood through diamond - and differ only in durability. They can be enchanted, though the available enchantments differ from those on a pickaxe.%n%nOres can also be hammered down through a multi-step crushing chain. Each step has a small chance to yield bonus%nmaterial, making the §6Hammer§r a basic form of ore multiplication before dedicated processing machines are available.%n%n§2Hammering can be automated with machines that simulate block breaking, such as the Auto Hammer from §dEx Compressum§r§2.%n§2Check NEI for the full crushing chain of any block.
+betterquesting.quest.6l98ozdcQFqJOan6BC4kMA.desc=Der §6Hammer§r ist ein Werkzeug von §dEx Nihilo§r, das Blöcke in ihre feineren Formen zerkleinert. Seine primäre Aufgabe ist es, die Materialien für das §3Sieb§r herzustellen: Bruchstein wird zu Kies umgewandelt, dieser zu Sand und jener zu Dust, wobei alle für verschiedene Ressourcen gesiebt werden können.%n%nZerstöre mit dem §6Hammer§r einfach einen Block, wie du es auch mit einer Spitzhacke tun würdest um ihn zu benutzen. Hammer können aus den selben Materialien wie andere Werkzeuge auch hergestellt werden - %n also Holz bis Diamant: der einzige Unterschied ist die Haltbarkeit. Außerdem können sie verzaubert werden, aber die verfügbaren Verzauberungen unterscheiden sich von denen für Spitzhacken.%n%nErze können auch zerkleinert werden - allerdings nur über mehrere Schritte. Bei jedem Schritt gibt es eine kleine Chance, Bonusmaterialien %nzu bekommen. Das macht den §6Hammer§r zu einer einfachen Art von Erzmultiplikation, die vor hierfür gedachten Maschinen erspielt werden kann.%n%n§2Das Hämmern kann durch Maschinen automatisiert werden, die wie z. b. der Auto Hammer §dEx Compressum§r das Zerstören von Blöcken simulieren§2.%n§2Alle Zerkleinerungsprozesse kannst du immer in NEI nachsehen.
 
 # Quest: Cable Network Analysis Tool
 betterquesting.quest.9FPuQxhjSHmPmrCwdfRZRw.name=Kabelnetzanalysewerkzeug
@@ -63,15 +63,15 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0A.desc=With the §6§3Automatic Buzz S
 
 # Quest: Industrial Mixer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.name=Industriemixer
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=The §3Industrial Mixer§r is a machine that is used to mix a fluid with an item and/or another fluid. It can be used instead of a §3Chemical Plant§r for some recipes.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAA0w.desc=Der §3Industrielle Mixer§r ist eine Maschine, die eine Flüssigkeit mit einer anderen und/oder einem Item mixen kann. Er kann außerdem das §3Chemiewerk§r für ein paar Rezepte ersetzen.
 
 # Quest: Anvil
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.name=Amboss
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Anvils§r are a tiered crafting station that allows for the creation of various machines, structures, and items in some cases. There are multiple tiers of anvils with greater anvil tier primarily corresponding to a greater quantity of recipes being available.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAAw.desc=§3Ambosse§r sind mehrstufige Crafting-Stationen, mit denen Maschinen, Strukturen und teilweise auch Items hergestellt werden können. Die Amboss-Stufe bestimmt, wie viele Rezepte zur Auswahl stehen.
 
 # Quest: Burner Press
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.name=Brennerpresse
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=The §3Presses§r are machines that can be used to make §6Plates§r, §6Wires§r, §6Circuits§r, §6Bullet Casings§r as well as §6Compressing§r non-smeltable powders back into their normal form. They require §6Stamps§r to work, which can be made from the basic §6Flat Stamp§r on the §6Iron Anvil§r.%n%n§2A preheater can be placed next to the Burner Press to increase its speed.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAABA.desc=§3Pressen§r sind Maschinen, mit denen §6Platten§r, §6Kabel§r, §6Schaltkreise§r & §6Hülsen§r hergestellt und nicht-schmelzbare Pulver in ihre normale Form §6gepresst§r werden können. Sie brauchen §6Pressen§r zum Arbeiten, welche mit einfachen §6Flachen Stempeln§r in einem §6Eisenamboss§r hergestellt werden können.%n%n§2 Ein Vorheizer kann neben einer Befeuerten Presse platziert werden um ihre Arbeitsgeschwindigkeit zu erhöhen.
 
 # Quest: Blast Furnace
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAACQ.name=Schmelzofen

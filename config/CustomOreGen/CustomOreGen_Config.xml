@@ -513,6 +513,38 @@
                     <Biome name="Ocean" />
                 </Cloud>
 
+                <!-- Remove vanilla-generated lapis so COG can replace it -->
+                <Substitute name="LapisLazuliReplace"
+                            block="stone">
+                    <Replaces block="minecraft:lapis_ore" />
+                </Substitute>
+
+                <!-- Remove vanilla-generated nether quartz so COG can replace it -->
+                <Substitute name="NetherQuartzReplace"
+                            block="minecraft:netherrack">
+                    <Replaces block="minecraft:quartz_ore" />
+                </Substitute>
+
+                <!-- === LAPIS LAZULI: clustered deposits near Y=16, all biomes === -->
+                <StandardGen name="LapisLazuli"
+                             block="minecraft:lapis_ore">
+                    <Setting name="Size" avg=":= 4.0 * oreSize" range=":= 2.0 * oreSize" type="normal" />
+                    <Setting name="Frequency" avg=":= 0.667 * oreFreq" range=":= 0.33 * oreFreq" type="normal" scaleTo="base" />
+                    <Setting name="Height" avg="16" range="0" type="normal" scaleTo="base" />
+                    <Biome name=".*" />
+                    <ReplacesOre block="stone" />
+                </StandardGen>
+
+                <!-- === NETHER QUARTZ: large deposits throughout netherrack === -->
+                <StandardGen name="NetherQuartz"
+                             block="minecraft:quartz_ore">
+                    <Setting name="Size" avg=":= 10.667 * oreSize" range=":= 5.33 * oreSize" type="normal" />
+                    <Setting name="Frequency" avg=":= 8.667 * oreFreq" range=":= 4.33 * oreFreq" type="normal" scaleTo="base" />
+                    <Setting name="Height" avg="59" range="49" type="uniform" scaleTo="base" />
+                    <Biome name=".*" />
+                    <Replaces block="minecraft:netherrack" />
+                </StandardGen>
+
                 <!-- === Roofed Forest === -->
                 <Cloud name="RoofedForest"
                        block="hbm:tile.ore_fluorite" inherits="PresetBiomeCloudMedium">

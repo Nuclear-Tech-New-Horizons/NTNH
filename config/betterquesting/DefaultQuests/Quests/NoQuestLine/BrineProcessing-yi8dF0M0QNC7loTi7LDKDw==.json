@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 4
+      "questIDHigh:4": 5414272911860649617,
+      "questIDLow:4": -5022717249602231752
     }
   },
   "properties:10": {
@@ -17,21 +17,18 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §6Multi Fluid Identifier§r is used to select the type of fluid one needs. Shift-Click while holding it to select a fluid.",
+      "desc:8": "§bBrine§r, which is found in deposits similar to oil ones on earth, can be processed to obtain materials such as §6Nickel§r, §6Copper§r and §6Sulfur§r, and fluids such as §bHydrogen§r and §bOxygen§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 1000,
+        "Damage:2": 162,
         "OreDict:8": "",
-        "id:8": "hbm:item.fluid_identifier_multi",
-        "tag:10": {
-          "fluid1:3": 0
-        }
+        "id:8": "hbm:item.fluid_icon"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Multi Fluid Identifier",
+      "name:8": "Brine Processing",
       "notification_duration:5": -1.0,
       "notification_effect:3": -1,
       "notification_fade_in:5": -1.0,
@@ -57,8 +54,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 3709165889337052199,
-  "questIDLow:4": -6637625639704075862,
+  "questIDHigh:4": -3877848768393756464,
+  "questIDLow:4": -4929606631941944817,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -72,12 +69,9 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 32767,
+          "Damage:2": 162,
           "OreDict:8": "",
-          "id:8": "hbm:item.fluid_identifier_multi",
-          "tag:10": {
-            "fluid1:3": 0
-          }
+          "id:8": "hbm:item.fluid_tank_full"
         }
       },
       "taskID:8": "bq_standard:retrieval"
