@@ -237,9 +237,9 @@ betterquesting.quest.ItX_qnZpQCuDSxSoHuKmsA.desc=从林木农场获得的§6原�
 betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.name=HE→RF转换器
 betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.desc=§3HE→RF转换器§r可将 NTM 设备产生的能量转化为适用于§d应用能源§r和§3%nd开放式计算机§r可用的RF能量。该转换器拥有超大容量内部能量缓冲，因此建议使用二极管限制能量通量。可将 NTM 设备产生的能量转化为适用于物质能源网络和开放式计算机的可用能量。
 
-# Quest: Multi Fluid Identifier
-betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.name=多类型流体识别码
-betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=§6多类型流体识别码§r用于选择所需的流体类型。按住Shift点击来选择相应的流体。
+# Quest: Fluids
+betterquesting.quest.K-eTce6PTLGe1htaZlPiHg.name=Fluids
+betterquesting.quest.K-eTce6PTLGe1htaZlPiHg.desc=Fluids are measured in §emB§r (§emilli-Buckets§r) and §eB§r (§eBuckets§r).%n%n1 bucket = 1000mB.%n%nThere are two fluid systems that are currently barely incompatible between each other - §6Forge Fluids§r, which is the system that most of the mods are using, and §6NTM Fluids§r, which is the fluid system that is exclusive to NTM.%n%nThe §6Multi Fluid Identifier§r is used to select the type of NTM fluid one needs. Shift-Click while holding it to select a fluid.%n%nThose two systems are not compatible directly, however there is a solution called §3Bob Fluid Translator§r. This machine allows to convert NTM Fluids into Forge Fluids. Simply put an universal identifier at the top slot of the machine and then input the desired fluid.%n%nAE2 is only compatible with Forge Fluids.
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=已知问题

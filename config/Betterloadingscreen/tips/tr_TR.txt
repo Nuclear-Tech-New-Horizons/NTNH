@@ -119,7 +119,6 @@ Supersymmetry zirvedir.
 bob lftn 1.20'ye portla
 1.8.9 portu çok yakında olacak bana güvenin biladerlerim.
 Meteorlar var. Çatı inşa et. (#1)
-Maden eritme ocağının geliştirmeleri hızı artırdığı gibi yakıt tüketimini de artırır. (#2)
 Su için kovaları kullanmak istemiyor musun? Sınırsız Fıçı kullan. (#3)
 Demir fırınlar daha yakıt tasarruflu, boşta iken yakıt yakmazlar. (#4)
 Yardım için F1 bas. (#5)

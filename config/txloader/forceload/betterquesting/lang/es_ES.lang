@@ -237,9 +237,9 @@ betterquesting.quest.ItX_qnZpQCuDSxSoHuKmsA.desc=§6Madera§r obtenida de una gr
 betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.name=Convertidor HE a RF
 betterquesting.quest.JcBabPI8RzGGmai3SwlcLw.desc=El §3Convertidor HE a RF§r convertirá energía producida por las máquinas de NTM a energía utilizable para la §dRed Materia Energía§r y §dOpenComputers§r. Tiene una capacidad de almacenamiento interno muy grande así que es recomendado utilizar un diodo para limitar el consumo de energía.
 
-# Quest: Multi Fluid Identifier
-betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.name=Identificador Multi Fluido
-betterquesting.quest.M3mauW7uTCej4mql-Wnhqg.desc=El §6Identificador Multi Fluido§r se usa para seleccionar el tipo de fluido que necesites. Has shift-click mientras lo sujetas para seleccionar un fluido.
+# Quest: Fluids
+betterquesting.quest.K-eTce6PTLGe1htaZlPiHg.name=Fluids
+betterquesting.quest.K-eTce6PTLGe1htaZlPiHg.desc=Fluids are measured in §emB§r (§emilli-Buckets§r) and §eB§r (§eBuckets§r).%n%n1 bucket = 1000mB.%n%nThere are two fluid systems that are currently barely incompatible between each other - §6Forge Fluids§r, which is the system that most of the mods are using, and §6NTM Fluids§r, which is the fluid system that is exclusive to NTM.%n%nThe §6Multi Fluid Identifier§r is used to select the type of NTM fluid one needs. Shift-Click while holding it to select a fluid.%n%nThose two systems are not compatible directly, however there is a solution called §3Bob Fluid Translator§r. This machine allows to convert NTM Fluids into Forge Fluids. Simply put an universal identifier at the top slot of the machine and then input the desired fluid.%n%nAE2 is only compatible with Forge Fluids.
 
 # Quest: Known Issues
 betterquesting.quest.MNH6qakfTrC7Jbky4i_Epw.name=Problemas Conocidos
