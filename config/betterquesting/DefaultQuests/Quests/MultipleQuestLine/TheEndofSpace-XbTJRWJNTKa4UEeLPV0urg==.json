@@ -8,6 +8,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "Well, you\u0027ve completed the space stage of the game; now the entire space knows and fears you (you are a true space pirate). Here are a couple more nuances about the §3Dyson swarm§r:\n\n§2Do not place §3converters§r directly next to the §3receiver§r - this will cause a malfunction.§r\n\n§2Multiple players in the same game world can create multiple §3swarms§r, but keep in mind that different swarms reduce each other\u0027s §eefficiency§r. This can encourage players to either work together on one common §3swarm§r or compete to extract more §eenergy§r from their own §3swarm§r.§r",
       "globalShare:1": 0,
       "icon:10": {
@@ -20,6 +29,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "The End of Space...",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "OR",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,

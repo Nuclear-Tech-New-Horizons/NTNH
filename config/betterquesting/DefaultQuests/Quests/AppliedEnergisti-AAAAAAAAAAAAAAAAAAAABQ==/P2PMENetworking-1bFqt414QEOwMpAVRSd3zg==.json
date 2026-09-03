@@ -8,6 +8,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "§3P2P ME§r can be used to transport massive amounts of channels without laying many cables.\n\n§2This quest serves as a guide on how to effectively use P2P ME.§r\n\nOnce an §3Energy Acceptor§r has been set up, it is highly recommended (and likely needed) that an §3Energy Cell§r is placed next to it as to ensure that there is enough power going to the system, as more components increase the energy demands of the ME system.\n\nAfter that, 2 §3ME Controllers§r are required, one to provide the channels that machines will use, and another to transport the other\u0027s channels by the P2P connections. The top controller can be made bigger by attaching more controllers next to it.\n\n[img height\u003d1000]betterquesting:textures/QB_Controller1.png[/img]\n\nAfter the controllers are placed, on the top controller, a P2P Tunnel - ME needs to be placed on any side. The §9Blue Cable§r will serve as the cable that connects the P2P connections, and as such, it needs to be connected to the bottom controller.\n\n[img height\u003d1000]betterquesting:textures/QB_Controller2.png[/img]\n\nBy linking the P2P connections together using a §6Memory Card§r, the 32 channels from one side of the top controller will only use 1 channel from the bottom controller to be transported to any destination. The §cRed Cable§r now has access to 32 channels.\n\n[img height\u003d1000]betterquesting:textures/QB_Controller3.png[/img]\n\n[img height\u003d1000]betterquesting:textures/QB_Controller4.png[/img]\n\nBy expanding on the previous example, more connections can be added to fully utilize all channels.\n\n[img height\u003d1000]betterquesting:textures/QB_Controller5.png[/img]\n\n[img height\u003d1000]betterquesting:textures/QB_controller6.png[/img]\n",
       "globalShare:1": 0,
       "icon:10": {
@@ -20,6 +29,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "P2P ME Networking",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,

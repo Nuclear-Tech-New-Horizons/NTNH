@@ -12,6 +12,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "Parallelisation of processes can significantly cut down on waiting time and as such it is highly recommended that P2P Interfaces are used.\n\n§2This quest serves as a guide on how to use P2P Interfaces.§r\n\nAs any P2P Connection goes, there needs to be one input, which in this case, holds the §6ME Patterns§r.\n\n[img height\u003d1000]betterquesting:textures/QB_P2P_Interface1.png[/img]\n\nAfter patterns are inserted in the first P2P interface, place down the rest of the output interfaces you want and link them together using a §6Memory Card§r.\n\nIn the image below, the P2P interface highlighted in green stores the patterns, while the ones in blue, are the output ones which will connect machines to the ME system.\n\n[img height\u003d1000]betterquesting:textures/QB_P2P_Interface2.png[/img]\n\nMake sure to have blocking mode enabled on all output P2P interfaces as to prevent clogging and having multiple recipes trying to be executed at once in the same machine.\n\n[img height\u003d1000]betterquesting:textures/QB_P2P_Interface3.png[/img]\n\nFinally, place your desired machines at the output P2P interfaces and add a way of retrieving the items once the operation is done, in this case import buses.\n\n[img height\u003d1000]betterquesting:textures/QB_P2P_Interface4.png[/img]\n",
       "globalShare:1": 0,
       "icon:10": {
@@ -24,6 +33,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "P2P Interface Parallelisation",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
