@@ -49,8 +49,8 @@
       "notification_title_scale:5": -1.0,
       "particle_count:3": -1,
       "questLogic:8": "AND",
-      "repeatTime:3": 60,
-      "repeat_relative:1": 1,
+      "repeatTime:3": -1,
+      "repeat_relative:1": 0,
       "simultaneous:1": 0,
       "snd_complete:8": "random.levelup",
       "snd_update:8": "random.levelup",
@@ -60,21 +60,7 @@
   },
   "questIDHigh:4": -6105693297056005552,
   "questIDLow:4": -5541291332173017941,
-  "rewards:9": {
-    "0:10": {
-      "ignoreDisabled:1": 0,
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 1,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "hbm:item.coin_ufo"
-        }
-      }
-    }
-  },
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
       "autoConsume:1": 0,

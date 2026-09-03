@@ -71,3 +71,21 @@
     <OptionalImport file="modules/custom/*.xml" />
 
 </Config>
+
+                <Veins name="Tekto_Lithium"
+                       block="hbm:tile.ore_lithium:10" inherits="PresetTekto">
+                    <Setting name="MotherlodeHeight" avg="39" range="10" />
+                </Veins>
+
+                <Veins
+                    name="Tekto_Plutonium" block="hbm:tile.ore_plutonium:10" inherits="PresetTekto">
+                    <Setting name="MotherlodeHeight" avg="15" range="5" />
+                </Veins>
+
+                <Veins
+                    name="Tekto_Beryllium" block="hbm:tile.ore_beryllium:10" inherits="PresetTekto">
+                    <Setting name="MotherlodeHeight" avg="55" range="10" />
+                </Veins>
+
+            </ConfigSection>
+        </Config>

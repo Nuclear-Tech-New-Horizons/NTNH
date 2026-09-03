@@ -1,8 +1,8 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 4
+      "questIDHigh:4": 3163659380794018993,
+      "questIDLow:4": -7001378495623077346
     }
   },
   "properties:10": {
@@ -17,7 +17,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §3Blast Furnace§r is the foundation of early-game alloying, capable of fusing two compatible inputs into materials such as §6Steel§r, §6Star Metal§r, and §6Red Copper§r. Craft it at a §3Tier 1 Anvil§r from stone bricks, firebricks, and copper plates.\n\nPlace two compatible materials in the top and bottom slots - order does not matter. The furnace accepts inputs in both ingot and powder form. Fuel it with coal, coke, or other solid fuels; coke and solid fuel fill the fuel bar more efficiently than plain coal. Every operation also produces §6Slag§r and §bFlue Gas§r as byproducts.\n\nFor faster processing, pipe §bHot Air§r into the furnace at §e200 mB/t§r to accelerate it up to §e500%§r of its base speed.\n\n§2Tip: Burn the Flue Gas byproduct in a Flare Stack to recover a small amount of power.§r",
+      "desc:8": "The §3Blast Furnace§r is a solid fuel-powered furnace used to create different alloys out of two inputs. The main starter alloys are: §6Minecraft Grade Copper§r and §6Steel§r. Inserting §bHot Air Blast§r, made by putting §bCompressed Air§r in a §3Boiler§r, grants all recipes a §e3x§r boost.\n§bFlue Gas§r produced from operating the machine can be burnt for energy or vented into the atmosphere.\n\nSteel tools come equiped with vein mining, making them an excellent early-game tool.\n\n§2For more advanced tools later on, pressing the ALT key will bring up a menu from which one can select multiple abilities at once.§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -1,169 +1,169 @@
-#Tips for the loading screen
-#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#Conseils pour l'écran de chargement
+#Merci à 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, Lewissaber, Nvidiot, Regian24, richardhendricks, yukieiji et bien d'autres encore pour leurs suggestions d'astuces
 #
-#Maximal characters for a tip: 77 (more can go out of the screen)
-#The line below, including the "#" are 77 chars
+#Nombre maximal de caractères pour un pourboire : 77 (les caractères supplémentaires peuvent ne pas s'afficher à l'écran)
+#La ligne ci-dessous, incluant le caractère "#", comprend 77 caractères
 #Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
 #
-Got a question? Join our Discord server: discord.gg/wtNVzeE5QB
-You can bind the quests menu to a key, instead of using the book
-Be sure to check out what you can do with Mouse Tweaks
-Literally flint and steel!
-Adventurer's backpack: integrated crafting grid, bed and fluid storage
-Beware of pollution!
-Found a bug? Report it on GitHub or Discord
-You can bookmark items with NEI ("a" by default)
-It's NEI, not JEI. Use it frequently.
-Your pick is not ready
-Also try GT:NH!
-Put the "Mine" back in Minecraft
-Don't go out at night!
-Abandon all vanilla knowledge all ye who enter here
-Sometimes it's better to flee than fight some mobs
-Be prepared to take hours to build a single multiblock machine!
-Press F7 to see spots where mobs can spawn!
-Press F9 to see chunk borders!
-Microcrafting is love, microcrafting is life
-How many circuits have you crafted in your life?
-XAERO's WORLD MAP: PRESS[M]
-sqrt(-1) loves you!
-(MultiMC > Curse) && (Technic > Curse): true
-All you had to do was tho follow the damn quest line, CJ!
-Click on an item in the quest book to show its recipe in NEI
-Why not visit Nuclear Tech? We have... hydrogen bombs
-If it's too tedious you're doing it wrong
-Do you also watch your oven while baking food?
-There's always something else you can do while waiting
-Use F3 + S to reload the sound if it's gone
-Life's all about opening issues, not closing them - Rongmario
-Visit r/feedthemems!
+Vous avez une question ? Rejoignez notre serveur Discord : discord.gg/wtNVzeE5QB
+Vous pouvez attribuer une touche au menu des quêtes, au lieu d'utiliser le livre
+N'oubliez pas de découvrir tout ce que vous pouvez faire avec Mouse Tweaks
+Littéralement, du silex et de l'acier !
+Sac à dos de l'aventurier : grille d'artisanat intégrée, lit et compartiment de stockage de liquides
+Attention à la pollution !
+Vous avez repéré un bug ? Signalez-le sur GitHub ou Discord
+Vous pouvez mettre en favoris les éléments avec NEI ("a" par défaut)
+C'est NEI, pas JEI. Utilisez-le fréquemment.
+Votre sélection n'est pas prête.
+Essayez aussi GT:NH !
+Redonnez tout son sens au « Mine » de Minecraft.
+Ne sors pas la nuit !
+Abandonnez toute connaissance de la version de base, vous qui entrez ici.
+Parfois, il vaut mieux fuir que combattre des monstres
+Préparez-vous à prendre des heures pour construire une seule machine multibloc!
+Appuyez sur F7 pour voir où les créatures peuvent apparaître !
+Appuyez sur F9 pour voir les bordures des chunks !
+Le micro-crafting, c'est l'amour ; le micro-crafting, c'est la vie.
+Combien de circuits avez-vous fabriqué dans votre vie ?
+XAERO's WORLD MAP: APPUYEZ SUR [M]
+sqrt(-1) vous aime !
+(MultiMC > Curse) && (Technic > Curse): vrai
+Fallait juste suivre cette putain de quête, CJ!
+Cliquez sur un objet dans le livre de quêtes pour afficher sa recette dans NEI.
+Pourquoi ne pas visiter Nuclear Tech ? Nous avons... bombes à hydrogène
+Si c'est trop fastidieux, c'est que vous vous y prenez mal.
+Surveillez-vous aussi votre four pendant la cuisson des aliments ?
+Il y a toujours autre chose à faire en attendant.
+Utilisez F3 + S pour recharger le son s'il a disparu.
+La vie consiste à ouvrir des questions, pas à les fermer - Rongmario
+Visitez r/feedthemems!
 I WANT ROCKET I WANT MOON - St4o
-Hello @Bufka2011 why did you copied our (GTNH) rules :kekwhat:
-Did you already crafted AE2 system?
-Press O to hide NEI overlay
-Also try GregTech: New Horizons!
-3.6 Roentegen?
-Factory Must Grow!
-Have you tried Schematica?
-There is a swarm ahead!
-Beware of glyphids
-Hydrogen Bomb VS Coughing Baby
-Say hello to DreamMaster from Bufka2011!
-What? Warden is a hard boss? Pfft... Martian Invasion Ship
-This is not a bug, this is an anomaly!
-ZIRNOX going brrrrrr
-Oh no, ZIRNOX going BOOOOOM
-PotatOS is funny :D
-Did you checked graphics settings?
-How much RAM do you have? 6GB for NT:NH is perfect!
-Do not ragequit
-Historically accurate! Maybe...
-50% scientific accurate!
-How about to share this modpack with your friends?
-The freaking meteorite landed INSIDE our rock cave!
-Yaaay, pollution! >:D
-Oh no, pollution. :(
-Do you have radiation protection with you?
-Be sure to check out if there is a new update!
-The best way to process ore is Acidizer + Centrifuge
-Crystallized ore gives you 2 ingots when smelting
-NTM's Electric Furnaces are must!
-Don't mine coal without breathing protection
-Number One Asbestos Fan
-She was 'Nuclear' on my 'Tech' until I 'New Horizons'
-Did you already automated food production?
-It's automated, not automized
-Don't forget to feed your cat!
-Minecraft loading can take a while
-World loading can take a while
-You can suggest your ideas on NTNH's GitHub repo!
-You can suggest your ideas on NTNH's Discord!
-You need help with NTM? Find SavageVegeta on YouTube!
-Do you know math? You'll need it
-2 idiots 1 reactor
-Night is REALLY scary!
-OMGWTF NUCLEAR CREEPER
-Pain-In-The-Ass modpack!
-Hello Mellow!
-Hello HBMTheBobcat!
-Hello DreamMaster!
-Hello JamesH2!
-Hello everyone!
-Explore structures like antennas for early resources  
-Build multiple furnaces to speed up alloy production  
-Sirens going UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
-Bro this RBMK is so hot... Nevermind
-Turrets are doing RATATATATATA
-Brother. The darkness is coming.
-Use HE to RF converters!
-Use RF to HE converters!
-Check the mod’s wiki for detailed information
-Experiment with machine upgrades to increase efficiency
-Account for pollution mechanics - they impact gameplay
-Control pollution to avoid problems with these cockroaches
-Use soot towers to reduce pollution
-Have fun and experiment - NTM offers endless possibilities
-Creepers are TERRIFYING in here
-Also try S.T.A.L.K.E.R. Anomaly GAMMA!
-Also try Factorio!
-Call your mom, make her happy
-NEI recipe lookup: hover + R
-Standard boilers may explode when running full.
-Fluids can be voided with a drainage pipe.
-Drainage pipe may not be too good for the environment.
-Foundry casts can be removed with a screwdriver.
-It's all about the game
-Craft flippers to swim faster.
-GregTech 6 is peak.
-Supersymmetry is peak.
-bob pls port to 1.20
-1.8.9 port is happening soon trust me guys.
-There's meteors. Build a roof. (#1)
-The blast furnace extension increases speed with the same fuel consumption. (#2)
-Don't want to use buckets for water? Use an infinite barrel instead. (#3)
-Iron furnaces are more fuel efficient, and don't burn while idle. (#4)
-Press F1 for help. (#5)
-Bricked furnaces smelt construction materials faster, like sand, stone or clay. (#6)
-Standard boilers may explode when running full. Industrial boilers will simply stop. (#7)
-Is your RBMK leaking radiation? Use cover panels. (#8)
-Flow control pumps can be used to change fluid distribution priority. (#9)
-Pneumatic pipes move items instantly, and through unloaded chunks. (#10)
-Fluids can be voided with a drainage pipe. Not too good for the environment, though. (#11)
-Fans are activated by redstone and push entities around. Ideal for tree farms. (#12)
-Don't set the microwave to the highest setting. (#13)
-Fractioning towers connect vertically, stacking them increases throughput. (#14)
-Fullerite too difficult? Make fine soot with a pyrolysis oven. (#15)
-Exploration pays off. Who knows what you'll find. (#16)
-Feeling sick? Check for nearby asbestos. (#17)
-Need a lot of fuel early on? The nether is full of flaming coal. (#18)
-Get a gun. (#19)
-Alexandrite needs explosives to be mined. (#20)
-Foundry casts can be removed with a screwdriver. (#21)
-No, you can't upgrade a damaged pickaxe. (#22)
-Using a screwdriver on a fluid burner will increase its burn rate. (#23)
-Using dye on a pylon will change the color of the connected wires. (#24)
-Capacitors are cheaper than energy storage blocks, and have faster discharging rates. (#25)
-Any foundry part can be emptied by using a shovel. This drops the contents as foundry scraps. (#26)
-Teleporters can teleport any entity, even items on a conveoyr belt. (#27)
-Some recipes require blueprints which are found in structures. You can also buy them from Bobmazon. (#28)
-It's all about the game. (#V9)
-Winter will end just the same, no matter what. (#V9)
-You know how we do it. (#V9)
-Man, I'm dead. (#328)
-We never did find the body. ( )
-Shred wheat to triple your bread. (#S1)
-how many breads have you eaten (#S2)
-The two right-hand slots of the VAB are for calculating trips FROM and TO another planet. (#S3)
-Dyson swarm units decay faster the more of them there are. (#S4)
-Clay is valuable in space! (#S5)
-Don't land at Y=63 on Moho, Laythe, or Eve! (#S6)
-An armor modification table can add a PLSS to your armor, for breathing in space. (#S7)
-Friendly fire will not be tolerated! (#S8)
-Craft flippers to swim faster. (#S9)
-Occasionally Heavy Boots are great in low gravity. (#S10)
-You can survive in as little as 0.1atm of pure O2. (#S11)
-You only need one air vent for breathing unaided. (#S12)
-CO2 scrubbers and algae films can recover O2 continuously in orbit. (#S13)
-Orbital station can't make a trip? Add more engines! (#S14)
-Don't forget to clone your orbital station drive! (#S15)
+Bonjour @Bufka2011 pourquoi avez-vous copié nos règles (GTNH) :kekwhat:
+Avez-vous déjà fabriqué un système AE2 ?
+Appuyez sur O pour masquer la superposition NEI.
+Essayez aussi GregTech: New Horizons!
+3.6 Roentgen ?
+L'usine doit grandir !
+Avez-vous essayé Schematica?
+Il y a un essaim devant !
+Méfiez-vous des glyphides
+Bombe à hydrogène VS bébé qui tousse
+Dites bonjour à DreamMaster de Bufka2011!
+Quoi ? Le Warden est-il un boss difficile ? Pfft... Vaisseau d'invasion martien
+Ce n'est pas un bug, c'est une anomalie !
+ZIRNOX fait vroum vroum
+Oh non, ZIRNOX fait BOUM !
+PotatOS est drôle :D
+Avez-vous vérifié vos paramètres graphiques ?
+Combien de mémoire RAM avez-vous ? 6 Go pour NT:NH, c'est parfait !
+Ne pas ragequit
+Historiquement exact ! Peut-être...
+Correct scientifiquement à 50% !
+Que diriez-vous de partager ce modpack avec vos amis ?
+Cette fichue météorite s'est écrasée À L'INTÉRIEUR de notre grotte !
+Youpi, la pollution ! >:D
+Oh non, la pollution. :(
+Avez-vous votre équipement de radioprotection avec vous ?
+Assurez-vous de vérifier s'il y a une nouvelle mise à jour !
+Le meilleur moyen de traiter le minerai est l'acidificateur + centrifuge
+Le minerai cristallisé vous donne 2 lingots lors de la fonte
+Les fours électriques de NTM sont très utiles !
+N'exploitez pas de charbon sans équipement de protection respiratoire
+Le plus grand fan d'amiante
+Elle était 'nucléaire' sur ma 'Tech' jusqu'à ce que je 'New Horizons'
+As-tu déjà automatisé la production de nourriture ?
+C'est automatisé, et non automisé
+N'oubliez pas de nourrir votre chat!
+Le chargement de Minecraft peut prendre un moment
+Le chargement du monde peut prendre un moment
+Vous pouvez suggérer vos idées sur le dépôt GitHub de NTNH !
+Vous pouvez suggérer vos idées sur le Discord de NTNH!
+Vous avez besoin d'aide avec NTM? Trouvez SavageVegeta sur YouTube !
+Connaissez-vous les mathématiques? Vous en aurez besoin
+2 idiots 1 réacteur
+La nuit est VRAIMENT effrayante!
+CREEPER NUCLEAR OMGWTF
+Le modpack infernal !
+Bonjour Mellow!
+Bonjour HBMLe Bobcat!
+Bonjour DreamMaster !
+Bonjour JamesH2!
+Bonjour à tous !
+Explorez des structures telles que des antennes pour obtenir des ressources dès le début.  
+Construisez plusieurs fours pour accélérer la production d'alliages.  
+Les sirènes vont UUUUUUUUUAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUU
+Bro ce RBMK est si chaud... Pas grave
+Les tourelles font RATATATATATA
+Frère. Les ténèbres arrivent.
+Utilisez des convertisseurs HE vers RF !
+Utilisez des convertisseurs RF vers HE !
+Consultez le wiki du mod pour des informations détaillées.
+Expérimentez des améliorations de machines pour accroître l'efficacité.
+Prenez en compte les mécaniques de pollution : elles ont un impact sur le gameplay.
+Contrôlez la pollution pour éviter les problèmes liés à ces cafards.
+Utilisez des tours de captage des suies pour réduire la pollution.
+Amusez-vous et expérimentez : le NTM offre des possibilités infinies.
+Les Creepers sont terrifiants ici.
+Essayez aussi S.T.A.L.K.E.R. Anomalie GAMMA !
+Essayez aussi Factorio !
+Appelle ta mère, fais-lui plaisir.
+Recherche de recettes NEI : survolez + R
+Les chaudières standard peuvent exploser lorsqu'elles fonctionnent à pleine capacité.
+Les fluides peuvent être évacués à l'aide d'un tuyau de drainage.
+Un tuyau d'évacuation n'est pas la meilleure chose pour l'environnement.
+Les pièces de fonderie peuvent être retirées à l'aide d'un tournevis.
+Tout tourne autour du jeu.
+Fabriquez des palmes pour nager plus vite.
+GregTech 6, c'est le summum.
+La supersymétrie, c'est le summum.
+Bob, s'il te plaît, apporte le mod en 1.20.
+La mise à jour vers la version 1.8.9 arrive bientôt, croyez-moi.
+
+Il y a des météores. Construisez un toit. (#1)
+Vous ne voulez pas utiliser de seaux pour l'eau ? Utilisez plutôt un canon infini. (#3)
+Les fours en fer sont plus économes en combustible et ne consomment pas lorsqu'ils sont inactifs. (#4)
+Appuyez sur F1 pour obtenir de l'aide. (#5)
+Les fours en briques font fondre plus rapidement les matériaux de construction, tels que le sable, la pierre ou l'argile. (#6)
+Les chaudières standard peuvent exploser lorsqu'elles fonctionnent à pleine capacité. Les chaudières industrielles s'arrêteront tout simplement. (#7)
+Votre RBMK laisse-t-il échapper des radiations ? Utilisez des panneaux de finition. (#8)
+Des pompes à débit régulé peuvent être utilisées pour modifier la priorité de distribution du fluide. (#9)
+Les tuyaux pneumatiques transportent les objets instantanément, y compris à travers les zones (chunks) non chargées. (#10)
+Les fluides peuvent être évacués à l'aide d'un tuyau de drainage. Ce n'est pas terrible pour l'environnement, en revanche. (#11)
+Les ventilateurs sont activés par la redstone et propulsent les entités. Idéal pour les fermes d'arbres. (#12)
+Ne mettez pas le micro-ondes à la valeur la plus haute. (#13)
+Les tours de fractionnement se connectent verticalement, les empiler augmente le débit. (#14)
+La fullérite, trop difficile ? Produisez de la suie fine à l'aide d'un four à pyrolyse. (#15)
+L'exploration porte ses fruits. Qui sait ce que vous trouverez. (#16)
+Vous vous sentez mal ? Vérifiez la présence d'amiante à proximité. (#17)
+Besoin de beaucoup de carburant dès le début ? Le Nether regorge de charbon enflammé. (#18)
+Procurez-vous une arme à feu. (#19)
+L'extraction de l'alexandrite nécessite des explosifs. (#20)
+Les pièces de fonderie peuvent être retirées à l'aide d'un tournevis. (#21)
+Non, vous ne pouvez pas améliorer une pioche endommagée. (#22)
+L'utilisation d'un tournevis sur un brûleur à combustible augmentera sa vitesse de combustion. (#23)
+L'utilisation de colorant sur un pylône modifiera la couleur des câbles qui y sont reliés. (#24)
+Les condensateurs sont moins coûteux que les blocs de stockage d'énergie et présentent des vitesses de décharge plus élevées. (#25)
+N'importe quelle pièce de fonderie peut être vidée en utilisant une pelle. Cela dépose le contenu sous forme de morceaux de fonderie. (#26)
+Les téléporteurs peuvent téléporter n'importe quelle entité, même les items sur un tapis roulant. (#27)
+Certaines recettes requièrent des plans qui se trouvent dans des structures. Vous pouvez également les acheter à Bobmazon. (#28)
+C'est tout à propos du jeu. (#V9)
+L'hiver se terminera exactement de la même manière, quoi qu'il arrive. (#V9)
+Vous savez ce que nous faisons. (#V9)
+Mec, je suis mort. (#328)
+Nous n'avons jamais trouvé le corps. ( )
+Broie du blé pour tripler ton pain. (#S1)
+Combien de pains avez-vous mangés (#S2)
+Les deux emplacements de droite du VAB servent à calculer les trajets depuis et vers une autre planète. (#S3)
+Les unités de la nuée de Dyson se dégradent plus rapidement à mesure que leur nombre augmente. (#S4)
+L'argile est précieuse dans l'espace ! (#S5)
+N'atterrissez pas à Y=63 sur Moho, Laythe ou Ève ! (#S6)
+Une table de modification d'armure peut ajouter une PLSS à votre armure, pour respirer dans l'espace. (#S7)
+Le feu allié ne sera pas toléré! (#S8)
+Fabriquez des palmes pour nager plus vite. (#S9)
+Les Bottes lourdes sont parfois excellentes en faible gravité. (#S10)
+Tu peux survivre avec seulement 0.1 atm d'O2 pur. (#S11)
+Il suffit d'une seule prise d'air pour respirer sans assistance. (#S12)
+Les épurateurs de CO2 et les films d'algues peuvent régénérer de l'O2 en continu en orbite. (#S13)
+Ta station orbitale ne peut pas faire de trajet ? Ajoutez plus de moteurs ! (#S14)
+N'oubliez pas de cloner le disque de votre station orbitale ! (#S15)
 wi wi wi. (#???)

@@ -25,7 +25,7 @@
         "id:8": "minecraft:stick"
       },
       "countAsQuest:1": 1,
-      "desc:8": "The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r. \n\n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.",
+      "desc:8": "The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r and §6DFC§r.\n\n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
