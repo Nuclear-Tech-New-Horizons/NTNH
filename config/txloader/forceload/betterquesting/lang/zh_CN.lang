@@ -1111,7 +1111,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=粒子是制造特殊材料所�
 
 # Quest: Quantum Computer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=量子计算机
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=§6量子计算机§r是目前所有控制单元中功能最强大的一个，它被用于制造§6Gerald建筑机器人§r和§3DFC反应堆§r组件。
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r and §6DFC§r.%n%n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.
 
 # Quest: Solid State Quantum Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=固态量子处理器
@@ -1733,3 +1733,7 @@ betterquesting.quest.qxRS5162RCW1IG--2Ibg7g.desc=While the §6Quest Book§r trie
 # Quest: Additional Fluid Tools
 betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=流体工具
 betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=§6虹吸管§r是一种用于从机器中抽取流体的工具。潜行右键点击那些输入槽中有流体的机器，可以将流体倒入转移至你物品栏内相应的的通用流体罐、流体桶或移液管中（当然，前提是所抽取的流体量不足以填满这些容器）。%n%n而§6移液管§r则可用于精确地注入特定量的流体。通过右键点击或按住Shift键后右键点击，可以增加或减少注入流体的量。
+
+# Quest: Brine Processing
+betterquesting.quest.yi8dF0M0QNC7loTi7LDKDw.name=Brine Processing
+betterquesting.quest.yi8dF0M0QNC7loTi7LDKDw.desc=§bBrine§r, which is found in deposits similar to oil ones on earth, can be processed to obtain materials such as §6Nickel§r, §6Copper§r and §6Sulfur§r, and fluids such as §bHydrogen§r and §bOxygen§r.
