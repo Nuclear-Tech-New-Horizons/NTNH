@@ -47,3 +47,10 @@ config/minemoticon/emoji_data.json
 
 config/CustomOreGen/CustomOreGen_Config_Default.xml
 config/CustomOreGen/modules/
+
+falsepattern/fplib_deploader.jar
+
+gource.mp4
+mods/.index
+
+mods/World-Stripper*.jar
