@@ -11,7 +11,7 @@ jobs:
     if: |
       github.event.issue.state_reason == 'completed' &&
       contains(toJson(github.event.issue.labels), 'Type: Unofficial Server')
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
       - name: Parse issue and update servers.json
