@@ -1735,5 +1735,5 @@ betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.name=Дополнительные ж
 betterquesting.quest.dIUUo_wJTR6juTJGlEfuBQ.desc=§6Сифон§r это инструмент, используемый для извлечения входных жидкостей из механизма. При нажатии правой кнопкой мыши на механизм, содержащий жидкость во входных резервуарах, будут наполнены любые бочки для жидкостей, универсальные резервуары или пипетки (если объёма жидкости недостаточно для наполнения ни одного из предыдущих вариантов).%n%n§6Пипетку§r можно использовать для ввода определённого количества жидкостей. Нажатие правой кнопкой мыши или правой кнопкой с зажатой клавишей Shift увеличит или уменьшит количество жидкости.
 
 # Quest: Brine Processing
-betterquesting.quest.yi8dF0M0QNC7loTi7LDKDw.name=Brine Processing
-betterquesting.quest.yi8dF0M0QNC7loTi7LDKDw.desc=§bBrine§r, which is found in deposits similar to oil ones on earth, can be processed to obtain materials such as §6Nickel§r, §6Copper§r and §6Sulfur§r, and fluids such as §bHydrogen§r and §bOxygen§r.
+betterquesting.quest.yi8dF0M0QNC7loTi7LDKDw.name=Переработка рассола
+betterquesting.quest.yi8dF0M0QNC7loTi7LDKDw.desc=§bРассол§r, который находится в месторождениях, похожих на нефтяные на Земле, можно перерабатывать для получения таких материалов, как §6Никель§r, §6Медь§r и §6Сера§r, а также жидкостей, таких как §bВодород§r и §bКислород§r.
