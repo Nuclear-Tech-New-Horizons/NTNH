@@ -1111,7 +1111,7 @@ betterquesting.quest.AAAAAAAAAAAAAAAAAAAA8A.desc=Частицы являются
 
 # Quest: Quantum Computer
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.name=Квантовый компьютер
-betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=The §6Quantum Computer§r is the most powerful out of any other control unit. It currently only used to build §6Gerald§r and §6DFC§r.%n%n§2A whole stack of them will be required, so now would be the time to upgrade circuit crafting infrastructure.
+betterquesting.quest.AAAAAAAAAAAAAAAAAAAAFg.desc=§6Квантовый компьютер§r самый мощный из всех управляющих устройств. В настоящее время он используется только для создания§6Геральда§r и §6РТС§r.%n%n§2Потребуется целый стак таких устройств, так что сейчас самое время улучшить инфраструктуру для создания.
 
 # Quest: Solid State Quantum Processor
 betterquesting.quest.AAAAAAAAAAAAAAAAAAAAGA.name=Твердотельный квантовый процессор
